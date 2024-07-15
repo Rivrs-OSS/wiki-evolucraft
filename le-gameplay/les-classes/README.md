@@ -8,13 +8,13 @@ description: Retrouvez ici toutes les informations concernant les classes
 **Tuto : Les Nouveautés MMO/RPG d'Evolucraft**
 {% endembed %}
 
-<figure><img src="../.gitbook/assets/Classe.gif" alt=""><figcaption><p><strong>Compétence de Classe</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Classe.gif" alt=""><figcaption><p><strong>Compétence de Classe</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Informations Générales</mark>
 
 Sur le serveur Evolucraft, il existe <mark style="color:green;">**14 classes**</mark> distinctes :
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Classes Communes</mark>
 
@@ -65,7 +65,7 @@ En plus de ces bonus, les classes ont une progression basée sur leur rareté. P
 
 Les <mark style="color:green;">**compétences**</mark> varient également selon les classes, elles sont disponibles dans le menu de votre classe.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p><strong>Aperçu des Statistiques de Classe</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p><strong>Aperçu des Statistiques de Classe</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Déblocage des Classes</mark>
 

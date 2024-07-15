@@ -11,7 +11,8 @@
 ## LE GAMEPLAY
 
 * [🌍 Mondes](le-gameplay/mondes.md)
-* [⚔️ Les Classes](le-gameplay/les-classes.md)
+* [⚔️ Les Classes](le-gameplay/les-classes/README.md)
+  * [🏹 Archer](le-gameplay/les-classes/archer.md)
 * [🏛️ Les Donjons](le-gameplay/les-donjons.md)
 * [💰 Le Commerce](le-gameplay/le-commerce.md)
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
