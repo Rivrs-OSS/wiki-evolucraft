@@ -14,7 +14,7 @@
 * [⚔️ Les Classes](le-gameplay/les-classes/README.md)
   * [⚔️ Guerrier](le-gameplay/les-classes/guerrier.md)
   * [🏹 Archer](le-gameplay/les-classes/archer.md)
-  * [🔮 Mage](le-gameplay/les-classes/mage.md)
+  * [🧙‍♂️ Mage](le-gameplay/les-classes/mage.md)
   * [🎼 Barde](le-gameplay/les-classes/barde.md)
   * [🗡️ Assassin](le-gameplay/les-classes/assassin.md)
   * [🛡️ Paladin](le-gameplay/les-classes/paladin.md)
