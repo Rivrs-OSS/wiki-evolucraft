@@ -24,7 +24,7 @@ Vos attaques ont 15% de chances de faire saigner la cible.
 * <mark style="color:yellow;">**Mana**</mark>: 0
 * <mark style="color:yellow;">**Dégâts**</mark>: 4.5
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 11.5 : Dash**</mark>
+### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 10 : Dash**</mark>
 
 Foncez à travers vos ennemis et faites de lourds dégâts tout au long de votre déplacement.
 
