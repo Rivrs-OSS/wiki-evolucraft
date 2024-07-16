@@ -138,26 +138,26 @@ La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:gr
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Abyssal</strong></p></figcaption></figure>
 
-| **Récompense**                                                      | **Chance**                                 |
-| ------------------------------------------------------------------- | ------------------------------------------ |
-| <mark style="color:blue;">**Casque Abyssal**</mark>                 | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Plastron Abyssal**</mark>               | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Pantalon Abyssal**</mark>               | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Bottes Abyssales**</mark>               | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Houe Abyssale**</mark>                  | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Oeuf de Familier**</mark>               | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Cosmétique Aléatoire**</mark>           | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Pack de Décorations Aléatoire**</mark>  | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**1.500.000**</mark>**💰**                | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Spawner Aléatoire**</mark>              | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Booster Aléatoire**</mark> (100%) (1h)  | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:red;">**Parchemin d'Aventure Impossible**</mark> | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:purple;">**Bonbon au Raisin**</mark> (x4)        | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Clé Abyssale**</mark> (x2)              | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Arme Aléatoire**</mark>                 | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:green;">**Carte du Barde**</mark> (x40)          | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:purple;">**Carte de l'Artificier**</mark>        | <mark style="color:blue;">**5,55%**</mark> |
-| <mark style="color:blue;">**Pierre de Téléportation**</mark>        | <mark style="color:blue;">**5,55%**</mark> |
+| **Récompense**                                                      | **Chance**                                   |
+| ------------------------------------------------------------------- | -------------------------------------------- |
+| <mark style="color:blue;">**Casque Abyssal**</mark>                 | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Plastron Abyssal**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Pantalon Abyssal**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Bottes Abyssales**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Houe Abyssale**</mark>                  | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Oeuf de Familier**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Cosmétique Aléatoire**</mark>           | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Pack de Décorations Aléatoire**</mark>  | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**1.500.000**</mark>**💰**                | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Spawner Aléatoire**</mark>              | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Booster Aléatoire**</mark> (100%) (1h)  | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:red;">**Parchemin d'Aventure Impossible**</mark> | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:purple;">**Bonbon au Raisin**</mark> (x4)        | <mark style="color:purple;">**5,55%**</mark> |
+| <mark style="color:blue;">**Clé Abyssale**</mark> (x2)              | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Arme Aléatoire**</mark>                 | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:green;">**Carte du Barde**</mark> (x40)          | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:purple;">**Carte de l'Artificier**</mark>        | <mark style="color:purple;">**5,55%**</mark> |
+| <mark style="color:blue;">**Pierre de Téléportation**</mark>        | <mark style="color:blue;">**5,55%**</mark>   |
 
 ## <mark style="color:orange;">Caisse Draconique</mark>
 
@@ -176,15 +176,15 @@ La clé de la Caisse Draconique n'est plus disponible.&#x20;
 | <mark style="color:orange;">**Seau d'eau Infini**</mark>             | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:orange;">**Oeuf de Familier**</mark>              | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:orange;">**Cosmétique Aléatoire**</mark>          | <mark style="color:orange;">**5,55%**</mark> |
-| **1.000.000**<mark style="color:orange;">**💰**</mark>               | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**1.000.000💰**</mark>                   | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:orange;">**Spawner Aléatoire**</mark>             | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:orange;">**Booster Aléatoire**</mark> (100%) (1h) | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:blue;">**Carte du Moine**</mark>                  | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:purple;">**Carte de l'Artiste Martial**</mark>    | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:purple;">**Carte du Guerrier Dragon**</mark>      | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:blue;">**Carte du Moine**</mark>                  | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:purple;">**Carte de l'Artiste Martial**</mark>    | <mark style="color:purple;">**5,55%**</mark> |
+| <mark style="color:purple;">**Carte du Guerrier Dragon**</mark>      | <mark style="color:purple;">**5,55%**</mark> |
 | <mark style="color:orange;">**Pierre de Téléportation**</mark>       | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:red;">**Parchemin d'Aventure Impossible**</mark>  | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:purple;">**Bonbon au Raisin**</mark> (x4)         | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:red;">**Parchemin d'Aventure Impossible**</mark>  | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:purple;">**Bonbon au Raisin**</mark> (x4)         | <mark style="color:purple;">**5,55%**</mark> |
 | <mark style="color:orange;">**Clé Draconique**</mark> (x2)           | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:orange;">**Armes Aléatoire**</mark>               | <mark style="color:orange;">**5,55%**</mark> |
 
