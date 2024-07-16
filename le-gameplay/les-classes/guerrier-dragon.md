@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant la classe Guerrier
 
 Maîtrisez la puissance draconique pour dominer le champ de bataille, infligeant des dégâts impressionnants tout en renforçant votre défense et vos compétences spéciales.
 
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Guerrier Dragon</strong></p></figcaption></figure>
+
 ## <mark style="color:purple;">Compétences</mark>
 
 ### <mark style="color:purple;">N</mark><mark style="color:purple;">**iveau 1 : Coupe du dragon**</mark>

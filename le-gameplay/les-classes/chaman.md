@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant la classe Chaman
 
 Manipulez la lumière et les éléments pour soigner, attaquer et soutenir vos alliés avec des compétences sacrées et des totems magiques.
 
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Chaman</strong></p></figcaption></figure>
+
 ## <mark style="color:blue;">Compétences</mark>
 
 ### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 1 : Faisceau lumineux**</mark>

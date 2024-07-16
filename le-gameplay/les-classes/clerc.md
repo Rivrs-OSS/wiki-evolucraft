@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant la classe Clerc
 
 Maîtrisez les arts sacrés pour soutenir vos alliés et infliger des dégâts divins à vos ennemis, utilisant la lumière et la guérison pour guider votre équipe vers la victoire.
 
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Clerc</strong></p></figcaption></figure>
+
 ## <mark style="color:purple;">Compétences</mark>
 
 ### <mark style="color:purple;">N</mark><mark style="color:purple;">**iveau 1 : L'immolation divine**</mark>

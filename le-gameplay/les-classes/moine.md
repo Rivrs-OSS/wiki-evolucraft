@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant la classe Moine
 
 Maîtrisez les arts martiaux spirituels pour infliger des dégâts rapides et soigner vos alliés, tout en manipulant l'énergie du chi pour des attaques dévastatrices et des protections renforcées.
 
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Moine</strong></p></figcaption></figure>
+
 ## <mark style="color:blue;">Compétences</mark>
 
 ### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 1 : Frappes rapides**</mark>

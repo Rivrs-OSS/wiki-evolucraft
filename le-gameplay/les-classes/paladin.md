@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant la classe Paladin
 
 L'art de la divinité et de la défense. Utilisez des attaques puissantes et des compétences saintes pour protéger vos alliés et repousser les ennemis.
 
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Paladin</strong></p></figcaption></figure>
+
 ## <mark style="color:yellow;">Compétences</mark>
 
 ### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 1 : Frappe sacrée**</mark>

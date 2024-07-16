@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant la classe Barde
 
 Le Barde est une classe polyvalente qui utilise la musique pour soutenir ses alliés et entraver ses ennemis. Maître des mélodies enchantées, le Barde peut soigner, renforcer et infliger des effets débilitants avec ses chansons.
 
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Barde</strong></p></figcaption></figure>
+
 ## <mark style="color:green;">Compétences</mark>
 
 ### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 1 : Onde Mélodieuse**</mark>

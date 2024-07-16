@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant la classe Élémen
 
 Maîtrisez les éléments pour manipuler le terrain et infliger des dégâts dévastateurs. Contrôlez le pouvoir des éléments pour submerger vos ennemis et soutenir vos alliés.
 
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Élémentaliste</strong></p></figcaption></figure>
+
 ## <mark style="color:yellow;">Compétences</mark>&#x20;
 
 ### <mark style="color:yellow;">Niveau</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**1 : Lancer de Terre**</mark>
