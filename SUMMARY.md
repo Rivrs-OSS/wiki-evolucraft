@@ -12,7 +12,9 @@
 
 * [🌍 Mondes](le-gameplay/mondes.md)
 * [⚔️ Les Classes](le-gameplay/les-classes/README.md)
+  * [⚔️ Guerrier](le-gameplay/les-classes/guerrier.md)
   * [🏹 Archer](le-gameplay/les-classes/archer.md)
+  * [🔮 Mage](le-gameplay/les-classes/mage.md)
 * [🏛️ Les Donjons](le-gameplay/les-donjons.md)
 * [💰 Le Commerce](le-gameplay/le-commerce.md)
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
