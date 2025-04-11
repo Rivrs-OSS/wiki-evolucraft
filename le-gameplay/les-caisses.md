@@ -282,8 +282,8 @@ La clé de la Caisse Noël n'est plus disponible.
 
 ## <mark style="color:green;">Caisse Saint-Patrick</mark> (Temporaire)
 
-{% hint style="success" %}
-La clé est actuellement disponible (/boutique).
+{% hint style="warning" %}
+La clé de la Caisse Saint-Patrick n'est plus disponible.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Box_SaintPatrick.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Patrick</p></figcaption></figure>
