@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes les informations concernant la classe Archimage
 ---
 
-# <!-- Il faudrait trouver un émoji --> Archimage
+# 📖 Archimage
 
 L'Archimage est une classe spécialisée dans les attaques à mi-distance. Grâce au pouvoir des arcanes, l'Archimage peut terrasser ses ennemis ou soutenir ses alliés.
 
