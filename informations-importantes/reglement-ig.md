@@ -34,10 +34,11 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
-* Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon...) ne doit apparaître **qu’une seule fois** dans le menu des pubs, et doit obligatoirement être réalisée via la commande <mark style="color:green;">**`/pub`**</mark>. Vous ne pourrez la republier **qu’après que l’ancienne soit expirée**. Dans le cas contraire, elle sera **supprimée par un membre du staff compétent**.
+Voici une version corrigée du texte :
+* Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon...) ne doit apparaître **qu’une seule fois** dans le menu des pubs et doit obligatoirement être réalisée via la commande **`/pub`**. Vous ne pourrez la republier **qu’après expiration de l’ancienne**. Dans le cas contraire, elle sera **supprimée par un membre compétent du staff**.
 
-{% hint style="info" %} 
-Cependant, vous pouvez activer le **message automatique** dans le <mark style="color:green;">**`/pub`**</mark>, puis dans "mes annonces", cliquez sur la pub en quetsion et enfin cliquez sur "message récurant" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
+{% hint style="info" %}
+Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
 {% endhint %}
 
 ### <mark style="color:green;">Article B : Un langage respectueux</mark>
