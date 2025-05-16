@@ -8,7 +8,7 @@ description: Retrouvez ici les informations concernant le donjon Halloween
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
-Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 10**</mark> dans votre classe.
+Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 20**</mark> dans votre classe.
 
 ## <mark style="color:green;">Aperçu des récompenses</mark>
 
