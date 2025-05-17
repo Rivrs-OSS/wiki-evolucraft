@@ -12,7 +12,7 @@ description: Retrouvez ici toutes les informations concernant les classes
 
 ## <mark style="color:green;">Informations Générales</mark>
 
-Sur le serveur Evolucraft, il existe <mark style="color:green;">**14 classes**</mark> distinctes :
+Sur le serveur Evolucraft, il existe <mark style="color:green;">**18 classes**</mark> distinctes :
 
 <figure><img src="../../.gitbook/assets/LesClasses_ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
 
@@ -73,7 +73,7 @@ Les <mark style="color:green;">**compétences**</mark> varient également selon 
 
 ## <mark style="color:green;">Déblocage des Classes</mark>
 
-Pour débloquer une classe, vous aurez besoin d'une carte correspondante à la classe souhaitée, trouvable dans les donjons ou obtenable via les récompenses de jobs et certaines quêtes.
+Pour débloquer une classe, vous aurez besoin d'une carte correspondante à la classe souhaitée, trouvable dans les donjons ou obtenable via les récompenses de jobs et certaines quêtes.  Une fois la classe débloquée, faites `/class` afin d’ouvrir le menu des classes.
 
 Pour augmenter les niveaux de classe, il faut tuer les monstres présents dans les donjons. Chaque monstre tué vous rapporte de l'expérience selon la rareté du donjon effectué.
 

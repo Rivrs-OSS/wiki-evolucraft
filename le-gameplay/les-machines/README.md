@@ -14,7 +14,8 @@ Sur le serveur Evolucraft, voici les machines disponibles :
 
 * Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
 * La machine à bois est récupérable à partir du niveau 40 bûcheron.
-<figure><img src="../.gitbook/assets/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la machine à bois</strong></p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la Machine à Bois </strong></p></figcaption></figure>
 
 Pour plus d'information concernant les crafts : 
 {% content-ref url="machine-à-bois.md" %}
@@ -29,21 +30,24 @@ Pour plus d'information concernant les crafts :
 * La Tailleuse en pierre est récupérable à partir du niveau 45 et 145 forgemage.
 * Les statues sont vendable au près du tailleur de pierre situé au spawn. 
 * Il existe 4 rareté de statue : commun, rare, épique et légendaire.
+
+<figure><img src="../../.gitbook/assets/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la Tailleuse de Pierre</strong></p></figcaption></figure>
+
 Pour plus d'information concernant les crafts : 
 {% content-ref url="tailleuse-de-pierre.md" %}
 [tailleuse-de-pierre.md](tailleuse-de-pierre.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la tailleuse de pierre</strong></p></figcaption></figure>
-
-<mark style="color:green;">**Forge**</mark>** :**
+### <mark style="color:green;">**Forge**</mark>**&#x20;:**
 
 * La forge est un outil puissant qui vous permettra d'améliorer les objets obtenus dans les donjons en utilisant des ressources métiers et des cristaux.&#x20;
 
 Deux fonctionnalités principales sont disponibles grâce à la forge :
 
-* <mark style="color:green;">**Création de Gemmes Métiers**</mark>** :** Ces gemmes sont disponibles en quatre raretés différentes : commune, rare, épique et légendaire. Utilisez-les pour renforcer vos équipements et les rendre encore plus puissants.
-* <mark style="color:green;">**Amélioration des Armes de Classes**</mark>** :** Utilisez la forge pour améliorer les armes spécifiques à chaque classe. Renforcez vos capacités de combat et de défense pour mieux affronter les défis qui vous attendent dans le monde d'Evolucraft.
+* <mark style="color:green;">**Création de Gemmes Métiers**</mark>**&#x20;:** Ces gemmes sont disponibles en quatre raretés différentes : commune, rare, épique et légendaire. Utilisez-les pour renforcer vos équipements et les rendre encore plus puissants.
+* <mark style="color:green;">**Amélioration des Armes de Classes**</mark>**&#x20;:** Utilisez la forge pour améliorer les armes spécifiques à chaque classe. Renforcez vos capacités de combat et de défense pour mieux affronter les défis qui vous attendent dans le monde d'Evolucraft.
+
+<figure><img src="../../.gitbook/assets/Interface_Forge.png" alt=""><figcaption><p><strong>Interface de la Forge</strong></p></figcaption></figure>
 
 Pour plus d'information concernant les crafts : 
 {% content-ref url="forge.md" %}

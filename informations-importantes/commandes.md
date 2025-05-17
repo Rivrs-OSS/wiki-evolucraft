@@ -71,7 +71,7 @@ Le reste des commandes liées au Ville est disponible dans la section [créer un
 * <mark style="color:green;">**/ah**</mark> : Ouvre le marché des joueurs.
 * <mark style="color:green;">**/ah average**</mark> _<mark style="color:green;">**(avec un item en main)**</mark>_ : Permet d'avoir une moyenne concernant le prix de vente de l'item dans votre main.
 * <mark style="color:green;">**/ah sell \[prix] \[quantité]**</mark> : Permet de vendre l'item dans votre main en définissant la quantité et le prix.
-* <mark style="color:green;">**/qsfinditems \[item]**</mark> : Liste toutes les boutiques qui vendent l'objet souhaité.
+* <mark style="color:green;">**/finditems [Acheter/Vendre] \[item]**</mark> : Liste toutes les boutiques qui achetent ou vendent l'objet souhaité.
 * <mark style="color:green;">**/sell all**</mark> : Permet de vendre tout votre inventaire.
 * <mark style="color:green;">**/sell hand**</mark> : Permet de vendre l'item que vous possédez en main.
 * <mark style="color:green;">**/ah history**</mark> : Permet d'accéder à l'historique de vos ventes et achats.
@@ -134,6 +134,12 @@ Le reste des commandes liées au Ville est disponible dans la section [créer un
 * <mark style="color:green;">**/marry decline**</mark> : Refuser une demande de mariage.
 * <mark style="color:green;">**/marry msg \[message]**</mark> : Envoyer un message privé à son partenaire.
 * <mark style="color:green;">**/marry kiss**</mark> : Embrasser son partenaire.
+
+### <mark style="color:green;">Coffre Privé</mark>
+* <mark style="color:green;">**/cadena lock**</mark> : Crée un coffre privé.
+* <mark style="color:green;">**/cadena unclock**</mark> : Supprime le cadena sur un coffre privé.
+* <mark style="color:green;">**/cadena add "pseudo"</mark> : Permet au joueur spécifier d'ouvrir le coffre privé.
+* <mark style="color:green;">**/cadena open**</mark> : Permet de gérer la liste des joueurs qui peuvent ouvrir le coffre privé.
 
 {% hint style="warning" %}
 Toutes les commandes présentes sur le serveur ne sont pas énumérées ici, mais vous pouvez retrouver l'intégralité dans la section correspondante sur le wiki.

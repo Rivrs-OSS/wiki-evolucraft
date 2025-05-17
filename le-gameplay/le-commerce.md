@@ -10,15 +10,15 @@ description: Retrouvez ici toutes les informations concernant les différents co
 
 ## <mark style="color:green;">Coffre de Vente</mark>
 
-### <mark style="color:green;">C</mark><mark style="color:green;">**réer un Coffre de Vente dans votre Ville**</mark>
+### <mark style="color:green;"></mark><mark style="color:green;">**Créer un Coffre de Vente dans votre Ville**</mark>
 
 Si vous souhaitez vendre des items dans votre ville, suivez ces étapes simples pour créer un coffre de vente : &#x20;
 
 <mark style="color:green;">**Placez un Coffre**</mark>**&#x20;:** Posez un coffre dans votre ville à l'emplacement souhaité.
 
-<mark style="color:green;">**Sélectionnez l'Item à Vendre**</mark>**&#x20;:** Tenez l'item que vous souhaitez vendre dans votre main.
+<mark style="color:green;">**Sélectionnez l'Item à Vendre**</mark>**&#x20;:** Tenez l'item que vous souhaitez vendre dans votre main. 
 
-<mark style="color:green;">**Clic Gauche sur le Coffre**</mark>**&#x20;:** Cliquez gauche sur le coffre que vous avez placé.
+<mark style="color:green;">**Clic Gauche sur le Coffre**</mark>**&#x20;:** Cliquez gauche sur le coffre que vous avez placé. Pour les items qui ce consomme avec un clique gauche, faite `/qs create` en regardant le coffre
 
 <mark style="color:green;">**Choisissez le Prix**</mark>**&#x20;:** Dans le chat, on vous demandera de spécifier le prix en monnaie pour l'item que vous souhaitez vendre.
 
@@ -31,6 +31,8 @@ En suivant ces étapes, vous pouvez établir un système de vente dans votre vil
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p><strong>Aperçu d'un Clic Droit sur le Coffre de Vente</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Hôtel des Ventes</mark>
+
+### Présentation de l'hôtel de vente
 
 Pour ce qui est des Objets Customs du serveur, ils peuvent être achetés et vendus via l'interface de l'Hôtel des Ventes. Cette interface est divisée en plusieurs sections :
 
@@ -46,22 +48,35 @@ Les deux boutons en bas de l'interface permettent aux joueurs de gérer leurs ve
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p><strong>Menu</strong> <strong><code>/ah</code></strong></p></figcaption></figure>
 
-{% hint style="info" %}
-Pour récupérer vos objets acheter au /ah, il vous suffit de faire la commande /ah claim
+### Commande de l'hôtel de vente
+
+{% hint style="warning" %}
+`[...]` Signifie que le paramètre est obligatoire
+
+`<...>` Signifie que vous pouvez mettre une chaine de caractères avec des espaces
+
+`{...}` Signifie que le paramètre est optionnel
 {% endhint %}
+
+* <mark style="color:green;">**`/ah sell [prix]`**</mark> : Vend l'objet dans votre main a l'hôtel de vente.
+* <mark style="color:green;">**`/ah average`**</mark> : Donne le prix moyen de l'objet dans votre main.
+* <mark style="color:green;">**`/ah search {paramètre:nom du paramètre}`**</mark> : Permet de rechercher un objet spécifique a l'hôtel des ventes.
+* <mark style="color:green;">**`/ah claim`**</mark> : Ouvre l'interface de récupération des objets acheter a l'hôtel des ventes.
+* <mark style="color:green;">**`/ah history`**</mark> : Ouvre l'historique de vos ventes / achats dans l'hôtel des ventes.
+* <mark style="color:green;">**`/ah viewmine`**</mark> : Affiche vos objets mis en vente dans l'hôtel des ventes.
 
 ## <mark style="color:green;">Shop Général</mark>
 
-Sur Evolucraft, vous pouvez accéder facilement au marché du spawn en utilisant la commande <mark style="color:green;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre vos matériaux à des PNJ. Cependant, gardez à l'esprit que la rentabilité est assez faible. Notez également que vous ne pouvez pas acheter d'objets dans ce shop.
+Sur Evolucraft, vous pouvez accéder facilement au marché du spawn en utilisant la commande <mark style="color:green;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre vos matériaux à des PNJ. Cependant, gardez à l'esprit que la rentabilité est assez faible.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>Aperçu des acheteurs</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>Aperçu des commerçant</strong></p></figcaption></figure>
 
 Ces acheteurs sont spécialisés dans l'achat de différentes catégories de produits :
 
 * Acheteur de <mark style="color:green;">**minerais**</mark>: Ressources minérales comme le fer, l'or, le diamant, etc.
 * Acheteur d'<mark style="color:green;">**insectes**</mark>: Répertorie tous les insectes capturables dans le Parc d'Aurora
 * Acheteur de <mark style="color:green;">**blocs**</mark>: Différents types de blocs pour la construction et la décoration.
-* Acheteur d'<mark style="color:green;">**objets utilitaires**</mark>: Composants Redstone pour créer des mécanismes.
+* Vendeur d'<mark style="color:green;">**objets utilitaires**</mark>: Composants Redstone pour créer des mécanismes.
 * Acheteur de <mark style="color:green;">**cultures**</mark>: Articles liés à l'agriculture tels que les plantes et les produits agricoles.
 * Acheteur de <mark style="color:green;">**loots**</mark>: Objets obtenus en tuant des créatures.
 
@@ -73,6 +88,10 @@ Les joueurs peuvent également effectuer des échanges directs entre eux via la 
 
 * Les enchères sont une activité quotidienne disponible à 19H, offrant aux joueurs la possibilité de remporter des items uniques via une interface d'enchères.
 * Pour limiter la rareté des items, il y aura 5 articles disponibles à l'enchère chaque jour, comprenant des cosmétiques, des items de rankup, des outils évolutifs, des spawners, des parchemins, des elytras et des grappins.
+
+{% hint style="info" %}
+Pour récupérer vos objets acheter au enchère, faite `/enchereclaim` au spawn
+{% endhint %}
 
 ## <mark style="color:green;">Publicité</mark>
 

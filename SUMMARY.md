@@ -48,7 +48,7 @@
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
 * [📜 Les Quêtes](le-gameplay/les-quetes.md)
 * [🥚 Les Compagnons](le-gameplay/les-compagnons.md)
-* [⚒️ Les Machines](le-gameplay/les-machines.md)
+* [⚒️ Les Machines](le-gameplay/les-machines/README.md)
 * [🎪 Les Événements](le-gameplay/les-evenements.md)
 * [🔝 Pass](le-gameplay/pass.md)
 * [👑 Les Rangs](le-gameplay/les-rangs.md)

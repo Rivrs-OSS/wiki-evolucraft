@@ -24,7 +24,7 @@ Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit :
 |                                                                                   |
 |:---------------------------------------------------------------------------------:|
 | <mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark>         |
-| <mark style="color:purple;"><strong>Parchemin Expert</strong></mark>              |
+| <mark style="color:blue;"><strong>Parchemin Difficile</strong></mark>              |
 | <mark style="color:blue;"><strong>50.000 💰</strong></mark>                       |
 | <mark style="color:blue;"><strong>100.000 💰</strong></mark>                      |
 | <mark style="color:blue;"><strong>250.000 💰</strong></mark>                      |

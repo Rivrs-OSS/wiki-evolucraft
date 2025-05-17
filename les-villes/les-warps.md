@@ -25,11 +25,18 @@ Ces warps peuvent être utilisés pour se déplacer rapidement à travers le mon
 ## <mark style="color:green;">Commandes de PlayerWarp</mark>&#x20;
 
 ### <mark style="color:green;">Warps Personnels</mark>&#x20;
-
-* <mark style="color:green;">**`/pwarps create [...]`**</mark> : Crée un nouveau warp personnel avec le nom spécifié.
-* <mark style="color:green;">**`/pwarps delete [...]`**</mark> : Supprime le warp personnel spécifié.
-* <mark style="color:green;">**`/pwarps list`**</mark> : Affiche la liste de vos warps personnels.
-* <mark style="color:green;">**`/pwarps teleport [...]`**</mark> : Se téléporte au warp personnel spécifié.
+<!-- Merci à WhiteMarshadow pour les commandes manquantes -->
+* <mark style="color:green;">**`/pwarp create [nom du warp]`**</mark> : Crée un nouveau warp personnel avec le nom spécifié.
+* <mark style="color:green;">**`/pwarp delete [nom du warp]`**</mark> : Supprime le warp personnel spécifié.
+* <mark style="color:green;">**`/pwarp list`**</mark> : Affiche la liste de vos warps personnels.
+* <mark style="color:green;">**`/pw setowner set [nom du warp] [nom du joueur]`**</mark>  : envoyer une demande a un joueur de devenir le chef du warp
+* <mark style="color:green;">**`/pw setowner accept [nom du warp]`**</mark>  : accepter la demande de devenir chef d’un warp
+* <mark style="color:green;">**`/pw setowner cancel [nom du warp]`**</mark>  : refuser la demande de devenir chef d’un warp
+* <mark style="color:green;">**`/pw cost remove`**</mark>  : met le prix de teleportation au warp à 0
+* <mark style="color:green;">**`/pw cost set [prix] [nom du warp]`**</mark>  : mettre un prix à la teleportation au warp (max 500$)
+* <mark style="color:green;">**`/pw ban set [nom du pw] [nom du joueur]`**</mark>  : bannir un joueur du pw
+* <mark style="color:green;">**`/pw ban list [nom du pw]`**</mark>  : afficher la liste des joueurs bannis du pw
+* <mark style="color:green;">**`/pw ban remove [nom du pw] [nom du joueur]`**</mark>  : dé-bannir un joueur du pw
 
 ### <mark style="color:green;">Warps Publics</mark>
 

@@ -152,7 +152,7 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:orange;">Arme 2 Rare</mark></td>
-      <td align="center"><mark style="color:red;">Bonbon au Raisin (x2)</mark></td>
+      <td align="center"><mark style="color:purple;">Bonbon au Raisin (x2)</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
