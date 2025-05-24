@@ -24,7 +24,7 @@ Ensuite, pour accéder <mark style="color:green;">**au menu de l'ase**</mark>, f
 Assurez-vous d’avoir les <mark style="color:green;">**permissions d’édition des porte-armures**</mark> dans votre rôle en regardant dans le `/v > rôle > "votre rôle" > paramètres d’action > page 2 > Édition de porte-armure`.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Tuto-Astuce-AseMenu.png" alt=""><figcaption><p><strong>Aperçu du menu</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto-Astuce-AseMenu.png" alt=""><figcaption><p><strong>Aperçu du menu</strong></p></figcaption></figure>
 
 ## Que peut-on faire avec le `/ase` ? 🔎
 
@@ -63,7 +63,7 @@ Pour modifier la position des différentes parties du porte-armure, la méthode 
 
 * <mark style="color:green;">Étape 1️⃣</mark> : Dans le menu `/ase`, cliquez sur <mark style="color:green;">**la partie du corps**</mark> à modifier :
 
-<figure><img src="../.gitbook/assets/Tuto-Astuce-AseMembre.png" alt=""><figcaption><p><strong>Aperçu des membres et de sa correspondance</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto-Astuce-AseMembre.png" alt=""><figcaption><p><strong>Aperçu des membres et de sa correspondance</strong></p></figcaption></figure>
 
 * <mark style="color:green;">Étape 2️⃣</mark> : Comme pour le déplacement d'un armor stand, sélectionnez la puissance du mouvement entre <mark style="color:green;">un gros déplacement</mark> (*terre stérile/coarse dirt*) ou <mark style="color:green;">un petit déplacement</mark> (*grès lisse/smooth sandstone*).
 * <mark style="color:green;">Étape 3️⃣</mark> : Choisissez <mark style="color:green;">l'axe</mark> dans lequel vous voulez positionner la partie déplacée : <mark style="color:red;">X en rouge</mark>, <mark style="color:green;">Y en vert</mark> et <mark style="color:blue;">Z en bleu</mark>.
@@ -84,7 +84,7 @@ Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnalis
 - Mettre le texte en <mark style="color:green;">**gras**</mark>, en <mark style="color:green;">**italique**</mark>, le <mark style="color:green;">**souligner**</mark> ou le <mark style="color:green;">**rayer**</mark>.
 - Vous pouvez même appliquer un <mark style="color:green;">**effet “glitch”**</mark> pour un rendu original et dynamique.
 
-<figure><img src="../.gitbook/assets/Tuto-Astuce-AseCouleurs.png" alt=""><figcaption><p><strong>Aperçu des tags des couleurs et des formats</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto-Astuce-AseCouleurs.png" alt=""><figcaption><p><strong>Aperçu des tags des couleurs et des formats</strong></p></figcaption></figure>
 
 ###### Image créer par Minecraft.fr
 

@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes les informations concernant la machine à bois
 ---
 
-# 🪚 Machine à bois
+# 🪚 Machine à Bois
 
 
 ## Tableau récapitulatif
