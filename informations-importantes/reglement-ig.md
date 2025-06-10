@@ -79,7 +79,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * Il est interdit de voler des farms aux autres joueurs sans leur accord.
 * Il est interdit d'utiliser une machine à pêche ou de farmer avec un véhicule (bateau, wagon, etc).
 * La vente d’items en jeu contre l’argent réel est interdite.
-* La vente de cosmétiques, d’items de quête, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
+* La vente de cosmétiques, d’items de quête, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus.
 
 {% hint style="warning" %}
@@ -173,6 +173,8 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 
 ### <mark style="color:green;">Article I : Les donjons</mark>
 
+* Il est interdit de rentrer dans un donjon, sans l'accord préalable du créateur de la pub.
+* Il est interdit de téléporter des joueurs devant un donjon, sans l'accord du possesseur du donjon.
 * Toute tentative de usebug, sortie de map ou autres lors des donjons est interdite.
 * Il est interdit de rester AFK dans les donjons.
 * Quitter un donjon volontairement, sans raison valable, est sanctionnable.
