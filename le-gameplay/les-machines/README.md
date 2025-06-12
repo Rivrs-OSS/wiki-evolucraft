@@ -18,7 +18,7 @@ Sur le serveur Evolucraft, voici les machines disponibles :
 <figure><img src="../../.gitbook/assets/Les_Machines/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la Machine à Bois </strong></p></figcaption></figure>
 
 Pour plus d'information concernant les crafts : 
-{% content-ref url="les-sous-zones.md" %} machine-à-bois.md {% endcontent-ref %}
+{% content-ref url="machine-à-bois.md" %} machine-à-bois.md {% endcontent-ref %}
 
 ### <mark style="color:green;">**Tailleuse de pierre**</mark>**&#x20;:**
 
