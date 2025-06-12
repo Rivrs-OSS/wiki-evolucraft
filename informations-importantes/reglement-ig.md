@@ -177,7 +177,7 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 * Il est interdit de téléporter des joueurs devant un donjon, sans l'accord du possesseur du donjon.
 * Toute tentative de usebug, sortie de map ou autres lors des donjons est interdite.
 * Il est interdit de rester AFK dans les donjons.
-* Quitter un donjon volontairement, sans raison valable, est sanctionnable.
+* Quitter un donjon volontairement, sans raison valable, est sanctionnable, hormis si vous êtes le dernier joueur en vie dans le donjon.
 
 ### <mark style="color:green;">Article J : Les remboursements</mark>
 
