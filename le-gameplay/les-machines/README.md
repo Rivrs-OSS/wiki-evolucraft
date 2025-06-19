@@ -4,52 +4,52 @@ description: Retrouvez ici toutes les informations concernant les machines
 
 # ⚒️ Les Machines
 
-## <mark style="color:green;">Informations Générales</mark>
+### <mark style="color:green;">Informations Générales 📝</mark>
 
-Les machines sont des blocs de craft qui permettent aux joueurs de créer de nouvelles fournitures à partir de différentes ressources.&#x20;
+Les machines sont des blocs de craft qui permettent aux joueurs de créer de nouvelles fournitures à partir de différentes ressources.
 
 Sur le serveur Evolucraft, voici les machines disponibles :
 
-### <mark style="color:green;">**Machine à bois**</mark>**&#x20;:**
+## <mark style="color:green;">**💠 Machine à bois 🪚**</mark> :
 
-* Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
-* La machine à bois est récupérable à partir du niveau 40 bûcheron.
+* La machine à bois est récupérable à partir du <mark style="color:green;">**niveau 40 bûcheron** 🪵</mark> avec la commande <mark style="color:green;">**`/jobs claim`**</mark>.
+
+Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
 
 <figure><img src="../../.gitbook/assets/Les_Machines/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la Machine à Bois </strong></p></figcaption></figure>
 
-Pour plus d'information concernant les crafts : 
-{% content-ref url="machine-à-bois.md" %}
-[machine-à-bois.md](machine-à-bois.md)
-{% endcontent-ref %}
+{% hint style="info" %}
+Pour plus d'informations concernant les crafts <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/machine-a-bois"><mark style="color:green;">**de la machine à bois**</mark></a>
+{% endhint %}
 
-### <mark style="color:green;">**Tailleuse de pierre**</mark>**&#x20;:**
+## <mark style="color:green;">**💠 Tailleuse de pierre 🗿**</mark> :
 
-* Laissez libre cours à votre créativité en fabriquant des statues uniques, prêtes à être vendues chez le tailleur de pierre présent au <mark style="color:green;">**`/spawn`**</mark>.
-* &#x20;Notez que chaque joueur est limité à deux tailleuses de pierre.
-* Les statues sont fabriquées à partir de matériaux provenant des donjons et des ressources classiques.
-* La Tailleuse en pierre est récupérable à partir du niveau 45 et 145 forgemage.
-* Les statues sont vendable au près du tailleur de pierre situé au spawn. 
-* Il existe 4 rareté de statue : commun, rare, épique et légendaire.
+* La tailleuse de pierre est récupérable à partir du <mark style="color:green;">**niveau 45 et 145 forgemage 📖** </mark> avec la commande <mark style="color:green;">**`/jobs claim`**</mark>.
+
+Laissez libre cours à votre créativité en fabriquant des statues uniques et de différentes raretés : <mark style="color:green;">commun</mark>, <mark style="color:yellow;">rare</mark>, <mark style="color:blue;">épique</mark> et <mark style="color:purple;">légendaire</mark>, prêtes à être vendues chez le tailleur de pierre présent au <mark style="color:green;">**`/spawn`**</mark>. Les statues sont fabriquées à partir de matériaux provenant des donjons et des ressources classiques.
 
 <figure><img src="../../.gitbook/assets/Les_Machines/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la Tailleuse de Pierre</strong></p></figcaption></figure>
 
-Pour plus d'information concernant les crafts : 
-{% content-ref url="tailleuse-de-pierre.md" %}
-[tailleuse-de-pierre.md](tailleuse-de-pierre.md)
-{% endcontent-ref %}
+{% hint style="info" %}
+Pour plus d'informations concernant les crafts de chaque statue <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/tailleuse-de-pierre"><mark style="color:green;">**dans la tailleuse de pierre**</mark></a>
+{% endhint %}
 
-### <mark style="color:green;">**Forge**</mark>**&#x20;:**
+{% hint style="warning" %}
+🚨 **Attention ! Vous ne pouvez en poser que 2 par joueurs !**
+{% endhint %}
 
-* La forge est un outil puissant qui vous permettra d'améliorer les objets obtenus dans les donjons en utilisant des ressources métiers et des cristaux.&#x20;
+## <mark style="color:green;">**💠 Forge 🔨**</mark> :
 
-Deux fonctionnalités principales sont disponibles grâce à la forge :
+* La forge est récupérable à partir du <mark style="color:green;">**niveau 115 forgemage 📖** </mark> avec la commande <mark style="color:green;">**`/jobs claim`**</mark>.
 
-* <mark style="color:green;">**Création de Gemmes Métiers**</mark>**&#x20;:** Ces gemmes sont disponibles en quatre raretés différentes : commune, rare, épique et légendaire. Utilisez-les pour renforcer vos équipements et les rendre encore plus puissants.
-* <mark style="color:green;">**Amélioration des Armes de Classes**</mark>**&#x20;:** Utilisez la forge pour améliorer les armes spécifiques à chaque classe. Renforcez vos capacités de combat et de défense pour mieux affronter les défis qui vous attendent dans le monde d'Evolucraft.
+La forge est une machine puissante qui vous permettra de crafter des gemmes de métier ou encore d'améliorer les armes de classe.
+
+* <mark style="color:green;">**Création de Gemmes de Métier**</mark> 🎇 : Ces **gemmes sont disponibles en quatre raretés** différentes : <mark style="color:green;">commun</mark>, <mark style="color:yellow;">rare</mark>, <mark style="color:blue;">épique</mark> et <mark style="color:purple;">légendaire</mark> et vous serviront notamment à **l'amélioration dans le craft de vos armes de classe**.
+
+* <mark style="color:green;">**Amélioration des Armes de Classe**</mark> ⚔️ : Utilisez la forge pour **améliorer les armes spécifiques à chaque classe** à l'aide de **cristaux de métier et d'autres ressources mystères** afin de renforcer vos capacités de combat et de défense pour mieux affronter les défis qui vous attendent dans le monde d'Evolucraft.
 
 <figure><img src="../../.gitbook/assets/Les_Machines/Interface_Forge.png" alt=""><figcaption><p><strong>Interface de la Forge</strong></p></figcaption></figure>
 
-Pour plus d'information concernant les crafts : 
-{% content-ref url="forge.md" %}
-[forge.md](forge.md)
-{% endcontent-ref %}
+{% hint style="info" %}
+Pour plus d'informations concernant les crafts <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge"><mark style="color:green;">**de la forge**</mark></a>
+{% endhint %}
