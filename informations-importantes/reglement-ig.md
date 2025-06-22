@@ -78,6 +78,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * Il est interdit de voler des farms aux autres joueurs sans leur accord.
 * Il est interdit d'utiliser une machine à pêche ou de farmer avec un véhicule (bateau, wagon, etc).
+* Il est interdit de créer des casinos.
 * La vente d’items en jeu contre l’argent réel est interdite.
 * La vente de cosmétiques, d’items de quête, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus.
