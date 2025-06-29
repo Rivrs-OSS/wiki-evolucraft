@@ -190,13 +190,13 @@ La clé de la Caisse Draconique n'est plus disponible.&#x20;
 | <mark style="color:purple;">**Carte de l'Artificier**</mark>        | <mark style="color:purple;">**5,55%**</mark> |
 | <mark style="color:blue;">**Pierre de Téléportation**</mark>        | <mark style="color:blue;">**5,55%**</mark>   |
 
-## <mark style="color:purple;">Caisse New World</mark> (Temporaire)
+## <mark style="color:purple;">Caisse aux Trésors</mark> (Temporaire)
 
 {% hint style="warning" %}
-&#x20;La clé de la Caisse New World n'est plus disponible.&#x20;
+&#x20;La clé de la Caisse aux Trésors n'est plus disponible.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Neworld.png" alt=""><figcaption><p>Aperçu de la Caisse New World</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/CaisseAuxTrésors.png" alt=""><figcaption><p>Aperçu de la Caisse aux Trésors</p></figcaption></figure>
 
 |                                                                               |                                              |
 | ----------------------------------------------------------------------------- | -------------------------------------------- |
@@ -342,7 +342,7 @@ La clé de la Caisse Saint-Patrick n'est plus disponible.
 
 ## <mark style="color:green;">Caisse Pâques</mark> (Temporaire)
 
-{% hint style="success" %}
+{% hint style="warning" %}
 La clé de la caisse Pâques est actuellement n'est plus disponible.
 {% endhint %}
 

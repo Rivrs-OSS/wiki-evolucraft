@@ -30,7 +30,7 @@ De même, le <mark style="color:green;">**donjon abyssal**</mark> offre des <mar
 Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjons draconiques et abyssaux offrent une occasion unique d'élargir votre collection de pets et de renforcer votre équipe pour affronter de nouvelles aventures.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Menu/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
 ## Liste des différents compagnons
 
@@ -786,9 +786,9 @@ Il existe 5 types de bonbons, chacun ayant une rareté différente, les voici :
 
 Pour consulter le niveau de votre compagnon et le nombre d'expérience nécessaire à son évolution, il vous suffit de survoler le compagnon en question avec votre souris.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
-
 ## <mark style="color:green;">Fonctionnement du menu</mark> <mark style="color:green;"></mark><mark style="color:green;">`/pets`</mark>
+
+<figure><img src="../.gitbook/assets/Les_Compagnons/le_pets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
 
 Lorsque vous entrez la commande <mark style="color:green;">**`/pets`**</mark> en jeu, une interface de menu s'ouvre, vous permettant de gérer vos compagnons. À votre arrivée sur le serveur, vous disposez initialement de 2 slots pour vos compagnons. Cependant, ce nombre peut être augmenté grâce à vos Rangs et atteindre jusqu'à 5 slots.
 

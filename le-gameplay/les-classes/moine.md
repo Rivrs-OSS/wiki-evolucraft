@@ -55,7 +55,7 @@ Invoquez des perles spirituelles pour créer une aura de karma. Repoussez les en
 Créez un bouclier spirituel qui absorbe les attaques entrantes et augmente les dégâts à chaque fois que vous êtes endommagé. Relâchez le bouclier pour déclencher une onde de chi puissante.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 5s
-* <mark style="color:blue;">**Mana**</mark>**:** 50
+* <mark style="color:blue;">**Mana**</mark>**:** 100
 * <mark style="color:blue;">**Dégâts**</mark>**:** 12
 
 ### <mark style="color:blue;">**Niveau 40 : Poings Final**</mark>

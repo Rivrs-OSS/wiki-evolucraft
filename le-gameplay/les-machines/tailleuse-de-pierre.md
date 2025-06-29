@@ -25,7 +25,7 @@ description: Retrouvez ici toutes les informations concernant la tailleuse de pi
 | <mark style="color:yellow;">**Creeper**</mark>       | 64 pierres, 32 ors, 48 poudre à canon      | 5 625$           |
 | <mark style="color:yellow;">**Renard**</mark>        | 64 pierres, 32 ors, 64 poulets cru         | 5 813$           |
 | <mark style="color:yellow;">**Perroquet**</mark>     | 64 pierres, 32 ors, 32 plumes              | 5 250$           |
-| <mark style="color:yellow;">**Requin**</mark>        | 16 pierres, 16 fers, 32 côtelettes de porc | 9 000$           |
+| <mark style="color:yellow;">**Requin**</mark>        | 16 pierres, 16 fers, 32 côtelettes de porc, 2 bars | 9 000$           |
 
 ## <mark style="color:blue;">**Les Statues épique**</mark>**&#x20;:**
 

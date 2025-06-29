@@ -80,7 +80,7 @@ Ces acheteurs sont spécialisés dans l'achat de différentes catégories de pro
 * Acheteur de <mark style="color:green;">**cultures**</mark>: Articles liés à l'agriculture tels que les plantes et les produits agricoles.
 * Acheteur de <mark style="color:green;">**loots**</mark>: Objets obtenus en tuant des créatures.
 
-### Coffre de vente automatique
+## <mark style="color:green;">Coffre de vente automatique</mark>
 
 Les coffres de vente automatique vendent et octroient un boost de vente sur les objets du `/shop`. Ce boost varie en fonction du coffre : 1.5 pour le coffre Rubis et 2 pour le coffre Leprechaun.
 
@@ -100,15 +100,6 @@ Les coffres de vente automatique possèdent 5 icônes :
 ## <mark style="color:green;">**Échanges entre Joueurs**</mark>
 
 Les joueurs peuvent également effectuer des échanges directs entre eux via la commande <mark style="color:green;">**`/trade "nom du joueur"`**</mark>. Cette commande permet d’effectuer des transactions sécurisées (objets ou argent) entre deux joueurs proches l’un de l’autre.
-
-## <mark style="color:green;">Enchère</mark>
-
-* Les enchères sont une activité quotidienne disponible à 19H, offrant aux joueurs la possibilité de remporter des items uniques via une interface d'enchères.
-* Pour limiter la rareté des items, il y aura 5 articles disponibles à l'enchère chaque jour, comprenant des cosmétiques, des items de rankup, des outils évolutifs, des spawners, des parchemins, des elytras et des grappins.
-
-{% hint style="info" %}
-Pour récupérer vos objets acheter au enchère, faite `/enchereclaim` au spawn
-{% endhint %}
 
 ## <mark style="color:green;">Publicité</mark>
 

@@ -90,7 +90,7 @@ Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnalis
 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto-Astuce-AseCouleurs.png" alt=""><figcaption><p><strong>Aperçu des tags des couleurs et des formats</strong></p></figcaption></figure>
 
-###### Image créer par Minecraft.fr
+###### Image créée par Minecraft.fr
 
 ## ⚙️ Quelques options de personnalisation supplémentaires...
 
@@ -101,7 +101,7 @@ Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnalis
 * **Bloc invisible 🚫** : permet de <mark style="color:green;">**désactiver l’interaction avec l’armure**</mark> sur le porte-armure. Les objets restent visibles, mais **ne peuvent plus être récupérés**.
 * **Seau d’eau (*water bucket*)** : <mark style="color:green;">**réinitialise la position de l’armor stand**</mark>, sans retirer les objets ou armures posés dessus.
 * **Boussole (*compass*)** : fait <mark style="color:green;">**pivoter l’ensemble du porte-armure**</mark> sur lui-même.
-* **Poche d’encre lumineuse (*glow ink sac*)** : applique un <mark style="color:green;">**effet surbrillance blanc**</mark> à l’armor stand, le rendant plus visible dans l’obscurité.
+* **Poche d’encre lumineuse (*glow ink sac*)** : applique un <mark style="color:green;">**effet de surbrillance blanc**</mark> à l’armor stand, le rendant plus visible dans l’obscurité.
 
 {% hint style="info" %}
 🔎 <mark style="color:green;">**Remarque**</mark> : Si vous désactivez l’effet lumineux, **quittez puis revenez dans la zone** pour que le changement soit visible.

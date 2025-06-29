@@ -21,4 +21,4 @@ __Voici les commandes :__
 ⚠️ Si vous souhaitez vous divorcer de votre moitié, il faut vous diriger vers un modérateur.
 
 
-<figure><img src="../.gitbook/assets/Screen_mariage" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mariage/Screen_mariage.png" alt=""><figcaption></figcaption></figure>
