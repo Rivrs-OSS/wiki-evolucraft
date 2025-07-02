@@ -36,7 +36,7 @@ description: Retrouvez ici toutes les informations concernant la tailleuse de pi
 | <mark style="color:blue">**Enderman**</mark>      | 256 roches, 64 diamants, 64 perles de l'ender                       | 26 250$         |
 | <mark style="color:blue">**Ours polaire**</mark>  | 256 roches, 64 diamants, 320 bloc de neige                          | 21 000$         |
 | <mark style="color:blue">**Nautilox**</mark>      | 256 roches, 64 diamants, 2 poisson lune, 1 cristal de donjon épique | 90 000$         |
-| <mark style="color:blue">**Dauphin**</mark>       | 256 roches, 64 diamants, 2 saumon royal                             | 45 000$         |
+| <mark style="color:blue">**Dauphin**</mark>       | 256 roches, 64 diamants, 1 saumon royal                             | 45 000$         |
 
 ## <mark style="color:purple;">**Les Statues légendaire**</mark>**&#x20;:**
 
