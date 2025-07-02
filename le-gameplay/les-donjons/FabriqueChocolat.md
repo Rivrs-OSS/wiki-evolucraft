@@ -30,5 +30,4 @@ Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour
 | <mark style="color:orange;"><strong>Bonbon à l'orange (x2)</strong></mark>              |
 | <mark style="color:yellow;"><strong>Œuf de familier de Pâques</strong></mark>            |
 | <mark style="color:yellow;"><strong>EXP classe (x5.000)</strong></mark>                  |
-| <mark style="color:yellow;"><strong>Chocolat (x2.500)</strong></mark>                    |
 | <mark style="color:yellow;"><strong>Clé de Pâques (x1)</strong></mark>                   |

@@ -30,4 +30,3 @@ Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour
 | <mark style="color:green;"><strong>Bonbon à la pomme (x1)</strong></mark>    |
 | <mark style="color:red;"><strong>Œuf de familier de l'amour</strong></mark> |
 | <mark style="color:red;"><strong>Exp classe (x1.000)</strong></mark>        |
-| <mark style="color:red;"><strong>Coeur (x500)</strong></mark>               |

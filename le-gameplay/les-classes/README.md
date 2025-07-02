@@ -46,6 +46,9 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**18 classes**</
 * <mark style="color:purple;">**Artificier**</mark> : Maître de la robotique et de la destruction, il répand la terreur avec son grincement sinistre.
 * <mark style="color:purple;">**Samouraï**</mark> : Guerrier d'honneur et de discipline maître de la lame et du silence, le samouraï fauche ses ennemis avec grâce et précision.
 
+## <mark style="color:red;">Classe Mythique</mark>
+* <mark style="color:red;">**Chevalier de la mort**</mark> : 
+
 ## <mark style="color:green;">Catégories de Classes</mark>
 
 Les classes sont réparties en trois catégories : Tanks, DPS, et Soutien.
@@ -129,6 +132,18 @@ Dans chaque menu de classe, vous trouverez une boutique dédiée à l'achat de n
 | <mark style="color:purple;">**5**</mark> | <mark style="color:purple;">**8**</mark>                      | <mark style="color:purple;">**5 400 000**</mark>  |
 | <mark style="color:purple;">**6**</mark> | <mark style="color:purple;">**16**</mark>                     | <mark style="color:purple;">**16 200 000**</mark> |
 | <mark style="color:purple;">**7**</mark> | <mark style="color:purple;">**32**</mark>                     | <mark style="color:purple;">**48 600 000**</mark> |
+
+<mark style="color:red;">**Mythique**</mark>
+
+| Compétences                              | Cartes requises                                               | Prix                                              |
+| ---------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
+| <mark style="color:red;">**1**</mark>    | <mark style="color:red;">**Obtention de la classe**</mark>    | <mark style="color:red;">**-**</mark>             |
+| <mark style="color:red;">**2**</mark>    | <mark style="color:red;">**1**</mark>                         | <mark style="color:red;">**400 000**</mark>       |
+| <mark style="color:red;">**3**</mark>    | <mark style="color:red;">**1**</mark>                         | <mark style="color:red;">**1 200 000**</mark>     |
+| <mark style="color:red;">**4**</mark>    | <mark style="color:red;">**2**</mark>                         | <mark style="color:red;">**3 600 000**</mark>     |
+| <mark style="color:red;">**5**</mark>    | <mark style="color:red;">**4**</mark>                         | <mark style="color:red;">**10 800 000**</mark>    |
+| <mark style="color:red;">**6**</mark>    | <mark style="color:red;">**8**</mark>                         | <mark style="color:red;">**32 400 000**</mark>    |
+| <mark style="color:red;">**7**</mark>    | <mark style="color:red;">**16**</mark>                        | <mark style="color:red;">**97 200 000**</mark>    |
 
 <mark style="color:green;">**Nombre de cartes nécessaires pour les classes aléatoires**</mark>
 

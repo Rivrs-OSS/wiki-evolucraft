@@ -16,7 +16,7 @@ Projectile de rocher lancé sur un ennemi, le repoussant légèrement.
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 0.5s
 * <mark style="color:yellow;">**Mana**</mark>**:** 0
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 75
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 98,9
 
 ### <mark style="color:yellow;">**Niveau 5 : Explosion d'Air**</mark>
 
@@ -32,7 +32,7 @@ Invoque un tentacule aquatique pour fouetter les ennemis, les repoussant.
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:yellow;">**Mana**</mark>**:** 50
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 10.5
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 49,1
 
 ### <mark style="color:yellow;">**Niveau 15 : Bête Magmatique**</mark>
 
@@ -40,7 +40,7 @@ Invoque une bête magmatique qui émerge du sol, écrasant et brûlant les ennem
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:yellow;">**Mana**</mark>**:** 100
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 12.5
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 17,4
 
 ### <mark style="color:yellow;">**Niveau 20 : Vent Extrême**</mark>
 
@@ -48,7 +48,7 @@ Appelle un faucon qui crée un tourbillon endommageant et renversant continuelle
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:yellow;">**Mana**</mark>**:** 150
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 18
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 28,7
 
 ### <mark style="color:yellow;">**Niveau 30 : Barricade de Terre**</mark>
 
@@ -56,7 +56,7 @@ Invoque un golem de terre qui émerge du sol pour élever un mur de terre, repou
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:yellow;">**Mana**</mark>**:** 100
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 25
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 392,5
 
 ### <mark style="color:yellow;">**Niveau 40 : Surchauffe**</mark>
 
@@ -64,4 +64,4 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 30s
 * <mark style="color:yellow;">**Mana**</mark>**:** 300
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 52.5
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 364,8

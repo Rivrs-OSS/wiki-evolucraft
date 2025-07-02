@@ -16,7 +16,7 @@ Votre gardien spirituel dégaine son épée, frappant les cibles devant vous.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 0.5s 
 * <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 9.6
+* <mark style="color:blue;">**Dégâts**</mark>**:** 12,7
 
 ### <mark style="color:blue;">**Niveau 5 : Force pure**</mark>
 
@@ -25,6 +25,7 @@ Les attaques de votre gardien spirituel sont plus puissantes et peuvent ralentir
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** Passif (toujours actif)
 * <mark style="color:blue;">**Mana**</mark>**:** 0
 * <mark style="color:blue;">**Dégâts**</mark>**:** 10
+<!--Il faudrai demander : Le % de slow, durée du slow, % d'augmentation des damages-->
 
 ### <mark style="color:blue;">**Niveau 10 : Ange gardien**</mark>
 
@@ -40,7 +41,7 @@ Invoquez 5 lames magiques qui seront tirées une par une.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 7s
 * <mark style="color:blue;">**Mana**</mark>**:** 75
-* <mark style="color:blue;">**Dégâts**</mark>**:** 4858
+* <mark style="color:blue;">**Dégâts**</mark>**:** 473,6
 
 ### <mark style="color:blue;">**Niveau 20 : Chevaux Aliénés**</mark>
 
@@ -48,7 +49,7 @@ Invoquez 2 chevaux spirituels qui galopent sur la surface, propulsant les cibles
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:blue;">**Mana**</mark>**:** 125
-* <mark style="color:blue;">**Dégâts**</mark>**:** 250
+* <mark style="color:blue;">**Dégâts**</mark>**:** 174,4
 
 ### <mark style="color:blue;">**Niveau 30 : Monture**</mark>
 
@@ -64,4 +65,4 @@ Invoquez un phénix qui glisse à travers le sol, brûlant et infligeant des dé
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:blue;">**Mana**</mark>**:** 350
-* <mark style="color:blue;">**Dégâts**</mark>**:** 765
+* <mark style="color:blue;">**Dégâts**</mark>**:** 980 + 1593

@@ -16,7 +16,7 @@ Tire un faisceau de lumière qui endommage vos adversaires.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 0.5s
 * <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 3.2
+* <mark style="color:blue;">**Dégâts**</mark>**:** 5,7
 
 ### <mark style="color:blue;">**Niveau 5 : Récupération personnelle**</mark>
 
@@ -51,7 +51,7 @@ Invoquez un totem qui peut changer de forme aléatoirement :
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:blue;">**Mana**</mark>**:** 150
-* <mark style="color:blue;">**Dégâts**</mark>**:** 39.15
+* <mark style="color:blue;">**Dégâts du totem d'attaque**</mark>**:** 35,2
 
 ### <mark style="color:blue;">**Niveau 30 : Rayon Solaire**</mark>
 
@@ -59,7 +59,7 @@ Lévitez et tirez un rayon solaire explosif qui endommage et brûle les cibles.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 15s
 * <mark style="color:blue;">**Mana**</mark>**:** 250
-* <mark style="color:blue;">**Dégâts**</mark>**:** 20
+* <mark style="color:blue;">**Dégâts**</mark>**:** 297,3
 
 ### <mark style="color:blue;">**Niveau 40 : Pouvoir Ancien**</mark>
 
@@ -67,4 +67,4 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 30s
 * <mark style="color:blue;">**Mana**</mark>**:** 450
-* <mark style="color:blue;">**Dégâts**</mark>**:** 20
+* <mark style="color:blue;">**Dégâts**</mark>**:** 622,6

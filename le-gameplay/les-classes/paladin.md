@@ -16,7 +16,8 @@ Effectuez une attaque sacrée. Chaque troisième frappe coupe vos ennemis et les
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 0.5s
 * <mark style="color:yellow;">**Mana**</mark>**:** 0
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 12.6
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 4.2
+* <mark style="color:yellow;">**Dégâts du combo**</mark>**:** 14.8
 
 ### <mark style="color:yellow;">**Niveau 5 : Aura radieuse**</mark>
 
@@ -32,7 +33,8 @@ Invoquez un bouclier sacré devant vous, foncez à l'emplacement ciblé et repou
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:yellow;">**Mana**</mark>**:** 75
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 12
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 77,2
+<!--Il faudrai demander la durée du stun-->
 
 ### <mark style="color:yellow;">**Niveau 15 : Marteau de justice**</mark>
 
@@ -40,7 +42,7 @@ Invoquez un marteau sacré et brisez la surface, créant des éruptions lumineus
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 15s
 * <mark style="color:yellow;">**Mana**</mark>**:** 200
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 18.5
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 176,4
 
 ### <mark style="color:yellow;">**Niveau 20 : Bouclier divin**</mark>
 
@@ -56,7 +58,7 @@ Liez un ennemi avec des chaînes et invoquez une lance sacrée qui transperce et
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:yellow;">**Mana**</mark>**:** 75
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 75
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 1621,1
 
 ### <mark style="color:yellow;">**Niveau 40 : Dernier combat**</mark>
 
@@ -64,4 +66,4 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 30s
 * <mark style="color:yellow;">**Mana**</mark>**:** 400
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 63.5
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 3555,2 + 413

@@ -30,5 +30,4 @@ Boss : 4000 xp
 | <mark style="color:orange;"><strong>Bonbon à l'orange (x2)</strong></mark>   |
 | <mark style="color:red;"><strong>Œuf de familier de l'amour</strong></mark> |
 | <mark style="color:red;"><strong>Exp classe (x5.000)</strong></mark>        |
-| <mark style="color:red;"><strong>Cœur (x2.500)</strong></mark>              |
 | <mark style="color:red;"><strong>Clé Cupidon (x1)</strong></mark>           |
