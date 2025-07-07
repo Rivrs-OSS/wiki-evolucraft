@@ -20,8 +20,8 @@ Les événements présentés ici sont exclusivement des événements récurrents
 * <mark style="color:yellow;">**🥇・1er**</mark> → <mark style="color:blue;">**6 fragments clés summer**</mark> et <mark style="color:yellow;">**25 000 Soleils**</mark> *
 * **🥈・2e** → <mark style="color:blue;">**3 fragments clés summer**</mark> et <mark style="color:yellow;">**12 500 Soleils**</mark> *
 * <mark style="color:orange;">**🥉・3e**</mark> → <mark style="color:blue;">**2 fragments clés summer**</mark> et <mark style="color:yellow;">**5 000 Soleils**</mark> *
-* <mark style="color:green;">**4e**</mark> → <mark style="color:blue;">**1 fragment clés summer**</mark> et <mark style="color:yellow;">**2500 Soleils**</mark> *
-* <mark style="color:green;">**5e**</mark> → <mark style="color:yellow;">**1250 Soleils**</mark> *
+* <mark style="color:green;">**4e**</mark> → <mark style="color:blue;">**1 fragment clés summer**</mark> et <mark style="color:yellow;">**2 500 Soleils**</mark> *
+* <mark style="color:green;">**5e**</mark> → <mark style="color:yellow;">**1 250 Soleils**</mark> *
 
 Quant aux <mark style="color:green;">**autres participants**</mark> qui n'ont pas réussi à être dans le top 5, vous gagnez quand même <mark style="color:yellow;">**250 Soleils**</mark> *
 
