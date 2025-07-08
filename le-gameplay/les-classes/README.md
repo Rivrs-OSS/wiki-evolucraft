@@ -143,4 +143,4 @@ Dans chaque menu de classe, vous trouverez une boutique dédiée à l'achat de n
 
 Dans chaque menu de classe, vous trouverez différentes attaques que vous possédez. Pour équiper une compétence, cliquez sur un slot vide puis sélectionnez votre attaque.
 
-Lorsque vos attaques sont équipées, vous pouvez les utiliser. Cliquez gauche pour faire l'attaque de base de la classe, double-cliquez droit pour changer de compétences, et cliquez gauche + cliquez droit pour lancer votre compétence.
+Lorsque vos attaques sont équipées, vous pouvez les utiliser. Cliquez gauche pour faire l'attaque de base de la classe, double-cliquez droit pour changer de compétences, et cliquez droit + cliquez gauche pour lancer votre compétence.
