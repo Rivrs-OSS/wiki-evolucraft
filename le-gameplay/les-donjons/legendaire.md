@@ -33,7 +33,7 @@ Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit :
 | <mark style="color:purple;"><strong>750.000 💰</strong></mark>                    |
 | <mark style="color:purple;"><strong>Cristaux de donjon légendaire</strong></mark> |
 | <mark style="color:blue;"><strong>Bonbon à la Myrtille (x2)</strong></mark>     |
-| <mark style="color:violet;"><strong>Bonbon au Raisin (x2)</strong></mark>            |
+| <mark style="color:purple;"><strong>Bonbon au Raisin (x2)</strong></mark>            |
 | <mark style="color:purple;"><strong>Plume de Phoenix</strong></mark>              |
 | <mark style="color:purple;"><strong>Item Évolutif Aléatoire</strong></mark>       |
 | <mark style="color:purple;"><strong>Pet Aléatoire Donjon</strong></mark>          |

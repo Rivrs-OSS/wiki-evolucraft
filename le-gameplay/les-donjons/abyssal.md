@@ -25,6 +25,7 @@ Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit :
 |:-----------------------------------------------------------------------------------:|
 | <mark style="color:green;"><strong>Classe Aléatoire Commune (x2)</strong></mark>    |
 | <mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark>           |
+|<mark style="color:blue;"><strong>Parchemin Abyssal</strong></mark>                    |
 | <mark style="color:orange;"><strong>Parchemin Rare</strong></mark>                  |
 | <mark style="color:blue;"><strong>Parchemin Épique</strong></mark>                  |
 | <mark style="color:blue;"><strong>75.000 💰</strong></mark>                         |

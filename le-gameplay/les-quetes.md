@@ -49,11 +49,11 @@ Cette catégorie comprend des quêtes disponibles en 5 niveaux de difficulté :&
 Il existe aussi 6 quêtes associées aux anciens évènement :&#x20;
 
 * <mark style="color:orange;">**Halloween**</mark>
-* <mark style="color:red;">**Noël Easy**</mark>
-* <mark style="color:red;">**Noël Hard**</mark>
+* <mark style="color:red;">**Givré**</mark>
 * <mark style="color:red;">De l'Amour</mark>
 * <mark style="color:yellow;">Terrier du Roi Lapin</mark>
 * <mark style="color:yellow;">Fabrique de Chocolat</mark>
+* <mark style="color:blue;">Abyssal</mark>
 
 
 Ces quêtes sont obtenables dans les caisses, récompenses votes, récompenses jobs, le `/rewards` ainsi que dans les donjons.&#x20;

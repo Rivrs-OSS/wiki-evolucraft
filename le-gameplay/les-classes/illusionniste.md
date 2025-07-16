@@ -33,7 +33,7 @@ Vous vous téléportez en diagonale vers l'arrière tout en lançant 3 cartes.
 
 Votre clone miroir fonce alors sur la trajectoire que vous venez de quitter infligeant des dégâts sur le chemin.
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 8s
 * <mark style="color:green;">**Mana**</mark>**:** 025
 * <mark style="color:green;">**Dégâts**</mark>**:** 55,7
 
@@ -41,7 +41,7 @@ Votre clone miroir fonce alors sur la trajectoire que vous venez de quitter infl
 
 Lancez un shuriken miroir qui repousse les ennemis. Votre shuriken revient vers vous, repoussant les ennemis dans la direction opposée.
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:green;">**Mana**</mark>**:** 125
 * <mark style="color:green;">**Dégâts**</mark>**:** 80,7
 
@@ -49,7 +49,7 @@ Lancez un shuriken miroir qui repousse les ennemis. Votre shuriken revient vers 
 
 Vous vouez téléportez vers l'avent. Votre clone miroir se précipite à nouveau sur votre chemin, endommageant les ennemis en contact avec votre clone.
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 8s
 * <mark style="color:green;">**Mana**</mark>**:** 100
 * <mark style="color:green;">**Dégâts**</mark>**:**  297,8
 
@@ -57,7 +57,7 @@ Vous vouez téléportez vers l'avent. Votre clone miroir se précipite à nouvea
 
 Invoquez 2 miroirs sur vos côtés. Chaque miroir déclenche 3 aiguilles miroir
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 15s
 * <mark style="color:green;">**Mana**</mark>**:** 150
 * <mark style="color:green;">**Dégâts**</mark>**:** 362,2
 
@@ -67,6 +67,6 @@ Vous invoquez un portail miroir sous vos pieds, ce qui étourdit les ennemis pro
 
 Après un court délai, le portail se téléporte dans la direction où vous regardez emmenant avec lui tout les ennemis étourdis qui se trouvent à l'intérieur.
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:green;">**Mana**</mark>**:** 300
 * <mark style="color:green;">**Dégâts**</mark>**:** 2360,6

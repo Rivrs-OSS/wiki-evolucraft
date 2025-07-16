@@ -38,6 +38,10 @@ Ces warps peuvent être utilisés pour se déplacer rapidement à travers le mon
 * <mark style="color:green;">**`/pwarp ban list [nom du pwarp]`**</mark> : afficher la liste des joueurs bannis du pwarp
 * <mark style="color:green;">**`/pwarp ban remove [nom du pwarp] [nom du joueur]`**</mark> : dé-bannir un joueur du pwarp
 * <mark style="color:green;">**`/pwarp lock [nom du pwarp]`**</mark> <mark style="color:green;"></mark><mark style="color:green;">: Permet d'ouvrir ou fermer l'accès public à votre warp.</mark>
+* <mark style="color:green;">**`/pwarp desc set [description]`**</mark> <mark style="color:green;"></mark><mark style="color:green;">: Permet de rajouter une description à votre warp.</mark>
+* <mark style="color:green;">**`/pwarp desc remove [description]`**</mark> <mark style="color:green;"></mark><mark style="color:green;">: Permet de retirer une description à votre warp.</mark>
+
+
 
 ### <mark style="color:green;">Warps Publics</mark>
 

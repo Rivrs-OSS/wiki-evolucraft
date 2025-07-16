@@ -59,17 +59,17 @@ Une fois activés, les boosters restent actifs pendant une période déterminée
 {% hint style="info" %}
 <mark style="color:green;">**Les boosts des compagnons**</mark>**&#x20;:** Les boosts des compagnons s'accumulent lorsque plusieurs compagnons sont actifs en même temps.&#x20;
 
-Par exemple, si vous avez deux compagnons actifs, les boosts qu'ils fournissent seront additionnés pour augmenter vos avantages.\
+Par exemple, si vous avez deux compagnons actifs, les boosts qu'ils fournissent seront additionnés pour augmenter vos avantages.
 
 
 <mark style="color:green;">**Les boosts de récompenses**</mark>**&#x20;:** Concernant les boosts de récompenses disponibles sur le serveur, ceux obtenus à travers les quêtes, les paliers de métiers et les caisses, le principe est que si plusieurs boosts sont actifs sur votre personnage, seul le boost le plus puissant sera pris en compte.&#x20;
 
-Cela signifie que si vous avez plusieurs boosts actifs, ce sera celui qui offre le plus d'avantages qui sera appliqué.\
+Cela signifie que si vous avez plusieurs boosts actifs, ce sera celui qui offre le plus d'avantages qui sera appliqué.
 
 
 <mark style="color:green;">**Boosts de la boutique**</mark>**&#x20;:** En ce qui concerne les boosts obtenus dans la boutique, il est important de noter que contrairement aux boosts des compagnons et aux boosts récupérables via les quêtes et les paliers de métiers, les boosts de la boutique ne s'additionnent pas entre eux.&#x20;
 
-Seul le boost le plus puissant que vous avez activé sera pris en compte pour améliorer vos performances.\
+Seul le boost le plus puissant que vous avez activé sera pris en compte pour améliorer vos performances.
 
 
 <mark style="color:green;">**Cumul des boosts**</mark>**&#x20;:** Les trois types de boosts disponibles sur le serveur (boosts des compagnons, boosts récupérables via les quêtes, les paliers de métiers et les caisses, et boosts de la boutique) s'additionnent entre eux pour offrir des avantages cumulatifs.
