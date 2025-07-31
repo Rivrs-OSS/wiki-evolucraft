@@ -33,7 +33,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
 <figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
 ## Liste des différents compagnons
-<!--
+
 ### <mark style="color:green;">Compagnons Communs</mark>
 
 <table><thead><tr><th width="259" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
@@ -184,7 +184,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:yellow;">Compagnons Rares</mark> <a href="#pets-rares" id="pets-rares">
+### <mark style="color:yellow;">Compagnons Rares</mark>
 
 <table><thead><tr><th width="263" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
   
@@ -344,7 +344,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:blue;">Compagnons Épiques</mark> <a href="#pets-epiques" id="pets-epiques">
+### <mark style="color:blue;">Compagnons Épiques</mark>
 
 <table><thead><tr><th width="265" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
@@ -626,7 +626,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:purple;">Compagnons Légendaires</mark> <a href="#pets-legendaires" id="pets-legendaires">
+### <mark style="color:purple;">Compagnons Légendaires</mark>
 
 <table><thead><tr><th width="270" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
@@ -727,7 +727,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:purple;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong> 🗡 Force</strong></mark><strong> +13</strong>
       <br><mark style="color:purple;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>+5%</strong></mark><strong> d'argent </strong><mark style="color:purple;"><strong>Métiers</strong></mark>
     </td>
-  </tr>I
+  </tr>
 
   <tr>
     <td align="center"><mark style="color:purple;"><strong>Phoenix</strong></mark></td>
@@ -776,7 +776,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:red;">Compagnon Mythique</mark> <a href="#pets-mythiques" id="pets-mythiques">
+### <mark style="color:red;">Compagnons Mythique</mark>
 
 <table><thead><tr><th width="258" align="center">Compagnon</th><th>Effets</th></tr></thead><tbody>
 
@@ -880,4 +880,3 @@ Lorsqu'un familier est en mode inactif, il reste à l'écart et ne participe pas
 {% hint style="info" %}
 Maintenant que vous savez tout sur ces compagnons, essayez d'en obtenir le plus possible sur Evolucraft !
 {% endhint %}
--->
