@@ -5,8 +5,7 @@ description: Retrouvez ici toutes les informations concernant la classe Chevalie
 # ☠️ Chevalier de la Mort
 Maître dans l'art du tir à l'arc, agile et précis, il ne rate jamais sa cible.
 
-
-<figure><img src="../../.gitbook/assets/Les_Classes/Chevalier_de_la_Mort.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Chevalier de la Mort</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Classes/Chevalier_de_la_Mort.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Chevalier de la Mort</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Compétences</mark>
 
@@ -15,7 +14,7 @@ Les dégâts des compétences sont en cours de modification, ne les prennez pas 
 -L'équipe du wiki
 {% endhint %}
 
-### <mark style="color:green;">**Niveau 1 : Frappe Mortelle **</mark>
+### <mark style="color:green;">**Niveau 1 : Frappe Mortelle**</mark>
 
 Frappez vers l'avent en repoussant les ennemis. Au troisème lancer. Lancez des chaînes en avant, accrochez-vous à des blocs ou des ennemis.
 
@@ -63,7 +62,7 @@ Pendant ce temps, tout les dégâts reçus sont absorbés et convertis en soins.
 * <mark style="color:green;">**Mana**</mark>**:** 100
 * <mark style="color:green;">**Dégâts**</mark>**:**  62,3 + 311,6
 
-### <mark style="color:green;">**Niveau 30 : Nécrophage **</mark>
+### <mark style="color:green;">**Niveau 30 : Nécrophage**</mark>
 
 Faites tourner votre Nécrophage dans un vortex mortel, soulevant légèrement les ennemis en l'air au contact.
 

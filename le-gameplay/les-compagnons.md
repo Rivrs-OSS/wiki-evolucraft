@@ -798,7 +798,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong> ❤ Vie</strong></mark><strong> +48</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+15%</strong></mark><strong> sur la vente de </strong><mark style="color:red;"><strong>Lingots d'or</strong></mark>
       <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+11.000</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+7.5%</strong></mark><strong>d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+7.5%</strong></mark><strong> d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
@@ -818,7 +818,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong> ◎ Vitesse</strong></mark><strong> +11</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+12.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -></strong>  <mark style="color:orange;"><strong>☠ dégâts critiques</strong></mark><strong> +20</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+10%</strong></mark><strong>d'Argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+10%</strong></mark><strong> d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
@@ -828,7 +828,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>16.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>✨ Régénération de mana +3</strong></mark>
       <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+18.000</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+5%</strong></mark><strong>d'Argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+5%</strong></mark><strong> d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
