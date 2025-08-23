@@ -62,3 +62,56 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
 * <mark style="color:purple;">**Temps de recharge**</mark>: 30s
 * <mark style="color:purple;">**Mana**</mark>: 350
 * <mark style="color:purple;">**Dégâts**</mark>: 1432,2
+
+## <mark style="color:purple;">Armes</mark>
+
+<table>
+  <tr>
+    <th>Armes</th>
+    <th>Rareté</th>
+    <th>Stat</th>
+    <th>Obtention</th>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Katana Sanguinaire</mark></td>
+    <td><mark style="color:green;">Commun</mark></td>
+    <td><mark style="color:red;">🗡 Force +7</mark>, <mark style="color:orange;">☠ Dégât Critique +4</mark></td>
+    <td>Pack d'arme</td>
+  </tr>
+  <tr>
+    <td><mark style="color:orange;">Katana Sanguinaire</mark></td>
+    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:red;">🗡 Force +15</mark>, <mark style="color:orange;">☠ Dégât Critique +8</mark></td>
+    <td>Pack d'arme ou Forge</td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Katana Sanguinaire</mark></td>
+    <td><mark style="color:blue;">Épique</mark></td>
+    <td><mark style="color:red;">🗡 Force +25</mark>, <mark style="color:orange;">☠ Dégât Critique +12</mark></td>
+    <td>Pack d'arme ou Forge</td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Katana Sanguinaire</mark></td>
+    <td><mark style="color:purple;">Légendaire</mark></td>
+    <td><mark style="color:red;">🗡 Force +45</mark>, <mark style="color:orange;">☠ Dégât Critique +22</mark></td>
+    <td>Forge</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Katana Sanguinaire</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
+    <td><mark style="color:red;">🗡 Force +80</mark>, <mark style="color:orange;">☠ Dégât Critique +39</mark></td>
+    <td>Forge</td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Katana en Chocolat</mark></td>
+    <td><mark style="color:yellow;">Pâques</mark></td>
+    <td><mark style="color:red;">🗡 Force +43</mark>, <mark style="color:orange;">☠ Dégât Critique +19</mark></td>
+    <td>Marché Noir</td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Katana Summer</mark></td>
+    <td><mark style="color:blue;">Summer</mark></td>
+    <td><mark style="color:red;">🗡 Force +43</mark>, <mark style="color:orange;">☠ Dégât Critique +19</mark>, <mark style="color:blue;">◎ Vitesse +2</mark></td>
+    <td>Marché Noir</td>
+  </tr>
+</table>
