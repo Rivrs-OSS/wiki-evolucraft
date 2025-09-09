@@ -371,7 +371,7 @@ La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green
 | <mark style="color:red;">**Cosmétique Aléatoire**</mark>                                   | **5,55%**                   |
 | <mark style="color:red;">**Arme Aléatoire**</mark>                                         | **5,55%**                   |
 | <mark style="color:red;">**Booster Aléatoire**</mark>                                      | **5,55%**                   |
-| <mark style="color:blue;">**Carte de l'Archimage**</mark>                                  | **5,55%**                   |
+| <mark style="color:red;">**Carte de l'Archimage**</mark>                                  | **5,55%**                   |
 | <mark style="color:red;">**3.000.000💰**</mark>                                            | **5,55%**                   |
 | <mark style="color:red;">**Spawner Aléatoire**</mark>                                      | **5,55%**                   |
 | <mark style="color:red;">**3 Parchemins de l'Amour**</mark>                                | **5,55%**                   |
@@ -438,7 +438,7 @@ La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la c
 | <mark style="color:yellow;">**Carte du Samouraï**</mark>                    | **5,56%**                   |
 | <mark style="color:yellow;">**Pierre de Téléportation**</mark>              | **5,56%**                   |
 | <mark style="color:yellow;">**3 Parchemins Aléatoire Pâques**</mark>        | **5,56%**                   |
-| <mark style="color:purple;">**4 Bonbons au Raisin**</mark>                  | **5,56%**                   |
+| <mark style="color:yellow;">**4 Bonbons au Raisin**</mark>                  | **5,56%**                   |
 | <mark style="color:yellow;">**2 Clés Pâques**</mark>                        | **5,56%**                   |
 
 ### 🔸 <mark style="color:blue;">Caisse Summer 🏖️</mark>
