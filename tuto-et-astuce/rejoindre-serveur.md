@@ -2,7 +2,7 @@
 description: Retrouvez ici la solution pour rejoindre le serveur !
 ---
 
-# <mark style="color:green;">Comment rejoindre le serveur ? 🌏</mark>
+# 🎫 <mark style="color:green;">Comment rejoindre le serveur ?</mark>
 
 ## 💠 Ajouter une version 🆕
 
