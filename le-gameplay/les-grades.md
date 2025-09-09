@@ -41,7 +41,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Bonus à l'achat : <mark style="color:yellow;">**1 Clé Émeraude 🗝️**</mark>
 
 
-### **🔸 Son kit : [<mark style="color:yellow;">Le kit Héros ⚜️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#-le-kit-héros)** 
+### **🔸 Son kit : [<mark style="color:yellow;">Le kit Héros ⚜️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-heros)** 
 
 ## <mark style="color:blue;">💠 Élite 💠</mark>
 
@@ -66,7 +66,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Bonus à l'achat : <mark style="color:blue;">**1 Clé Rubis 🗝️**</mark>
 * Accès aux <mark style="color:blue;">**aventages du grade précédent ✨**</mark>
 
-### **🔸 Son kit : [<mark style="color:yellow;">Le kit Élite 💠</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#-le-kit-élite)** 
+### **🔸 Son kit : [<mark style="color:blue;">Le kit Élite 💠</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-elite)**
 
 ## <mark style="color:purple;">💞 Légende 💞</mark>
 
@@ -89,17 +89,17 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Bonus à l'achat : <mark style="color:purple;">**2 Clés Rubis 🗝️**</mark>
 * Accès aux <mark style="color:purple;">**aventages des grades précédents ✨**</mark>
 
-### **🔸 Son kit : [<mark style="color:yellow;">Le kit Légende 💞</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#-le-kit-légende)**
+### **🔸 Son kit : [<mark style="color:purple;">Le kit Légende 💞</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-legende)**
 
 ## 💠 <mark style="color:green;">Quels sont les grades honorifiques ?</mark>
 
-### <mark style="color:purple;">💫 Éternel 💫</mark>
+### <mark style="color:blue;">💫 Éternel 💫</mark>
 
-**Prix : <mark style="color:blue;">1 000€ sur la boutique pendant la version</mark>**
+**Prix : <mark style="color:yellow;">1 000€ sur la boutique</mark> pendant la version**.
 
-### <mark style="color:purple;">✴️ Éternel+ ✴️</mark>
+### <mark style="color:orange;">✴️ Éternel+ ✴️</mark>
 
-**Prix : <mark style="color:blue;">10 000€ sur la boutique pendant la version</mark>**
+**Prix : <mark style="color:yellow;">10 000€ sur la boutique</mark> pendant la version**.
 
 {% hint style="info" %}
 **REMARQUE 🔍 :** Les grades honorifiques ne vous procurent aucun avantage supplémentaire, d'où leur notion honorifique.
@@ -111,7 +111,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 
 <mark style="color:yellow;">**Prix**</mark> : [14,90 €/mois](https://store.evolucraft.fr/category/abonnement) _(Autre offre en pack de 3, 6 ou 12 mois)_ ou **obtenable dans la box vote** _(24 heures)_
 
-**Avantages :**&#x20;
+**Avantages :**
 
 * <mark style="color:yellow;">**1 500 Ecoins 💎**</mark> _(Non disponible dans l'abonnement 24 heures)_
 * <mark style="color:yellow;">**Icône exclusive 👑**</mark> _(à côté du <mark style="color:yellow;">pseudo</mark> dans le chat et le tab)_
