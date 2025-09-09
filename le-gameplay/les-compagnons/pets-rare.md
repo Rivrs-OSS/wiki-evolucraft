@@ -17,10 +17,10 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Chaudroth</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Chaudroth.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Chaudroth.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/ChaudrothShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/ChaudrothShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -39,10 +39,10 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Hedwig</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Hedwig.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Hedwig.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/HedwigShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/HedwigShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -61,10 +61,10 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Mayline</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Mayline.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Mayline.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/MaylineShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/MaylineShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -83,10 +83,10 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Shira</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Shira.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Shira.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/ShiraShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/ShiraShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -105,10 +105,10 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Viserion</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Viserion.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Viserion.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/ViserionShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/ViserionShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -127,7 +127,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Goat</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Goat.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Goat.png" alt="">
       </figure>
     </td>
     <td>
@@ -146,7 +146,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Albi</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Albi.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Albi.png" alt="">
       </figure>
     </td>
     <td>
@@ -164,7 +164,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Crusty</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Crusty.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Crusty.png" alt="">
       </figure>
     </td>
     <td>
@@ -182,7 +182,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Rio</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rio.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Rio.png" alt="">
       </figure>
     </td>
     <td>
@@ -200,7 +200,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Rudolphe</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rudolphe.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Rudolphe.png" alt="">
       </figure>
     </td>
     <td>
@@ -218,7 +218,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Serpent Cristallin</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/SerpentCristallin.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/SerpentCristallin.png" alt="">
       </figure>
     </td>
     <td>
@@ -236,7 +236,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Bilbon Sacquet</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/BilbonSacquet.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/BilbonSacquet.png" alt="">
       </figure>
     </td>
     <td>
@@ -254,7 +254,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Clocher</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Clocher.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Clocher.png" alt="">
       </figure>
     </td>
     <td>
@@ -272,7 +272,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Nanook</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Nanook.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Nanook.png" alt="">
       </figure>
     </td>
     <td>
