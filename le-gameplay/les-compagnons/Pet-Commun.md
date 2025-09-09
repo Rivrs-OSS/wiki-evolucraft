@@ -17,10 +17,10 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><span style="color:green;"><strong>Meow</strong></span></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Item/Meow.png" alt="">
+        <img src="../../.gitbook/assets/Jobs/BoostRichesse.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Item/Meow.png" alt="">
+        <img src="../../.gitbook/assets/Jobs/BoostRichesse.png" alt="">
       </figure>
     </td>
     <td>
