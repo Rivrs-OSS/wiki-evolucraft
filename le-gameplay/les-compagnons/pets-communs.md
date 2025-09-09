@@ -31,8 +31,8 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
       <p><mark style="color:green;"><strong>Niveau 20</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Chasseur 🗡️</strong></mark></p>
     </td>
     <td>
-      <p> * Œuf de familier Émeraude</p>
-      <p> * Œuf de familier Commun</p>
+      <p> * Œuf de familier (Caisse Émeraude ✳️)</p>
+      <p> * Œuf de familier Commun (Palier 7 de vote)</p>
     </td>
   </tr>
   <tr>
@@ -53,8 +53,8 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
       <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Pêcheur 🎣</strong></mark></p>
     </td>
     <td>
-      <p> * Œuf de familier Émeraude</p>
-      <p> * Œuf de familier Commun</p>
+      <p> * Œuf de familier (Caisse Émeraude ✳️)</p>
+      <p> * Œuf de familier Commun (Palier 7 de vote)</p>
     </td>
   </tr>
   <tr>
@@ -75,8 +75,8 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
       <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>+ 1.000</strong></mark> 💰/h</p>
     </td>
     <td>
-      <p> * Œuf de familier Émeraude</p>
-      <p> * Œuf de familier Commun</p>
+      <p> * Œuf de familier (Caisse Émeraude ✳️)</p>
+      <p> * Œuf de familier Commun (Palier 7 de vote)</p>
     </td>
   </tr>
   <tr>
@@ -98,8 +98,8 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
 Défense</strong></mark> +2</p>
     </td>
     <td>
-      <p> * Œuf de familier Émeraude</p>
-      <p> * Œuf de familier Commun</p>
+      <p> * Œuf de familier (Caisse Émeraude ✳️)</p>
+      <p> * Œuf de familier Commun (Palier 7 de vote)</p>
     </td>
   </tr>
   <tr>
@@ -120,8 +120,8 @@ Défense</strong></mark> +2</p>
       <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>🏃‍♂️ Vitesse</strong></mark> +1</p>
     </td>
     <td>
-      <p> * Œuf de familier Émeraude</p>
-      <p> * Œuf de familier Commun</p>
+      <p> * Œuf de familier (Caisse Émeraude ✳️)</p>
+      <p> * Œuf de familier Commun (Palier 7 de vote)</p>
     </td>
   </tr>
   <tr>
@@ -142,8 +142,8 @@ Défense</strong></mark> +2</p>
       <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>Célérité 1</strong></mark></p>
     </td>
     <td>
-      <p> * Œuf de familier Émeraude</p>
-      <p> * Œuf de familier Commun</p>
+      <p> * Œuf de familier (Caisse Émeraude ✳️)</p>
+      <p> * Œuf de familier Commun (Palier 7 de vote)</p>
     </td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ Défense</strong></mark> +2</p>
       <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>Célérité 1</strong></mark></p>
     </td>
     <td>
-      <p> * Œuf de famillier (Ciasse Draconique 🐉)</p>
+      <p> * Œuf de famillier (Caisse Draconique 🐉)</p>
     </td>
   </tr>
   <tr>
