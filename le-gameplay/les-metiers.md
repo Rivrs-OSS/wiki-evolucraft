@@ -66,7 +66,7 @@ Les différences étant <mark style="color:green;">progressives</mark>, c’est 
 
 ### 🔸 Booster de métiers 💥  
 Les <mark style="color:green;">boosters de métiers</mark> multiplient vos <mark style="color:green;">revenus</mark> ou votre <mark style="color:green;">xp</mark> pendant une durée limitée.  
-Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses) ou à l’[<mark style="color:green;">hôtel des ventes</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hôtel-des-ventes).  
+Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses) ou à l’[<mark style="color:green;">hôtel des ventes</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).  
 
 #### 🔷 Booster de savoir 🟢  
 Augmente l’<mark style="color:green;">xp métiers</mark> gagnée à chaque action.
