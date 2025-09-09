@@ -254,7 +254,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:yellow;"><strong>Clocher</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Petite-Feuille.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Clocher.png" alt="">
       </figure>
     </td>
     <td>
