@@ -27,7 +27,7 @@ Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action<
 
 Également, lorsque vous passez un niveau dans votre métier, vous pouvez récupérer de l'argent en faisant la commande <mark style="color:green;">`/jobs claim`</mark>. Elle vous donnera les récompenses de paliers de tous les métiers atteints.
 
-Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons"><mark style="color:green;">les métiers 👷‍♂️</mark></a>.
+Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : <a href="https://wiki.evolucraft.fr/le-gameplay/les-metiers"><mark style="color:green;">les métiers 👷‍♂️</mark></a>.
 
 ## 🔶 <mark style="color:green;">Les clés de vote 🗝️</mark>
 
