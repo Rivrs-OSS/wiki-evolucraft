@@ -1,6 +1,7 @@
 ---
 description: Retrouvez ici afin de connaitre la solution pour avoir le pack de ressource du serveur même avec un shaderpack !
 ---
+# 
 
 ## <mark style="color:green;">💠 Comment avoir le pack de ressources activé à ma connexion ? 🖼️</mark>
 
