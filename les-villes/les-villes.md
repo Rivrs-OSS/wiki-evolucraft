@@ -84,7 +84,7 @@ Dans ce menu Divers, vous pouvez trouver l’aspect visuel ainsi que les informa
 
 Les sous-zones permettent de définir une région d’un point A à un point B à l’intérieur de la ville (cube ou parallélépipède). Elles permettent de restreindre ou d’ouvrir des permissions à certains joueurs dans une partie spécifique de la ville, sans leur donner accès aux autres zones. C’est souvent utilisé pour des champs publics, des locations ou la gestion de la ville.
 
-Nous vous invitons à lire cette page du wiki pour en savoir plus sur les sous-zones et leur création : **[<mark style="color:green;">Les Sous-Zones 🗃️</mark>](https://wiki.evolucraft.fr/les-villes/les-sous-zones)**
+Nous vous invitons à lire cette page du wiki pour en savoir plus sur les sous-zones et leur création : **[<mark style="color:green;">Les Sous-Zones 🗃️</mark>](https://wiki.evolucraft.fr/le-monde-des-villes/les-sous-zones)**
 
 ### 🔶 <mark style="color:green;">Téléportation 📌</mark>
 
@@ -112,7 +112,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les rôles
 
 Les niveaux de ville permettent d’augmenter le nombre de claims lorsque vous atteignez certains paliers. Ils permettent de claim au fur et à mesure de votre avancée sur le serveur et offrent à tous la possibilité de créer et développer leur ville.
 
-Nous vous invitons à lire cette page du wiki pour connaître les paliers de chaque niveau de ville : **[<mark style="color:green;">Les Niveaux de Ville 🔝</mark>](https://wiki.evolucraft.fr/les-villes/les-niveaux-de-ville)**
+Nous vous invitons à lire cette page du wiki pour connaître les paliers de chaque niveau de ville : **[<mark style="color:green;">Les Niveaux de Ville 🔝</mark>](https://wiki.evolucraft.fr/le-monde-des-villes/les-niveaux-de-ville)**
 
 ### 🔶 <mark style="color:green;">Paramètres de ville ⚙️</mark>
 
