@@ -2,7 +2,7 @@
 description: Retrouvez ici le tuto pour savoir comment se créer une petite richesse en début de partie.
 ---
 
-# 💠 Comment se faire de l'argent facilement sur le serveur ? 💸
+# 💸 Comment se faire de l'argent facilement sur le serveur ?
 
 L'argent sur ce serveur est indispensable pour monter ses rangs, faire évoluer sa ville ou encore acheter des services ou des items aux joueurs. Mais en tant que nouveau joueur, quels sont les moyens d'avoir une petite base d'argent pour subvenir à ses besoins ? Alors voici quelques astuces pour se faire de l'argent rapidement, sans mendier !
 
