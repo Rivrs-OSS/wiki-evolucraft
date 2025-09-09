@@ -8,19 +8,19 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><span style="color:green;"><strong>Nom 🏷️</strong></span></td>
-    <td><span style="color:green;"><strong>Image de l'item 🖼️</strong></span></td>
-    <td><span style="color:green;"><strong>Aventages 💪</strong></span></td>
-    <td><span style="color:green;"><strong>Obtentions 🔍</strong></span></td>
+    <td><mark style="color:green;"><strong>Nom 🏷️</strong></mark></td>
+    <td><mark style="color:green;"><strong>Image de l'item 🖼️</strong></mark></td>
+    <td><mark style="color:green;"><strong>Aventages 💪</strong></mark></td>
+    <td><mark style="color:green;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Meow</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Meow</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Meow.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/MeowShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/MeowShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -36,13 +36,13 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Duck</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Duck</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Duck.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Duck.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/DuckShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/DuckShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -58,13 +58,13 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Lapinou</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Lapinou</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Lapinou.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Lapinou.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/LapinouShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/LapinouShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -80,13 +80,13 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Nugget</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Nugget</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Nugget.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Nugget.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/NuggetShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/NuggetShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -103,13 +103,13 @@ Défense</strong></mark> +2</p>
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Pike</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Pike</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Pike.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Pike.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/PikeShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/PikeShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -125,13 +125,13 @@ Défense</strong></mark> +2</p>
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Surt</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Surt</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Surt.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Surt.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/SurtShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/SurtShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -147,10 +147,10 @@ Défense</strong></mark> +2</p>
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Potato</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Potato</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Potato.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Potato.png" alt="">
       </figure>
     </td>
     <td>
@@ -165,10 +165,10 @@ Défense</strong></mark> +2</p>
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Coka</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Coka</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Coka.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Coka.png" alt="">
       </figure>
     </td>
     <td>
@@ -183,10 +183,10 @@ Défense</strong></mark> +2</p>
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>The Reaper</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>The Reaper</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/TheReaper.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/TheReaper.png" alt="">
       </figure>
     </td>
     <td>
@@ -201,10 +201,10 @@ Défense</strong></mark> +2</p>
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Olaf</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Olaf</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Olaf.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Olaf.png" alt="">
       </figure>
     </td>
     <td>
@@ -219,10 +219,10 @@ Défense</strong></mark> +2</p>
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Chimère</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Chimère</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Chimère.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Chimère.png" alt="">
       </figure>
     </td>
     <td>
@@ -237,10 +237,10 @@ Défense</strong></mark> +2</p>
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Cot-Cot</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Cot-Cot</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Cot-Cot.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Cot-Cot.png" alt="">
       </figure>
     </td>
     <td>
@@ -255,10 +255,10 @@ Défense</strong></mark> +2</p>
     </td>
   </tr>
   <tr>
-    <td align="center"><span style="color:green;"><strong>Petite-Feuille</strong></span></td>
+    <td align="center"><mark style="color:green;"><strong>Petite-Feuille</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Petite-Feuille.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Petite-Feuille.png" alt="">
       </figure>
     </td>
     <td>
