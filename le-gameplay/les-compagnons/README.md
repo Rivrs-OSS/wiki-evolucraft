@@ -97,6 +97,13 @@ Maintenant que vous savez tout sur les <mark style="color:green;">**compagnons**
 
 
 
+
+
+
+
+
+
+
 <table><thead><tr><th width="259" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
   <tr>
