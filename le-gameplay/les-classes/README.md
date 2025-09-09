@@ -64,15 +64,16 @@ Après avoir découvert les <mark style="color:green;">classes</mark>, vous hés
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Readme/ApercuStat.png" alt=""><figcaption><p><strong>Aperçu des Statistiques de la <mark style="color:green;">Classe Guerrier Dragon</mark></strong></p></figcaption></figure>
 
-* <mark style="color:green;">**Vie ❤️**</mark> : Permet d’avoir plus de points de vie.
-* <mark style="color:green;">**Défense 🛡️**</mark> : Permet de prendre moins de dégâts.
-* <mark style="color:green;">**Régénération 💕**</mark> : Permet de régénérer plus vite sa vie.
-* <mark style="color:green;">**Mana 🧪**</mark> : Permet d’avoir une plus grande capacité de mana.
-* <mark style="color:green;">**Vitesse 🏃‍♂️**</mark> : Permet d’être plus rapide.
-* <mark style="color:green;">**Résistance ⚔️**</mark> : Permet de réduire les dégâts de chute et autres.
-* <mark style="color:green;">**Dégâts Critiques 💀**</mark> : Permet de faire plus mal en coup critique.
-* <mark style="color:green;">**Chance de Critique 🥊**</mark> : Permet d’augmenter la probabilité de réaliser un coup critique.
-* <mark style="color:green;">**Dextérité 🐱‍🏍**</mark> : Permet de taper plus rapidement.
+* <mark style="color:red;">**Vie ❤️**</mark> : Permet d’avoir plus de points de vie.
+* <mark style="color:blue;">**Défense 🛡️**</mark> : Permet de prendre moins de dégâts.
+* <mark style="color:red;">**Régénération 💕**</mark> : Permet de régénérer plus vite sa vie.
+* <mark style="color:yellow;">**Mana 🧪**</mark> : Permet d’avoir une plus grande capacité de mana.
+* <mark style="color:blue;">**Vitesse 🏃‍♂️**</mark> : Permet d’être plus rapide.
+* <mark style="color:purple;">**Force 🗡️**</mark> : Permet de réduire les dégâts de chute et autres.
+* <mark style="color:purple;">**Résistance ⚔️**</mark> : Permet de réduire les dégâts de chute et autres.
+* <mark style="color:orange;">**Dégâts Critiques 💀**</mark> : Permet de faire plus mal en coup critique.
+* <mark style="color:red;">**Chance de Critique 🥊**</mark> : Permet d’augmenter la probabilité de réaliser un coup critique.
+* <mark style="color:blue;">**Dextérité 🐈**</mark> : Permet de taper plus rapidement.
 
 ## <mark style="color:green;">💠 Comment augmenter de niveau dans ma classe ? 🆙</mark>
 
@@ -86,7 +87,7 @@ L’<mark style="color:green;">XP</mark> donnée par les <mark style="color:gree
 ### <mark style="color:blue;">🔸 La box de vote 🧰</mark>
 Pour ceux qui ne sont pas fans des <mark style="color:green;">donjons</mark>, il existe un autre moyen de faire évoluer votre <mark style="color:green;">classe</mark> !
 
-Lorsque vous <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#-les-clés-de-vote"><mark style="color:green;">votez sur le serveur</mark></a>, vous avez une chance d’obtenir la récompense <mark style="color:green;">"1000 XP CLASSE"</mark>, ce qui vous permettra de progresser plus rapidement dans les niveaux de classe !
+Lorsque vous <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#les-cles-de-vote"><mark style="color:green;">votez sur le serveur</mark></a>, vous avez une chance d’obtenir la récompense <mark style="color:green;">"1000 XP CLASSE"</mark>, ce qui vous permettra de progresser plus rapidement dans les niveaux de classe !
 
 ## <mark style="color:green;">💠 Comment débloquer, installer et utiliser les compétences ? 🥏</mark>
 
