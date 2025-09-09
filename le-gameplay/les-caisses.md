@@ -8,127 +8,127 @@ description: Retrouvez ici toutes les informations sur les boxs du serveur.
 **Tuto : Maximiser sa Progression sur Evolucraft**
 {% endembed %}
 
-Afin d’apporter un aspect aléatoire et dynamique à votre aventure, Evolucraft propose un système de caisses. Ces dernières contiennent diverses <span style="color:green;">récompenses</span> et permettent de varier l’<span style="color:green;">expérience de jeu</span> en donnant accès à des <span style="color:green;">objets</span> ou <span style="color:green;">avantages exclusifs</span>.
+Afin d’apporter un aspect aléatoire et dynamique à votre aventure, Evolucraft propose un système de caisses. Ces dernières contiennent diverses <mark style="color:green;">récompenses</mark> et permettent de varier l’<mark style="color:green;">expérience de jeu</mark> en donnant accès à des <mark style="color:green;">objets</mark> ou <mark style="color:green;">avantages exclusifs</mark>.
 
 Il existe deux types de caisse :
 
-## 💠 <span style="color:green;">Les boxs permanentes 🌞</span>
+## 💠 <mark style="color:green;">Les boxs permanentes 🌞</mark>
 
-Ces boxs sont présentes et resteront <span style="color:green;">accessibles</span> sur le serveur pendant toute la version. Ces dernières vous permettent de gagner des <span style="color:green;">items</span> améliorant votre <span style="color:green;">gameplay</span> comme des <span style="color:green;">outils</span>, des <span style="color:green;">pets</span>, des <span style="color:green;">boosters</span> et autres items très intéressants que nous vous laisserons découvrir...
+Ces boxs sont présentes et resteront <mark style="color:green;">accessibles</mark> sur le serveur pendant toute la version. Ces dernières vous permettent de gagner des <mark style="color:green;">items</mark> améliorant votre <mark style="color:green;">gameplay</mark> comme des <mark style="color:green;">outils</mark>, des <mark style="color:green;">pets</mark>, des <mark style="color:green;">boosters</mark> et autres items très intéressants que nous vous laisserons découvrir...
 
-### 🔸 <span style="color:green;">Caisse Vote 🗝️</span>
+### 🔸 <mark style="color:green;">Caisse Vote 🗝️</mark>
 
-#### 🔹 <span style="color:blue;">Son obtention 🤔</span>
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <span style="color:green;">clé</span> de la Caisse Vote s'obtient en <span style="color:green;">votant</span> pour le serveur. Nous vous laissons regarder le petit tutoriel pour savoir <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent"><span style="color:green;">comment voter pour le serveur</span></a> ! 🧐
+La <mark style="color:green;">clé</mark> de la Caisse Vote s'obtient en <mark style="color:green;">votant</mark> pour le serveur. Nous vous laissons regarder le petit tutoriel pour savoir <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#comment-voter-sur-le-serveur"><mark style="color:green;">comment voter pour le serveur</mark></a> ! 🧐
 
-#### 🔹 <span style="color:blue;">Ses récompenses 🎰</span>
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
 <figure><img src="../.gitbook/assets/Les_Caisses/Vote.png" alt=""></figure>
 
-| <span style="color:green;">**Récompense**</span>                                                                                    | **Pourcentage d'obtention**
+| <mark style="color:green;">**Récompense**</mark>                                                                                    | **Pourcentage d'obtention**
 | ------------------------------------------------------------------------------------------------- | ---------- |
-| <span style="color:green;">**Épée de l'Aventurier**</span>                                        | **4,22%**  |
-| <span style="color:green;">**Pioche de l'Aventurier**</span>                                      | **4,22%**  |
-| <span style="color:green;">**Houe de l'Aventurier**</span>                                        | **4,22%**  |
-| <span style="color:green;">**Canne à Pêche de l'Aventurier**</span>                               | **4,22%**  |
-| <span style="color:green;">**Hache de l'Aventurier**</span>                                       | **4,22%**  |
-| <span style="color:green;">**5.000💰**</span>                                                     | **4,22%**  |
-| <span style="color:green;">**10.000💰**</span>                                                    | **4,22%**  |
-| <span style="color:green;">**10 Gemmes 💎**</span>                                                | **4,22%**  |
-| <span style="color:green;">**Spawner Aléatoire**</span>                                           | **4,22%**  |
-| <span style="color:green;">**Booster Aléatoire de 10% pendant 30 minutes**</span>                 | **4,21%**  |
-| <span style="color:green;">**Pierre de Téléportation Commun**</span>                              | **4,21%**  |
-| <span style="color:green;">**2 000 XP sur un Métier Aléatoire**</span>                            | **4,21%**  |
-| <span style="color:green;">**1 000 XP Classe**</span>                                             | **4,21%**  |
-| <span style="color:green;">**1 395 Point d'XP (Vanilla)**</span>                                  | **4,21%**  |
-| <span style="color:green;">**Plume de Fly de 10 Minutes**</span>                                  | **4,21%**  |
-| <span style="color:green;">**Plume de Fly de 30 Minutes**</span>                                  | **4,21%**  |
-| <span style="color:green;">**Parchemin d'Aventure Aléatoire**</span>                              | **4,21%**  |
-| <span style="color:green;">**2 Bonbons à la Pomme**</span>                                        | **4,21%**  |
-| <span style="color:green;">**Livre d'Echantement Aléatoire**</span>                               | **4,21%**  |
-| <span style="color:green;">**Entonnoir**</span>                                                   | **4,21%**  |
-| <span style="color:green;">**2 Fragments de Netherite**</span>                                    | **4,21%**  |
-| <span style="color:green;">**Carapace de Shulker**</span>                                         | **4,21%**  |
-| <span style="color:green;">**Chapeau de Tyro `/cosmetics`**</span> _(Obtenable qu'une seule fois)_| **4,21%**  |
-| <span style="color:purple;">**Clé Cosmétique**</span>                                             | **1%**     |
-| <span style="color:green;">**Clé Émeraude**</span>                                                | **1%**     |
-| <span style="color:blue;">**<a href="https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premiumPremium"><span style="color:green;">24H de Premium 👑</span></a>**</span> | **1%**  |
-| <span style="color:red;">**Rat de Billy**</span> _(20% d'avoir la version Shiny)_                 | **0,05%**  |
+| <mark style="color:green;">**Épée de l'Aventurier**</mark>                                        | **4,22%**  |
+| <mark style="color:green;">**Pioche de l'Aventurier**</mark>                                      | **4,22%**  |
+| <mark style="color:green;">**Houe de l'Aventurier**</mark>                                        | **4,22%**  |
+| <mark style="color:green;">**Canne à Pêche de l'Aventurier**</mark>                               | **4,22%**  |
+| <mark style="color:green;">**Hache de l'Aventurier**</mark>                                       | **4,22%**  |
+| <mark style="color:green;">**5.000💰**</mark>                                                     | **4,22%**  |
+| <mark style="color:green;">**10.000💰**</mark>                                                    | **4,22%**  |
+| <mark style="color:green;">**10 Gemmes 💎**</mark>                                                | **4,22%**  |
+| <mark style="color:green;">**Spawner Aléatoire**</mark>                                           | **4,22%**  |
+| <mark style="color:green;">**Booster Aléatoire de 10% pendant 30 minutes**</mark>                 | **4,21%**  |
+| <mark style="color:green;">**Pierre de Téléportation Commun**</mark>                              | **4,21%**  |
+| <mark style="color:green;">**2 000 XP sur un Métier Aléatoire**</mark>                            | **4,21%**  |
+| <mark style="color:green;">**1 000 XP Classe**</mark>                                             | **4,21%**  |
+| <mark style="color:green;">**1 395 Point d'XP (Vanilla)**</mark>                                  | **4,21%**  |
+| <mark style="color:green;">**Plume de Fly de 10 Minutes**</mark>                                  | **4,21%**  |
+| <mark style="color:green;">**Plume de Fly de 30 Minutes**</mark>                                  | **4,21%**  |
+| <mark style="color:green;">**Parchemin d'Aventure Aléatoire**</mark>                              | **4,21%**  |
+| <mark style="color:green;">**2 Bonbons à la Pomme**</mark>                                        | **4,21%**  |
+| <mark style="color:green;">**Livre d'Echantement Aléatoire**</mark>                               | **4,21%**  |
+| <mark style="color:green;">**Entonnoir**</mark>                                                   | **4,21%**  |
+| <mark style="color:green;">**2 Fragments de Netherite**</mark>                                    | **4,21%**  |
+| <mark style="color:green;">**Carapace de Shulker**</mark>                                         | **4,21%**  |
+| <mark style="color:green;">**Chapeau de Tyro `/cosmetics`**</mark> _(Obtenable qu'une seule fois)_| **4,21%**  |
+| <mark style="color:purple;">**Clé Cosmétique**</mark>                                             | **1%**     |
+| <mark style="color:green;">**Clé Émeraude**</mark>                                                | **1%**     |
+| <mark style="color:blue;">**<a href="https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium"><mark style="color:green;">24H de Premium 👑</mark></a>**</mark> | **1%**  |
+| <mark style="color:red;">**Rat de Billy**</mark> _(20% d'avoir la version Shiny)_                 | **0,05%**  |
 
-### 🔸 <span style="color:purple;">Caisse Cosmétique 🎩</span>
+### 🔸 <mark style="color:purple;">Caisse Cosmétique 🎩</mark>
 
-#### 🔹 <span style="color:blue;">Son obtention 🤔</span>
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <span style="color:green;">clé</span> de la Caisse Cosmétique s'obtient en l'achetant dans le <span style="color:green;">**`/boutique`**</span> au prix de <span style="color:green;">500 Gemmes 💎</span>, ou en participant à des <span style="color:green;">events</span>.
+La <mark style="color:green;">clé</mark> de la Caisse Cosmétique s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de <mark style="color:green;">500 Gemmes 💎</mark>, ou en participant à des <mark style="color:green;">events</mark>.
 
-#### 🔹 <span style="color:blue;">Ses récompenses 🎰</span>
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
 <figure><img src="../.gitbook/assets/Les_Caisses/Cosmetique.png" alt=""></figure>
 
-| <span style="color:green;">**Récompense**</span>                            | **Pourcentage d'obtention**                  |
+| <mark style="color:green;">**Récompense**</mark>                            | **Pourcentage d'obtention**                  |
 | --------------------------------------------------------------------------- | -------------------------------------------- |
-| <span style="color:purple;">**Chapeau pastèque**</span>                     | **5,55%**                                    |
-| <span style="color:purple;">**Sac de pièce**</span>                         | **5,55%**                                    |
-| <span style="color:purple;">**Tête de télévision**</span>                   | **5,55%**                                    |
-| <span style="color:purple;">**Bob**</span>                                  | **5,55%**                                    |
-| <span style="color:purple;">**Chapeau de cowboy**</span>                    | **5,55%**                                    |
-| <span style="color:purple;">**Chapeau de Poulet**</span>                    | **5,55%**                                    |
-| <span style="color:purple;">**Coffre au Trésor**</span>                     | **5,55%**                                    |
-| <span style="color:purple;">**Hache de Noël**</span>                        | **5,55%**                                    |
-| <span style="color:purple;">**Chapeau d'OVNI**</span>                       | **5,55%**                                    |
-| <span style="color:purple;">**Chaussette de Noël**</span>                   | **5,55%**                                    |
-| <span style="color:purple;">**Coffre maléfique**</span>                     | **5,55%**                                    |
-| <span style="color:purple;">**Montgolfière**</span>                         | **5,55%**                                    |
-| <span style="color:purple;">**Méduse**</span>                               | **5,55%**                                    |
-| <span style="color:purple;">**Requin**</span>                               | **5,55%**                                    |
-| <span style="color:purple;">**Fourche de Krampus**</span>                   | **5,55%**                                    |
-| <span style="color:purple;">**Visière cybernétique**</span>                 | **5,55%**                                    |
-| <span style="color:purple;">**Chapeau de campagne**</span>                  | **5,55%**                                    |
-| <span style="color:purple;">**Masque Tiki**</span>                          | **5,55%**                                    |
-| <span style="color:purple;">**Bâton de Casse-Noisette**</span>              | **5,55%**                                    |
-| <span style="color:purple;">**Sceptre Fantôme**</span>                      | **5,55%**                                    |
+| <mark style="color:purple;">**Chapeau pastèque**</mark>                     | **5,55%**                                    |
+| <mark style="color:purple;">**Sac de pièce**</mark>                         | **5,55%**                                    |
+| <mark style="color:purple;">**Tête de télévision**</mark>                   | **5,55%**                                    |
+| <mark style="color:purple;">**Bob**</mark>                                  | **5,55%**                                    |
+| <mark style="color:purple;">**Chapeau de cowboy**</mark>                    | **5,55%**                                    |
+| <mark style="color:purple;">**Chapeau de Poulet**</mark>                    | **5,55%**                                    |
+| <mark style="color:purple;">**Coffre au Trésor**</mark>                     | **5,55%**                                    |
+| <mark style="color:purple;">**Hache de Noël**</mark>                        | **5,55%**                                    |
+| <mark style="color:purple;">**Chapeau d'OVNI**</mark>                       | **5,55%**                                    |
+| <mark style="color:purple;">**Chaussette de Noël**</mark>                   | **5,55%**                                    |
+| <mark style="color:purple;">**Coffre maléfique**</mark>                     | **5,55%**                                    |
+| <mark style="color:purple;">**Montgolfière**</mark>                         | **5,55%**                                    |
+| <mark style="color:purple;">**Méduse**</mark>                               | **5,55%**                                    |
+| <mark style="color:purple;">**Requin**</mark>                               | **5,55%**                                    |
+| <mark style="color:purple;">**Fourche de Krampus**</mark>                   | **5,55%**                                    |
+| <mark style="color:purple;">**Visière cybernétique**</mark>                 | **5,55%**                                    |
+| <mark style="color:purple;">**Chapeau de campagne**</mark>                  | **5,55%**                                    |
+| <mark style="color:purple;">**Masque Tiki**</mark>                          | **5,55%**                                    |
+| <mark style="color:purple;">**Bâton de Casse-Noisette**</mark>              | **5,55%**                                    |
+| <mark style="color:purple;">**Sceptre Fantôme**</mark>                      | **5,55%**                                    |
 
 {% hint style="info" %}
 **REMARQUE 🔍 : Lorsque vous avez tous les cosmétiques que la box propose, alors vous ne pouvez plus en obtenir**.
 {% endhint %}
 
-### 🔸 <span style="color:green;">Caisse Émeraude ✳️</span>
+### 🔸 <mark style="color:green;">Caisse Émeraude ✳️</mark>
 
-#### 🔹 <span style="color:blue;">Son obtention 🤔</span>
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <span style="color:green;">clé</span> de la Caisse Émeraude s'obtient en l'achetant dans le <span style="color:green;">**`/boutique`**</span> au prix de <span style="color:green;">350 Gemmes 💎</span>, ou en participant à des <span style="color:green;">events</span>.
+La <mark style="color:green;">clé</mark> de la Caisse Émeraude s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de <mark style="color:green;">350 Gemmes 💎</mark>, ou en participant à des <mark style="color:green;">events</mark>.
 
-#### 🔹 <span style="color:blue;">Ses récompenses 🎰</span>
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
 <figure><img src="../.gitbook/assets/Les_Caisses/Emeraude.png" alt=""></figure>
 
-| <span style="color:green;">**Récompense**</span>                                                           | **Pourcentage d'obtention**                  |
+| <mark style="color:green;">**Récompense**</mark>                                                           | **Pourcentage d'obtention**                  |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| <span style="color:green;">**Épée en Émeraude**</span> _(20% d'avoir la version Shiny)_                    | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Pioche en Émeraude**</span> _(20% d'avoir la version Shiny)_                  | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Hache en Émeraude**</span> _(20% d'avoir la version Shiny)_                   | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Houe en Émeraude**</span> _(20% d'avoir la version Shiny)_                    | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Canne à Pêche en Émeraude**</span> _(20% d'avoir la version Shiny)_           | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Pelle en Émeraude**</span> _(20% d'avoir la version Shiny)_                   | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Sceptre en Émeraude**</span>                                                  | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Oeuf de Familier**</span> _(20% d'avoir la version Shiny)_                    | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**300.000💰**</span>                                                            | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Spawner Aléatoire**</span>                                                    | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Booster Aléatoire de 25% pendant 1H**</span>                                  | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:green;">**Carte de Classe Aléatoire**</span>                                            | <span style="color:yellow;">**5,55%**</span> |
-| <span style="color:green;">**Pierre de Téléportation**</span>                                              | <span style="color:yellow;">**5,55%**</span> |
-| <span style="color:green;">**3 Parchemin d'Aventure Difficile**</span>                                     | <span style="color:blue;">**5,55%**</span>   |
-| <span style="color:green;">**3 Bonbons à la Myrtille**</span>                                              | <span style="color:blue;">**5,55%**</span>   |
-| <span style="color:green;">**2 Clés Émeraude**</span>                                                      | <span style="color:green;">**5,55%**</span>  |
-| <span style="color:red;">**Clé Rubis**</span>                                                              | <span style="color:red;">**5,55%**</span>    |
-| <span style="color:yellow;">**Totem d'Immortalité**</span>                                                 | <span style="color:yellow;">**5,55%**</span> |
+| <mark style="color:green;">**Épée en Émeraude**</mark> _(20% d'avoir la version Shiny)_                    | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Pioche en Émeraude**</mark> _(20% d'avoir la version Shiny)_                  | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Hache en Émeraude**</mark> _(20% d'avoir la version Shiny)_                   | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Houe en Émeraude**</mark> _(20% d'avoir la version Shiny)_                    | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Canne à Pêche en Émeraude**</mark> _(20% d'avoir la version Shiny)_           | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Pelle en Émeraude**</mark> _(20% d'avoir la version Shiny)_                   | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Sceptre en Émeraude**</mark>                                                  | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Oeuf de Familier**</mark> _(20% d'avoir la version Shiny)_                    | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**300.000💰**</mark>                                                            | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Spawner Aléatoire**</mark>                                                    | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Booster Aléatoire de 25% pendant 1H**</mark>                                  | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:green;">**Carte de Classe Aléatoire**</mark>                                            | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:green;">**Pierre de Téléportation**</mark>                                              | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:green;">**3 Parchemin d'Aventure Difficile**</mark>                                     | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:green;">**3 Bonbons à la Myrtille**</mark>                                              | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:green;">**2 Clés Émeraude**</mark>                                                      | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:red;">**Clé Rubis**</mark>                                                              | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:yellow;">**Totem d'Immortalité**</mark>                                                 | <mark style="color:yellow;">**5,55%**</mark> |
 
 ### 🔸 <mark style="color:red;">Caisse Rubis 🔻</mark>
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <span style="color:green;">clé</span> de la Caisse Rubis s'obtient en l'achetant dans le <span style="color:green;">**`/boutique`**</span> au prix de <span style="color:green;">650 Gemmes 💎</span>, ou en participant à des <span style="color:green;">events</span>.
+La <mark style="color:green;">clé</mark> de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de <mark style="color:green;">650 Gemmes 💎</mark>, ou en participant à des <mark style="color:green;">events</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -153,7 +153,7 @@ La <span style="color:green;">clé</span> de la Caisse Rubis s'obtient en l'ache
 | <mark style="color:red;">**3 Parchemins d'Aventure Expert**</mark>                           | **5,82%**       |
 | <mark style="color:red;">**3 Bonbons au Raisin**</mark>                                   | **5,82%**       |
 | <mark style="color:red;">**2 Clés Rubis**</mark>                                             | **5,82%**       |
-| <a href="https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premiumPremium"><mark style="color:red;">**Grade Héros ⚜️**</mark></a> _(Sur la version version)_                                              | **1%**           |
+| <a href="https://wiki.evolucraft.fr/le-gameplay/les-grades#heros"><mark style="color:red;">**Grade Héros ⚜️**</mark></a> _(Sur la version version)_                                              | **1%**           |
 
 ### 🔸 <mark style="color:yellow;">Caisse Jackpot 🎰</mark>
 
@@ -187,9 +187,9 @@ Une ligne indiquant *"Vos jetons"* vous précisera le nombre exact que vous poss
 
 ## 💠 <mark style="color:green;">Les caisses Mis à Jour ⛄</mark>
 
-Ces <span style="color:green;">caisses spéciales</span> apparaissent généralement à la suite de <span style="color:green;">mises à jour</span> ou lors d’<span style="color:green;">événements particuliers</span>. Elles renferment des <span style="color:green;">objets</span> qui peuvent considérablement <span style="color:green;">enrichir votre gameplay</span>, en apportant de <span style="color:green;">nouvelles possibilités</span> ou en renforçant vos <span style="color:green;">acquis</span>. Toutefois, ces <span style="color:green;">items</span> restent assez <span style="color:green;">rares</span> pour s'en procurer !
+Ces <mark style="color:green;">caisses spéciales</mark> apparaissent généralement à la suite de <mark style="color:green;">mises à jour</mark> ou lors d’<mark style="color:green;">événements particuliers</mark>. Elles renferment des <mark style="color:green;">objets</mark> qui peuvent considérablement <mark style="color:green;">enrichir votre gameplay</mark>, en apportant de <mark style="color:green;">nouvelles possibilités</mark> ou en renforçant vos <mark style="color:green;">acquis</mark>. Toutefois, ces <mark style="color:green;">items</mark> restent assez <mark style="color:green;">rares</mark> pour s'en procurer !
 
-Si vous réussissez à obtenir une <span style="color:green;">clé</span> afin d'ouvrir l'une des <span style="color:green;">boxs</span> présentées ci-dessous, vous pourrez alors l'ouvrir dans un <span style="color:green;">bâtiment</span> situé derrière le bâtiment des <span style="color:green;">caisses permanentes</span>.
+Si vous réussissez à obtenir une <mark style="color:green;">clé</mark> afin d'ouvrir l'une des <mark style="color:green;">boxs</mark> présentées ci-dessous, vous pourrez alors l'ouvrir dans un <mark style="color:green;">bâtiment</mark> situé derrière le bâtiment des <mark style="color:green;">caisses permanentes</mark>.
 
 <figure><img src="../.gitbook/assets/Les_Caisses/AncienneBox.png" alt=""></figure>
 
@@ -197,7 +197,7 @@ Si vous réussissez à obtenir une <span style="color:green;">clé</span> afin d
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Draconique s'obtient grâce à <span style="color:green;">la clé aléatoire</span> avec une petite chance de l'obtenir de <span style="color:green;">12,5%</span>.
+La clé de la Caisse Draconique s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -228,7 +228,7 @@ La clé de la Caisse Draconique s'obtient grâce à <span style="color:green;">l
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Abyssal s'obtient grâce à <span style="color:green;">la clé aléatoire</span> avec une petite chance de l'obtenir de <span style="color:green;">12,5%</span>.
+La clé de la Caisse Abyssal s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -259,7 +259,7 @@ La clé de la Caisse Abyssal s'obtient grâce à <span style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse aux Trésors s'obtient grâce à <span style="color:green;">la clé aléatoire</span> avec une petite chance de l'obtenir de <span style="color:green;">12,5%</span>.
+La clé de la Caisse aux Trésors s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -290,7 +290,7 @@ La clé de la Caisse aux Trésors s'obtient grâce à <span style="color:green;"
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Halloween s'obtient grâce à <span style="color:green;">la clé aléatoire</span> avec une petite chance de l'obtenir de <span style="color:green;">12,5%</span>.
+La clé de la Caisse Halloween s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -321,7 +321,7 @@ La clé de la Caisse Halloween s'obtient grâce à <span style="color:green;">la
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Givrée s'obtient grâce à <span style="color:green;">la clé aléatoire</span> avec une petite chance de l'obtenir de <span style="color:green;">12,5%</span>.
+La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -352,7 +352,7 @@ La clé de la Caisse Givrée s'obtient grâce à <span style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Saint Valentin s'obtient grâce à <span style="color:green;">la clé aléatoire</span> avec une petite chance de l'obtenir de <span style="color:green;">12,5%</span>.
+La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -383,7 +383,7 @@ La clé de la Caisse Saint Valentin s'obtient grâce à <span style="color:green
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Saint Patrick s'obtient grâce à <span style="color:green;">la clé aléatoire</span> avec une petite chance de l'obtenir de <span style="color:green;">12,5%</span>.
+La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -414,7 +414,7 @@ La clé de la Caisse Saint Patrick s'obtient grâce à <span style="color:green;
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Pâques s'obtient grâce à <span style="color:green;">la clé aléatoire</span> avec une petite chance de l'obtenir de <span style="color:green;">12,5%</span>.
+La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -445,7 +445,7 @@ La clé de la Caisse Pâques s'obtient grâce à <span style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Summer s'obtient grâce à <span style="color:green;">la clé aléatoire</span> avec une petite chance de l'obtenir de <span style="color:green;">12,5%</span>.
+La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -474,5 +474,5 @@ La clé de la Caisse Summer s'obtient grâce à <span style="color:green;">la cl
 
 ### 🔸 <mark style="color:blue;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
-**Et voilà, vous connaissez désormais toutes les <span style="color:green;">caisses</span> du serveur ! À vous de jouer avec les dernières ! 😎**
+**Et voilà, vous connaissez désormais toutes les <mark style="color:green;">caisses</mark> du serveur ! À vous de jouer avec les dernières ! 😎**
 _Nous rappelons que jouer à la loterie comporte des risques d’addiction, faites-y attention ! 🤗_
