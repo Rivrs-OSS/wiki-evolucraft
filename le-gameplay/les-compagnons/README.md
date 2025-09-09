@@ -78,7 +78,7 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**3 sauvegardes**<
 
 ## 💠 La liste des compagnons 🧸
 
-<figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
 Il existe au total <mark style="color:green;">**88 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.  
 Ils sont classés par <mark style="color:green;">**rareté**</mark> :
