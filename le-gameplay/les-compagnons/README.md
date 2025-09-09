@@ -83,11 +83,11 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**3 sauvegardes**<
 Il existe au total <mark style="color:green;">**88 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.  
 Ils sont classés par <mark style="color:green;">**rareté**</mark> :
 
-* <mark style="color:green;">**Commun**</mark> (19) dont 6 shiny.  
-* <mark style="color:yellow;">**Rare**</mark> (19) dont 5 shiny.  
-* <mark style="color:blue;">**Épique**</mark> (29) dont 4 shiny.  
-* <mark style="color:purple;">**Légendaire**</mark> (15) dont 2 shiny.  
-* <mark style="color:red;">**Mythique**</mark> (6) dont 1 shiny.  
+* <mark style="color:green;">**Commun 🐸**</mark> (19) dont 6 shiny.  
+* <mark style="color:yellow;">**Rare 🐤**</mark> (19) dont 5 shiny.  
+* <mark style="color:blue;">**Épique 🐟**</mark> (29) dont 4 shiny.  
+* <mark style="color:purple;">**Légendaire 👾**</mark> (15) dont 2 shiny.  
+* <mark style="color:red;">**Mythique 🦞**</mark> (6) dont 1 shiny.  
 
 
 ....
