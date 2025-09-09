@@ -108,7 +108,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
         <img src="../../.gitbook/assets/Les_Compagnons/Items/Viserion.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Viserion.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/ViserionShiny.png" alt="">
       </figure>
     </td>
     <td>
