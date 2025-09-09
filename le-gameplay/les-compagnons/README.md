@@ -48,11 +48,16 @@ Cliquez gauche sur votre compagnon pour l’équiper en mode **PASSIF**.
 {% endhint %}
 
 ## 💠 Améliorer un compagnon 🆙
-
 Pour améliorer un compagnon et débloquer de nouveaux <mark style="color:green;">**avantages**</mark>, vous devez lui donner des <mark style="color:green;">**bonbons**</mark>.
 
-### 🔸 Les <mark style="color:green;">**bonbons**</mark>
-Ils s’obtiennent dans les <mark style="color:green;">**caisses**</mark> (hors Jackpot et Cosmétique), les <mark style="color:green;">**donjons**</mark>, les <mark style="color:green;">**parchemins**</mark> ou à l’<mark style="color:green;">**hôtel de vente**</mark>.  
+### 🔸 Étape 1 :
+En prenant en compte que votre pet est déjà équiper, faites un cliquez gauche sur votre compagnon pour le mettre en mode **ACTIF**. Cette manipulation le fera apparaitre à coté de vous.
+<figure><img src="../../.gitbook/assets/Les_Compagnons/Actif.png" alt=""><figcaption><p><strong>Compagnon en mode <mark style="color:green;">ACTIF</mark></strong></p></figcaption></figure>
+
+### 🔸 Étape 2 :
+Donnez lui des bonbons en faisant un clique droit sur votre compagnon.
+
+Les bonbons s’obtiennent dans les <mark style="color:green;">**caisses**</mark> (hors Jackpot et Cosmétique), les <mark style="color:green;">**donjons**</mark>, les <mark style="color:green;">**parchemins**</mark> ou à l’<mark style="color:green;">**hôtel de vente**</mark>.  
 Chaque type de bonbon donne une quantité d’XP différente :
 
 * <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _( +6 XP )_
