@@ -268,4 +268,24 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
       <p> * Œuf de famillier (Caisse Pâques 🥚)</p>
     </td>
   </tr>
+  <tr>
+    <td align="center"><mark style="color:yellow;"><strong>Nanook</strong></mark></td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Nanook.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+40%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Morues</strong></mark> au /shop</p>
+      <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 5.000</strong></mark> 💰/h</p>
+      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>🗡️ Force</strong></mark> +4</p>
+      <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>🏃‍♂️ Vitesse</strong></mark> +2</p>
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>ForgeMage 📖</strong></mark></p>
+    </td>
+    <td>
+      <p> * Loot d'un boss du Monde Noël ? </p>
+    </td>
+  </tr>
+</table>
+
 </table>
