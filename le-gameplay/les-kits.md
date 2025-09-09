@@ -100,29 +100,29 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 **ATTENTION ⚠️ : Ce kit n'est obtenable qu'en ayant acheté un grade Élite ou plus.**
 {% endhint %}
 
-## 💠 <mark style="color:blue;">Le /kit Légende 💞</mark>
+## 💠 <mark style="color:purple;">Le /kit Légende 💞</mark>
 
-* <mark style="color:blue;">**Casque en diamant**</mark> _(Protection 4 / Solidité 3 / Affinité aquatique)_
-* <mark style="color:blue;">**Plastron en diamant**</mark> _(Protection 4 / Solidité 3)_
-* <mark style="color:blue;">**Pantalon en diamant**</mark> _(Protection 4 / Solidité 3)_
-* <mark style="color:blue;">**Bottes en diamant**</mark> _(Protection 4 / Solidité 3 / Chute amortie 2)_
-* <mark style="color:blue;">**Épée en diamant**</mark> _(Tranchant 4 / Solidité 3 / Butin 2)_
-* <mark style="color:blue;">**Pioche en diamant**</mark> _(Efficacité 4 / Solidité 3 / Fortune 1)_
-* <mark style="color:blue;">**Pelle en diamant**</mark> _(Efficacité 4 / Solidité 3)_
-* <mark style="color:blue;">**Hache en diamant**</mark> _(Efficacité 4 / Solidité 3 / Fortune 1)_
-* <mark style="color:blue;">**Houe en diamant**</mark> _(Efficacité 3)_
-* <mark style="color:blue;">**Canne à pêche**</mark> _(Chance de la mer 3 / Solidité 3 / Appât 1)_
-* <mark style="color:blue;">**Bouclier**</mark> _(Solidité 3)_
-* <mark style="color:blue;">**64 steaks**</mark>
-* <mark style="color:blue;">**12 lingots d’or**</mark>
-* <mark style="color:blue;">**6 diamants**</mark>
-* <mark style="color:blue;">**24 lingots de fer**</mark>
-* <mark style="color:blue;">**32 lingots de cuivre**</mark>
-* <mark style="color:blue;">**48 lapis-lazuli**</mark>
-* <mark style="color:blue;">**32 redstone**</mark>
-* <mark style="color:blue;">**1 parchemin d’aventure (Expert)**</mark>
-* <mark style="color:blue;">**1 seau d’eau**</mark>
-* <mark style="color:blue;">**1 seau de lave**</mark>
+* <mark style="color:purple;">**Casque en diamant**</mark> _(Protection 4 / Solidité 3 / Affinité aquatique)_
+* <mark style="color:purple;">**Plastron en diamant**</mark> _(Protection 4 / Solidité 3)_
+* <mark style="color:purple;">**Pantalon en diamant**</mark> _(Protection 4 / Solidité 3)_
+* <mark style="color:purple;">**Bottes en diamant**</mark> _(Protection 4 / Solidité 3 / Chute amortie 2)_
+* <mark style="color:purple;">**Épée en diamant**</mark> _(Tranchant 4 / Solidité 3 / Butin 2)_
+* <mark style="color:purple;">**Pioche en diamant**</mark> _(Efficacité 4 / Solidité 3 / Fortune 1)_
+* <mark style="color:purple;">**Pelle en diamant**</mark> _(Efficacité 4 / Solidité 3)_
+* <mark style="color:purple;">**Hache en diamant**</mark> _(Efficacité 4 / Solidité 3 / Fortune 1)_
+* <mark style="color:purple;">**Houe en diamant**</mark> _(Efficacité 3)_
+* <mark style="color:purple;">**Canne à pêche**</mark> _(Chance de la mer 3 / Solidité 3 / Appât 1)_
+* <mark style="color:purple;">**Bouclier**</mark> _(Solidité 3)_
+* <mark style="color:purple;">**64 steaks**</mark>
+* <mark style="color:purple;">**12 lingots d’or**</mark>
+* <mark style="color:purple;">**6 diamants**</mark>
+* <mark style="color:purple;">**24 lingots de fer**</mark>
+* <mark style="color:purple;">**32 lingots de cuivre**</mark>
+* <mark style="color:purple;">**48 lapis-lazuli**</mark>
+* <mark style="color:purple;">**32 redstone**</mark>
+* <mark style="color:purple;">**1 parchemin d’aventure (Expert)**</mark>
+* <mark style="color:purple;">**1 seau d’eau**</mark>
+* <mark style="color:purple;">**1 seau de lave**</mark>
 
 <figure><img src="../.gitbook/assets/Menu/Kit/legende.png" alt=""><figcaption></figcaption></figure>
 
