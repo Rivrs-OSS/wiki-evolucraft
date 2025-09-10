@@ -139,7 +139,6 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>    
-    <td><mark style="color:red;">🗡 Force +43</mark>, <mark style="color:orange;">☠ Dégât Critique +19</mark>, <mark style="color:blue;">◎ Vitesse +2</mark></td>
     <td>Marché Noir</td>
   </tr>
 </table>
