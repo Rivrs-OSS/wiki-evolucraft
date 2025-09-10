@@ -8,14 +8,14 @@ Le Barde est une classe polyvalente qui utilise la musique pour soutenir ses all
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Barde.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Barde</strong></p></figcaption></figure>
 
-## <mark style="color:green;">Compétences</mark>
+## 💠 <mark style="color:green;">Compétences</mark>
 
 {% hint style="warning" %}
 Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
-### <mark style="color:green;">**Niveau 1 : Onde Mélodieuse**</mark>
+### 🔸 <mark style="color:green;">**Niveau 1 : Onde Mélodieuse**</mark>
 
 Envoyez une onde sonore harmonieuse qui perturbe et endommage les ennemis.
 
@@ -24,7 +24,7 @@ Envoyez une onde sonore harmonieuse qui perturbe et endommage les ennemis.
 * <mark style="color:green;">**Dégâts**</mark>: 23,7
 <!--Il faudrai demander la durée du slow-->
 
-### <mark style="color:green;">**Niveau 5 : Harmonie**</mark>
+### 🔸 <mark style="color:green;">**Niveau 5 : Harmonie**</mark>
 
 Vos notes de musique protectrices appliquent une résistance à vous et vos alliés proches.
 
@@ -32,7 +32,7 @@ Vos notes de musique protectrices appliquent une résistance à vous et vos alli
 * <mark style="color:green;">**Mana**</mark>: 0
 * <mark style="color:green;">**Dégâts**</mark>: 0
 
-### <mark style="color:green;">**Niveau 10 : Mélodie**</mark>
+### 🔸 <mark style="color:green;">**Niveau 10 : Mélodie**</mark>
 
 Crée une vibration massive qui étourdit les ennemis.
 
@@ -41,7 +41,7 @@ Crée une vibration massive qui étourdit les ennemis.
 * <mark style="color:green;">**Dégâts**</mark>: 44,8
 <!--Il faudrai demander la durée du stun-->
 
-### <mark style="color:green;">**Niveau 15 : Sérénade**</mark>
+### 🔸 <mark style="color:green;">**Niveau 15 : Sérénade**</mark>
 
 Invoquez un ange qui crée une aura de guérison, soignant les alliés à l'intérieur de la zone.
 
@@ -49,7 +49,7 @@ Invoquez un ange qui crée une aura de guérison, soignant les alliés à l'int�
 * <mark style="color:green;">**Mana**</mark>: 125
 * <mark style="color:green;">**Dégâts**</mark>: 0
 
-### <mark style="color:green;">**Niveau 20 : Rhapsodie**</mark>
+### 🔸 <mark style="color:green;">**Niveau 20 : Rhapsodie**</mark>
 
 Augmentez le tempo avec l'aide des oiseaux, appliquant de la vitesse à vous et vos alliés proches.
 
@@ -57,7 +57,7 @@ Augmentez le tempo avec l'aide des oiseaux, appliquant de la vitesse à vous et 
 * <mark style="color:green;">**Mana**</mark>: 100
 * <mark style="color:green;">**Dégâts**</mark>: 0
 
-### <mark style="color:green;">**Niveau 30 : Memento Mori**</mark>
+### 🔸 <mark style="color:green;">**Niveau 30 : Memento Mori**</mark>
 
 Jouez un accord de mort, déclenchant une onde sonore sombre qui aveugle votre cible.
 
@@ -65,7 +65,7 @@ Jouez un accord de mort, déclenchant une onde sonore sombre qui aveugle votre c
 * <mark style="color:green;">**Mana**</mark>: 150
 * <mark style="color:green;">**Dégâts**</mark>: 204,3
 
-### <mark style="color:green;">**Niveau 40 : Symphonie**</mark>
+### 🔸 <mark style="color:green;">**Niveau 40 : Symphonie**</mark>
 
 Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur de la zone. La clé au milieu du cercle crée une explosion destructrice après un certain temps, faisant léviter les cibles à l'intérieur.
 
@@ -74,7 +74,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
 * <mark style="color:green;">**Dégâts**</mark>: 2384,9
 <!--Il faudrai demander la puissance du slow-->
 
-## <mark style="color:green;">Armes</mark>
+## 💠 <mark style="color:green;">Armes</mark>
 
 <table>
   <tr>
@@ -90,8 +90,8 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
     <td>Donjon Savane</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Harpe des murmures</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Harpe des murmures</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark>, <mark style="color:orange;">🔥 Mana +50</mark></td>
     <td>Donjon Savane ou Forge</td>
   </tr>
@@ -120,8 +120,8 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
     <td>Donjon Forêt</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Harpe Sylvestre</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Harpe Sylvestre</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark>, <mark style="color:blue;">🛡 Défense +6</mark></td>
     <td>Donjon Forêt ou Forge</td>
   </tr>
@@ -150,8 +150,8 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
     <td>Donjon Jungle</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Harpe épineuse</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Harpe épineuse</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark>, <mark style="color:blue;">◎ Vitesse +6</mark></td>
     <td>Donjon Jungle ou Forge</td>
   </tr>
@@ -180,8 +180,8 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
     <td>Pack d'arme</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Harpe des muses</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Harpe des muses</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +15</mark>, <mark style="color:orange;">☠ Dégât Critique +8</mark></td>
     <td>Pack d'arme ou Forge</td>
   </tr>
