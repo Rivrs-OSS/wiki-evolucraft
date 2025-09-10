@@ -14,7 +14,7 @@ Les dégâts des compétences sont en cours de modification, ne les prennez pas 
 -L'équipe du wiki
 {% endhint %}
 
-### 🔸 <mark style="color:red;">**Niveau 1 : Frappe Mortelle **</mark>
+### 🔸 <mark style="color:red;">**Niveau 1 : Frappe Mortelle**</mark>
 
 Frappez vers l'avent en repoussant les ennemis. Au troisème lancer. Lancez des chaînes en avant, accrochez-vous à des blocs ou des ennemis.
 Au quatrième lancer, frappez le sol avec une force immense, libérant une onde de choc nécrotique massive.
