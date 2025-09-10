@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes la liste des compagnons communs dans le serveur.
+description: Retrouvez ici toutes la liste des compagnons mythique dans le serveur.
 ---
 
 # Les compagnons MYTHIQUE 🦞
