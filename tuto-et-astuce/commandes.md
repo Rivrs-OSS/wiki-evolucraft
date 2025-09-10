@@ -38,7 +38,7 @@ description: >-
 * <mark style="color:green;">**/v invite \[joueur]**</mark> : Permet d’inviter un joueur dans sa ville.
 * <mark style="color:green;">**/v ban \[joueur]**</mark> : Permet de bannir un joueur de sa ville.
 
-Le reste des commandes liées au Ville est disponible dans la section [créer une ville](../les-villes/creer-une-ville.md) du Wiki d’Evolucraft.&#x20;
+Le reste des commandes liées au Ville est disponible dans la section [Les villes](https://wiki.evolucraft.fr/le-monde-des-villes/les-villes) du Wiki d’Evolucraft.
 
 ### <mark style="color:green;">Monde & Téléportation</mark>
 
