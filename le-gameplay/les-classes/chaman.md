@@ -8,14 +8,14 @@ Manipulez la lumière et les éléments pour soigner, attaquer et soutenir vos a
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Chaman.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Chaman</strong></p></figcaption></figure>
 
-## <mark style="color:blue;">Compétences</mark>
+## 💠 <mark style="color:blue;">Compétences</mark>
 
 {% hint style="warning" %}
 Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
-### <mark style="color:blue;">**Niveau 1 : Faisceau lumineux**</mark>
+### 🔸 <mark style="color:blue;">**Niveau 1 : Faisceau lumineux**</mark>
 
 Tire un faisceau de lumière qui endommage vos adversaires.
 
@@ -23,7 +23,7 @@ Tire un faisceau de lumière qui endommage vos adversaires.
 * <mark style="color:blue;">**Mana**</mark>**:** 0
 * <mark style="color:blue;">**Dégâts**</mark>**:** 5,7
 
-### <mark style="color:blue;">**Niveau 5 : Récupération personnelle**</mark>
+### 🔸 <mark style="color:blue;">**Niveau 5 : Récupération personnelle**</mark>
 
 Vous vous soignez automatiquement.
 
@@ -31,7 +31,7 @@ Vous vous soignez automatiquement.
 * <mark style="color:blue;">**Mana**</mark>**:** 0
 * <mark style="color:blue;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:blue;">**Niveau 10 : Rayon de Soin**</mark>
+### 🔸 <mark style="color:blue;">**Niveau 10 : Rayon de Soin**</mark>
 
 Tire un faisceau de lumière qui soigne les cibles.
 
@@ -39,7 +39,7 @@ Tire un faisceau de lumière qui soigne les cibles.
 * <mark style="color:blue;">**Mana**</mark>**:** 50
 * <mark style="color:blue;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:blue;">**Niveau 15 : Totem de Soin**</mark>
+### 🔸 <mark style="color:blue;">**Niveau 15 : Totem de Soin**</mark>
 
 Invoquez un totem qui soigne les cibles proches.
 
@@ -47,7 +47,7 @@ Invoquez un totem qui soigne les cibles proches.
 * <mark style="color:blue;">**Mana**</mark>**:** 100
 * <mark style="color:blue;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:blue;">**Niveau 20 : Totem d'Attaque**</mark>
+### 🔸 <mark style="color:blue;">**Niveau 20 : Totem d'Attaque**</mark>
 
 Invoquez un totem qui peut changer de forme aléatoirement :
 
@@ -58,7 +58,7 @@ Invoquez un totem qui peut changer de forme aléatoirement :
 * <mark style="color:blue;">**Mana**</mark>**:** 150
 * <mark style="color:blue;">**Dégâts du totem d'attaque**</mark>**:** 35,2
 
-### <mark style="color:blue;">**Niveau 30 : Rayon Solaire**</mark>
+### 🔸 <mark style="color:blue;">**Niveau 30 : Rayon Solaire**</mark>
 
 Lévitez et tirez un rayon solaire explosif qui endommage et brûle les cibles.
 
@@ -66,7 +66,7 @@ Lévitez et tirez un rayon solaire explosif qui endommage et brûle les cibles.
 * <mark style="color:blue;">**Mana**</mark>**:** 250
 * <mark style="color:blue;">**Dégâts**</mark>**:** 297,3
 
-### <mark style="color:blue;">**Niveau 40 : Pouvoir Ancien**</mark>
+### 🔸 <mark style="color:blue;">**Niveau 40 : Pouvoir Ancien**</mark>
 
 Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceaux de lumière endommageant les cibles.
 
@@ -74,7 +74,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
 * <mark style="color:blue;">**Mana**</mark>**:** 450
 * <mark style="color:blue;">**Dégâts**</mark>**:** 622,6
 
-## <mark style="color:blue;">Armes</mark>
+## 💠 <mark style="color:blue;">Armes</mark>
 
 <table>
   <tr>
@@ -90,8 +90,8 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
     <td>Donjon Mesa</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Os D'Orc</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Os D'Orc</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:purple;">❤ Vie +25</mark>, <mark style="color:blue;">🛡 Défense +6</mark></td>
     <td>Donjon Mesa ou Forge</td>
   </tr>
@@ -120,8 +120,8 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
     <td>Donjon Forêt</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Bâton de vie</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Bâton de vie</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark>, <mark style="color:teal;">⚡ Mana +50</mark></td>
     <td>Donjon Forêt ou Forge</td>
   </tr>
@@ -150,8 +150,8 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
     <td>Donjon Marais</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Bâton de Cthulhu</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Bâton de Cthulhu</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark>, <mark style="color:blue;">◎ Vitesse +6</mark></td>
     <td>Donjon Marais ou Forge</td>
   </tr>
@@ -180,8 +180,8 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
     <td>Pack d'arme</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Spectre des Ancêtres</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Spectre des Ancêtres</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +15</mark>, <mark style="color:orange;">☠ Dégât Critique +8</mark></td>
     <td>Pack d'arme ou Forge</td>
   </tr>
