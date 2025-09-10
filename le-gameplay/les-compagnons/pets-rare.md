@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes la liste des compagnons communs dans le serveur.
+description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
 ---
 
 # Les compagnons RARES 🐤
@@ -286,6 +286,4 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
       <p> * Loot d'un boss du Monde Noël ? </p>
     </td>
   </tr>
-</table>
-
 </table>
