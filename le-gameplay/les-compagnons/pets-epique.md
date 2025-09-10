@@ -458,8 +458,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
       <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +11</p>
     </td>
     <td>
-      <p> * Pet non disponible à l'achat ❌</p> 
-      <p> _(hors hôtel de vente)_</p>
+      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)</p>
     </td>
   </tr>
 </table>
