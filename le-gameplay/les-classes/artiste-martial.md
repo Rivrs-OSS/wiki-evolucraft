@@ -8,14 +8,14 @@ Maîtrisez les techniques de combat agile pour infliger des dégâts rapides et 
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Artiste_Martial.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Artiste Martial</strong></p></figcaption></figure>
 
-## <mark style="color:purple;">Compétences</mark>
+## 💠 <mark style="color:purple;">Compétences</mark>
 
 {% hint style="warning" %}
 Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
-### <mark style="color:purple;">**Niveau 1 : Double frappe**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 1 : Double frappe**</mark>
 
 Frappez rapidement votre cible 2 fois.
 
@@ -23,7 +23,7 @@ Frappez rapidement votre cible 2 fois.
 * <mark style="color:purple;">**Mana**</mark>**:** 0
 * <mark style="color:purple;">**Dégâts**</mark>**:** 10
 
-### <mark style="color:purple;">**Niveau 5 : Évasion**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 5 : Évasion**</mark>
 
 Vous avez 30% de chances d'esquiver une attaque.
 
@@ -31,7 +31,7 @@ Vous avez 30% de chances d'esquiver une attaque.
 * <mark style="color:purple;">**Mana**</mark>**:** 0
 * <mark style="color:purple;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:purple;">**Niveau 10 : Frappe agile**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 10 : Frappe agile**</mark>
 
 Foncez en avant et frappez vos cibles, en les repoussant.
 
@@ -39,7 +39,7 @@ Foncez en avant et frappez vos cibles, en les repoussant.
 * <mark style="color:purple;">**Mana**</mark>**:** 100
 * <mark style="color:purple;">**Dégâts**</mark>**:** 13
 
-### <mark style="color:purple;">**Niveau 15 : Uppercut**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 15 : Uppercut**</mark>
 
 Bondissez vers le haut et effectuez une attaque uppercut, emmenant vos cibles dans les airs avec vous.
 
@@ -47,7 +47,7 @@ Bondissez vers le haut et effectuez une attaque uppercut, emmenant vos cibles da
 * <mark style="color:purple;">**Mana**</mark>**:** 125
 * <mark style="color:purple;">**Dégâts**</mark>**:** 30
 
-### <mark style="color:purple;">**Niveau 20 : Frappe Fatale**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 20 : Frappe Fatale**</mark>
 
 Invoquez une main spirituelle qui écrase le sol et étourdit les cibles touchées.
 
@@ -55,7 +55,7 @@ Invoquez une main spirituelle qui écrase le sol et étourdit les cibles touché
 * <mark style="color:purple;">**Mana**</mark>**:** 125
 * <mark style="color:purple;">**Dégâts**</mark>**:** 40
 
-### <mark style="color:purple;">**Niveau 30 : Frappe en Plongée**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 30 : Frappe en Plongée**</mark>
 
 Sautez puis plongez vers le bas en emmenant votre cible au sol, l'écrasant à la surface.
 
@@ -63,7 +63,7 @@ Sautez puis plongez vers le bas en emmenant votre cible au sol, l'écrasant à l
 * <mark style="color:purple;">**Mana**</mark>**:** 100
 * <mark style="color:purple;">**Dégâts**</mark>**:** 60
 
-### <mark style="color:purple;">**Niveau 40 : Multi-coup**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 40 : Multi-coup**</mark>
 
 Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup final.
 
@@ -71,7 +71,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
 * <mark style="color:purple;">**Mana**</mark>**:** 350
 * <mark style="color:purple;">**Dégâts**</mark>**:** 61
 
-## <mark style="color:purple;">Armes</mark>
+## 💠 <mark style="color:purple;">Armes</mark>
 
 <table>
   <tr>
@@ -89,8 +89,8 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Donjon Marais</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Poing de la tristesse</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Poing de la tristesse</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark></td>
     <td><mark style="color:orange;">+2% de chance de doubler les dégâts</mark></td>
     <td>Donjon Marais ou Forge</td>
@@ -124,8 +124,8 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Donjon Savane</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Poing de la sérinité</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Poing de la sérinité</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark>, <mark style="color:blue;">◎ Vitesse +6</mark></td>
     <td>X</td>
     <td>Donjon Savane ou Forge</td>
@@ -159,8 +159,8 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Donjon Désert</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Poing de la colère</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Poing de la colère</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark>, <mark style="color:orange;">☠ Dégât Critique +6</mark></td>
     <td>X</td>
     <td>Donjon Désert ou Forge</td>
@@ -194,8 +194,8 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Pack d'arme</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Poing de la persévérance</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Poing de la persévérance</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +15</mark>, <mark style="color:orange;">☠ Dégât Critique +8</mark></td>
     <td>X</td>
     <td>Pack d'arme ou Forge</td>
