@@ -132,7 +132,7 @@ Ce bouton permet de gérer divers paramètres de la ville qui affectent l'enviro
 
 Voici les commandes à connaître pour gérer votre ville :
 
-### 🔸Globales 🌏
+### 🔸 Globales 🌏
 
 * <mark style="color:green;">**`/v create <nom de votre ville>`**</mark> : Crée votre ville.
 * <mark style="color:green;">**`/v`**</mark> : Ouvre le menu de votre ville.
@@ -153,7 +153,7 @@ Voici les commandes à connaître pour gérer votre ville :
 Avant de confirmer la suppression de votre ville, pensez à récupérer l’argent de votre ville avec la commande `/v bank withdraw [montant]` et à récupérer le stuff qui s’y trouve dans votre ville !
 {% endhint %}
 
-### 🔸Gestion des joueurs 👩🏻‍🤝‍🧑🏽
+### 🔸 Gestion des joueurs 👩🏻‍🤝‍🧑🏽
 
 * <mark style="color:green;">**`/v add [joueur]` / `/v invite [joueur]`**</mark> : Invite un joueur dans votre ville.
 * <mark style="color:green;">**`/v accept [joueur]`**</mark> : Accepte la demande d'adhésion d'un joueur à votre ville.
@@ -162,8 +162,10 @@ Avant de confirmer la suppression de votre ville, pensez à récupérer l’arge
 * <mark style="color:green;">**`/v unban [joueur]`**</mark> : Retire le bannissement du joueur visé.
 * <mark style="color:green;">**`/v setrole [joueur] [rôle]`**</mark> : Modifie le rôle des joueurs présents dans votre ville.
 * <mark style="color:green;">**`/v setowner [joueur]`**</mark> : Donne le rôle de maire au joueur désigné.
+* <mark style="color:green;">**`/v members`**</mark> : Donne la liste des joueurs connectés dans la ville.
 
-### 🔸Gestion des claims 🗺️
+
+### 🔸 Gestion des claims 🗺️
 
 * <mark style="color:green;">**`/v map`**</mark> : Donne la topographie des villes à l'endroit où vous vous situez.
 * <mark style="color:green;">**`/v claim`**</mark> : Claim le chunk sur lequel vous vous situez.
@@ -171,7 +173,7 @@ Avant de confirmer la suppression de votre ville, pensez à récupérer l’arge
 * <mark style="color:green;">**`/v autoclaim`**</mark> : Claim automatiquement les chunks sur lesquels vous marchez.
 * <mark style="color:green;">**`/v view`**</mark> : Affiche la délimitation de votre ville avec des particules vertes.
 
-### 🔸Chat de ville 💬
+### 🔸 Chat de ville 💬
 
 * <mark style="color:green;">**`/v chat`**</mark> : Active le chat de votre ville.
 * <mark style="color:green;">**`/v chat message`**</mark> : Écrit dans le chat de la ville sans l'activer.
