@@ -6,7 +6,7 @@
 
 * [‼️ Règlement IG](informations-importantes/reglement-ig.md)
 * [‼️ Règlement Discord](informations-importantes/reglement-discord.md)
-* [🤲 Contribuer](CONTRIBUTING.Md)
+* [🤲 Contribuer](informations-importantes/CONTRIBUTING.Md)
 
 ## 💡 TUTO ET ASTUCE 
 
