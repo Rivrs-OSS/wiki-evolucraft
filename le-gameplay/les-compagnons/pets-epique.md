@@ -343,7 +343,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
       </figure>
     </td>
     <td>
-      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> →<mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Bûches de mangrove</strong></mark> au /shop</p>
+      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Bûches de mangrove</strong></mark> au /shop</p>
       <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +30</p>
       <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>💕 Régénération</strong></mark> +8</p>
       <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+ 5.000</strong></mark> 💰/h</p>
@@ -361,7 +361,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
       </figure>
     </td>
     <td>
-      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> →<mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Steaks</strong></mark> au /shop</p>
+      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Steaks</strong></mark> au /shop</p>
       <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 5.500</strong></mark> 💰/h</p>
       <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +15</p>
       <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+ 6.250</strong></mark> 💰/h</p>
@@ -372,21 +372,93 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
     </td>
   </tr>
   <tr>
-    <td align="center"><mark style="color:blue;"><strong>Rodeer</strong></mark></td>
+    <td align="center"><mark style="color:blue;"><strong>Arhi</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Rodeer.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Arhi.png" alt="">
       </figure>
     </td>
     <td>
-      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> →<mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Steaks</strong></mark> au /shop</p>
-      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 5.500</strong></mark> 💰/h</p>
-      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +15</p>
-      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+ 6.250</strong></mark> 💰/h</p>
-      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>ForgeMage 📖</strong></mark></p>
+      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +2</p>
+      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +4</p>
+      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +5</p>
+      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +7</p>
+      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +9</p>
     </td>
     <td>
-      <p> * Œuf de famillier (Caisse Summer 🏖️)</p>
+      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><mark style="color:blue;"><strong>Clochette</strong></mark></td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Clochette.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +10</p>
+      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +15</p>
+      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +20</p>
+      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +25</p>
+      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +30</p>
+    </td>
+    <td>
+      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><mark style="color:blue;"><strong>Dovregubben</strong></mark></td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Dovregubben.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark>+3</p>
+      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +5</p>
+      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +7</p>
+      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +9</p>
+      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +11</p>
+    </td>
+    <td>
+      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><mark style="color:blue;"><strong>Gemling</strong></mark></td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Gemling.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +10</p>
+      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +15</p>
+      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +20</p>
+      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +25</p>
+      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +30</p>
+    </td>
+    <td>
+      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><mark style="color:blue;"><strong>Skel</strong></mark></td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Skel.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark>+3</p>
+      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +5</p>
+      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +7</p>
+      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +9</p>
+      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +11</p>
+    </td>
+    <td>
+      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)
     </td>
   </tr>
 </table>
