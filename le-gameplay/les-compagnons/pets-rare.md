@@ -25,8 +25,8 @@ description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
     </td>
     <td>
       <p><mark style="color:yellow;"><strong>Niveau 1</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💰/h + <mark style="color:yellow;">Stockage</mark> coffre simple</p>
-      <p><mark style="color:yellow;"><strong>Niveau 5</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💰/h
-      <p><mark style="color:yellow;"><strong>Niveau 10</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💰/h
+      <p><mark style="color:yellow;"><strong>Niveau 5</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💰/h</p>
+      <p><mark style="color:yellow;"><strong>Niveau 10</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💰/h</p>
       <p><mark style="color:yellow;"><strong>Niveau 15</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💰/h + <mark style="color:yellow;">Stockage</mark> double coffre</p>
       <p><mark style="color:yellow;"><strong>Niveau 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>ForgeMage 📖</strong></mark></p>
     </td>
