@@ -55,7 +55,7 @@ Pour rendre votre expérience variée, plusieurs types de biomes de donjons sont
 * Forêt
 * Jungle
 * Marais
-* Toundra
+* Neige
 * Désert
 * Mesa
 * Savane
