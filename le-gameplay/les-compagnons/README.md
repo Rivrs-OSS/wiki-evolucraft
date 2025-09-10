@@ -57,7 +57,7 @@ En prenant en compte que votre pet est déjà équiper, faites un cliquez gauche
 ### 🔸 Étape 2 :
 Donnez lui des bonbons en faisant un clique droit sur votre compagnon.
 
-Les bonbons s’obtiennent dans les <mark style="color:green;">**caisses**</mark> (hors Jackpot et Cosmétique), les <mark style="color:green;">**donjons**</mark>, les <mark style="color:green;">**parchemins**</mark> ou à l’<mark style="color:green;">**hôtel de vente**</mark>.  
+Les bonbons s’obtiennent dans les [<mark style="color:green;">**caisses**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses) (hors Jackpot et Cosmétique), les [<mark style="color:green;">**donjons**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons#quelques-exemples-de-recompenses), les <mark style="color:green;">**parchemins**</mark> ou à l’<mark style="color:green;">**hôtel de vente**</mark>.  
 Chaque type de bonbon donne une quantité d’XP différente :
 
 * <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _( +6 XP )_
