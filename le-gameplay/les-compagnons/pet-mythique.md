@@ -18,10 +18,10 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:red;"><strong>Rat de Billy</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/RatDeBilly.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/RatDeBilly.png" alt="">
       </figure>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/RatDeBillyShiny.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/RatDeBillyShiny.png" alt="">
       </figure>
     </td>
     <td>
@@ -39,7 +39,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:red;"><strong>Jack</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Jack.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/Jack.png" alt="">
       </figure>
     </td>
     <td>
@@ -56,7 +56,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:red;"><strong>Petit Biscuit</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/PetitBiscuit.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/PetitBiscuit.png" alt="">
       </figure>
     </td>
     <td>
@@ -73,7 +73,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:red;"><strong>Leprechaun</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Leprechaun.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/Leprechaun.png" alt="">
       </figure>
     </td>
     <td>
@@ -91,7 +91,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td align="center"><mark style="color:red;"><strong>Quacku</strong></mark></td>
     <td>
       <figure>
-        <img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Quacku.png" alt="">
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/Quacku.png" alt="">
       </figure>
     </td>
     <td>
