@@ -133,7 +133,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +5</mark></p>
-     <p><mark style="color:orange;">🐈 Dextérité +3</mark></p>
+     <p><mark style="color:blue;">🐈 Dextérité +3</mark></p>
     </td>
     <td>Donjon Jungle</td>
   </tr>
@@ -142,7 +142,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +11</mark></p>
-     <p><mark style="color:orange;">🐈 Dextérité +6</mark></p>
+     <p><mark style="color:blue;">🐈 Dextérité +6</mark></p>
     </td>
     <td>Donjon Jungle ou Forge</td>
   </tr>
@@ -151,7 +151,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +18</mark></p>
-     <p><mark style="color:orange;">🐈 Dextérité +9</mark></p>
+     <p><mark style="color:blue;">🐈 Dextérité +9</mark></p>
     </td>
     <td>Donjon Jungle ou Forge</td>
   </tr>
@@ -160,7 +160,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +35</mark></p>
-     <p><mark style="color:orange;">🐈 Dextérité +15</mark></p>
+     <p><mark style="color:blue;">🐈 Dextérité +15</mark></p>
     </td>
     <td>Forge</td>
   </tr>
@@ -169,7 +169,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +60</mark></p>
-     <p><mark style="color:orange;">🐈 Dextérité +26</mark></p>
+     <p><mark style="color:blue;">🐈 Dextérité +26</mark></p>
     </td>
     <td>Forge</td>
   </tr>
@@ -178,7 +178,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +5</mark></p>
-     <p><mark style="color:orange;">🥊 Chance de Critique +1</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td>Donjon Toundra</td>
   </tr>
@@ -187,7 +187,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +11</mark></p>
-     <p><mark style="color:orange;">🥊 Chance de Critique +1</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td>Donjon Toundra ou Forge</td>
   </tr>
@@ -196,7 +196,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +18</mark></p>
-     <p><mark style="color:orange;">🥊 Chance de Critique +2</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
     <td>Donjon Toundra ou Forge</td>
   </tr>
@@ -205,7 +205,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +35</mark></p>
-     <p><mark style="color:orange;">🥊 Chance de Critique +3</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
     </td>
     <td>Forge</td>
   </tr>
@@ -214,7 +214,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +60</mark></p>
-     <p><mark style="color:orange;">🥊 Chance de Critique +6</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
     <td>Forge</td>
   </tr>
