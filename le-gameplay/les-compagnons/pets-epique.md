@@ -426,6 +426,24 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
     </td>
   </tr>
   <tr>
+    <td align="center"><mark style="color:blue;"><strong>Beepu</strong></mark></td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Beepu.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>💀 Dégâts Critiques</strong></mark> +2</p>
+      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>💀 Dégâts Critiques</strong></mark> +4</p>
+      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>💀 Dégâts Critiques</strong></mark> +5</p>
+      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>💀 Dégâts Critiques</strong></mark> +7</p>
+      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>💀 Dégâts Critiques</strong></mark> +9</p>
+    </td>
+    <td>
+      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)</p>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><mark style="color:blue;"><strong>Gemling</strong></mark></td>
     <td>
       <figure>
