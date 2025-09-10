@@ -264,26 +264,6 @@ Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres<
   </tbody>
 </table>
 
-### Armes obtenables en fonction des biomes
-
-| **Forêt**           | **Jungle**               | **Marais**                    | **Toundra**              |
-| ------------------- | ------------------------ | ----------------------------- | ------------------------ |
-| **Arc sylvanique**  | **Souffle du serpent**   | **Bénédiction d'Adam**        | **Sceptre de glace**     |
-| **Brise-feuille**   | **Sceptre de la nature** | **Sceptre des âmes errantes** | **Lance glacial**        |
-| **Croc de Fenrir**  | **Dague vipérienne**     | **Lame du komodo**            | **Tranche givre**        |
-| **Bâton de vie**    | **Bâton arcanique**      | **Bâton de Cthulhu**          | **Dague polaire**        |
-| **Harpe sylvestre** | **Harpe épineuse**       | **Poing de la tristesse**     | **Gant gelé**            |
-| **X**               | **Pistolet racineux**    | **X**                         | **Pistolet du blizzard** |
-
-| **Mesa**               | **Désert**                 | **Savane**               | **Nether**             |
-| ---------------------- | -------------------------- | ------------------------ | ---------------------- |
-| **Marteau sismique**   | **Sabre des sables**       | **Écraseur de tête**     | **Lame du styx**       |
-| **Sceptre d'orc**      | **Sceptre de feu**         | **Bâton magique**        | **Lance éternelle**    |
-| **Fendoir orc**        | **Courroux de la lumière** | **Sceptre du monarque**  | **Bouclier du chaos**  |
-| **Os d'ogre**          | **Livre ancien momifié**   | **Bâton squelettique**   | **Arc traque-coeur**   |
-| **Gant du massacreur** | **Poing de la colère**     | **Harpe des murmures**   | **Gant emflammé**      |
-| **X**                  | **X**                      | **Poing de la sérénité** | **Pistolet du phénix** |
-
 {% hint style="info" %}
-Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
+Tous les monstres peuvent lâcher un coffre contenant un cristal de donjons, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
 {% endhint %}
