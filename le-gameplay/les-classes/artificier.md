@@ -8,14 +8,14 @@ L'artificier est un ingénieur de génie qui maîtrise les technologies futurist
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Artificier.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Artificier</strong></p></figcaption></figure>
 
-## <mark style="color:purple;">Compétences</mark>
+## 💠 <mark style="color:purple;">Compétences</mark>
 
 {% hint style="warning" %}
 Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
-### <mark style="color:purple;">**Niveau 1 : Tir explosif**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 1 : Tir explosif**</mark>
 
 Libère une orbe chargée d'énergie qui explose à l'impact, endommageant les ennemis proches.
 
@@ -23,7 +23,7 @@ Libère une orbe chargée d'énergie qui explose à l'impact, endommageant les e
 * <mark style="color:purple;">**Mana**</mark>**:** 0
 * <mark style="color:purple;">**Dégâts**</mark>**:** 18
 
-### <mark style="color:purple;">**Niveau 5 : Bouclier**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 5 : Bouclier**</mark>
 
 Régénère automatiquement votre bouclier à la fin du temps de recharge si votre bouclier est endommagé.
 
@@ -31,7 +31,7 @@ Régénère automatiquement votre bouclier à la fin du temps de recharge si vot
 * <mark style="color:purple;">**Mana**</mark>**:** 0
 * <mark style="color:purple;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:purple;">**Niveau 10 : Lance-flammes**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 10 : Lance-flammes**</mark>
 
 Émettez un courant de flammes à courte portée qui brûle les ennemis. Une fois lancé, la compétence reste active jusqu'à ce que vous la désactiviez.
 
@@ -39,7 +39,7 @@ Régénère automatiquement votre bouclier à la fin du temps de recharge si vot
 * <mark style="color:purple;">**Mana**</mark>**:** 5
 * <mark style="color:purple;">**Dégâts**</mark>**:** 5.7
 
-### <mark style="color:purple;">**Niveau 15 : Tourelle**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 15 : Tourelle**</mark>
 
 Construisez une tourelle d'énergie qui défend inlassablement votre position. Elle traque les ennemis et tire des balles transperçantes.
 
@@ -47,7 +47,7 @@ Construisez une tourelle d'énergie qui défend inlassablement votre position. E
 * <mark style="color:purple;">**Mana**</mark>**:** 125
 * <mark style="color:purple;">**Dégâts**</mark>**:** 32
 
-### <mark style="color:purple;">**Niveau 20 : Moteur**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 20 : Moteur**</mark>
 
 Activez vos propulseurs pour glisser vers l'avant, laissant une traînée de flammes brûlantes sur votre trajectoire.
 
@@ -55,7 +55,7 @@ Activez vos propulseurs pour glisser vers l'avant, laissant une traînée de fla
 * <mark style="color:purple;">**Mana**</mark>**:** 125
 * <mark style="color:purple;">**Dégâts**</mark>**:** 20
 
-### <mark style="color:purple;">**Niveau 30 : Chrono**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 30 : Chrono**</mark>
 
 Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, finissant par stopper les cibles lorsque l'horloge s'arrête.
 
@@ -63,7 +63,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
 * <mark style="color:purple;">**Mana**</mark>**:** 150
 * <mark style="color:purple;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:purple;">**Niveau 40 : Mecha**</mark>
+### 🔸 <mark style="color:purple;">**Niveau 40 : Mecha**</mark>
 
 Équipez-vous de votre mecha, modifiant vos capacités. Les compétences Tir explosif et Lance-flammes se transforment. Vous pouvez aussi voler pendant toute la durée du mecha afin de surprendre vos ennemis.
 
@@ -71,7 +71,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
 * <mark style="color:purple;">**Mana**</mark>**:** 350
 * <mark style="color:purple;">**Dégâts**</mark>**:** 27.5
 
-## <mark style="color:purple;">Armes</mark>
+## 💠 <mark style="color:purple;">Armes</mark>
 
 <table>
   <tr>
@@ -89,8 +89,8 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>Donjon Toundra</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Pistolet du blizzard</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Pistolet du blizzard</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark></td>
     <td><mark style="color:orange;">+3% de chance de doubler les dégâts</mark></td>
     <td>Donjon Toundra ou Forge</td>
@@ -124,8 +124,8 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>Donjon Nether</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Pistolet du phénix</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Pistolet du phénix</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark>, <mark style="color:orange;">☠ Dégât Critique +6</mark></td>
     <td>X</td>
     <td>Donjon Nether ou Forge</td>
