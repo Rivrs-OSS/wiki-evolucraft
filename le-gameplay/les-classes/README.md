@@ -74,6 +74,11 @@ Après avoir découvert les <mark style="color:green;">classes</mark>, vous hés
 * <mark style="color:orange;">**Dégâts Critiques 💀**</mark> : Permet de faire plus mal en coup critique.
 * <mark style="color:red;">**Chance de Critique 🥊**</mark> : Permet d’augmenter la probabilité de réaliser un coup critique.
 * <mark style="color:blue;">**Dextérité 🐈**</mark> : Permet de taper plus rapidement.
+* <mark style="color:blue;">**Régénération de Mana ✨**</mark> : Régénère votre Mana plus rapidement.
+
+{% hint style="info" %}
+<mark style="color:green;">REMARQUE 🔍</mark> : La statistique de la régénération de Mana n'apparait pas de base dans le menu des classe étant donné qu'elle est a une valeur de 1 pour toutes les classes.
+{% endhint %}
 
 ## <mark style="color:green;">💠 Comment augmenter de niveau dans ma classe ? 🆙</mark>
 
