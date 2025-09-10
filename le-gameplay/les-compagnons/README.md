@@ -92,7 +92,7 @@ Ils sont classés par <mark style="color:green;">**rareté**</mark> :
 * [<mark style="color:yellow;">**19 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-rare) dont 5 shinys.  
 * [<mark style="color:blue;">**29 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-epique) dont 4 shinys.  
 * [<mark style="color:purple;">**15 compagnons Légendaires 👾**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-legendaire) dont 2 shinys.  
-* [<mark style="color:red;">**6 compagnons Mythiques 🦞**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-mythique) dont 1 shinys.  
+* [<mark style="color:red;">**6 compagnons Mythiques 🦞**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-mythique) dont 1 shiny.  
 
 {% hint style="info" %}
 Maintenant que vous savez tout sur les <mark style="color:green;">**compagnons**</mark>, tentez d’en obtenir le plus possible et exploitez-les au maximum dans vos aventures sur Evolucraft !
