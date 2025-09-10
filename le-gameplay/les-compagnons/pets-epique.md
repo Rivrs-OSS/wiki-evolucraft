@@ -404,7 +404,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
       <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +30</p>
     </td>
     <td>
-      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)</p>
+      <p> * Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</p>
     </td>
   </tr>
   <tr>
@@ -422,7 +422,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
       <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +11</p>
     </td>
     <td>
-      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)</p>
+      <p> * Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</p>
     </td>
   </tr>
   <tr>
@@ -440,7 +440,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
       <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>💀 Dégâts Critiques</strong></mark> +9</p>
     </td>
     <td>
-      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)</p>
+      <p> * Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</p>
     </td>
   </tr>
   <tr>
@@ -458,7 +458,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
       <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +30</p>
     </td>
     <td>
-      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)</p>
+      <p> * Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</p>
     </td>
   </tr>
   <tr>
@@ -476,7 +476,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
       <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +11</p>
     </td>
     <td>
-      <p> * Pet non disponible à l'achat ❌ (hors hôtel de vente)</p>
+      <p> * Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</p>
     </td>
   </tr>
 </table>
