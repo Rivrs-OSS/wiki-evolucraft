@@ -8,14 +8,14 @@ L'Archer est une classe spécialisée dans les attaques à distance, utilisant d
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Archer.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Archer</strong></p></figcaption></figure>
 
-## <mark style="color:green;">Compétences</mark>
+## 💠 <mark style="color:green;">Compétences</mark>
 
 {% hint style="warning" %}
 Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
-### <mark style="color:green;">Niveau 1 : Tir Rapide</mark>
+### 🔸 <mark style="color:green;">Niveau 1 : Tir Rapide</mark>
 
 Tire une flèche.
 
@@ -23,7 +23,7 @@ Tire une flèche.
 * <mark style="color:green;">**Mana**</mark>**:** 0
 * <mark style="color:green;">**Dégâts**</mark>**:** 20,8
 
-### <mark style="color:green;">**Niveau 5 : Visée du Sniper**</mark>
+### 🔸 <mark style="color:green;">**Niveau 5 : Visée du Sniper**</mark>
 
 Le quatrième coup de votre flèche ralentit la cible pendant une courte période. Vous bénéficiez également d'une augmentation de vitesse pendant une courte période.
 
@@ -32,7 +32,7 @@ Le quatrième coup de votre flèche ralentit la cible pendant une courte périod
 * <mark style="color:green;">**Dégâts**</mark>**:** 0
 <!--Il faudrai demander a un staff le bonus de vitesse-->
 
-### <mark style="color:green;">**Niveau 10 : Recul**</mark>
+### 🔸 <mark style="color:green;">**Niveau 10 : Recul**</mark>
 
 Sautez en arrière pour créer un espace entre vous et votre cible.
 
@@ -40,7 +40,7 @@ Sautez en arrière pour créer un espace entre vous et votre cible.
 * <mark style="color:green;">**Mana**</mark>**:** 25
 * <mark style="color:green;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:green;">**Niveau 15 : Coup-Vent**</mark>
+### 🔸 <mark style="color:green;">**Niveau 15 : Coup-Vent**</mark>
 
 Invoquez l’esprit d’un arc pendant une courte période qui tire des volées de flèches.
 
@@ -48,7 +48,7 @@ Invoquez l’esprit d’un arc pendant une courte période qui tire des volées 
 * <mark style="color:green;">**Mana**</mark>**:** 125
 * <mark style="color:green;">**Dégâts**</mark>**:** 71,2
 
-### <mark style="color:green;">**Niveau 20 : Javelot Mortel**</mark>
+### 🔸 <mark style="color:green;">**Niveau 20 : Javelot Mortel**</mark>
 
 Lancez un javelot, repoussant et étourdissant la cible pendant une courte période.
 
@@ -57,7 +57,7 @@ Lancez un javelot, repoussant et étourdissant la cible pendant une courte péri
 * <mark style="color:green;">**Dégâts**</mark>**:** 786,7
 <!--Il faudrai demander la durée de stun-->
 
-### <mark style="color:green;">**Niveau 30 : Nuée de Flèches**</mark>
+### 🔸 <mark style="color:green;">**Niveau 30 : Nuée de Flèches**</mark>
 
 Invoquez l'esprit d'un arc qui tire plusieurs flèches sur la cible.
 
@@ -65,7 +65,7 @@ Invoquez l'esprit d'un arc qui tire plusieurs flèches sur la cible.
 * <mark style="color:green;">**Mana**</mark>**:** 150
 * <mark style="color:green;">**Dégâts**</mark>**:** 325,2
 
-### <mark style="color:green;">**Niveau 40: Tire du Dragon**</mark>
+### 🔸 <mark style="color:green;">**Niveau 40: Tire du Dragon**</mark>
 
 Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers la cible.
 
@@ -73,7 +73,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
 * <mark style="color:green;">**Mana**</mark>**:** 300
 * <mark style="color:green;">**Dégâts**</mark>**:** 6248,8
 
-## <mark style="color:green;">Armes</mark>
+## 💠 <mark style="color:green;">Armes</mark>
 
 <table>
 <tr>
@@ -91,8 +91,8 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>Donjon Forêt</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Arc Sylvanique</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Arc Sylvanique</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark></td>
     <td>"+2% de chance de doubler les dégât"</td>
     <td>Donjon Forêt ou Forge</td>
@@ -126,8 +126,8 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>Donjon Jungle</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Souffle du serpent</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Souffle du serpent</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark></td>
     <td>"10% d'infliger poison à l'ennemi"</td>
     <td>Donjon Jungle ou Forge</td>
@@ -161,8 +161,8 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>Donjon Nether</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Arc Traque-Cœur</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Arc Traque-Cœur</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +11</mark>, <mark style="color:blue;">◎ Vitesse +6</mark></td>
     <td>X</td>
     <td>Donjon Nether ou Forge</td>
@@ -196,8 +196,8 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>Pack d'arme</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Arc des vents</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:yellow;">Arc des vents</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
     <td><mark style="color:red;">🗡 Force +15</mark>, <mark style="color:orange;">☠ Dégât Critique +8</mark></td>
     <td>X</td>
     <td>Pack d'arme ou Forge</td>
