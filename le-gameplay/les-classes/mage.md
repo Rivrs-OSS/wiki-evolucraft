@@ -91,7 +91,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>
-    <td>Donjon Mesa</td>
+    <td>Donjon Biome Messa</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Spectre d'Orc</mark></td>
@@ -100,7 +100,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>
-    <td>Donjon Mesa ou Forge</td>
+    <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Spectre d'Orc</mark></td>
@@ -109,7 +109,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>
-    <td>Donjon Mesa ou Forge</td>
+    <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Spectre d'Orc</mark></td>
@@ -136,7 +136,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
     </td>
-    <td>Donjon Savane</td>
+    <td>Donjon Biome Savane</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Bâton Magique</mark></td>
@@ -145,7 +145,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
     </td>
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Bâton Magique</mark></td>
@@ -154,7 +154,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Bâton Magique</mark></td>
@@ -181,7 +181,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +25</mark></p>
     </td>
-    <td>Donjon Jungle</td>
+    <td>Donjon Biome Jungle</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Bâton Arcanique</mark></td>
@@ -190,7 +190,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +50</mark></p>
     </td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Bâton Arcanique</mark></td>
@@ -199,7 +199,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +75</mark></p>
     </td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Bâton Arcanique</mark></td>
