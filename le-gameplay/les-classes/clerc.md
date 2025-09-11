@@ -87,7 +87,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
     </td>    
-    <td>Donjon Savane</td>
+    <td>Donjon Biome Savane</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Spectre du Monarque</mark></td>
@@ -96,7 +96,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
     </td>    
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Spectre du Monarque</mark></td>
@@ -105,7 +105,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>    
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Spectre du Monarque</mark></td>
@@ -132,7 +132,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>    
-    <td>Donjon Désert</td>
+    <td>Donjon Biome Désert</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Courroux de la Lumière</mark></td>
@@ -141,7 +141,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>    
-    <td>Donjon Désert ou Forge</td>
+    <td>Donjon Biome Désert ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Courroux de la Lumière</mark></td>
@@ -150,7 +150,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>    
-    <td>Donjon Désert ou Forge</td>
+    <td>Donjon Biome Désert ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Courroux de la Lumière</mark></td>
@@ -177,7 +177,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +25</mark></p>
     </td>    
-    <td>Donjon Marais</td>
+    <td>Donjon Biome Marais</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Bénédiction d'Adam</mark></td>
@@ -186,7 +186,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +50</mark></p>
     </td>    
-    <td>Donjon Marais ou Forge</td>
+    <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Bénédiction d'Adam</mark></td>
@@ -195,7 +195,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +75</mark></p>
     </td>    
-    <td>Donjon Marais ou Forge</td>
+    <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Bénédiction d'Adam</mark></td>
@@ -294,7 +294,6 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>    
-    <td><mark style="color:red;">🗡 Force +31</mark>, <mark style="color:orange;">☠ Dégât Critique +14</mark></td>
     <td>Marché Noir</td>
   </tr>
   <tr>
