@@ -88,7 +88,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡 Force +5</mark></p>
     </td>
     <td><mark style="color:orange;">+2% de chance de doubler les dégâts</mark></td>
-    <td>Donjon Toundra</td>
+    <td>Donjon Biome Neige</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Pistolet du blizzard</mark></td>
@@ -97,7 +97,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡 Force +11</mark></p>
     </td>
     <td><mark style="color:orange;">+3% de chance de doubler les dégâts</mark></td>
-    <td>Donjon Toundra ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Pistolet du blizzard</mark></td>
@@ -106,7 +106,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡 Force +18</mark></p>
     </td>
     <td><mark style="color:orange;">+4% de chance de doubler les dégâts</mark></td>
-    <td>Donjon Toundra ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Pistolet du blizzard</mark></td>
@@ -134,7 +134,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
     <td>X</td>
-    <td>Donjon Nether</td>
+    <td>Donjon Biome Nether</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Pistolet du phénix</mark></td>
@@ -144,7 +144,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
     <td>X</td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Pistolet du phénix</mark></td>
@@ -155,7 +155,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Pistolet du phénix</mark></td>
@@ -185,7 +185,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Jungle</td>
+    <td>Donjon Biome Jungle</td>
   </tr>
   <tr>
     <td><mark style="color:orange;">Pisolet racineux</mark></td>
@@ -195,7 +195,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Pisolet racineux</mark></td>
@@ -205,7 +205,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Pisolet racineux</mark></td>
