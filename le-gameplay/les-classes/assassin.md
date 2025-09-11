@@ -90,7 +90,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
-    <td>Donjon Forêt</td>
+    <td>Donjon Biome Forêt</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Croc de Fenrir</mark></td>
@@ -99,7 +99,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Croc de Fenrir</mark></td>
@@ -108,7 +108,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Croc de Fenrir</mark></td>
@@ -135,7 +135,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +3</mark></p>
     </td>
-    <td>Donjon Jungle</td>
+    <td>Donjon Biome Jungle</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Dague Vipérienne</mark></td>
@@ -144,7 +144,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +6</mark></p>
     </td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Dague Vipérienne</mark></td>
@@ -153,7 +153,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +9</mark></p>
     </td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Dague Vipérienne</mark></td>
@@ -180,7 +180,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Toundra</td>
+    <td>Donjon Biome Neige</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Dague Polaire</mark></td>
@@ -189,7 +189,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Toundra ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Dague Polaire</mark></td>
@@ -198,7 +198,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
-    <td>Donjon Toundra ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Dague Polaire</mark></td>
