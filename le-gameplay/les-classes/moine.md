@@ -87,7 +87,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Nether</td>
+    <td>Donjon Biome Nether</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Gant emflammé</mark></td>
@@ -96,7 +96,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Gant emflammé</mark></td>
@@ -105,7 +105,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Gant emflammé</mark></td>
@@ -132,7 +132,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +3</mark></p>
     </td>
-    <td>Donjon Mesa</td>
+    <td>Donjon Biome Messa</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Gant du massacreur</mark></td>
@@ -141,7 +141,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +6</mark></p>
     </td>
-    <td>Donjon Mesa ou Forge</td>
+    <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Gant du massacreur</mark></td>
@@ -150,7 +150,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +9</mark></p>
     </td>
-    <td>Donjon Mesa ou Forge</td>
+    <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Gant du massacreur</mark></td>
@@ -177,7 +177,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">❤️ Vie +10</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
     </td>
-    <td>Donjon Neige</td>
+    <td>Donjon Biome Neige</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Gant gelé</mark></td>
@@ -186,7 +186,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">❤️ Vie +25</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
     </td>
-    <td>Donjon Neige ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Gant gelé</mark></td>
@@ -195,7 +195,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">❤️ Vie +40</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>
-    <td>Donjon Neige ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Gant gelé</mark></td>
