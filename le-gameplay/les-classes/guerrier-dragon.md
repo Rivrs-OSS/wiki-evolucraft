@@ -87,7 +87,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
-    <td>Donjon Marais</td>
+    <td>Donjon Biome Marais</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Lame du Komodo</mark></td>
@@ -96,7 +96,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
-    <td>Donjon Marais ou Forge</td>
+    <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Lame du Komodo</mark></td>
@@ -105,7 +105,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
-    <td>Donjon Marais ou Forge</td>
+    <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Lame du Komodo</mark></td>
@@ -132,7 +132,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Nether</td>
+    <td>Donjon Biome Nether</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Lance Eternelle</mark></td>
@@ -141,7 +141,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Lance Eternelle</mark></td>
@@ -150,7 +150,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Lance Eternelle</mark></td>
@@ -177,7 +177,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +3</mark></p>
     </td>
-    <td>Donjon Neige</td>
+    <td>Donjon Biome Neige</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Lance Glaciale</mark></td>
@@ -186,7 +186,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +6</mark></p>
     </td>
-    <td>Donjon Neige ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Lance Glaciale</mark></td>
@@ -195,7 +195,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +9</mark></p>
     </td>
-    <td>Donjon Neige ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Lance Glaciale</mark></td>
