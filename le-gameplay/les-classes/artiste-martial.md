@@ -88,7 +88,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
      <p><mark style="color:red;">🗡 Force +5</mark></p>
     </td>
     <td><mark style="color:orange;">+1% de chance de doubler les dégâts</mark></td>
-    <td>Donjon Marais</td>
+    <td>Donjon Biome Marais</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Poing de la tristesse</mark></td>
@@ -97,7 +97,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
      <p><mark style="color:red;">🗡 Force +11</mark></p>
     </td>
     <td><mark style="color:orange;">+2% de chance de doubler les dégâts</mark></td>
-    <td>Donjon Marais ou Forge</td>
+    <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Poing de la tristesse</mark></td>
@@ -106,7 +106,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
      <p><mark style="color:red;">🗡 Force +18</mark></p>
     </td>
     <td><mark style="color:orange;">+3% de chance de doubler les dégâts</mark></td>
-    <td>Donjon Marais ou Forge</td>
+    <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Poing de la tristesse</mark></td>
@@ -134,7 +134,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Savane</td>
+    <td>Donjon Biome Savane</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Poing de la sérinité</mark></td>
@@ -144,7 +144,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Poing de la sérinité</mark></td>
@@ -154,7 +154,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Poing de la sérinité</mark></td>
@@ -184,7 +184,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
     <td>X</td>
-    <td>Donjon Désert</td>
+    <td>Donjon Biome Désert</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Poing de la colère</mark></td>
@@ -194,7 +194,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
     <td>X</td>
-    <td>Donjon Désert ou Forge</td>
+    <td>Donjon Biome Désert ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Poing de la colère</mark></td>
@@ -204,7 +204,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
     <td>X</td>
-    <td>Donjon Désert ou Forge</td>
+    <td>Donjon Biome Désert ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Poing de la colère</mark></td>
