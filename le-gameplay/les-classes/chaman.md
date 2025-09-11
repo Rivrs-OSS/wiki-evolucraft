@@ -90,7 +90,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
      <p><mark style="color:red;">❤️ Vie +10</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
     </td>    
-    <td>Donjon Mesa</td>
+    <td>Donjon Biome Messa</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Os D'Orc</mark></td>
@@ -99,7 +99,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
      <p><mark style="color:red;">❤️ Vie +25</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
     </td>    
-    <td>Donjon Mesa ou Forge</td>
+    <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Os D'Orc</mark></td>
@@ -108,7 +108,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
      <p><mark style="color:red;">❤️ Vie +40</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>    
-    <td>Donjon Mesa ou Forge</td>
+    <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Os D'Orc</mark></td>
@@ -135,7 +135,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +25</mark></p>
     </td>    
-    <td>Donjon Forêt</td>
+    <td>Donjon Biome Forêt</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Bâton de vie</mark></td>
@@ -144,7 +144,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +50</mark></p>
     </td>    
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Bâton de vie</mark></td>
@@ -153,7 +153,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +75</mark></p>
     </td>    
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Bâton de vie</mark></td>
@@ -180,7 +180,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>    
-    <td>Donjon Marais</td>
+    <td>Donjon Biome Marais</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Bâton de Cthulhu</mark></td>
@@ -189,7 +189,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>    
-    <td>Donjon Marais ou Forge</td>
+    <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Bâton de Cthulhu</mark></td>
@@ -198,7 +198,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>    
-    <td>Donjon Marais ou Forge</td>
+    <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Bâton de Cthulhu</mark></td>
