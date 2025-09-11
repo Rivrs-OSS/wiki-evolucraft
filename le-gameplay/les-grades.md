@@ -41,9 +41,9 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Bonus à l'achat : <mark style="color:yellow;">**1 Clé Émeraude 🗝️**</mark>
 
 
-### **🔸 Son kit : [<mark style="color:yellow;">Le kit Héros ⚜️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-heros)** 
+#### **🔸 Son kit : [<mark style="color:yellow;">Le kit Héros ⚜️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-heros)** 
 
-## <mark style="color:blue;">💠 Élite 💠</mark>
+### <mark style="color:blue;">💠 Élite 💠</mark>
 
 **Prix : <mark style="color:blue;">4 900 Gemmes 💎</mark>**
 
@@ -68,7 +68,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 
 ### **🔸 Son kit : [<mark style="color:blue;">Le kit Élite 💠</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-elite)**
 
-## <mark style="color:purple;">💞 Légende 💞</mark>
+### <mark style="color:purple;">💞 Légende 💞</mark>
 
 **Prix : <mark style="color:purple;">7 900 Gemmes 💎</mark>**
 
@@ -89,7 +89,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Bonus à l'achat : <mark style="color:purple;">**2 Clés Rubis 🗝️**</mark>
 * Accès aux <mark style="color:purple;">**aventages des grades précédents ✨**</mark>
 
-### **🔸 Son kit : [<mark style="color:purple;">Le kit Légende 💞</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-legende)**
+#### **🔸 Son kit : [<mark style="color:purple;">Le kit Légende 💞</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-legende)**
 
 ## 💠 <mark style="color:green;">Quels sont les grades honorifiques ?</mark>
 
