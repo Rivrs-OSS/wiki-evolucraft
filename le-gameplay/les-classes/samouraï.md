@@ -76,43 +76,65 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
   <tr>
     <td><mark style="color:green;">Katana Sanguinaire</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
-    <td><mark style="color:red;">🗡 Force +7</mark>, <mark style="color:orange;">☠ Dégât Critique +4</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +7</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
+    </td>
     <td>Pack d'arme</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Katana Sanguinaire</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
-    <td><mark style="color:red;">🗡 Force +15</mark>, <mark style="color:orange;">☠ Dégât Critique +8</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +15</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
+    </td>
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Katana Sanguinaire</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
-    <td><mark style="color:red;">🗡 Force +25</mark>, <mark style="color:orange;">☠ Dégât Critique +12</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +25</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
+    </td>
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Katana Sanguinaire</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
-    <td><mark style="color:red;">🗡 Force +45</mark>, <mark style="color:orange;">☠ Dégât Critique +22</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
+    </td>
     <td>Forge</td>
   </tr>
   <tr>
     <td><mark style="color:red;">Katana Sanguinaire</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
-    <td><mark style="color:red;">🗡 Force +80</mark>, <mark style="color:orange;">☠ Dégât Critique +39</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +80</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+    </td>
     <td>Forge</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Katana en Chocolat</mark></td>
     <td><mark style="color:yellow;">Pâques</mark></td>
-    <td><mark style="color:red;">🗡 Force +43</mark>, <mark style="color:orange;">☠ Dégât Critique +19</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
+    </td>
     <td>Marché Noir</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Katana Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
-    <td><mark style="color:red;">🗡 Force +43</mark>, <mark style="color:orange;">☠ Dégât Critique +19</mark>, <mark style="color:blue;">◎ Vitesse +2</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></p>
+    </td>
     <td>Marché Noir</td>
   </tr>
 </table>
