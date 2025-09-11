@@ -91,6 +91,7 @@ Vous verrez votre palier actuel et le pourcentage vers le suivant.
 
 Pendant que vous <mark style="color:green;">**farmez**</mark> et que vous débloquez un <mark style="color:green;">**palier**</mark>, un message comme ci-dessous apparaîtra dans votre chat.  
 <figure><img src="../.gitbook/assets/Pass/AnnoncePalier.png" alt=""><figcaption><p><strong>Aperçu du message d'un </strong><mark style="color:green;"><strong><code>palier débloqué</code></strong></mark></p></figcaption></figure>
+
 Pour <mark style="color:green;">**récupérer la récompense**</mark> du palier, il faudra effectuer la commande <mark style="color:green;">**`/pass`**</mark>, puis cliquer sur le bouton <mark style="color:green;">**Récompenses**</mark>.  
 
 <figure><img src="../.gitbook/assets/Pass/Récompense.png" alt=""><figcaption><p><strong>Aperçu du menu </strong><mark style="color:green;"><strong><code>Récompenses</code></strong></mark></p></figcaption></figure>
