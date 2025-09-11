@@ -28,18 +28,12 @@ Chaque jour, à partir de minuit (heure française), vous recevez <mark style="c
 Cependant, il peut toujours conserver une des actions déjà présent mais dans une limite d'<mark style="color:green;">**une seule action ou action du même métier au maximum**</mark>.
 {% endhint %}
 
-Pour connaître les items du jour, deux solutions s’offrent à vous :
+Pour connaître les items du jour, il vous suffit de faire la commande <mark style="color:green;">**`/pass`**</mark>, puis cliquez sur **Objectifs**.
 
-#### 🔸 <mark style="color:green;">Via le /pass 🎮</mark>
-Faites la commande <mark style="color:green;">**`/pass`**</mark>, puis cliquez sur **Objectifs**.  
 Passez ensuite votre souris sur l’item pour connaître le <mark style="color:green;">**nombre de Farmiums 🔱**</mark> récoltés par action.
 
 <figure><img src="../.gitbook/assets/Pass/Objectifs.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong><code>Objectifs du /pass</code></strong></mark></p></figcaption></figure>
-
-#### 🔸 <mark style="color:green;">Via la boutique de minuit 📢</mark>
-Chaque jour, vers **00h01**, un membre du staff publie un message résumant les items disponibles dans la <mark style="color:green;">**/boutique**</mark> mais surtout les <mark style="color:green;">**2 actions du /pass**</mark> à réaliser.  
-
-<figure><img src="../.gitbook/assets/Pass/MessageDiscord.png" alt=""><figcaption><p><strong>Aperçu du message de la </strong><mark style="color:green;"><strong><code>boutique de minuit</code></strong></mark></p></figcaption></figure>
+<!-- White, les boutique day, c'est 00h01, pas 00h00 mais bref... -->
 
 ### 🔷 Les boss de donjons 🐲
 Lorsque vous terminez un donjon et tuez le <mark style="color:green;">**boss**</mark>, vous gagnez du Farmium selon la difficulté :
