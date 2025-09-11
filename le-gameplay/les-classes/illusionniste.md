@@ -90,37 +90,56 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
   <tr>
     <td><mark style="color:green;">Carte divinatoire</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
-    <td><mark style="color:red;">🗡 Force +7</mark>, <mark style="color:orange;">☠ Dégât Critique +4</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +7</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
+    </td>
     <td>Pack d'arme</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Carte divinatoire</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
-    <td><mark style="color:red;">🗡 Force +15</mark>, <mark style="color:orange;">☠ Dégât Critique +8</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +15</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
+    </td>
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Carte divinatoire</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
-    <td><mark style="color:red;">🗡 Force +25</mark>, <mark style="color:orange;">☠ Dégât Critique +12</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +25</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
+    </td>
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Carte divinatoire</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
-    <td><mark style="color:red;">🗡 Force +45</mark>, <mark style="color:orange;">☠ Dégât Critique +22</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
+    </td>
     <td>Forge</td>
   </tr>
   <tr>
     <td><mark style="color:red;">Carte divinatoire</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
-    <td><mark style="color:red;">🗡 Force +80</mark>, <mark style="color:orange;">☠ Dégât Critique +39</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +80</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+    </td>
     <td>Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Carte Mythique Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
-    <td><mark style="color:red;">🗡 Force +43</mark>, <mark style="color:orange;">☠ Dégât Critique +19</mark>, <mark style="color:blue;">◎ Vitesse +2</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
+    </td>
     <td>Marché Noir</td>
   </tr>
 </table>
