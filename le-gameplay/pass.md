@@ -89,12 +89,17 @@ Vous verrez votre palier actuel et le pourcentage vers le suivant.
 
 <figure><img src="../.gitbook/assets/Pass/VotrePass.png" alt=""><figcaption><p><strong>Aperçu de la </strong><mark style="color:green;"><strong><code>progression des paliers</code></strong></mark></p></figcaption></figure>
 
-Une fois un palier complété, un message vous en informe.  
-Rendez-vous ensuite dans la section <mark style="color:green;">**Récompenses**</mark> pour réclamer vos gains.
+Pendant que vous farmez et vous débloquez un palier, un message comme ci-dessous apparaitra dans votre chat.
+<figure><img src="../.gitbook/assets/Pass/AnnoncePalier.png" alt=""><figcaption><p><strong>Aperçu du message d'un </strong><mark style="color:green;"><strong><code>palier débloquer</code></strong></mark></p></figcaption></figure>
+Pour récupérez alors la récompense du palier, il faudra effectuez la commande `/pass` puis cliquez sur le bouton "Récompenses".
 
 <figure><img src="../.gitbook/assets/Pass/Récompense.png" alt=""><figcaption><p><strong>Aperçu du menu </strong><mark style="color:green;"><strong><code>Récompenses</code></strong></mark></p></figcaption></figure>
 
-👉 Si vous possédez le [<mark style="color:green;">**Premium 👑**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium), vous aurez accès à une deuxième récompense supplémentaire dans le même palier !
+Par la suite de ça, il faudra cliquer sur le cadena comme sur l'image et vous mettra les récompenses directement dans votre inventaire.
+
+{% hint style="info" %}
+**REMARQUE 🔍:** Si vous possédez le [<mark style="color:green;">**Premium 👑**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium), vous aurez accès à une deuxième récompense supplémentaire dans le même palier !
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/Pass/RéclamationPalier.png" alt=""><figcaption><p><strong>Aperçu de l'onglet </strong><mark style="color:green;"><strong><code>Récompenses du /pass</code></strong></mark></p></figcaption></figure>
 
