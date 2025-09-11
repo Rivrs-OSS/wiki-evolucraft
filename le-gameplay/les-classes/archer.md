@@ -90,7 +90,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡 Force +5</mark></p>
     </td>
     <td>"+1% de chance de doubler les dégât"</td>
-    <td>Donjon Forêt</td>
+    <td>Donjon Biome Forêt</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Arc Sylvanique</mark></td>
@@ -99,7 +99,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡 Force +11</mark></p>
     </td>
     <td>"+2% de chance de doubler les dégât"</td>
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Arc Sylvanique</mark></td>
@@ -108,7 +108,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡 Force +18</mark></p>
     </td>
     <td>"+3% de chance de doubler les dégât"</td>
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Arc Sylvanique</mark></td>
@@ -135,7 +135,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡 Force +5</mark></p>
     </td>
     <td>"5% d'infliger poison à l'ennemi"</td>
-    <td>Donjon Jungle</td>
+    <td>Donjon Biome Jungle</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Souffle du serpent</mark></td>
@@ -144,7 +144,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡 Force +11</mark></p>
     </td>
     <td>"10% d'infliger poison à l'ennemi"</td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Souffle du serpent</mark></td>
@@ -153,7 +153,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡 Force +18</mark></p>
     </td>
     <td>"15% d'infliger poison à l'ennemi"</td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Souffle du serpent</mark></td>
@@ -181,7 +181,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Nether</td>
+    <td>Donjon Biome Nether</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Arc Traque-Cœur</mark></td>
@@ -191,7 +191,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Arc Traque-Cœur</mark></td>
@@ -201,7 +201,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>
     <td>X</td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Arc Traque-Cœur</mark></td>
