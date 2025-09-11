@@ -89,16 +89,16 @@ Vous verrez votre palier actuel et le pourcentage vers le suivant.
 
 <figure><img src="../.gitbook/assets/Pass/VotrePass.png" alt=""><figcaption><p><strong>Aperçu de la </strong><mark style="color:green;"><strong><code>progression des paliers</code></strong></mark></p></figcaption></figure>
 
-Pendant que vous farmez et vous débloquez un palier, un message comme ci-dessous apparaitra dans votre chat.
-<figure><img src="../.gitbook/assets/Pass/AnnoncePalier.png" alt=""><figcaption><p><strong>Aperçu du message d'un </strong><mark style="color:green;"><strong><code>palier débloquer</code></strong></mark></p></figcaption></figure>
-Pour récupérez alors la récompense du palier, il faudra effectuez la commande `/pass` puis cliquez sur le bouton "Récompenses".
+Pendant que vous <mark style="color:green;">**farmez**</mark> et que vous débloquez un <mark style="color:green;">**palier**</mark>, un message comme ci-dessous apparaîtra dans votre chat.  
+<figure><img src="../.gitbook/assets/Pass/AnnoncePalier.png" alt=""><figcaption><p><strong>Aperçu du message d'un </strong><mark style="color:green;"><strong><code>palier débloqué</code></strong></mark></p></figcaption></figure>
+Pour <mark style="color:green;">**récupérer la récompense**</mark> du palier, il faudra effectuer la commande <mark style="color:green;">**`/pass`**</mark>, puis cliquer sur le bouton <mark style="color:green;">**Récompenses**</mark>.  
 
 <figure><img src="../.gitbook/assets/Pass/Récompense.png" alt=""><figcaption><p><strong>Aperçu du menu </strong><mark style="color:green;"><strong><code>Récompenses</code></strong></mark></p></figcaption></figure>
 
-Par la suite de ça, il faudra cliquer sur le cadena comme sur l'image et vous mettra les récompenses directement dans votre inventaire.
+Ensuite, cliquez sur le <mark style="color:green;">**cadenas**</mark> comme indiqué sur l’image, et vos <mark style="color:green;">**récompenses**</mark> seront ajoutées directement dans votre inventaire.  
 
 {% hint style="info" %}
-**REMARQUE 🔍:** Si vous possédez le [<mark style="color:green;">**Premium 👑**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium), vous aurez accès à une deuxième récompense supplémentaire dans le même palier !
+**REMARQUE 🔍 :** Si vous possédez le [<mark style="color:green;">**Premium 👑**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium), vous aurez accès à une <mark style="color:green;">**seconde récompense supplémentaire**</mark> dans le même palier !
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Pass/RéclamationPalier.png" alt=""><figcaption><p><strong>Aperçu de l'onglet </strong><mark style="color:green;"><strong><code>Récompenses du /pass</code></strong></mark></p></figcaption></figure>
