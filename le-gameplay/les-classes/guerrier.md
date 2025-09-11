@@ -401,7 +401,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:blue;">Summer</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +43</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></p>
      <p><mark style="color:red;">❤️ Vie +109</mark></p>
     </td>
         <td>X</td>
