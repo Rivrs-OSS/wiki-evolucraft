@@ -73,7 +73,7 @@
   * [🗿 Tailleuse de Pierre](le-gameplay/les-machines/tailleuse-de-pierre.md)
   * [🔨 Forge](le-gameplay/les-machines/forge.md)
 * [🎪 Les Événements](le-gameplay/les-evenements.md)
-* [🔝 Pass](le-gameplay/pass.md)
+* [🔱 Le Pass](le-gameplay/pass.md)
 * [📜 Les Quêtes](le-gameplay/les-quetes.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
