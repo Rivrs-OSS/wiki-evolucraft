@@ -84,7 +84,7 @@ Après ce délai, vous ne pourrez plus les réutiliser, sauf si vous atteignez �
 En dehors du classement, vous pouvez obtenir des <mark style="color:green;">**récompenses de paliers**</mark>.  
 Chaque <mark style="color:green;">**palier**</mark> est débloqué grâce à un certain nombre de <mark style="color:green;">**Farmiums 🔱**</mark> (ils ne sont pas consommés).
 
-Pour voir votre progression, allez dans le <mark style="color:green;">**`/pass`**</mark> puis passez la souris sur la case <mark style="color:green;">**Votre Pass**</mark>.  
+Pour voir votre progression, allez dans le <mark style="color:green;">**`/pass`**</mark> puis passez la souris sur la case "<mark style="color:green;">**Votre Pass**</mark>".  
 Vous verrez votre palier actuel et le pourcentage vers le suivant.
 
 <figure><img src="../.gitbook/assets/Pass/VotrePass.png" alt=""><figcaption><p><strong>Aperçu de la </strong><mark style="color:green;"><strong><code>progression des paliers</code></strong></mark></p></figcaption></figure>
@@ -92,7 +92,7 @@ Vous verrez votre palier actuel et le pourcentage vers le suivant.
 Pendant que vous <mark style="color:green;">**farmez**</mark> et que vous débloquez un <mark style="color:green;">**palier**</mark>, un message comme ci-dessous apparaîtra dans votre chat.  
 <figure><img src="../.gitbook/assets/Pass/AnnoncePalier.png" alt=""><figcaption><p><strong>Aperçu du message d'un </strong><mark style="color:green;"><strong><code>palier débloqué</code></strong></mark></p></figcaption></figure>
 
-Pour <mark style="color:green;">**récupérer la récompense**</mark> du palier, il faudra effectuer la commande <mark style="color:green;">**`/pass`**</mark>, puis cliquer sur le bouton <mark style="color:green;">**Récompenses**</mark>.  
+Pour <mark style="color:green;">**récupérer la récompense**</mark> du palier, il faudra effectuer la commande <mark style="color:green;">**`/pass`**</mark>, puis cliquer sur le bouton "<mark style="color:green;">**Récompenses**</mark>".  
 
 <figure><img src="../.gitbook/assets/Pass/Récompense.png" alt=""><figcaption><p><strong>Aperçu du menu </strong><mark style="color:green;"><strong><code>Récompenses</code></strong></mark></p></figcaption></figure>
 
