@@ -134,7 +134,7 @@ En cliquant sur le bouton "Trier", en bas à gauche du menu principal, vous trou
 6️⃣• La petite gemme en haut à droite vous permet de consulter vos annonces actives.
 
 {% hint style="info" %}
-**REMARQUE 🤓☝ :**Cependant, vous pouvez activer le message automatique dans le `/pub`. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement toutes les 20 minutes dans le chat des autres joueurs.
+**REMARQUE 🔍**: Cependant, vous pouvez activer le message automatique dans le `/pub`. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement toutes les 20 minutes dans le chat des autres joueurs.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Le_Commerce/Interface_Pub_Descriptif.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pub suivant les numéros</code></strong></mark></p></figcaption></figure>
