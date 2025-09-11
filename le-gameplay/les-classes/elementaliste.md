@@ -87,7 +87,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
     </td>   
-    <td>Donjon Neige</td>
+    <td>Donjon Biome Neige</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Spectre de Glace</mark></td>
@@ -96,7 +96,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
     </td>   
-    <td>Donjon Neige ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Spectre de Glace</mark></td>
@@ -105,7 +105,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>   
-    <td>Donjon Neige ou Forge</td>
+    <td>Donjon Biome Neige ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Spectre de Glace</mark></td>
@@ -132,7 +132,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +25</mark></p>
     </td>   
-    <td>Donjon Désert</td>
+    <td>Donjon Biome Désert</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Spectre de Feu</mark></td>
@@ -141,7 +141,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +50</mark></p>
     </td>   
-    <td>Donjon Désert ou Forge</td>
+    <td>Donjon Biome Désert ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Spectre de Feu</mark></td>
@@ -150,7 +150,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +75</mark></p>
     </td>   
-    <td>Donjon Désert ou Forge</td>
+    <td>Donjon Biome Désert ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Spectre de Feu</mark></td>
@@ -177,7 +177,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>   
-    <td>Donjon Jungle</td>
+    <td>Donjon Biome Jungle</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Spectre de la Nature</mark></td>
@@ -186,7 +186,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>   
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Spectre de la Nature</mark></td>
@@ -195,7 +195,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>   
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Spectre de la Nature</mark></td>
