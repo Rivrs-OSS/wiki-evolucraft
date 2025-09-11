@@ -89,7 +89,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +3</mark></p>
     </td>
-    <td>Donjon Forêt</td>
+    <td>Donjon Biome Forêt</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Brise feuille</mark></td>
@@ -98,7 +98,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +6</mark></p>
     </td>
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Brise feuille</mark></td>
@@ -107,7 +107,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🐈 Dextérité +9</mark></p>
     </td>
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Brise feuille</mark></td>
@@ -134,7 +134,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Savane</td>
+    <td>Donjon Biome Savane</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Ecraseur de tête</mark></td>
@@ -143,7 +143,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Ecraseur de tête</mark></td>
@@ -152,7 +152,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Ecraseur de tête</mark></td>
@@ -179,7 +179,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
-    <td>Donjon Mesa</td>
+    <td>Donjon Biome Messa</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Marteau sismique</mark></td>
@@ -188,7 +188,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
-    <td>Donjon Mesa ou Forge</td>
+    <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Marteau sismique</mark></td>
@@ -197,7 +197,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
-    <td>Donjon Mesa ou Forge</td>
+    <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Marteau sismique</mark></td>
@@ -224,7 +224,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">❤️ Vie +10</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
     </td>
-    <td>Donjon Nether</td>
+    <td>Donjon Biome Nether</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Bouclier du chaos</mark></td>
@@ -233,7 +233,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">❤️ Vie +25</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
     </td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Bouclier du chaos</mark></td>
@@ -243,7 +243,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:yellow;">🧪 Mana +25</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Bouclier du chaos</mark></td>
@@ -252,7 +252,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">❤️ Vie +82</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +15</mark></p>
     </td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:red;">Bouclier du chaos</mark></td>
@@ -261,7 +261,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">❤️ Vie +140</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +26</mark></p>
     </td>
-    <td>Donjon Nether ou Forge</td>
+    <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:green;">Marteau de la lumière</mark></td>
