@@ -472,7 +472,7 @@ La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la cl
 | <mark style="color:blue;">**4 Bonbons au Raisin**</mark>                  | **5,55%**                   |
 | <mark style="color:blue;">**2 Clés Summer**</mark>                        | **5,55%**                   |
 
-### 🔸 <mark style="color:blue;">Et d'autres nouvelles caisses sont à prévoir...</mark>
+### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
 **Et voilà, vous connaissez désormais toutes les <mark style="color:green;">caisses</mark> du serveur ! À vous de jouer avec les dernières ! 😎**
 _Nous rappelons que jouer à la loterie comporte des risques d’addiction, faites-y attention ! 🤗_
