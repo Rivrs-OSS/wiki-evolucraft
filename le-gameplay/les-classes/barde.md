@@ -90,7 +90,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +25</mark></p>
     </td>
-    <td>Donjon Savane</td>
+    <td>Donjon Biome Savane</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Harpe des murmures</mark></td>
@@ -99,7 +99,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +50</mark></p>
     </td>
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Harpe des murmures</mark></td>
@@ -108,7 +108,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +75</mark></p>
     </td>
-    <td>Donjon Savane ou Forge</td>
+    <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Harpe des murmures</mark></td>
@@ -135,7 +135,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
     </td>
-    <td>Donjon Forêt</td>
+    <td>Donjon Biome Forêt</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Harpe Sylvestre</mark></td>
@@ -144,7 +144,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
     </td>
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Harpe Sylvestre</mark></td>
@@ -153,7 +153,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>
-    <td>Donjon Forêt ou Forge</td>
+    <td>Donjon Biome Forêt ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Harpe Sylvestre</mark></td>
@@ -180,7 +180,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +5</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>
-    <td>Donjon Jungle</td>
+    <td>Donjon Biome Jungle</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Harpe épineuse</mark></td>
@@ -189,7 +189,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +11</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Harpe épineuse</mark></td>
@@ -198,7 +198,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +18</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>
-    <td>Donjon Jungle ou Forge</td>
+    <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Harpe épineuse</mark></td>
@@ -216,7 +216,6 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +60</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
     </td>
-    <td><mark style="color:red;">🗡 Force +60</mark>, <mark style="color:blue;">◎ Vitesse +25</mark></td>
     <td>Forge</td>
   </tr>
   <tr>
