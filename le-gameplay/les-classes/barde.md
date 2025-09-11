@@ -261,7 +261,6 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
-    <td><mark style="color:red;">🗡 Force +80</mark>, <mark style="color:orange;">☠ Dégât Critique +39</mark></td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -271,7 +270,6 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
-    <td><mark style="color:red;">🗡 Force +60</mark>, <mark style="color:orange;">☠ Dégât Critique +26</mark></td>
     <td>Box Jackpot</td>
   </tr>
   <tr>
@@ -290,7 +288,6 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
-    <td><mark style="color:red;">🗡 Force +31</mark>, <mark style="color:orange;">☠ Dégât Critique +14</mark></td>
     <td>Marché Noir</td>
   </tr>
   <tr>
