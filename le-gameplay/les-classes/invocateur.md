@@ -205,7 +205,6 @@ Invoquez un phénix qui glisse à travers le sol, brûlant et infligeant des dé
      <p><mark style="color:red;">🗡 Force +35</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +125</mark></p>
     </td>
-    <td><mark style="color:red;">🗡 Force +35</mark>, <mark style="color:teal;">⚡ Mana +125</mark></td>
     <td>Forge</td>
   </tr>
   <tr>
