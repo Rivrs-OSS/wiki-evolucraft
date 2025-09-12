@@ -37,7 +37,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Accès au <mark style="color:yellow;">**`/pweather` 🌦️**</mark>
 * Accès au <mark style="color:yellow;">**`/ptime` ☀️/🌙**</mark>
 * Accès au <mark style="color:yellow;">**`/sell hand` 🤲**</mark>
-* Accès à la<mark style="color:yellow;">**seconde mine du spawn ⛏️**</mark>
+* Accès à la <mark style="color:yellow;">**seconde mine du spawn ⛏️**</mark>
 * <mark style="color:yellow;">**Temps d'AFK : 25 minutes**</mark> 🕔
 * Bonus à l'achat : <mark style="color:yellow;">**1 Clé Émeraude 🗝️**</mark>
 
