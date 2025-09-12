@@ -1,16 +1,17 @@
 ---
 description: Retrouvez ici afin de connaitre la solution pour avoir le pack de ressource du serveur même avec un shaderpack !
 ---
+# 🖼️ Problème de pack de ressource 
 
 ## <mark style="color:green;">💠 Comment avoir le pack de ressources activé à ma connexion ? 🖼️</mark>
 
 Lors de votre première connexion, le serveur vous rajoute automatiquement le texture pack. Si cela n'est pas le cas, il vous suffit de suivre les étapes suivantes :
 
-### <mark style="color:green;">• Étape 1️⃣</mark>
+### <mark style="color:green;">🔸 Étape 1️⃣</mark>
 **Sélectionnez le serveur Évolucraft, sans le rejoindre, puis cliquez sur "Modifier".**
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Pack/Modifier.png" alt="" width="600"></figure>
 
-### <mark style="color:green;">• Étape 2️⃣</mark>
+### <mark style="color:green;">🔸 Étape 2️⃣</mark>
 **Cliquez sur le bouton "Pack de ressources" jusqu'à ce qu'il soit indiqué "Activé" comme dans l'image ci-dessous.**
 3.<span style="align-items:center;"> Tu actives le pack de ressources, puis tu cliques sur **Terminer**.
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Pack/PackEnable.png" alt="" width="600"></figure>

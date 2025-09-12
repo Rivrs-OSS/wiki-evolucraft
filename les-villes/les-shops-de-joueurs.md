@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant les coffres de ven
 
 # 🛒 Les shops de joueurs
 
-**Les shops de joueurs** servent **à vendre ou acheter des items** dans des contenants (coffre, double coffre, et coffre piégé) à des joueurs visitant votre [**👁️‍🗨️ Pwarp**](https://wiki.evolucraft.fr/les-villes/les-warps).
+**Les shops de joueurs** servent **à vendre ou acheter des items** dans des contenants (coffre, double coffre, et coffre piégé) à des joueurs visitant votre [**👁️‍🗨️ Pwarp**](https://wiki.evolucraft.fr/le-monde-des-villes/les-warps).
 
 ## <mark style="color:green;">**👜 Créer un shop dans votre ville**</mark>
 

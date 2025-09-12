@@ -6,7 +6,7 @@
 
 * [‼️ Règlement IG](informations-importantes/reglement-ig.md)
 * [‼️ Règlement Discord](informations-importantes/reglement-discord.md)
-* [🤲 Contribuer](CONTRIBUTING.Md)
+* [🤲 Contribuer](informations-importantes/CONTRIBUTING.Md)
 
 ## 💡 TUTO ET ASTUCE 
 
@@ -61,15 +61,20 @@
   * [🟫 Fabrique de Chocolat](le-gameplay/les-donjons/FabriqueChocolat.md)
 * [💰 Le Commerce](le-gameplay/le-commerce.md)
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
-* [📜 Les Quêtes](le-gameplay/les-quetes.md)
-* [🥚 Les Compagnons](le-gameplay/les-compagnons.md)
+* [👑 Les Rangs](le-gameplay/les-rangs.md)
+* [🥚 Les Compagnons](le-gameplay/les-compagnons/README.md)
+  * [🐸 Compagnon Commun](le-gameplay/les-compagnons/pets-communs.md)
+  * [🐤 Compagnon Rare](le-gameplay/les-compagnons/pets-rare.md)
+  * [🐟 Compagnon Épique](le-gameplay/les-compagnons/pets-epique.md)
+  * [👾 Compagnon Légendaire](le-gameplay/les-compagnons/pets-légendaire.md)
+  * [🦞 Compagnon Mythique](le-gameplay/les-compagnons/pets-mythique.md)
 * [⚒️ Les Machines](le-gameplay/les-machines/README.md)
   * [🪚 Machine à Bois](le-gameplay/les-machines/machine-à-bois.md)
   * [🗿 Tailleuse de Pierre](le-gameplay/les-machines/tailleuse-de-pierre.md)
   * [🔨 Forge](le-gameplay/les-machines/forge.md)
 * [🎪 Les Événements](le-gameplay/les-evenements.md)
-* [🔝 Pass](le-gameplay/pass.md)
-* [👑 Les Rangs](le-gameplay/les-rangs.md)
+* [🔱 Le Pass](le-gameplay/pass.md)
+* [📜 Les Quêtes](le-gameplay/les-quetes.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
 * [🦺 Les Kits](le-gameplay/les-kits.md)

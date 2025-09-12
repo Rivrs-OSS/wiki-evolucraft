@@ -40,11 +40,11 @@ Pour reconnaître à quel type appartient le donjon, vous avez <mark style="colo
 
 #### 🔸 Les donjons basiques
 
-* 🟩 <mark style="color:green;">Commun</mark> : _(Niveau requis : <mark style="color:green;">niveau 1</mark>)_
-* 🟨 <mark style="color:yellow;">Rare</mark> : _(Niveau requis : <mark style="color:yellow;">niveau 10</mark>)_
-* 🟦 <mark style="color:blue;">Épique</mark> : _(Niveau requis : <mark style="color:blue;">niveau 25</mark>)_
-* 🟪 <mark style="color:purple;">Légendaire</mark> : _(Niveau requis : <mark style="color:purple;">niveau 40</mark>)_
-* 🟥 <mark style="color:red;">Mythique</mark> : _(Niveau requis : <mark style="color:red;">niveau 50</mark>)_
+* 🟩 [<mark style="color:green;">Commun</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/commun) : _(Niveau requis : <mark style="color:green;">niveau 1</mark>)_
+* 🟨 [<mark style="color:yellow;">Rare</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/rare) : _(Niveau requis : <mark style="color:yellow;">niveau 10</mark>)_
+* 🟦 [<mark style="color:blue;">Épique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/epique) : _(Niveau requis : <mark style="color:blue;">niveau 25</mark>)_
+* 🟪 [<mark style="color:purple;">Légendaire</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) : _(Niveau requis : <mark style="color:purple;">niveau 40</mark>)_
+* 🟥 [<mark style="color:red;">Mythique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/mythique) : _(Niveau requis : <mark style="color:red;">niveau 50</mark>)_
 
 {% hint style="info" %}
 REMARQUE 🤓☝ : Plus un donjon demande un niveau élevé, plus il est difficile, mais les récompenses sont également plus importantes !
@@ -55,7 +55,7 @@ Pour rendre votre expérience variée, plusieurs types de biomes de donjons sont
 * Forêt
 * Jungle
 * Marais
-* Toundra
+* Neige
 * Désert
 * Mesa
 * Savane
@@ -144,21 +144,21 @@ Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres<
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">10.000 💰</mark></td>
-      <td align="center"><mark style="color:orange;">20.000 💰</mark></td>
+      <td align="center"><mark style="color:yellow;">20.000 💰</mark></td>
       <td align="center"><mark style="color:blue;">50.000 💰</mark></td>
       <td align="center"><mark style="color:purple;">Parchemin Difficile</mark></td>
       <td align="center"><mark style="color:red;">Parchemin Expert</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">15.000 💰</mark></td>
-      <td align="center"><mark style="color:orange;">50.000 💰</mark></td>
+      <td align="center"><mark style="color:yellow;">50.000 💰</mark></td>
       <td align="center"><mark style="color:blue;">100.000 💰</mark></td>
       <td align="center"><mark style="color:purple;">Parchemin Expert</mark></td>
       <td align="center"><mark style="color:red;">Parchemin Impossible</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">25.000 💰</mark></td>
-      <td align="center"><mark style="color:orange;">100.000 💰</mark></td>
+      <td align="center"><mark style="color:yellow;">100.000 💰</mark></td>
       <td align="center"><mark style="color:blue;">250.000 💰</mark></td>
       <td align="center"><mark style="color:purple;">150.000 💰</mark></td>
       <td align="center"><mark style="color:red;">300.000 💰</mark></td>
@@ -195,7 +195,7 @@ Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres<
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:yellow;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:blue;">Arme 2 Rare</mark></td>
-      <td align="center"><mark style="color:pruple;">2 Bonbon au Raisin</mark></td>
+      <td align="center"><mark style="color:purple;">2 Bonbon au Raisin</mark></td>
       <td align="center"><mark style="color:red;">Plume de Phoenix</mark></td>
     </tr>
     <tr>
@@ -264,26 +264,6 @@ Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres<
   </tbody>
 </table>
 
-### Armes obtenables en fonction des biomes
-
-| **Forêt**           | **Jungle**               | **Marais**                    | **Toundra**              |
-| ------------------- | ------------------------ | ----------------------------- | ------------------------ |
-| **Arc sylvanique**  | **Souffle du serpent**   | **Bénédiction d'Adam**        | **Sceptre de glace**     |
-| **Brise-feuille**   | **Sceptre de la nature** | **Sceptre des âmes errantes** | **Lance glacial**        |
-| **Croc de Fenrir**  | **Dague vipérienne**     | **Lame du komodo**            | **Tranche givre**        |
-| **Bâton de vie**    | **Bâton arcanique**      | **Bâton de Cthulhu**          | **Dague polaire**        |
-| **Harpe sylvestre** | **Harpe épineuse**       | **Poing de la tristesse**     | **Gant gelé**            |
-| **X**               | **Pistolet racineux**    | **X**                         | **Pistolet du blizzard** |
-
-| **Mesa**               | **Désert**                 | **Savane**               | **Nether**             |
-| ---------------------- | -------------------------- | ------------------------ | ---------------------- |
-| **Marteau sismique**   | **Sabre des sables**       | **Écraseur de tête**     | **Lame du styx**       |
-| **Sceptre d'orc**      | **Sceptre de feu**         | **Bâton magique**        | **Lance éternelle**    |
-| **Fendoir orc**        | **Courroux de la lumière** | **Sceptre du monarque**  | **Bouclier du chaos**  |
-| **Os d'ogre**          | **Livre ancien momifié**   | **Bâton squelettique**   | **Arc traque-coeur**   |
-| **Gant du massacreur** | **Poing de la colère**     | **Harpe des murmures**   | **Gant emflammé**      |
-| **X**                  | **X**                      | **Poing de la sérénité** | **Pistolet du phénix** |
-
 {% hint style="info" %}
-Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
+Tous les monstres peuvent lâcher un coffre contenant un cristal de donjons, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
 {% endhint %}

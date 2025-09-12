@@ -2,7 +2,7 @@
 description: Retrouvez ici le tuto pour savoir comment se créer une petite richesse en début de partie.
 ---
 
-# 💠 Comment se faire de l'argent facilement sur le serveur ? 💸
+# 💸 Comment se faire de l'argent facilement sur le serveur ?
 
 L'argent sur ce serveur est indispensable pour monter ses rangs, faire évoluer sa ville ou encore acheter des services ou des items aux joueurs. Mais en tant que nouveau joueur, quels sont les moyens d'avoir une petite base d'argent pour subvenir à ses besoins ? Alors voici quelques astuces pour se faire de l'argent rapidement, sans mendier !
 
@@ -27,7 +27,7 @@ Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action<
 
 Également, lorsque vous passez un niveau dans votre métier, vous pouvez récupérer de l'argent en faisant la commande <mark style="color:green;">`/jobs claim`</mark>. Elle vous donnera les récompenses de paliers de tous les métiers atteints.
 
-Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons"><mark style="color:green;">les métiers 👷‍♂️</mark></a>.
+Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : <a href="https://wiki.evolucraft.fr/le-gameplay/les-metiers"><mark style="color:green;">les métiers 👷‍♂️</mark></a>.
 
 ## 🔶 <mark style="color:green;">Les clés de vote 🗝️</mark>
 

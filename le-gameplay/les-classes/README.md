@@ -24,7 +24,7 @@ Nous vous invitons à lire cette page du wiki expliquant le <mark style="color:g
 
 Sur le serveur Évolucraft, il existe <mark style="color:green;">**20 classes**</mark> distinctes avec <mark style="color:green;">3 types de gameplay</mark> disponibles (<mark style="color:green;">Tank</mark>, <mark style="color:green;">Soutien</mark> et <mark style="color:green;">DPS</mark>) :
 
-## <mark style="color:green;">Classes Communes</mark>
+### <mark style="color:green;">Classes Communes</mark>
 
 * [<mark style="color:green;">**Guerrier ⚔️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/guerrier) : Experts du combat rapproché, équipés d'armures lourdes et d'armes variées, combattant en première ligne. _(Tanks)_
 * [<mark style="color:green;">**Archer 🏹**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/archer) : Maîtres dans l'art du tir à l'arc, agiles et précis, ne ratant jamais leur cible. _(DPS)_
@@ -32,14 +32,14 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**20 classes**<
 * [<mark style="color:green;">**Barde 🎼**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/barde) : Maître dans l'art de la musique et de la poésie, charmant et inspirant, il envoûte toujours son auditoire. _(Soutien)_
 * [<mark style="color:green;">**Illusioniste 🎭**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/illusionniste) : Maître des illusions et de la ruse, trouble les sens et trompe l'ennemi, il frappe où nul ne s'y attend. _(DPS)_
 
-## <mark style="color:yellow;">Classes Rares</mark>
+### <mark style="color:yellow;">Classes Rares</mark>
 
 * [<mark style="color:yellow;">**Assassin 🗡️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/assassin) : Maîtres de l'ombre, spécialisés dans les attaques furtives et les éliminations rapides. _(DPS)_
 * [<mark style="color:yellow;">**Paladin 🛡️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/paladin) : Chevaliers sacrés combattant au nom de la justice, purifiant les forces du malin. _(Tanks)_
 * [<mark style="color:yellow;">**Élémentaliste 🌬️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/elementaliste) : Maîtres des éléments primordiaux, manipulant le feu, le vent, l'eau et la terre. Aussi versatile que puissant. _(DPS)_
 * [<mark style="color:yellow;">**Chevalier des glaces ❄️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-des-glaces) : Chevalier maniant le givre paralysant ses ennemis dans le froid et refroidi leurs ardeur. _(DPS)_
 
-## <mark style="color:blue;">Classes Épiques</mark>
+### <mark style="color:blue;">Classes Épiques</mark>
 
 * [<mark style="color:blue;">**Chaman 🕯️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chaman) : Utilisateurs des pouvoirs surnaturels, puisant leur force dans les esprits, redoutables mages païens. _(Soutien)_
 * [<mark style="color:blue;">**Invocateur 🤲**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/invocateur) : Manipulateurs de monstres, contrôlant les bêtes de ce monde pour combattre à leurs côtés. _(DPS)_
@@ -47,7 +47,7 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**20 classes**<
 * [<mark style="color:blue;">**Faucheur 💀**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/faucheur) : Fusion d'une discipline millénaire et d'une dévotion inflexible à la mort, le Faucheur aiguise sa faux, prêt à accomplir son devoir éternel. _(DPS)_
 * [<mark style="color:blue;">**Archimage 📖**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/archimage) : Manipulateurs des forces mystiques, lançant des sorts dévastateurs, il incarne la puissance des arcanes. _(DPS)_
 
-## <mark style="color:purple;">Classes Légendaires</mark>
+### <mark style="color:purple;">Classes Légendaires</mark>
 
 * [<mark style="color:purple;">**Guerrier Dragon 🐲**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/guerrier-dragon) : Héros tueur de dragons, destructeur de cité, semant la peur dans le cœur de ses ennemis. _(DPS)_
 * [<mark style="color:purple;">**Clerc ⛪**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/clerc) : Prêtres dévoués, guérissant les blessures et repoussant les forces obscures avec la magie divine. _(Soutien)_
@@ -55,7 +55,7 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**20 classes**<
 * [<mark style="color:purple;">**Artificier 🎇**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/artificier) : Maître de la robotique et de la destruction, il répand la terreur avec son grincement sinistre. _(DPS)_
 * [<mark style="color:purple;">**Samouraï 🥷**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/samourai) : Guerrier d'honneur et de discipline maître de la lame et du silence, le samouraï fauche ses ennemis avec grâce et précision. _(DPS)_
 
-## <mark style="color:red;">Classe Mythique</mark>
+### <mark style="color:red;">Classe Mythique</mark>
 * [<mark style="color:red;">**Chevalier de la mort ☠️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-de-la-mort) : Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur. _(DPS)_
 
 ## <mark style="color:green;">💠 Que signifient les avantages statistiques ? 👨‍🔬</mark>
@@ -64,15 +64,21 @@ Après avoir découvert les <mark style="color:green;">classes</mark>, vous hés
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Readme/ApercuStat.png" alt=""><figcaption><p><strong>Aperçu des Statistiques de la <mark style="color:green;">Classe Guerrier Dragon</mark></strong></p></figcaption></figure>
 
-* <mark style="color:green;">**Vie ❤️**</mark> : Permet d’avoir plus de points de vie.
-* <mark style="color:green;">**Défense 🛡️**</mark> : Permet de prendre moins de dégâts.
-* <mark style="color:green;">**Régénération 💕**</mark> : Permet de régénérer plus vite sa vie.
-* <mark style="color:green;">**Mana 🧪**</mark> : Permet d’avoir une plus grande capacité de mana.
-* <mark style="color:green;">**Vitesse 🏃‍♂️**</mark> : Permet d’être plus rapide.
-* <mark style="color:green;">**Résistance ⚔️**</mark> : Permet de réduire les dégâts de chute et autres.
-* <mark style="color:green;">**Dégâts Critiques 💀**</mark> : Permet de faire plus mal en coup critique.
-* <mark style="color:green;">**Chance de Critique 🥊**</mark> : Permet d’augmenter la probabilité de réaliser un coup critique.
-* <mark style="color:green;">**Dextérité 🐱‍🏍**</mark> : Permet de taper plus rapidement.
+* <mark style="color:red;">**Vie ❤️**</mark> : Permet d’avoir plus de points de vie.
+* <mark style="color:blue;">**Défense 🛡️**</mark> : Permet de prendre moins de dégâts.
+* <mark style="color:red;">**Régénération 💕**</mark> : Permet de régénérer plus vite sa vie.
+* <mark style="color:yellow;">**Mana 🧪**</mark> : Permet d’avoir une plus grande capacité de mana.
+* <mark style="color:blue;">**Vitesse 🏃‍♂️**</mark> : Permet d’être plus rapide.
+* <mark style="color:red;">**Force 🗡️**</mark> : Permet de réduire les dégâts de chute et autres.
+* <mark style="color:purple;">**Résistance ⚔️**</mark> : Permet de réduire les dégâts de chute et autres.
+* <mark style="color:orange;">**Dégâts Critiques 💀**</mark> : Permet de faire plus mal en coup critique.
+* <mark style="color:red;">**Chance de Critique 🥊**</mark> : Permet d’augmenter la probabilité de réaliser un coup critique.
+* <mark style="color:blue;">**Dextérité 🐈**</mark> : Permet de taper plus rapidement.
+* <mark style="color:blue;">**Régénération de Mana ✨**</mark> : Régénère votre Mana plus rapidement.
+
+{% hint style="info" %}
+<mark style="color:green;">REMARQUE 🔍</mark> : La statistique de la régénération de Mana n'apparait pas de base dans le menu des classe étant donné qu'elle est a une valeur de 1 pour toutes les classes.
+{% endhint %}
 
 ## <mark style="color:green;">💠 Comment augmenter de niveau dans ma classe ? 🆙</mark>
 
@@ -86,7 +92,7 @@ L’<mark style="color:green;">XP</mark> donnée par les <mark style="color:gree
 ### <mark style="color:blue;">🔸 La box de vote 🧰</mark>
 Pour ceux qui ne sont pas fans des <mark style="color:green;">donjons</mark>, il existe un autre moyen de faire évoluer votre <mark style="color:green;">classe</mark> !
 
-Lorsque vous <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#-les-clés-de-vote"><mark style="color:green;">votez sur le serveur</mark></a>, vous avez une chance d’obtenir la récompense <mark style="color:green;">"1000 XP CLASSE"</mark>, ce qui vous permettra de progresser plus rapidement dans les niveaux de classe !
+Lorsque vous <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#les-cles-de-vote"><mark style="color:green;">votez sur le serveur</mark></a>, vous avez une chance d’obtenir la récompense <mark style="color:green;">"1000 XP CLASSE"</mark>, ce qui vous permettra de progresser plus rapidement dans les niveaux de classe !
 
 ## <mark style="color:green;">💠 Comment débloquer, installer et utiliser les compétences ? 🥏</mark>
 

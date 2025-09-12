@@ -53,6 +53,10 @@ ATTENTION ⚠️ : Vous ne pouvez pas mettre d'espace dans le nom de votre sous-
 **Pour réaliser une location, il vous faut être muni <mark style="color:green;">d'un panneau vanilla</mark>, peu importe le type de bois, et y inscrire <mark style="color:green;">cette forme ci-dessous</mark> tout en étant dans la sous-zone où aura lieu la location :**
 <figure><img src="../.gitbook/assets/Les_Villes/SousZone/Location.png" alt=""><figcaption><p><strong>Le texte entre parenthèses doit être modifié pour correspondre au nom de votre sous-zone et au prix de la location</strong></p></figcaption></figure>
 
+{% hint style="info" %}
+**REMARQUE 🔍 : Le montant maximum pour une location peut aller jusqu'à 10 millions par jour.**.
+{% endhint %}
+
 **Une fois terminé, faites "Terminer" sur le panneau et votre panneau de location sera créé ! 🤗**
 
 ## <mark style="color:green;">**💠 Autres commandes 🤨**</mark>
