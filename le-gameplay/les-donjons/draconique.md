@@ -15,8 +15,7 @@ Ce donjon est <mark style="color:green;">**limité à 10 personnes**</mark>. Pou
 ### <mark style="color:green;">XP obtenable</mark>
 Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
 
-* Dragon vert : 17.5 xp
-* Dragon de feu : 17.5 xp
+* Dragon vert & Dragon de feu : 17.5 xp
 * Patate : 150 xp
 * Albi : 250 xp
 * Drogon : 500 xp
