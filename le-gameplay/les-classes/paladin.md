@@ -342,8 +342,8 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Marteau des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>
+    <td><mark style="color:blue;">Marteau des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
