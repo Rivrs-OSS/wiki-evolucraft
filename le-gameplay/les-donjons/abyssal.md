@@ -16,8 +16,8 @@ Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour
 Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
 
 * Mob normal : 17.5 xp
-* Mini boss : 450 xp
-* Boss : 900 xp
+* Nautilox : 450 xp
+* Merlock : 900 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 
