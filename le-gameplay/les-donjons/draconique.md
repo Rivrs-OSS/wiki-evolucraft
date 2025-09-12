@@ -15,10 +15,12 @@ Ce donjon est <mark style="color:green;">**limité à 10 personnes**</mark>. Pou
 ### <mark style="color:green;">XP obtenable</mark>
 Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
 
-* Bébé Dragon : 1 xp
-* Dragon teresstre et volant : 50 xp
-* Mini boss : 100 xp
-* Boss : 500 xp
+* Dragon vert : 17.5 xp
+* Dragon de feu : 17.5 xp
+* Patate : 150 xp
+* Albi : 250 xp
+* Drogon : 500 xp
+* Saphira : 900 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 
