@@ -94,7 +94,7 @@ description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💰/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Terrestre)</mark></p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Chasseur 🗡️</strong></mark></p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>🐈 Dextérité</strong></mark> +2</p>
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>🤺 Dextérité</strong></mark> +2</p>
     </td>
     <td>
       <p> * Œuf de familier (Caisse Émeraude ✳️)</p>
