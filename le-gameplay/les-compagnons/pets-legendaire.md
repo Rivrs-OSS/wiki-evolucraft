@@ -122,7 +122,7 @@ description: Retrouvez ici toutes la liste des compagnons légendaire dans le se
       <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> sur la vente de <mark style="color:purple;"><strong>Loots de Mobs</strong></mark> au /shop</p>
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>🗡️ Force</strong></mark> +1</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'argent sur le <mark style="color:purple;"><strong>Chasseur 🗡️</strong></mark></p>
-      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🐈 Dextérité</strong></mark> +3</p>
+      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🤺 Dextérité</strong></mark> +3</p>
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 6.000</strong></mark> 💰/h</p>
     </td>
     <td>
