@@ -300,8 +300,8 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Dague des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>
+    <td><mark style="color:blue;">Dague des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
