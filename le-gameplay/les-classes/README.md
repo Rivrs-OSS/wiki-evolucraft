@@ -73,7 +73,7 @@ Après avoir découvert les <mark style="color:green;">classes</mark>, vous hés
 * <mark style="color:purple;">**Résistance ⚔️**</mark> : Permet de réduire les dégâts de chute et autres.
 * <mark style="color:orange;">**Dégâts Critiques 💀**</mark> : Permet de faire plus mal en coup critique.
 * <mark style="color:red;">**Chance de Critique 🥊**</mark> : Permet d’augmenter la probabilité de réaliser un coup critique.
-* <mark style="color:blue;">**Dextérité 🐈**</mark> : Permet de taper plus rapidement.
+* <mark style="color:blue;">**Dextérité 🤺**</mark> : Permet de taper plus rapidement.
 * <mark style="color:blue;">**Régénération de Mana ✨**</mark> : Régénère votre Mana plus rapidement.
 
 {% hint style="info" %}
