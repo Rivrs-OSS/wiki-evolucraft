@@ -297,8 +297,8 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Spectre des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>   
+    <td><mark style="color:blue;">Spectre des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>   
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
