@@ -317,8 +317,8 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Gantelet des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>
+    <td><mark style="color:blue;">Gantelet des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
