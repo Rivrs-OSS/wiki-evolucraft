@@ -297,8 +297,8 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Poing des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>
+    <td><mark style="color:blue;">Poing des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
