@@ -297,8 +297,8 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Lance des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>  
+    <td><mark style="color:blue;">Lance des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>  
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
