@@ -66,7 +66,7 @@
   * [🐸 Compagnon Commun](le-gameplay/les-compagnons/pets-communs.md)
   * [🐤 Compagnon Rare](le-gameplay/les-compagnons/pets-rare.md)
   * [🐟 Compagnon Épique](le-gameplay/les-compagnons/pets-epique.md)
-  * [👾 Compagnon Légendaire](le-gameplay/les-compagnons/pets-légendaire.md)
+  * [👾 Compagnon Légendaire](le-gameplay/les-compagnons/pets-legendaire.md)
   * [🦞 Compagnon Mythique](le-gameplay/les-compagnons/pets-mythique.md)
 * [⚒️ Les Machines](le-gameplay/les-machines/README.md)
   * [🪚 Machine à Bois](le-gameplay/les-machines/machine-à-bois.md)
