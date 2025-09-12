@@ -94,6 +94,15 @@ Pour ceux qui ne sont pas fans des <mark style="color:green;">donjons</mark>, il
 
 Lorsque vous <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#les-cles-de-vote"><mark style="color:green;">votez sur le serveur</mark></a>, vous avez une chance d’obtenir la récompense <mark style="color:green;">"1000 XP CLASSE"</mark>, ce qui vous permettra de progresser plus rapidement dans les niveaux de classe !
 
+## <mark style="color:green;">💠 Comment voir ses niveaux de classe, ou ceux d'un autre joueur ? 📊 </mark>
+
+Afin de vérifier le <mark style="color:green;">**niveau d'un joueur**</mark> dans toutes les classes, vous pouvez utiliser la commande <mark style="color:green;">**`/class stats`**</mark>.  
+Celle-ci vous permet de consulter, pour chaque classe, son <mark style="color:green;">**niveau de classe**</mark>, son <mark style="color:green;">**niveau de prestige**</mark> ainsi que la <mark style="color:green;">**progression en pourcentage**</mark> dans le niveau en cours.  
+
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/ClasseStats.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">niveau de classe</mark> d'un joueur</strong></p></figcaption></figure>
+
+Si vous souhaitez vous <mark style="color:green;">**comparer**</mark> à d'autres joueurs dans votre classe, vous pouvez utiliser la commande <mark style="color:green;">**`/classement`**</mark> afin de voir le classement général des <mark style="color:green;">**classes disponibles**</mark> sur le serveur.
+
 ## <mark style="color:green;">💠 Comment débloquer, installer et utiliser les compétences ? 🥏</mark>
 
 Les <mark style="color:green;">compétences</mark> servent à réaliser des <mark style="color:green;">actions</mark> en fonction de la <mark style="color:green;">classe</mark> : infliger de <mark style="color:green;">gros dégâts</mark> ou <mark style="color:green;">soigner</mark> ses coéquipiers en échange de <mark style="color:green;">Mana</mark>. Très pratique pour avancer dans les <mark style="color:green;">donjons</mark> !
