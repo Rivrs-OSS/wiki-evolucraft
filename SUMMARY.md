@@ -15,6 +15,7 @@
   * [♒ Problème de barre de boss](tuto-et-astuce/pb-bossbar.md)
   * [🏙️ Être dans une ville](tuto-et-astuce/creer-une-ville.md)
   * [💸 Gagner de l'argent](tuto-et-astuce/gagner-argent.md)
+  * [📩 Voter](tuto-et-astuce/voter.md)
   * [🧙‍♀️ Avoir une classe](tuto-et-astuce/avoir-une-classe.md)
   * [📣 Créer une pub](tuto-et-astuce/creation-pub.md)
   * [🧍‍♂️ Le guide de l'ASE](tuto-et-astuce/le-ase.md)
