@@ -10,7 +10,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
   <tr>
     <td><mark style="color:blue;"><strong>Nom 🏷️</strong></mark></td>
     <td><mark style="color:blue;"><strong>Image de l'item 🖼️</strong></mark></td>
-    <td><mark style="color:blue;"><strong>Aventages 💪</strong></mark></td>
+    <td><mark style="color:blue;"><strong>Avantages 💪</strong></mark></td>
     <td><mark style="color:blue;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
