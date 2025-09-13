@@ -10,7 +10,7 @@ description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
   <tr>
     <td><mark style="color:yellow;"><strong>Nom 🏷️</strong></mark></td>
     <td><mark style="color:yellow;"><strong>Image de l'item 🖼️</strong></mark></td>
-    <td><mark style="color:yellow;"><strong>Aventages 💪</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>Avantages 💪</strong></mark></td>
     <td><mark style="color:yellow;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
