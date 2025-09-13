@@ -44,7 +44,6 @@ Les <mark style="color:green;">**10 premiers**</mark> du classement remportent u
 **⚠️ Attention : Le <mark style="color:green;">bot-vote</mark> est strictement <mark style="color:green;">interdit</mark> 👀.**
 {% endhint %}
 
-**Plus d'excuses pour ne pas voter ! À vos <mark style="color:green;">votes</mark>, chers joueurs 🎉 !**
-
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/ClassementVote.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Classement des votes</mark></strong></p></figcaption></figure>
 
+**Plus d'excuses pour ne pas voter ! À vos <mark style="color:green;">votes</mark>, chers joueurs 🎉 !**
