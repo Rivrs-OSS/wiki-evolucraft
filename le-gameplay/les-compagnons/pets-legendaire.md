@@ -10,7 +10,7 @@ description: Retrouvez ici toutes la liste des compagnons légendaire dans le se
   <tr>
     <td><mark style="color:purple;"><strong>Nom 🏷️</strong></mark></td>
     <td><mark style="color:purple;"><strong>Image de l'item 🖼️</strong></mark></td>
-    <td><mark style="color:purple;"><strong>Aventages 💪</strong></mark></td>
+    <td><mark style="color:purple;"><strong>Avantages 💪</strong></mark></td>
     <td><mark style="color:purple;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
