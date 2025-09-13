@@ -36,7 +36,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
     </td>
   </tr>
   <tr>
-    <td align="center"><mark style="color:blue;"><strong>Hedwig</strong></mark></td>
+    <td align="center"><mark style="color:blue;"><strong>Dracon</strong></mark></td>
     <td>
       <figure>
         <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Dracon.png" alt="">
