@@ -298,8 +298,8 @@ Invoquez un phénix qui glisse à travers le sol, brûlant et infligeant des dé
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Livre des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>
+    <td><mark style="color:blue;">Livre des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>

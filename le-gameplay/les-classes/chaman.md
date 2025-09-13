@@ -300,8 +300,8 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Totem des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>   
+    <td><mark style="color:blue;">Totem des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>   
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>

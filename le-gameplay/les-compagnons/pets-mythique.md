@@ -10,7 +10,7 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
   <tr>
     <td><mark style="color:red;"><strong>Nom 🏷️</strong></mark></td>
     <td><mark style="color:red;"><strong>Image de l'item 🖼️</strong></mark></td>
-    <td><mark style="color:red;"><strong>Aventages 💪</strong></mark></td>
+    <td><mark style="color:red;"><strong>Avantages 💪</strong></mark></td>
     <td><mark style="color:red;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>

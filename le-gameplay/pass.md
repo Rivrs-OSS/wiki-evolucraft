@@ -63,7 +63,7 @@ Pour voir votre position, tapez la commande <mark style="color:green;">**`/class
 | <mark style="color:white;">**2e**</mark>      | <mark style="color:blue;">**500 Gemmes 💎**</mark> + <mark style="color:white;">**Tag Argent**</mark> |
 | <mark style="color:orange;">**3e**</mark>     | <mark style="color:blue;">**250 Gemmes 💎**</mark> + <mark style="color:orange;">**Tag Bronze**</mark> |
 | <mark style="color:green;">**4e à 10e**</mark>| <mark style="color:yellow;">**100K 💲**</mark> |
-| <mark style="color:white;">**11e à 25e**</mark>| <mark style="color:yellow;">**25K 💲**</mark> |
+| <mark style="color:green;">**11e à 25e**</mark>| <mark style="color:yellow;">**25K 💲**</mark> |
 | <mark style="color:green;">**26e à 50e**</mark>| <mark style="color:yellow;">**10K 💲**</mark> |
 
 {% hint style="warning" %}

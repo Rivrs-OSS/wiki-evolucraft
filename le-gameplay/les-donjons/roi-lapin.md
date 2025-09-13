@@ -14,9 +14,9 @@ Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour
 
 ### <mark style="color:green;">XP obtenable</mark>
 
-* Mob normal : 17.5 xp
-* Mini boss : 450 xp
-* Boss : 900 xp
+* Combattants & Tireurs : 22 xp
+* Gros Lapins : 562 xp
+* Lapins : 1 125 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 

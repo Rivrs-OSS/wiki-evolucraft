@@ -14,9 +14,9 @@ Ce donjon est <mark style="color:green;">**limité à 2 personnes**</mark>. Pour
 
 ### <mark style="color:green;">XP obtenable</mark>
 
-* Mob normal : 18 xp
-* Mini boss : 450 xp
-* Boss : 900 xp
+* Combattant & Elf : 18 xp
+* Golem : 450 xp
+* Reine : 900 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 

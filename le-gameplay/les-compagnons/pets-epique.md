@@ -10,7 +10,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
   <tr>
     <td><mark style="color:blue;"><strong>Nom 🏷️</strong></mark></td>
     <td><mark style="color:blue;"><strong>Image de l'item 🖼️</strong></mark></td>
-    <td><mark style="color:blue;"><strong>Aventages 💪</strong></mark></td>
+    <td><mark style="color:blue;"><strong>Avantages 💪</strong></mark></td>
     <td><mark style="color:blue;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
     </td>
   </tr>
   <tr>
-    <td align="center"><mark style="color:blue;"><strong>Hedwig</strong></mark></td>
+    <td align="center"><mark style="color:blue;"><strong>Dracon</strong></mark></td>
     <td>
       <figure>
         <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Dracon.png" alt="">
@@ -148,7 +148,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
       <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+ 1.500</strong></mark> 💰/h</p>
       <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +9</p>
       <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>+5%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Chairs putiéfiées</strong></mark> au /shop</p>
-      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🐈 Dextérité</strong></mark> +5</p>
+      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +5</p>
       <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 5.500</strong></mark> 💰/h</p>
     </td>
     <td>
@@ -236,7 +236,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
     </td>
     <td>
       <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+ 5.000</strong></mark> 💰/h</p>
-      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🐈 Dextérité</strong></mark> +7</p>
+      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +7</p>
       <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Aérienne)</mark></p>
       <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +70</p>
       <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+10%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Glace</strong></mark> au /shop</p>
@@ -462,7 +462,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
     </td>
   </tr>
   <tr>
-    <td align="center"><mark style="color:blue;"><strong>Skel</strong></mark></td>
+    <td align="center"><mark style="color:blue;"><strong>Skell</strong></mark></td>
     <td>
       <figure>
         <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Skel.png" alt="">

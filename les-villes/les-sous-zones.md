@@ -61,6 +61,8 @@ ATTENTION ⚠️ : Vous ne pouvez pas mettre d'espace dans le nom de votre sous-
 
 ## <mark style="color:green;">**💠 Autres commandes 🤨**</mark>
 
+* <mark style="color:green;">**/ville setspawn [Nom de la sous-zone]**</mark> : Permet de déplacer le spawn d'une sous-zone.
+* <mark style="color:green;">**/ville subarea view [Nom de la sous-zone]**</mark> : Permet de voir les contours de toutes les sous-zones créer dans la ville.
 * <mark style="color:green;">**/ville subarea kick [Nom de la sous-zone] [Pseudo]**</mark> : Permet d'exclure un membre de la sous-zone qu'il avait rejointe.
 
 {% hint style="info" %}

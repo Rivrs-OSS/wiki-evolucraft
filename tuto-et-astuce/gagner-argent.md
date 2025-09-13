@@ -33,31 +33,7 @@ Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers<
 
 Les <mark style="color:green;">clés de vote</mark> font partie des marchés préférés des joueurs qui aiment <mark style="color:green;">gagner</mark> par exemple <mark style="color:green;">de l'argent</mark> ou encore <mark style="color:green;">des items plutôt rares</mark> _(items en émeraude, Rubis Shiny ou encore des pets)_.
 
-### 🔹 Comment voter sur le serveur ? ✅
-
-#### <mark style="color:green;">• Étape 1️⃣</mark>
-**Obtenir des clés est relativement simple : dans un premier temps, vous pouvez <mark style="color:green;">aller sur le site d'<a href="https://evolucraft.fr/vote">Évolucraft 🌏</mark></a> puis aller dans <mark style="color:green;">l'onglet Vote</mark>.**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/VoteSiteEvo.png" alt=""><figcaption><p><strong>Aperçu de la page <mark style="color:green;">d'accueil du site</mark></strong></p></figcaption></figure>
-
-#### <mark style="color:green;">• Étape 2️⃣</mark>
-**Ensuite, vous devrez <mark style="color:green;">insérer votre pseudo</mark> sur la droite comme sur l'image ci-dessous, <mark style="color:green;">veillez à bien écrire le pseudo exact, au caractère près</mark> !**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/VoteSiteVote.png" alt=""><figcaption><p><strong>Aperçu de l'onglet <mark style="color:green;">vote du site</mark></strong></p></figcaption></figure>
-
-#### <mark style="color:green;">• Étape 3️⃣</mark>
-**Vous devrez ensuite <mark style="color:green;">cliquer sur Site 1 ou Site 2</mark>. Cela vous amènera vers un autre site ; suivez les instructions demandées, il vous faudra probablement <mark style="color:green;">remplir un captcha</mark> (avec image ou texte selon la demande) puis <mark style="color:green;">cliquer sur "Je Vote Maintenant"</mark>. Après avoir voté, il est impératif de <mark style="color:green;">revenir sur le site d'Évolucraft</mark> afin que le vote soit validé (Le vote sera considéré comme validé lorsque le temps du prochain vote commencera à s'afficher ; sinon, refaites le vote ou rafraîchissez la page internet).**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/VoteSite1.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Site 1</mark></strong></p></figcaption></figure>
-
-{% hint style="warning" %}
-**⚠️ Attention : si plusieurs joueurs jouent sur la même connexion internet, chacun doit utiliser une connexion différente, par exemple en utilisant les données mobiles.**
-{% endhint %}
-
-### 🔹 Comment récupérer ses clés de vote ? ✔️
-
-**Pour <mark style="color:green;">récupérer vos clés</mark> durement acquises, effectuez la commande <mark style="color:green;">`/claimvote`</mark> au spawn en <mark style="color:green;">laissant quelques slots d’inventaire libres</mark> afin de ne pas jeter certaines clés inutilement.**
-
-{% hint style="info" %}
-**REMARQUE 🔍 : Vous n’avez <mark style="color:green;">pas besoin d’être obligatoirement connecté</mark> en jeu pour voter**.
-{% endhint %}
+Nous vous laissons regarder <mark style="color:green;">**ce tutoriel**</mark> pour savoir : [<mark style="color:green;">**Comment voter pour le serveur 📩**</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/voter)
 
 **Vous pouvez dès maintenant choisir de les ouvrir à la box au spawn 🧰 ou de les vendre au /ah 🛒**
 

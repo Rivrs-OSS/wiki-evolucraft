@@ -314,8 +314,8 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Arc des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>
+    <td><mark style="color:blue;">Arc des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>

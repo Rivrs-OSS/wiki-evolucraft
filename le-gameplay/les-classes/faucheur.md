@@ -144,8 +144,8 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Faux des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>  
+    <td><mark style="color:blue;">Faux des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>  
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>

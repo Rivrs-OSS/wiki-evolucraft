@@ -10,7 +10,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
   <tr>
     <td><mark style="color:green;"><strong>Nom 🏷️</strong></mark></td>
     <td><mark style="color:green;"><strong>Image de l'item 🖼️</strong></mark></td>
-    <td><mark style="color:green;"><strong>Aventages 💪</strong></mark></td>
+    <td><mark style="color:green;"><strong>Avantages 💪</strong></mark></td>
     <td><mark style="color:green;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>

@@ -297,8 +297,8 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Orbe des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>  
+    <td><mark style="color:blue;">Orbe des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>  
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
