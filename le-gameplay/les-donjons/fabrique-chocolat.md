@@ -14,9 +14,9 @@ Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour
 
 ### <mark style="color:green;">XP obtenable</mark>
 
-* Mob normal : 35 xp
-* Mini boss : 1500 xp
-* Boss : 4000 xp
+* Soldats & Tireurs : 50 xp
+* Dinosaures : 5 000 xp
+* Abomination : 10 000 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 
