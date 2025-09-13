@@ -33,7 +33,7 @@ Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers<
 
 Les <mark style="color:green;">clés de vote</mark> font partie des marchés préférés des joueurs qui aiment <mark style="color:green;">gagner</mark> par exemple <mark style="color:green;">de l'argent</mark> ou encore <mark style="color:green;">des items plutôt rares</mark> _(items en émeraude, Rubis Shiny ou encore des pets)_.
 
-Nous vous laissons regarder <mark style="color:green;">ce tutoriel</mark> pour savoir : [<mark style="color:green;">Comment voter pour le serveur 📩</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/voter)
+Nous vous laissons regarder <mark style="color:green;">**ce tutoriel**</mark> pour savoir : [<mark style="color:green;">**Comment voter pour le serveur 📩**</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/voter)
 
 **Vous pouvez dès maintenant choisir de les ouvrir à la box au spawn 🧰 ou de les vendre au /ah 🛒**
 
