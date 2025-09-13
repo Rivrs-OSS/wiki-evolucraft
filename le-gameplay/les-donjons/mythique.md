@@ -17,7 +17,7 @@ Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit :
 
 * Mob normal : 100 xp
 * Mini boss : 10 000 xp
-* Boss : 20000 xp
+* Boss : 20 000 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 
