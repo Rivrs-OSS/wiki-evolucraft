@@ -96,7 +96,7 @@ Lorsque vous <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#le
 
 ## <mark style="color:green;">💠 Comment voir ses niveaux de classe, ou ceux d'un autre joueur ? 📊 </mark>
 
-Afin de vérifier le <mark style="color:green;">**niveau d'un joueur**</mark> dans toutes les classes, vous pouvez utiliser la commande <mark style="color:green;">**`/class stats`**</mark>.  
+Afin de vérifier le <mark style="color:green;">**niveau d'un joueur**</mark> dans toutes les classes, vous pouvez utiliser la commande <mark style="color:green;">**`/class stats [pseudo]`**</mark>.  
 Celle-ci vous permet de consulter, pour chaque classe, son <mark style="color:green;">**niveau de classe**</mark>, son <mark style="color:green;">**niveau de prestige**</mark> ainsi que la <mark style="color:green;">**progression en pourcentage**</mark> dans le niveau en cours.  
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Readme/ClasseStats.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">niveau de classe</mark> d'un joueur</strong></p></figcaption></figure>
