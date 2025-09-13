@@ -462,7 +462,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
     </td>
   </tr>
   <tr>
-    <td align="center"><mark style="color:blue;"><strong>Skel</strong></mark></td>
+    <td align="center"><mark style="color:blue;"><strong>Skell</strong></mark></td>
     <td>
       <figure>
         <img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Skel.png" alt="">
