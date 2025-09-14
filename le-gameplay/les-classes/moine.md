@@ -36,7 +36,7 @@ Soignez les alliés proches à chaque fois que vous subissez des dégâts.
 Tirez une explosion de chi qui laisse une marque sur votre ennemi. Volez instantanément vers l'ennemi marqué et attaquez-le.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 5s
-* <mark style="color:blue;">**Mana**</mark>**:** 0
+* <mark style="color:blue;">**Mana**</mark>**:** 30
 * <mark style="color:blue;">**Dégâts**</mark>**:** 109,4
 
 ### 🔸 <mark style="color:blue;">**Niveau 15 : Projection**</mark>
