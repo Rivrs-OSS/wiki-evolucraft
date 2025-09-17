@@ -69,13 +69,13 @@ De plus, des donjons spécifiques ajoutés lors de mises à jour sur le serveur 
 
 * Draconique 🟧[<mark style="color:orange;">Donjon Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique) _(Niveau requis : <mark style="color:orange;">niveau 10</mark>)_
 * Abyssal 🟦[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal) _(Niveau requis : <mark style="color:blue;">niveau 10</mark>)_
-* Halloween 🟧[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/Halloween)  _(Niveau requis : <mark style="color:orange;">niveau 20</mark>)_
+* Halloween 🟧[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/halloween)  _(Niveau requis : <mark style="color:orange;">niveau 20</mark>)_
 * Givrée Commun 🟦[<mark style="color:blue;">Donjon Givrée Commun</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15)  _(Niveau requis : <mark style="color:blue;">niveau 15</mark>)_
 * Givrée Épique 🟦[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)  _(Niveau requis : <mark style="color:blue;">niveau 40</mark>)_
-* Cupidon 🟥[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)  _(Niveau requis : <mark style="color:red;">niveau 10</mark>)_
-* Amour 🟥[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)  _(Niveau requis : <mark style="color:red;">niveau 40</mark>)_
-* Terrier du Roi Lapin 🟫[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/RoiLapin)  _(Niveau requis : <mark style="color:yellow;">niveau 15</mark>)_
-* Fabrique du Chocolat 🟫[<mark style="color:yellow;">Donjon Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/FabriqueChocolat)  _(Niveau requis : <mark style="color:yellow;">niveau 40</mark>)_
+* Amour 🟥[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)  _(Niveau requis : <mark style="color:red;">niveau 10</mark>)_
+* Cupidon 🟥[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour)  _(Niveau requis : <mark style="color:red;">niveau 40</mark>)_
+* Terrier du Roi Lapin 🟫[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin)  _(Niveau requis : <mark style="color:yellow;">niveau 15</mark>)_
+* Fabrique du Chocolat 🟫[<mark style="color:yellow;">Donjon Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)  _(Niveau requis : <mark style="color:yellow;">niveau 40</mark>)_
 
 {% hint style="info" %}
 REMARQUE 🔍 : Lorsqu’un <mark style="color:green;">donjon est ajouté ou mis en avant après une mise à jour</mark>, son <mark style="color:green;">taux d’apparition est boosté</mark>. 📈
