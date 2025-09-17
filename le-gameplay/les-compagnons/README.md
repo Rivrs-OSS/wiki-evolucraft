@@ -57,7 +57,7 @@ En prenant en compte que votre pet est déjà équiper, faites un cliquez gauche
 ### 🔸 Étape 2 :
 Donnez lui des bonbons en faisant un clique droit sur votre compagnon.
 
-Pour plus d'informations sur les bonbons, nous vous invitons à consulter la page concernant les : [<mark style="color:green;">Bonbons 🍬</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/bonbon-tableau)
+Pour plus d'informations sur les bonbons, nous vous invitons à consulter la page concernant [<mark style="color:green;">Les Bonbons 🍬</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/bonbon-tableau)
 
 {% hint style="info" %}
 🔍 REMARQUE : Plus votre compagnon monte en niveau, plus il demandera d’<mark style="color:green;">**XP**</mark> pour progresser.
