@@ -29,7 +29,6 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
       <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>+50%</strong></mark> sur la vente de <mark style="color:red;"><strong>Patates empoisonnées</strong></mark> au /shop</p>
       <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>+2,5%</strong></mark> d'EXP sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
       <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>TOUTES les statistiques</strong></mark> +1</p>
-    </td>
       <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+ 1.500</strong></mark> 💰/h</p>
     <td>
       <p> * Caisse de Vote
@@ -100,6 +99,7 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
       <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>✨ Régénération de Mana</strong></mark> +3</p>
       <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>+ 18.000</strong></mark> 💰/h</p>
       <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+5%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
+    </td>
     <td>
       <p> * Œuf de famillier (Caisse Summer 🏖️)</p>
     </td>
