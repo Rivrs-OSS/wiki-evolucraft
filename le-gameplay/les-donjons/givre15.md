@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le donjon Givré Commun
 ---
 
-# 🟥 Donjon Givré Commun
+# 🟦 Donjon Givré Commun
 
 <figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Givre15.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Givré Commun</strong></p></figcaption></figure>
 
