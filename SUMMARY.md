@@ -64,6 +64,7 @@
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
 * [🤴 Les Rangs](le-gameplay/les-rangs.md)
 * [🥚 Les Compagnons](le-gameplay/les-compagnons/README.md)
+  * [🍬 Les Bonbons](le-gameplay/les-compagnons/bonbon-tableau.md)
   * [🐸 Compagnon Commun](le-gameplay/les-compagnons/pets-communs.md)
   * [🐤 Compagnon Rare](le-gameplay/les-compagnons/pets-rare.md)
   * [🐟 Compagnon Épique](le-gameplay/les-compagnons/pets-epique.md)
