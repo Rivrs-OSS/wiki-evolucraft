@@ -291,8 +291,8 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Harpe des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>
+    <td><mark style="color:blue;">Harpe des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>

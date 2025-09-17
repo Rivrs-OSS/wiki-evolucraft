@@ -37,6 +37,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Accès au <mark style="color:yellow;">**`/pweather` 🌦️**</mark>
 * Accès au <mark style="color:yellow;">**`/ptime` ☀️/🌙**</mark>
 * Accès au <mark style="color:yellow;">**`/sell hand` 🤲**</mark>
+* Accès à la <mark style="color:yellow;">**seconde mine du spawn ⛏️**</mark>
 * <mark style="color:yellow;">**Temps d'AFK : 25 minutes**</mark> 🕔
 * Bonus à l'achat : <mark style="color:yellow;">**1 Clé Émeraude 🗝️**</mark>
 
@@ -68,28 +69,28 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 
 ### **🔸 Son kit : [<mark style="color:blue;">Le kit Élite 💠</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-elite)**
 
-### <mark style="color:purple;">💞 Légende 💞</mark>
+### <mark style="color:red;">💞 Légende 💞</mark>
 
-**Prix : <mark style="color:purple;">7 900 Gemmes 💎</mark>**
+**Prix : <mark style="color:red;">7 900 Gemmes 💎</mark>**
 
 #### **🔸 Ses avantages :**
 
-* Accès au <mark style="color:purple;">**Kit Légende 💞**</mark> _(délai : 24h)_
-* Accès à <mark style="color:purple;">**30 Homes 🏠**</mark>
-* Accès à <mark style="color:purple;">**5 slots de Pets 🐾**</mark>
-* Accès à <mark style="color:purple;">**30 emplacements dans l'Hôtel des Ventes 🏬**</mark>
-* Accès au <mark style="color:purple;">**`/sell all` 💯**</mark>
-* Accès au <mark style="color:purple;">**`/furnace all` 🎆**</mark>
-* Accès au <mark style="color:purple;">**`/repair` 🔄**</mark> _(délai : 1h)_
-* Accès au <mark style="color:purple;">**`/repair all` 🔁**</mark> _(délai : 24h)_
-* Accès au <mark style="color:purple;">**`/fly` 🦋**</mark> (mode construction)
-* Accès au <mark style="color:purple;">**`/nick` 🧔**</mark>
-* <mark style="color:purple;">**Temps d'AFK : 1 heure**</mark> 🕐
-* <mark style="color:purple;">**Avantages du Grade Élite 💠**</mark>
-* Bonus à l'achat : <mark style="color:purple;">**2 Clés Rubis 🗝️**</mark>
-* Accès aux <mark style="color:purple;">**aventages des grades précédents ✨**</mark>
+* Accès au <mark style="color:red;">**Kit Légende 💞**</mark> _(délai : 24h)_
+* Accès à <mark style="color:red;">**30 Homes 🏠**</mark>
+* Accès à <mark style="color:red;">**5 slots de Pets 🐾**</mark>
+* Accès à <mark style="color:red;">**30 emplacements dans l'Hôtel des Ventes 🏬**</mark>
+* Accès au <mark style="color:red;">**`/sell all` 💯**</mark>
+* Accès au <mark style="color:red;">**`/furnace all` 🎆**</mark>
+* Accès au <mark style="color:red;">**`/repair` 🔄**</mark> _(délai : 1h)_
+* Accès au <mark style="color:red;">**`/repair all` 🔁**</mark> _(délai : 24h)_
+* Accès au <mark style="color:red;">**`/fly` 🦋**</mark> (monde construction uniquement)
+* Accès au <mark style="color:red;">**`/nick` 🧔**</mark>
+* <mark style="color:red;">**Temps d'AFK : 1 heure**</mark> 🕐
+* <mark style="color:red;">**Avantages du Grade Élite 💠**</mark>
+* Bonus à l'achat : <mark style="color:red;">**2 Clés Rubis 🗝️**</mark>
+* Accès aux <mark style="color:red;">**aventages des grades précédents ✨**</mark>
 
-#### **🔸 Son kit : [<mark style="color:purple;">Le kit Légende 💞</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-legende)**
+#### **🔸 Son kit : [<mark style="color:red;">Le kit Légende 💞</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-legende)**
 
 ## 💠 <mark style="color:green;">Quels sont les grades honorifiques ?</mark>
 

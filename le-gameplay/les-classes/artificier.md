@@ -309,8 +309,8 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Pisolet des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>
+    <td><mark style="color:blue;">Pisolet des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>

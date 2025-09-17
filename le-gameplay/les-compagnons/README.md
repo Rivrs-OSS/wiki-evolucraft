@@ -55,16 +55,9 @@ En prenant en compte que votre pet est déjà équiper, faites un cliquez gauche
 <figure><img src="../../.gitbook/assets/Les_Compagnons/Actif.png" alt=""><figcaption><p><strong>Compagnon en mode <mark style="color:green;">ACTIF</mark></strong></p></figcaption></figure>
 
 ### 🔸 Étape 2 :
-Donnez lui des bonbons en faisant un clique droit sur votre compagnon.
+Donnez lui [<mark style="color:green;">des bonbons 🍬</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/bonbon-tableau) en faisant un clique droit sur votre compagnon.
 
-Les bonbons s’obtiennent dans les [<mark style="color:green;">**caisses**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses) (hors Jackpot et Cosmétique), les [<mark style="color:green;">**donjons**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons#quelques-exemples-de-recompenses), les <mark style="color:green;">**parchemins**</mark> ou à l’<mark style="color:green;">**hôtel de vente**</mark>.  
-Chaque type de bonbon donne une quantité d’XP différente :
-
-* <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _( +6 XP )_
-* <mark style="color:yellow;">**Bonbon à l’Orange 🍊**</mark> _( +12 XP )_
-* <mark style="color:blue;">**Bonbon à la Myrtille 🔵**</mark> _( +24 XP )_
-* <mark style="color:purple;">**Bonbon aux Raisins 🍇**</mark> _( +32 XP )_
-* <mark style="color:red;">**Bonbon à la Fraise 🍓**</mark> _( +50 XP )_
+Pour plus d'informations sur les bonbons, nous vous invitons à consulter la page concernant [<mark style="color:green;">Les Bonbons 🍬</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/bonbon-tableau)
 
 {% hint style="info" %}
 🔍 REMARQUE : Plus votre compagnon monte en niveau, plus il demandera d’<mark style="color:green;">**XP**</mark> pour progresser.

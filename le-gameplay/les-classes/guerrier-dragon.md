@@ -175,7 +175,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td><mark style="color:green;">Commun</mark></td>  
     <td>
      <p><mark style="color:red;">🗡 Force +5</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +3</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +3</mark></p>
     </td>
     <td>Donjon Biome Neige</td>
   </tr>
@@ -184,7 +184,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td><mark style="color:yellow;">Rare</mark></td>  
     <td>
      <p><mark style="color:red;">🗡 Force +11</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +6</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +6</mark></p>
     </td>
     <td>Donjon Biome Neige ou Forge</td>
   </tr>
@@ -193,7 +193,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td><mark style="color:blue;">Épique</mark></td>  
     <td>
      <p><mark style="color:red;">🗡 Force +18</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +9</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +9</mark></p>
     </td>
     <td>Donjon Biome Neige ou Forge</td>
   </tr>
@@ -202,7 +202,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td><mark style="color:purple;">Légendaire</mark></td>  
     <td>
      <p><mark style="color:red;">🗡 Force +35</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +15</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +15</mark></p>
     </td>
     <td>Forge</td>
   </tr>
@@ -211,7 +211,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td><mark style="color:red;">Mythique</mark></td>  
     <td>
      <p><mark style="color:red;">🗡 Force +60</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +26</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
     </td>
     <td>Forge</td>
   </tr>
@@ -297,8 +297,8 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Lance des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>  
+    <td><mark style="color:blue;">Lance des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>  
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>

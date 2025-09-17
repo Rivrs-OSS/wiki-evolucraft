@@ -367,8 +367,8 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td>Marché Noir</td>
     </tr>
     <tr>
-        <td><mark style="color:red;">Épée des Glaces</mark></td>
-        <td><mark style="color:red;">Givrée</mark></td>
+        <td><mark style="color:blue;">Épée des Glaces</mark></td>
+        <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>

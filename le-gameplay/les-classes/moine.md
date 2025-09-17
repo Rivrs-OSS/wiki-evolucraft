@@ -36,7 +36,7 @@ Soignez les alliés proches à chaque fois que vous subissez des dégâts.
 Tirez une explosion de chi qui laisse une marque sur votre ennemi. Volez instantanément vers l'ennemi marqué et attaquez-le.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 5s
-* <mark style="color:blue;">**Mana**</mark>**:** 0
+* <mark style="color:blue;">**Mana**</mark>**:** 30
 * <mark style="color:blue;">**Dégâts**</mark>**:** 109,4
 
 ### 🔸 <mark style="color:blue;">**Niveau 15 : Projection**</mark>
@@ -130,7 +130,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +5</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +3</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +3</mark></p>
     </td>
     <td>Donjon Biome Messa</td>
   </tr>
@@ -139,7 +139,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +11</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +6</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +6</mark></p>
     </td>
     <td>Donjon Biome Messa ou Forge</td>
   </tr>
@@ -148,7 +148,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +18</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +9</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +9</mark></p>
     </td>
     <td>Donjon Biome Messa ou Forge</td>
   </tr>
@@ -157,7 +157,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +35</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +15</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +15</mark></p>
     </td>
     <td>Forge</td>
   </tr>
@@ -166,7 +166,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +60</mark></p>
-     <p><mark style="color:blue;">🐈 Dextérité +26</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
     </td>
     <td>Forge</td>
   </tr>
@@ -297,8 +297,8 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>Marché Noir</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Poing des Glaces</mark></td>
-    <td><mark style="color:red;">Givrée</mark></td>
+    <td><mark style="color:blue;">Poing des Glaces</mark></td>
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
