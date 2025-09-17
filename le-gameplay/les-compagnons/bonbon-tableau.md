@@ -1,57 +1,62 @@
 ---
-description: Retrouvez ici toutes les informations sur les bonbons.
+description: Retrouvez ici toutes les informations sur les <mark style="color:green;">**bonbons**</mark>.
 ---
 
-# Les bonbons 🍬
+# 🍬 Les <mark style="color:green;">**bonbons**</mark>
 
-Les bonbons servent à améliorer de niveau vos pets afin qu'ils puissent augmenter de niveau et donc, par conséquant, des aventages diverses comme de l'argent en plus toutes les heures, des bonus ou d'argents de métiers, des bonus de ventes sur des items ou un certain type d'item mais encores des effets pouvant vous aider dans l'aventure...
+Les <mark style="color:green;">**bonbons**</mark> servent à <mark style="color:green;">**faire progresser vos familiers (pets)**</mark>.  
+En augmentant leur niveau, ils vous offrent des <mark style="color:green;">**avantages variés**</mark> comme plus d’<mark style="color:green;">**argent toutes les heures**</mark>, des <mark style="color:green;">**bonus de métiers**</mark>, des <mark style="color:green;">**réductions sur la vente d’items**</mark> ou encore des <mark style="color:green;">**effets spéciaux**</mark> pouvant vous aider tout au long de l’aventure.  
 
-Ces bonbons sont présents sous 5 rareté différentes, plus sa rareté est rare, plus il donne d'xp :
-* <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _( +6 XP )_
-* <mark style="color:yellow;">**Bonbon à l’Orange 🍊**</mark> _( +12 XP )_
-* <mark style="color:blue;">**Bonbon à la Myrtille 🔵**</mark> _( +24 XP )_
-* <mark style="color:purple;">**Bonbon aux Raisins 🍇**</mark> _( +32 XP )_
-* <mark style="color:red;">**Bonbon à la Fraise 🍓**</mark> _( +50 XP )_
+Ces <mark style="color:green;">**bonbons**</mark> existent en **5 raretés différentes**. Plus la rareté est élevée, plus ils donnent d’<mark style="color:green;">**XP**</mark> :  
+* <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _( +6 XP )_  
+* <mark style="color:yellow;">**Bonbon à l’Orange 🍊**</mark> _( +12 XP )_  
+* <mark style="color:blue;">**Bonbon à la Myrtille 🔵**</mark> _( +24 XP )_  
+* <mark style="color:purple;">**Bonbon aux Raisins 🍇**</mark> _( +32 XP )_  
+* <mark style="color:red;">**Bonbon à la Fraise 🍓**</mark> _( +50 XP )_  
 
 ## 💠 Où en obtenir ? 📌
 
-### 🔸 Les <mark style="color:green;">**caisses**</mark>
-Lorsque vous ouvrez les <mark style="color:green;">**boxs Émeraude, Rubis, Évènements ou Jackpot**</mark>, vous avez une petite chance d’obtenir des <mark style="color:green;">**bonbons**</mark>.
+### 🔸 Les <mark style="color:green;">**caisses**</mark>  
+En ouvrant les <mark style="color:green;">**boxs Émeraude, Rubis, Évènements ou Jackpot**</mark>, vous avez une petite chance d’obtenir des <mark style="color:green;">**bonbons**</mark>.
 
-### 🔸 Les <mark style="color:green;">**parchemins**</mark>
+<figure><img src="../../.gitbook/assets/Les_Caisses/ApercuCaisses.png" alt=""><figcaption><p><strong>Emplacement des <mark style="color:green;">caisses</mark></strong></p></figcaption></figure>
 
-Lorsque vous complétez des parchemins, vous avez alors une chance d'obtenir comme récompenses, des bonbons.
+### 🔸 Les <mark style="color:green;">**parchemins**</mark>  
+En complétant certains <mark style="color:green;">**parchemins**</mark>, vous pouvez recevoir des <mark style="color:green;">**bonbons**</mark> comme récompense.  
 
 {% hint style="info" %}
-**🔍 REMARQUE :** Pour retrouvez quels parchemins peuevent vous donner comme récompenses des bonbons, faites la commande `/quest` puis cliquez sur "Parchemins"
+**🔍 REMARQUE :** Pour savoir quels <mark style="color:green;">**parchemins**</mark> peuvent offrir des <mark style="color:green;">**bonbons**</mark>, utilisez la commande <mark style="color:green;">**`/quest`**</mark> puis cliquez sur **"Parchemins"**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Menu/Quest.png" alt=""><figcaption><p><strong>Menu des quêtes</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Menu/Quest.png" alt=""><figcaption><p><strong>Menu des <mark style="color:green;">quêtes</mark></strong></p></figcaption></figure>
 
-### 🔸 Les <mark style="color:green;">**récompenses de donjons**</mark>
-
-Lorsque vous finissez par tuer le boss du donjons, vous avez donc les coffres pour y recevoir des récompenses. Dans ces derniers, il y a une possibilité d'y obtenir nottament des bonbons.
+### 🔸 Les <mark style="color:green;">**récompenses de donjons**</mark>  
+En éliminant le <mark style="color:green;">**boss d’un donjon**</mark>, vous obtenez l’accès à des coffres remplis de <mark style="color:green;">**récompenses**</mark>.  
+Parmi celles-ci, vous pouvez parfois trouver des <mark style="color:green;">**bonbons**</mark>.  
 
 {% hint style="info" %}
-**🔍 REMARQUE :** N'hésitez pas à consulter les différents type de donjons pour découvrir les récompenses de donjons possible et donc le type de bonbons de que vous pouvez avoir comme récompense : [Les donjons 🏛️](https://wiki.evolucraft.fr/le-gameplay/les-donjons)
+**🔍 REMARQUE :** Consultez la page des [<mark style="color:green;">**donjons 🏛️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons) pour découvrir les différents <mark style="color:green;">**types de récompenses**</mark> et ainsi savoir quels <mark style="color:green;">**bonbons**</mark> vous pouvez obtenir.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Les_Donjons/DJ-recompense.png" alt=""><figcaption><p><strong>Aperçu des coffres de <mark style="color:green;">récompenses de donjons</mark></strong></p></figcaption></figure>
 
-### 🔸 Le <mark style="color:green;">**/boutique**</mark>
+### 🔸 Le <mark style="color:green;">**`/boutique`**</mark>  
+Chaque jour, à <mark style="color:green;">**minuit**</mark>, la <mark style="color:green;">**boutique du jour**</mark> propose **5 articles**, dont **2 gratuits** (1 accessible uniquement avec le [<mark style="color:green;">**Premium 👑**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium)).  
+Parmi les **3 lots achetables** avec des <mark style="color:green;">**Gemmes**</mark>, il est possible d’y trouver des <mark style="color:green;">**bonbons**</mark>.  
 
-Chaque jours, à minuit, la boutique du jour propose 5 arcticles dont 2 gratuit (dont 1 où il vous faut le [Premium 👑](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium)) et il y a une chance d'y avoir parmis les 3 lots achetable via des gemmes, des bonbons. Ils sont affiché au prix de :
-* Lots de <mark style="color:green;">**2 Bonbons à la Pomme 🍏**</mark> : **25 Gemmes** 💎
-* Lots de <mark style="color:yellow;">**2 Bonbons à l’Orange 🍊**</mark> : **50 Gemmes** 💎
-* Lots de <mark style="color:blue;">**2 Bonbons à la Myrtille 🔵**</mark> : **100 Gemmes** 💎
-* Lots de <mark style="color:purple;">**2 Bonbons aux Raisins 🍇**</mark> : **150 Gemmes** 💎
-* Lots de <mark style="color:red;">**2 Bonbons à la Fraise 🍓**</mark> : **200 Gemmes** 💎
+Voici les prix :  
+* Lot de <mark style="color:green;">**2 Bonbons à la Pomme 🍏**</mark> : **25 Gemmes 💎**  
+* Lot de <mark style="color:yellow;">**2 Bonbons à l’Orange 🍊**</mark> : **50 Gemmes 💎**  
+* Lot de <mark style="color:blue;">**2 Bonbons à la Myrtille 🔵**</mark> : **100 Gemmes 💎**  
+* Lot de <mark style="color:purple;">**2 Bonbons aux Raisins 🍇**</mark> : **150 Gemmes 💎**  
+* Lot de <mark style="color:red;">**2 Bonbons à la Fraise 🍓**</mark> : **200 Gemmes 💎**  
 
-## 💠 Combien de bonbon à t-on besoin ? 🤔
+## 💠 Combien de <mark style="color:green;">**bonbons**</mark> faut-il ? 🤔  
 
-Voici les tableau vous donnant le nombre d'xp par level demandé ainsi que le nombre de bonbons que vous aurez besoins pour chaque rareté de compagnon.
+Voici le tableau indiquant le <mark style="color:green;">**nombre d’XP requis par niveau**</mark> et le <mark style="color:green;">**nombre de bonbons nécessaires**</mark> en fonction de la <mark style="color:green;">**rareté de votre compagnon**</mark>.  
 
-### 🔸 Tableau XP demandée par compagnon de rareté 📈 
+### 🔸 Tableau <mark style="color:green;">**XP demandée par compagnon**</mark> selon sa <mark style="color:green;">**rareté**</mark> 📈
+
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td><mark style="color:white;"><strong>Niveau actuel📊</strong></mark></td>
@@ -222,12 +227,8 @@ Voici les tableau vous donnant le nombre d'xp par level demandé ainsi que le no
     <td><mark style="color:green;"><strong>2 869 xp</strong></mark></td>
   </tr>
 </table>
-* <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _( +6 XP )_
-* <mark style="color:yellow;">**Bonbon à l’Orange 🍊**</mark> _( +12 XP )_
-* <mark style="color:blue;">**Bonbon à la Myrtille 🔵**</mark> _( +24 XP )_
-* <mark style="color:purple;">**Bonbon aux Raisins 🍇**</mark> _( +32 XP )_
-* <mark style="color:red;">**Bonbon à la Fraise 🍓**</mark> _( +50 XP )_
-### 🔸 Nombre de bonbon en total pour monter au maximum un compagnon de chaque rareté 📉
+
+### 🔸 <mark style="color:green;">**Nombre total de bonbons**</mark> nécessaires pour <mark style="color:green;">**monter un compagnon au niveau maximum**</mark> selon sa <mark style="color:green;">**rareté**</mark> 📉
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td><mark style="color:white;"><strong>Type de bonbon 🍬 </strong></mark></td>
