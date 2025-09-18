@@ -84,6 +84,8 @@ Dans ce menu Divers, vous pouvez trouver l’aspect visuel ainsi que les informa
 * <mark style="color:green;">**Taxes et Impôts 🧾**</mark> : Permet de voir la taxe payée par la banque de la ville et les impôts que vous payez
 * <mark style="color:green;">**Limites 🚦**</mark> : Permet de vérifier les limites de blocs par chunk imposées par le serveur
 * <mark style="color:green;">**Historique ⏪**</mark> : Permet de voir les interactions réalisées dans la ville (arrivée d’un joueur, retrait d’un joueur, infos de la banque de la ville, etc.)
+* <mark style="color:green;">**Banque 💰**</mark> : Permet de gérer (pour déposer ou retirer) l'argent dans la banque de la ville.
+* <mark style="color:green;">**Couleur du Chat Ville 🎨**</mark> : Permet de changer la couleur de votre tchat de ville entre <mark style="color:green;">Vert</mark>, <mark style="color:blue;">Bleu</mark> et <mark style="color:purple;">Violet/Rose</mark>.
 
 ### 🔶 <mark style="color:green;">Sous-Zones 🗃️</mark>
 
@@ -95,12 +97,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les sous-z
 
 Ce bouton permet de se téléporter au point de spawn de votre ville, comme avec la commande <mark style="color:green;">`/v spawn`</mark>.
 
-### 🔶 <mark style="color:green;">Banque 💰</mark>
 
-La banque vous permet de faire fonctionner et de maintenir la ville sur le serveur. Ce bouton est un moyen de déposer ou retirer de l’argent de la banque de votre ville. Pour cela il suffit de cliquer sur :
-
-* <mark style="color:green;">**Dépôt 🔺**</mark> : Permet de déposer de l’argent dans la banque de votre ville depuis votre compte.
-* <mark style="color:green;">**Retrait 🔻**</mark> : Permet de retirer de l’argent de la banque de votre ville et de le verser sur votre compte. _(Seuls les joueurs ayant la permission "Retirer de l'argent" peuvent y accéder)_
 
 <figure><img src="../.gitbook/assets/Les_Villes/banque.png" alt=""><figcaption></figcaption></figure>
 
