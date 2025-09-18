@@ -121,7 +121,5 @@ Vous pouvez compléter les statues suivantes (consultez votre avancée via le `/
   </tr>
 </table>
 
----
-
 Voilà, vous connaissez tout sur l'<mark style="color:green;">**Archéologie**</mark> !  
 Bonne chasse, cher(e) <mark style="color:green;">**Tyro Jones**</mark> 🤠 !
