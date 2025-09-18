@@ -8,20 +8,20 @@
 * [‼️ Règlement Discord](informations-importantes/reglement-discord.md)
 * [🤲 Contribuer](informations-importantes/CONTRIBUTING.Md)
 
-## 💡 TUTO ET ASTUCE 
+## 💡 TUTO ET ASTUCE
 
-  * [🎫 Rejoindre le serveur](tuto-et-astuce/rejoindre-serveur.md)
-  * [🖼️ Problème de pack de ressource](tuto-et-astuce/pb-pack.md)
-  * [♒ Problème de barre de boss](tuto-et-astuce/pb-bossbar.md)
-  * [🏙️ Être dans une ville](tuto-et-astuce/creer-une-ville.md)
-  * [💸 Gagner de l'argent](tuto-et-astuce/gagner-argent.md)
-  * [📩 Voter](tuto-et-astuce/voter.md)
-  * [🧙‍♀️ Avoir une classe](tuto-et-astuce/avoir-une-classe.md)
-  * [📣 Créer une pub](tuto-et-astuce/creation-pub.md)
-  * [🧍‍♂️ Le guide de l'ASE](tuto-et-astuce/le-ase.md)
-  * [❔ Les Commandes](tuto-et-astuce/commandes.md)
+* [🎫 Rejoindre le serveur](tuto-et-astuce/rejoindre-serveur.md)
+* [🖼️ Problème de pack de ressource](tuto-et-astuce/pb-pack.md)
+* [♒ Problème de barre de boss](tuto-et-astuce/pb-bossbar.md)
+* [🏙️ Être dans une ville](tuto-et-astuce/creer-une-ville.md)
+* [💸 Gagner de l'argent](tuto-et-astuce/gagner-argent.md)
+* [📩 Voter](tuto-et-astuce/voter.md)
+* [🧙‍♀️ Avoir une classe](tuto-et-astuce/avoir-une-classe.md)
+* [📣 Créer une pub](tuto-et-astuce/creation-pub.md)
+* [🧍‍♂️ Le guide de l'ASE](tuto-et-astuce/le-ase.md)
+* [❔ Les Commandes](tuto-et-astuce/commandes.md)
 
-## 🎮 LE GAMEPLAY 
+## 🎮 LE GAMEPLAY
 
 * [🌍 Mondes](le-gameplay/mondes.md)
 * [⚔️ Les Classes](le-gameplay/les-classes/README.md)
@@ -45,7 +45,7 @@
   * [🎇 Artificier](le-gameplay/les-classes/artificier.md)
   * [🥷 Samouraï](le-gameplay/les-classes/samouraï.md)
   * [☠️ Chevalier de la mort](le-gameplay/les-classes/chevalier-de-la-mort.md)
-* [🏛️ Les Donjons](le-gameplay/les-donjons/README.md) <!-- Un grand merci à Draco808_ pour l'xp/mobs en dj -->
+* [🏛️ Les Donjons](le-gameplay/les-donjons/README.md)
   * [🟩 Commun](le-gameplay/les-donjons/commun.md)
   * [🟧 Rare](le-gameplay/les-donjons/rare.md)
   * [🟦 Épique](le-gameplay/les-donjons/epique.md)
@@ -62,7 +62,7 @@
   * [🟫 Fabrique de Chocolat](le-gameplay/les-donjons/fabrique-chocolat.md)
 * [💰 Le Commerce](le-gameplay/le-commerce.md)
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
-* [🤴 Les Rangs](le-gameplay/les-rangs.md)
+* [👑 Les Rangs](le-gameplay/les-rangs.md)
 * [🥚 Les Compagnons](le-gameplay/les-compagnons/README.md)
   * [🍬 Les Bonbons](le-gameplay/les-compagnons/bonbon-tableau.md)
   * [🐸 Compagnon Commun](le-gameplay/les-compagnons/pets-communs.md)
@@ -80,7 +80,7 @@
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
 * [🦺 Les Kits](le-gameplay/les-kits.md)
-* [💒 Le Mariage](le-gameplay/le-mariage.md) 
+* [💒 Le Mariage](le-gameplay/le-mariage.md)
 
 ## 🌆 LE MONDE DES VILLES
 

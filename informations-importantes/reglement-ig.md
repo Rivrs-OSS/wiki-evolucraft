@@ -71,7 +71,7 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
 * Le serveur ne prend pas en charge les contrats ou accords entre joueurs : ceux-ci se font à vos risques et périls. ⇒ Si un item a commencé à être payé, le montant total de ce dernier doit être honoré.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
-### **Action dans une ville :**&#x20;
+### **Action dans une ville :**
 
 En cas de départ volontaire d’une ville, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs.
 
@@ -90,7 +90,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * Il est interdit de voler des farms aux autres joueurs sans leur accord.
 * La vente d’items en jeu contre l’argent réel est interdite.
 * Il est interdit d'utiliser une machine à pêche.
-* La vente de cosmétiques (issue d'un use bug), d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
+* La vente de cosmétiques (issue d'un use bug), d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes de minerais, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
 * La création de casino est interdite.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus.
 

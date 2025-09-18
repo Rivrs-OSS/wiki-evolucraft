@@ -13,7 +13,7 @@ Pour accéder à la commande `/ase`, vous devez disposer du <mark style="color:g
 * Soit <mark style="color:green;">**gratuitement via la box vote**</mark> pendant **24 heures** !
 * Soit via <mark style="color:green;">**l'abonnement mensuel**</mark> disponible à **la** [**boutique**](https://store.evolucraft.fr/) **du site**.
 
-## <mark style="color:green;">💠 Le `/ase`, comment ça fonctionne ? 🤔</mark>
+## <mark style="color:green;">💠 Le</mark> <mark style="color:green;"></mark><mark style="color:green;">`/ase`</mark><mark style="color:green;">, comment ça fonctionne ? 🤔</mark>
 
 Pour personnaliser un **armor stand**, vous aurez besoin d'un <mark style="color:green;">**silex**</mark> et d'un ou plusieurs <mark style="color:green;">**armor stands**</mark>, disponibles dans le `/shop`.
 
@@ -26,7 +26,7 @@ Assurez-vous d’avoir les <mark style="color:green;">**permissions d’édition
 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Ase/Menu.png" alt=""><figcaption><p><strong>Aperçu du menu</strong></p></figcaption></figure>
 
-## <mark style="color:green;">💠 Que peut-on faire avec le `/ase` ? 🔎</mark>
+## <mark style="color:green;">💠 Que peut-on faire avec le</mark> <mark style="color:green;"></mark><mark style="color:green;">`/ase`</mark> <mark style="color:green;"></mark><mark style="color:green;">? 🔎</mark>
 
 ### 🔸 Déplacer un armor stand
 
@@ -36,8 +36,8 @@ Pour déplacer votre armor stand à un endroit précis, vous devez :
 * <mark style="color:green;">Étape 2️⃣</mark> : Choisir si vous souhaitez <mark style="color:green;">un gros déplacement</mark> (_terre stérile/coarse dirt_) ou <mark style="color:green;">un petit déplacement</mark> (_grès lisse/smooth sandstone_).
 * <mark style="color:green;">Étape 3️⃣</mark> : Choisir <mark style="color:green;">l'axe que vous voulez déplacer</mark> votre armor stand : <mark style="color:red;">X en rouge</mark>, <mark style="color:green;">Y en vert</mark> et <mark style="color:blue;">Z en bleu</mark>.
 * <mark style="color:green;">Étape 4️⃣</mark> : Puis, avec le silex toujours en main, faites soit :
-  * Un <mark style="color:green;">**clic droit**</mark> sur l’armor stand pour un <mark style="color:green;">déplacement</mark> <mark style="color:green;"></mark><mark style="color:green;">**dans les coordonnées positives**</mark>.
-  * Un <mark style="color:green;">**clic gauche**</mark> pour un <mark style="color:green;">déplacement</mark> <mark style="color:green;"></mark><mark style="color:green;">**dans les coordonnées négatives**</mark>.
+  * Un <mark style="color:green;">**clic droit**</mark> sur l’armor stand pour un <mark style="color:green;">déplacement</mark> <mark style="color:green;">**dans les coordonnées positives**</mark>.
+  * Un <mark style="color:green;">**clic gauche**</mark> pour un <mark style="color:green;">déplacement</mark> <mark style="color:green;">**dans les coordonnées négatives**</mark>.
 
 {% hint style="info" %}
 Astuce 💡 : Pour changer l'axe de déplacement, il vous suffit de faire le raccourci clavier **sneak + molette**.
@@ -72,8 +72,8 @@ Pour modifier la position des différentes parties du porte-armure, la méthode 
 * <mark style="color:green;">Étape 2️⃣</mark> : Comme pour le déplacement d'un armor stand, sélectionnez la puissance du mouvement entre <mark style="color:green;">un gros déplacement</mark> (_terre stérile/coarse dirt_) ou <mark style="color:green;">un petit déplacement</mark> (_grès lisse/smooth sandstone_).
 * <mark style="color:green;">Étape 3️⃣</mark> : Choisissez <mark style="color:green;">l'axe</mark> dans lequel vous voulez positionner la partie déplacée : <mark style="color:red;">X en rouge</mark>, <mark style="color:green;">Y en vert</mark> et <mark style="color:blue;">Z en bleu</mark>.
 * <mark style="color:green;">Étape 4️⃣</mark> : Puis, avec le silex toujours en main, faites soit :
-  * Un <mark style="color:green;">**clic droit**</mark> sur l’armor stand pour <mark style="color:green;">déplacer</mark> <mark style="color:green;"></mark><mark style="color:green;">**dans les coordonnées positives**</mark>.
-  * Un <mark style="color:green;">**clic gauche**</mark> pour <mark style="color:green;">déplacer</mark> <mark style="color:green;"></mark><mark style="color:green;">**dans les coordonnées négatives**</mark>.
+  * Un <mark style="color:green;">**clic droit**</mark> sur l’armor stand pour <mark style="color:green;">déplacer</mark> <mark style="color:green;">**dans les coordonnées positives**</mark>.
+  * Un <mark style="color:green;">**clic gauche**</mark> pour <mark style="color:green;">déplacer</mark> <mark style="color:green;">**dans les coordonnées négatives**</mark>.
 
 {% hint style="info" %}
 **Remarque 🤓☝** : Les parties du corps peuvent uniquement **tourner sur elles-mêmes à 360°**.
