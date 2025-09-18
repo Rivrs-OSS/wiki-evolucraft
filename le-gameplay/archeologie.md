@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes les informations concernant l'archéologie
 ---
 
-# L'Archéologie 🦴
+# 🦴 L'Archéologie
 
 L'<mark style="color:green;">**archéologie**</mark> est une mise à jour vous permettant de découvrir, à l'aide de vos outils, des <mark style="color:green;">**œuvres d'art antiques**</mark> décomposées et d'essayer de les restituer pour récupérer des <mark style="color:green;">**bonus de statistiques**</mark> pour vos classes.
 
