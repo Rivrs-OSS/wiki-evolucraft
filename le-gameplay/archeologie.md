@@ -25,9 +25,14 @@ Trouvez du <mark style="color:green;">**sable suspect**</mark> ou du <mark style
 * [<mark style="color:green;">Ruines sous-marines</mark>](https://fr.minecraft.wiki/w/Ruines_oc%C3%A9aniques) _(Suivant le biome)_
 
 #### 🔶 Étape 3️⃣
-Prenez votre <mark style="color:green;">**pinceau**</mark> en main et maintenez votre <mark style="color:green;">**clic droit**</mark> sur le bloc suspect. Vous aurez alors **5%** de chance d'obtenir une <mark style="color:green;">**œuvre d'art antique**</mark> parmi la liste que vous retrouverez dans le `/musee`, en cliquant sur le "❔" en bas à droite.
+Prenez votre <mark style="color:green;">**pinceau**</mark> en main et maintenez votre <mark style="color:green;">**clic droit**</mark> sur le bloc suspect. 
 
-<figure><img src="../.gitbook/assets/Archeologie/CraftPinceau.png" alt=""><figcaption>Liste des <mark style="color:green;">loots obtenables</mark> dans les blocs suspects</figcaption></figure>
+UtilisationPinceau
+<figure><img src="../.gitbook/assets/Archeologie/UtilisationPinceau.gif" alt=""><figcaption>Craft du <mark style="color:green;">pinceau</mark></figcaption></figure>
+
+Vous aurez alors **5%** de chance d'obtenir une <mark style="color:green;">**œuvre d'art antique**</mark> parmi la liste que vous retrouverez dans le `/musee`, en cliquant sur le "❔" en bas à droite.
+
+<figure><img src="../.gitbook/assets/Archeologie/ListeLoot.png" alt=""><figcaption>Liste des <mark style="color:green;">loots obtenables</mark> dans les blocs suspects</figcaption></figure>
 
 ### 🔷 Les <mark style="color:green;">**récompenses de donjons**</mark> 🏛
 
@@ -49,6 +54,8 @@ Elles sont classées suivant leur <mark style="color:green;">**rareté**</mark> 
 Pour déposer vos <mark style="color:green;">**œuvres d'art antiques**</mark>, rendez-vous dans le <mark style="color:green;">**Musée**</mark> au spawn.  
 Il est accessible via le `/codex` une fois découvert.
 
+<figure><img src="../.gitbook/assets/Archeologie/Musee.png" alt=""><figcaption>Aperçu du <mark style="color:green;">Musée</mark></figcaption></figure>
+
 ### 🔷 Les récompenses 🎁
 Lorsque vous réussissez à terminer une <mark style="color:green;">**statue**</mark>, vous obtenez :
 - des <mark style="color:green;">**statistiques bonus permanentes**</mark> pour vos classes,  
@@ -59,7 +66,7 @@ Lorsque vous réussissez à terminer une <mark style="color:green;">**statue**</
 Vous ne pourrez donc plus récupérer de <mark style="color:green;">**fragments de clés**</mark> via cette statue. Pensez à bien les <mark style="color:green;">**garder**</mark> si vous souhaitez en ouvrir une.
 {% endhint %}
 
-## 💠 Quelles sont les <mark style="color:green;">**statues disponibles**</mark> à compléter ? 🎁
+## 💠 Quelles sont les <mark style="color:green;">**oeuvres disponibles**</mark> à compléter ? 🗿
 
 Vous pouvez compléter les statues suivantes (consultez votre avancée via le `/musee`) :
 
