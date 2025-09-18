@@ -27,9 +27,9 @@ Trouvez du <mark style="color:green;">**sable suspect**</mark> ou du <mark style
 #### 🔶 Étape 3️⃣
 Prenez votre <mark style="color:green;">**pinceau**</mark> en main et maintenez votre <mark style="color:green;">**clic droit**</mark> sur le bloc suspect. 
 
-UtilisationPinceau
-<figure><img src="../.gitbook/assets/Archeologie/UtilisationPinceau.gif" alt=""><figcaption>Craft du <mark style="color:green;">pinceau</mark></figcaption></figure>
+<figure><img src="../.gitbook/assets/Archeologie/UtilisationPinceau.gif" alt=""><figcaption>Démonstration de l'utilisation <mark style="color:green;"> d'un pinceau</mark></figcaption></figure>
 
+#### 🔶 Résultat
 Vous aurez alors **5%** de chance d'obtenir une <mark style="color:green;">**œuvre d'art antique**</mark> parmi la liste que vous retrouverez dans le `/musee`, en cliquant sur le "❔" en bas à droite.
 
 <figure><img src="../.gitbook/assets/Archeologie/ListeLoot.png" alt=""><figcaption>Liste des <mark style="color:green;">loots obtenables</mark> dans les blocs suspects</figcaption></figure>
