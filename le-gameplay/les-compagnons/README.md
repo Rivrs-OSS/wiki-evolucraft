@@ -66,7 +66,7 @@ Pour plus d'informations sur les bonbons, nous vous invitons à consulter la pag
 ## 💠 Créer une sauvegarde 💾
 
 Les <mark style="color:green;">**sauvegardes**</mark>, symbolisées par un engrenage dans le <mark style="color:green;">`/pets`</mark>, permettent de stocker vos compositions de compagnons.  
-Vous pouvez enregistrer jusqu’à <mark style="color:green;">**3 sauvegardes**</mark>, ce qui facilite le passage d’une composition **farm** à une composition **donjon**.
+Vous pouvez enregistrer jusqu’à <mark style="color:green;">**5 sauvegardes**</mark>, ce qui facilite le passage d’une composition **farm** à une composition **donjon**.
 
 <figure><img src="../../.gitbook/assets/Les_Compagnons/Sauvegarde.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">sauvegardes</mark></strong></p></figcaption></figure>
 
