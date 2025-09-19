@@ -4,9 +4,62 @@ description: Retrouvez ici les informations concernant le donjon commun
 
 # 🟩 Donjon Commun
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Commun.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Commun</strong></p></figcaption></figure>
-
-## <mark style="color:green;"> Pré-requis </mark>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Biome du portail 🏛</strong></mark></td>
+    <td><mark style="color:green;"><strong>Forêt 🌳</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>Jungle 🦜</strong></mark></td>
+    <td><mark style="color:blue;"><strong>Désert 🏜</strong></mark></td>
+    <td><mark style="color:purple;"><strong>Neige ❄</strong></mark></td>
+    <td><mark style="color:red;"><strong>Savane 🦏</strong></mark></td>
+    <td><mark style="color:red;"><strong>Marais 🐸</strong></mark></td>
+    <td><mark style="color:red;"><strong>Messa 🌵</strong></mark></td>
+    <td><mark style="color:red;"><strong>Nether 🔥</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Aperçu du Donjons 📸</strong></mark></td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Foret.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Jungle.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Desert.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Neige.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Savane.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Marais.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Messa.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Nether.png" alt="">
+      </figure>
+    </td>
+  </tr>
+</table>
 
 Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 1**</mark> dans votre classe.
 
