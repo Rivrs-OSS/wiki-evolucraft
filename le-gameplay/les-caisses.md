@@ -468,6 +468,37 @@ La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la cl
 | <mark style="color:blue;">**4 Bonbons au Raisin**</mark>                  | **5,55%**                   |
 | <mark style="color:blue;">**2 Clés Summer**</mark>                        | **5,55%**                   |
 
+### 🔸 <mark style="color:yellow;">Caisse Antique 🦴</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient par <mark style="color:green;">**l'achat d'une Clé Antique**</mark> au <mark style="color:green;">**`/boutique`**</mark> au prix de <mark style="color:blue;">**850 Gemmes 💎**</mark> ou par le <mark style="color:green;">**Marché Noir**</mark> en échange de <mark style="color:green;">**16 fragments de Clé Antique**</mark>.
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+<figure><img src="../.gitbook/assets/Les_Caisses/Antique.png" alt=""><figcaption></figcaption></figure>
+
+| **Récompense**                                                              | **Pourcentage d'obtention** |
+| --------------------------------------------------------------------------- | --------------------------- |
+| <mark style="color:yellow;">**Casque d'Archéologue**</mark>                 | **5,56%**                   |
+| <mark style="color:yellow;">**Plastron d'Archéologue**</mark>               | **5,56%**                   |
+| <mark style="color:yellow;">**Jambières d'Archéologue**</mark>              | **5,56%**                   |
+| <mark style="color:yellow;">**Bottes d'Archéologue**</mark>                 | **5,56%**                   |
+| <mark style="color:yellow;">**Épée d'Archéologue**</mark>                   | **5,56%**                   |
+| <mark style="color:yellow;">**Pioche d'Archéologue**</mark>                 | **5,56%**                   |
+| <mark style="color:yellow;">**Pelle d'Archéologue**</mark>                  | **5,56%**                   |
+| <mark style="color:yellow;">**Houe d'Archéologue**</mark>                   | **5,56%**                   |
+| <mark style="color:yellow;">**Hache d'Archéologue**</mark>                  | **5,56%**                   |
+| <mark style="color:yellow;">**Canne à pêche d'Archéologue**</mark>          | **5,56%**                   |
+| <mark style="color:yellow;">**Multi-tool d'Archéologue**</mark>             | **5,55%**                   |
+| <mark style="color:yellow;">**Oeufs de familier**</mark>                    | **5,55%**                   |
+| <mark style="color:yellow;">**Pack de décoration**</mark>                   | **5,55%**                   |
+| <mark style="color:yellow;">**Peluche Aléatoire**</mark>                    | **5,55%**                   |
+| <mark style="color:yellow;">**Booster Aléatoire de 100% pendant 1H**</mark> | **5,55%**                   |
+| <mark style="color:yellow;">**4.750.000💰**</mark>                          | **5,55%**                   |
+| <mark style="color:yellow;">**4 Bonbons au Raisin**</mark>                  | **5,55%**                   |
+| <mark style="color:yellow;">**2 Clés Antique**</mark>                       | **5,55%**                   |
+
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
 **Et voilà, vous connaissez désormais toutes les&#x20;**<mark style="color:green;">**caisses**</mark>**&#x20;du serveur ! À vous de jouer avec les dernières ! 😎** _Nous rappelons que jouer à la loterie comporte des risques d’addiction, faites-y attention ! 🤗_
