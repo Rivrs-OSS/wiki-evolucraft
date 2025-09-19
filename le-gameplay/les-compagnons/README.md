@@ -66,7 +66,7 @@ Pour plus d'informations sur les bonbons, nous vous invitons à consulter la pag
 ## 💠 Créer une sauvegarde 💾
 
 Les <mark style="color:green;">**sauvegardes**</mark>, symbolisées par un engrenage dans le <mark style="color:green;">`/pets`</mark>, permettent de stocker vos compositions de compagnons.  
-Vous pouvez enregistrer jusqu’à <mark style="color:green;">**3 sauvegardes**</mark>, ce qui facilite le passage d’une composition **farm** à une composition **donjon**.
+Vous pouvez enregistrer jusqu’à <mark style="color:green;">**5 sauvegardes**</mark>, ce qui facilite le passage d’une composition **farm** à une composition **donjon**.
 
 <figure><img src="../../.gitbook/assets/Les_Compagnons/Sauvegarde.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">sauvegardes</mark></strong></p></figcaption></figure>
 
@@ -78,13 +78,13 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**3 sauvegardes**<
 
 <figure><img src="../../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
-Il existe au total <mark style="color:green;">**88 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.  
+Il existe au total <mark style="color:green;">**92 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.  
 Ils sont classés par <mark style="color:green;">**rareté**</mark> :
 
-* [<mark style="color:green;">**19 compagnons Communs 🐸**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-communs) dont 6 shinys.  
-* [<mark style="color:yellow;">**19 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-rare) dont 5 shinys.  
-* [<mark style="color:blue;">**29 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-epique) dont 4 shinys.  
-* [<mark style="color:purple;">**15 compagnons Légendaires 👾**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-legendaire) dont 2 shinys.  
+* [<mark style="color:green;">**20 compagnons Communs 🐸**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-communs) dont 6 shinys.  
+* [<mark style="color:yellow;">**20 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-rare) dont 5 shinys.  
+* [<mark style="color:blue;">**30 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-epique) dont 4 shinys.  
+* [<mark style="color:purple;">**16 compagnons Légendaires 👾**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-legendaire) dont 2 shinys.  
 * [<mark style="color:red;">**6 compagnons Mythiques 🦞**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-mythique) dont 1 shiny.  
 
 {% hint style="info" %}
