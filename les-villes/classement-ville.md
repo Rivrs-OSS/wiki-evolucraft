@@ -75,7 +75,7 @@ Commencez à <mark style="color:green;">**farmer les items indiqués**</mark> po
  </table>
 
 ### 🔷 Étape 4️⃣
-<mark style="color:green;">**Craftez une Étoile 🌟**</mark> en plaçant les <mark style="color:green;">**fragments d'étoile**</mark> comme sur l'image ci-dessous.
+<mark style="color:green;">**Craftez une Étoile 🌟**</mark> en plaçant les <mark style="color:green;">**fragments d'étoile**</mark> comme sur l'image ci-dessous. Vous pouvez également consulter le craft en <mark style="color:green;">**cliquant sur bouton "Aide"**</mark> dans le classement des ville.
 
 <figure><img src="../.gitbook/assets/Les_Villes/Classement/CraftEtoile.png" alt=""><figcaption>Craft d'une Étoile</figcaption></figure>
 
