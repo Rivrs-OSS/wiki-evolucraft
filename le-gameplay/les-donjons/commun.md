@@ -7,14 +7,14 @@ description: Retrouvez ici les informations concernant le donjon commun
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td><mark style="color:green;"><strong>Biome du portail 🏛</strong></mark></td>
-    <td><mark style="color:green;"><strong>Forêt 🌳</strong></mark></td>
-    <td><mark style="color:yellow;"><strong>Jungle 🦜</strong></mark></td>
-    <td><mark style="color:blue;"><strong>Désert 🏜</strong></mark></td>
-    <td><mark style="color:purple;"><strong>Neige ❄</strong></mark></td>
-    <td><mark style="color:red;"><strong>Savane 🦏</strong></mark></td>
-    <td><mark style="color:red;"><strong>Marais 🐸</strong></mark></td>
-    <td><mark style="color:red;"><strong>Messa 🌵</strong></mark></td>
-    <td><mark style="color:red;"><strong>Nether 🔥</strong></mark></td>
+    <td><mark style="color:white;"><strong>Forêt 🌳</strong></mark></td>
+    <td><mark style="color:white;"><strong>Jungle 🦜</strong></mark></td>
+    <td><mark style="color:white;"><strong>Désert 🏜</strong></mark></td>
+    <td><mark style="color:white;"><strong>Neige ❄</strong></mark></td>
+    <td><mark style="color:white;"><strong>Savane 🦏</strong></mark></td>
+    <td><mark style="color:white;"><strong>Marais 🐸</strong></mark></td>
+    <td><mark style="color:white;"><strong>Messa 🌵</strong></mark></td>
+    <td><mark style="color:white;"><strong>Nether 🔥</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Aperçu du Donjons 📸</strong></mark></td>
