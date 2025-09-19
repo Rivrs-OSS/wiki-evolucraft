@@ -59,7 +59,7 @@ Il est accessible via le `/codex` une fois découvert.
 ### 🔷 Les récompenses 🎁
 Lorsque vous réussissez à terminer une <mark style="color:green;">**statue**</mark>, vous obtenez :
 - des <mark style="color:green;">**statistiques bonus permanentes**</mark> pour vos classes,  
-- ainsi que des <mark style="color:green;">**fragments de clé Antique**</mark>, permettant d'ouvrir la <mark style="color:green;">**Caisse Antique 🦴**</mark> !
+- ainsi que des <mark style="color:green;">**fragments de clé Antique**</mark>, permettant d'ouvrir la [<mark style="color:green;">**Caisse Antique 🦴**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique) !
 
 {% hint style="warning" %}
 **⚠️ ATTENTION :** Lorsque vous terminez une <mark style="color:green;">**statue**</mark>, elle n'est plus renouvelable.  
