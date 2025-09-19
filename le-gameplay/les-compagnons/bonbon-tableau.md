@@ -61,170 +61,170 @@ Voici le tableau indiquant le <mark style="color:green;">**nombre d’XP requis 
   <tr>
     <td><mark style="color:white;"><strong>Niveau actuel📊</strong></mark></td>
     <td><mark style="color:green;"><strong>Compagnon Commun 🐸</strong></mark></td>
-    <td><mark style="color:green;"><strong>Compagnon Rare 🐤</strong></mark></td>
-    <td><mark style="color:green;"><strong>Compagnon Épique 🐟</strong></mark></td>
-    <td><mark style="color:green;"><strong>Compagnon Légendaire 👾</strong></mark></td>
-    <td><mark style="color:green;"><strong>Compagnon Mythique 🦞</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>Compagnon Rare 🐤</strong></mark></td>
+    <td><mark style="color:blue;"><strong>Compagnon Épique 🐟</strong></mark></td>
+    <td><mark style="color:purple;"><strong>Compagnon Légendaire 👾</strong></mark></td>
+    <td><mark style="color:red;"><strong>Compagnon Mythique 🦞</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 1</strong></mark></td>
     <td><mark style="color:green;"><strong>32 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>34 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>36 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>38 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>40 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>34 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>36 xp</strong></mark></td>
+    <td><mark style="color:pruple;"><strong>38 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>40 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 2</strong></mark></td>
     <td><mark style="color:green;"><strong>33 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>35 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>37 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>39 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>41 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>35 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>37 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>39 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>41 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 3</strong></mark></td>
     <td><mark style="color:green;"><strong>36 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>38 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>40 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>42 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>44 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>38 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>40 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>42 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>44 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 4</strong></mark></td>
     <td><mark style="color:green;"><strong>41 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>43 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>45 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>47 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>49 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>43 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>45 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>47 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>49 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 5</strong></mark></td>
     <td><mark style="color:green;"><strong>48 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>50 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>52 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>54 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>56 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>50 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>52 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>54 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>56 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 6</strong></mark></td>
     <td><mark style="color:green;"><strong>57 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>59 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>61 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>63 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>65 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>59 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>61 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>63 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>65 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 7</strong></mark></td>
     <td><mark style="color:green;"><strong>68 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>70 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>72 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>74 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>76 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>70 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>72 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>74 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>76 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 8</strong></mark></td>
     <td><mark style="color:green;"><strong>81 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>83 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>85 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>87 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>89 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>83 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>85 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>87 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>89 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 9</strong></mark></td>
     <td><mark style="color:green;"><strong>96 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>98 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>100 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>102 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>104 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>98 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>100 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>102 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>104 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 10</strong></mark></td>
     <td><mark style="color:green;"><strong>113 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>115 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>117 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>119 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>121 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>115 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>117 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>119 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>121 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 11</strong></mark></td>
     <td><mark style="color:green;"><strong>132 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>134 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>136 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>138 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>140 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>134 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>136 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>138 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>140 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 12</strong></mark></td>
     <td><mark style="color:green;"><strong>153 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>155 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>157 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>159 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>161 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>155 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>157 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>159 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>161 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 13</strong></mark></td>
     <td><mark style="color:green;"><strong>176 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>178 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>180 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>182 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>184 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>178 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>180 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>182 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>184 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 14</strong></mark></td>
     <td><mark style="color:green;"><strong>201 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>203 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>205 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>207 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>209 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>203 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>205 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>207 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>209 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 15</strong></mark></td>
     <td><mark style="color:green;"><strong>228 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>230 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>232 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>234 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>236 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>230 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>232 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>234 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>236 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 16</strong></mark></td>
     <td><mark style="color:green;"><strong>257 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>259 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>261 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>263 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>265 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>259 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>261 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>263 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>265 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 17</strong></mark></td>
     <td><mark style="color:green;"><strong>288 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>290 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>292 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>294 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>296 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>290 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>292 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>294 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>296 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 18</strong></mark></td>
     <td><mark style="color:green;"><strong>321 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>323 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>325 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>327 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>329 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>323 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>325 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>327 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>329 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Niveau 19</strong></mark></td>
     <td><mark style="color:green;"><strong>356 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>358 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>360 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>362 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>364 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>358 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>360 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>362 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>364 xp</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:white;"><strong>Total</strong></mark></td>
     <td><mark style="color:green;"><strong>2 717 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>2 755 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>2 793 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>2 831 xp</strong></mark></td>
-    <td><mark style="color:green;"><strong>2 869 xp</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 755 xp</strong></mark></td>
+    <td><mark style="color:blue;"><strong>2 793 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>2 831 xp</strong></mark></td>
+    <td><mark style="color:red;"><strong>2 869 xp</strong></mark></td>
   </tr>
 </table>
 
@@ -233,109 +233,109 @@ Voici le tableau indiquant le <mark style="color:green;">**nombre d’XP requis 
   <tr>
     <td><mark style="color:white;"><strong>Type de bonbon 🍬 </strong></mark></td>
     <td><mark style="color:green;"><strong>Compagnon Commun 🐸</strong></mark></td>
-    <td><mark style="color:green;"><strong>Compagnon Rare 🐤</strong></mark></td>
-    <td><mark style="color:green;"><strong>Compagnon Épique 🐟</strong></mark></td>
-    <td><mark style="color:green;"><strong>Compagnon Légendaire 👾</strong></mark></td>
-    <td><mark style="color:green;"><strong>Compagnon Mythique 🦞</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>Compagnon Rare 🐤</strong></mark></td>
+    <td><mark style="color:blue;"><strong>Compagnon Épique 🐟</strong></mark></td>
+    <td><mark style="color:purple;"><strong>Compagnon Légendaire 👾</strong></mark></td>
+    <td><mark style="color:red;"><strong>Compagnon Mythique 🦞</strong></mark></td>
   </tr>
   <tr>
-    <td><mark style="color:white;"><strong>Bonbons à la Pomme 🍏</strong></mark></td>
+    <td><mark style="color:green;"><strong>Bonbons à la Pomme 🍏</strong></mark></td>
     <td>
      <p><mark style="color:green;"><strong>453 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(7 stacks et 5 bonbons)</strong></mark></p>
+     <p><mark style="color:white;"><strong>(7 stacks et 5 bonbons)</strong></mark></p>
     </td>
     <td>
      <p><mark style="color:green;"><strong>460 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(7 stacks et 12 bonbons)</strong></mark></p>
+     <p><mark style="color:white;"><strong>(7 stacks et 12 bonbons)</strong></mark></p>
     </td>
     <td>
      <p><mark style="color:green;"><strong>466 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(7 stacks et 18 bonbons)</strong></mark></p>
+     <p><mark style="color:white;"><strong>(7 stacks et 18 bonbons)</strong></mark></p>
     </td>
     <td>
      <p><mark style="color:green;"><strong>472 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(7 stacks et 24 bonbons)</strong></mark></p>
+     <p><mark style="color:white;"><strong>(7 stacks et 24 bonbons)</strong></mark></p>
     </td>
     <td>
      <p><mark style="color:green;"><strong>479 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(7 stacks et 31 bonbons)</strong></mark></p>
+     <p><mark style="color:white;"><strong>(7 stacks et 31 bonbons)</strong></mark></p>
     </td>
   </tr>
   <tr>
-    <td><mark style="color:white;"><strong>Bonbons à l’Orange 🍊</strong></mark></td>
+    <td><mark style="color:orange;"><strong>Bonbons à l’Orange 🍊</strong></mark></td>
     <td>
-     <p><mark style="color:green;"><strong>227 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(3 stacks et 35 bonbons)</strong></mark></p>
+     <p><mark style="color:orange;"><strong>227 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(3 stacks et 35 bonbons)</strong></mark></p>
     </td>
     <td>
-     <p><mark style="color:green;"><strong>230 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(3 stacks et 38 bonbons)</strong></mark></p>
+     <p><mark style="color:orange;"><strong>230 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(3 stacks et 38 bonbons)</strong></mark></p>
     </td>
     <td>
-     <p><mark style="color:green;"><strong>233 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(3 stacks et 41 bonbons)</strong></mark></p>
+     <p><mark style="color:orange;"><strong>233 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(3 stacks et 41 bonbons)</strong></mark></p>
     </td>
     <td>
-     <p><mark style="color:green;"><strong>236 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(3 stacks et 44 bonbons)</strong></mark></p>
+     <p><mark style="color:orange;"><strong>236 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(3 stacks et 44 bonbons)</strong></mark></p>
     </td>
     <td>
-     <p><mark style="color:green;"><strong>240 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(3 stacks et 48 bonbons)</strong></mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:white;"><strong>Bonbons à la Myrtille 🔵</strong></mark></td>
-    <td>
-     <p><mark style="color:green;"><strong>114 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 50 bonbons)</strong></mark></p>
-    </td>
-    <td>
-     <p><mark style="color:green;"><strong>115 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 51 bonbons)</strong></mark></p>
-    </td>
-    <td>
-     <p><mark style="color:green;"><strong>117 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 53 bonbons)</strong></mark></p>
-    </td>
-    <td>
-     <p><mark style="color:green;"><strong>119 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 55 bonbons)</strong></mark></p>
-    </td>
-    <td>
-     <p><mark style="color:green;"><strong>120 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 56 bonbons)</strong></mark></p>
+     <p><mark style="color:orange;"><strong>240 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(3 stacks et 48 bonbons)</strong></mark></p>
     </td>
   </tr>
   <tr>
-    <td><mark style="color:white;"><strong>Bonbons aux Raisins 🍇</strong></mark></td>
+    <td><mark style="color:blue;"><strong>Bonbons à la Myrtille 🔵</strong></mark></td>
     <td>
-     <p><mark style="color:green;"><strong>85 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 21 bonbons)</strong></mark></p>
+     <p><mark style="color:blue;"><strong>114 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 50 bonbons)</strong></mark></p>
     </td>
     <td>
-     <p><mark style="color:green;"><strong>87 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 23 bonbons)</strong></mark></p>
+     <p><mark style="color:blue;"><strong>115 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 51 bonbons)</strong></mark></p>
     </td>
     <td>
-     <p><mark style="color:green;"><strong>88 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 24 bonbons)</strong></mark></p>
+     <p><mark style="color:blue;"><strong>117 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 53 bonbons)</strong></mark></p>
     </td>
     <td>
-     <p><mark style="color:green;"><strong>89 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 25 bonbons)</strong></mark></p>
+     <p><mark style="color:blue;"><strong>119 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 55 bonbons)</strong></mark></p>
     </td>
     <td>
-     <p><mark style="color:green;"><strong>90 bonbons</strong></mark></p>
-     <p><mark style="color:green;"><strong>(1 stack et 26 bonbons)</strong></mark></p>
+     <p><mark style="color:blue;"><strong>120 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 56 bonbons)</strong></mark></p>
     </td>
   </tr>
   <tr>
-    <td><mark style="color:white;"><strong>Bonbons à la Fraise 🍓</strong></mark></td>
-    <td><mark style="color:green;"><strong>55 bonbons</strong></mark></td>
-    <td><mark style="color:green;"><strong>56 bonbons</strong></mark></td>
-    <td><mark style="color:green;"><strong>56 bonbons</strong></mark></td>
-    <td><mark style="color:green;"><strong>57 bonbons</strong></mark></td>
-    <td><mark style="color:green;"><strong>58 bonbons</strong></mark></td>
+    <td><mark style="color:purple;"><strong>Bonbons aux Raisins 🍇</strong></mark></td>
+    <td>
+     <p><mark style="color:purple;"><strong>85 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 21 bonbons)</strong></mark></p>
+    </td>
+    <td>
+     <p><mark style="color:purple;"><strong>87 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 23 bonbons)</strong></mark></p>
+    </td>
+    <td>
+     <p><mark style="color:purple;"><strong>88 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 24 bonbons)</strong></mark></p>
+    </td>
+    <td>
+     <p><mark style="color:purple;"><strong>89 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 25 bonbons)</strong></mark></p>
+    </td>
+    <td>
+     <p><mark style="color:purple;"><strong>90 bonbons</strong></mark></p>
+     <p><mark style="color:white;"><strong>(1 stack et 26 bonbons)</strong></mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;"><strong>Bonbons à la Fraise 🍓</strong></mark></td>
+    <td><mark style="color:red;"><strong>55 bonbons</strong></mark></td>
+    <td><mark style="color:red;"><strong>56 bonbons</strong></mark></td>
+    <td><mark style="color:red;"><strong>56 bonbons</strong></mark></td>
+    <td><mark style="color:red;"><strong>57 bonbons</strong></mark></td>
+    <td><mark style="color:red;"><strong>58 bonbons</strong></mark></td>
   </tr>
 </table>
