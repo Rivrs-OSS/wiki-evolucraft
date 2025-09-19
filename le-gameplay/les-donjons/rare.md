@@ -4,7 +4,62 @@ description: Retrouvez ici les informations concernant le donjon rare
 
 # 🟧 Donjon Rare
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Rare.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Rare</strong></p></figcaption></figure>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:yellow;"><strong>Biome du portail 🏛</strong></mark></td>
+    <td><mark style="color:white;"><strong>Forêt 🌳</strong></mark></td>
+    <td><mark style="color:white;"><strong>Jungle 🦜</strong></mark></td>
+    <td><mark style="color:white;"><strong>Désert 🏜</strong></mark></td>
+    <td><mark style="color:white;"><strong>Neige ❄</strong></mark></td>
+    <td><mark style="color:white;"><strong>Savane 🦏</strong></mark></td>
+    <td><mark style="color:white;"><strong>Marais 🐸</strong></mark></td>
+    <td><mark style="color:white;"><strong>Messa 🌵</strong></mark></td>
+    <td><mark style="color:white;"><strong>Nether 🔥</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;"><strong>Aperçu du Donjons 📸</strong></mark></td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Rare/Foret.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Rare/Jungle.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Rare/Desert.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Rare/Neige.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Rare/Savane.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Rare/Marais.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Rare/Messa.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Rare/Nether.png" alt="">
+      </figure>
+    </td>
+  </tr>
+</table>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 

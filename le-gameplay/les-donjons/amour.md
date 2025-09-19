@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le donjon Amour
 
 # 🟥 Donjon Amour
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Amour.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Amour</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Amour.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Amour</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 

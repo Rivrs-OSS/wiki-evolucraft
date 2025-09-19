@@ -4,7 +4,62 @@ description: Retrouvez ici les informations concernant le donjon commun
 
 # 🟩 Donjon Commun
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Commun.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Commun</strong></p></figcaption></figure>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Biome du portail 🏛</strong></mark></td>
+    <td><mark style="color:white;"><strong>Forêt 🌳</strong></mark></td>
+    <td><mark style="color:white;"><strong>Jungle 🦜</strong></mark></td>
+    <td><mark style="color:white;"><strong>Désert 🏜</strong></mark></td>
+    <td><mark style="color:white;"><strong>Neige ❄</strong></mark></td>
+    <td><mark style="color:white;"><strong>Savane 🦏</strong></mark></td>
+    <td><mark style="color:white;"><strong>Marais 🐸</strong></mark></td>
+    <td><mark style="color:white;"><strong>Messa 🌵</strong></mark></td>
+    <td><mark style="color:white;"><strong>Nether 🔥</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Aperçu du Donjons 📸</strong></mark></td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Foret.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Jungle.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Desert.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Neige.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Savane.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Marais.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Messa.png" alt="">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="../../.gitbook/assets/Les_Donjons/Portail/Commun/Nether.png" alt="">
+      </figure>
+    </td>
+  </tr>
+</table>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 

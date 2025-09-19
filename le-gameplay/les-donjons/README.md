@@ -61,7 +61,7 @@ Pour rendre votre expérience variée, plusieurs types de biomes de donjons sont
 * Savane
 * Nether
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Apercu_DonjonForet.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/ApercuDonjon.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
 
 #### 🔸 Les donjons événements
 
@@ -107,7 +107,7 @@ Après avoir <mark style="color:green;">vaincu le boss final du donjon</mark>, v
 
 Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres</mark> au <mark style="color:green;">fond de la salle</mark>. Il y a <mark style="color:green;">3 coffres de récompenses</mark> _(2 coffres gratuits et le 3e disponible avec le [<mark style="color:green;">Premium 👑</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium))_.
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/DJ-recompense.png" alt=""><figcaption><p><strong>Aperçu des coffres de <mark style="color:green;">récompenses de donjons</mark></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/ZonesRecompense.png" alt=""><figcaption><p><strong>Aperçu des coffres de <mark style="color:green;">récompenses de donjons</mark></strong></p></figcaption></figure>
 
 ## <mark style="color:green;">💠 Quelques exemples de récompenses... 🧰</mark>
 

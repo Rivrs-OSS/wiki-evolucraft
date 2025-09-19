@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le donjon Halloween
 
 # 🟧 Donjon Halloween
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Halloween.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Halloween</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Halloween.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Halloween</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
