@@ -44,7 +44,7 @@ Chargez votre énergie et foncez vers l'avant, transperçant les ennemis.
 Invoquez 3 lances de dragon qui forment une zone de dragon. Pendant que vous êtes dans la zone du dragon, vous gagnez en vitesse et en résistance.
 
 * <mark style="color:purple;">**Temps de recharge**</mark>: 10s
-* <mark style="color:purple;">**Mana**</mark>: 125
+* <mark style="color:purple;">**Mana**</mark>: 75
 * <mark style="color:purple;">**Dégâts**</mark>: 0
 
 ### 🔸 <mark style="color:purple;">**Niveau 20 : Souffle du dragon**</mark>
