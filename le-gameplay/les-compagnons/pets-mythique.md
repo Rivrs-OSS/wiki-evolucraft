@@ -14,7 +14,6 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
     <td><mark style="color:red;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
-  <tr>
     <td align="center"><mark style="color:red;"><strong>Rat de Billy</strong></mark></td>
     <td>
       <figure>
