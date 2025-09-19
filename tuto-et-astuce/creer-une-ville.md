@@ -20,7 +20,7 @@ Vous souhaitez créer une ville ? Parfait, vous êtes au bon endroit ! Commenço
 
 ### <mark style="color:green;">🔸 Étape 2️⃣</mark>
 
-Trouvez une zone libre en étant à plus de 5 chunks des autres villes autour. Pour faciliter votre tâche, utilisez <mark style="color:green;">**`/rtp`**</mark> _(qui vous permet d’être téléporté aléatoirement dans le monde de construction choisi, dans un endroit libre)_ ainsi que <mark style="color:green;">**`/v map`**</mark> _(qui vous permet de voir, dans un périmètre de 5 chunks de rayon, s’il y a des villes proches de votre position)_ !
+Trouvez une zone libre en étant à plus de <mark style="color:green;">**4 chunks des autres villes autour**</mark>. Pour faciliter votre tâche, utilisez <mark style="color:green;">**`/rtp`**</mark> _(qui vous permet d’être téléporté aléatoirement dans le monde de construction choisi, dans un endroit libre)_ ainsi que <mark style="color:green;">**`/v map`**</mark> _(qui vous permet de voir, dans un périmètre de 5 chunks de rayon, s’il y a des villes proches de votre position)_ !
 
 <figure><img src="../.gitbook/assets/Les_Villes/Vmap.png" alt=""><figcaption><p><strong>Aperçu du <code>/v map</code></strong></p></figcaption></figure>
 
