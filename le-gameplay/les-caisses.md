@@ -189,6 +189,10 @@ Si vous réussissez à obtenir une <mark style="color:green;">clé</mark> afin d
 
 <figure><img src="../.gitbook/assets/Les_Caisses/AncienneBox.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %} 
+Vous pouvez y accèder à cette zone via le `/codex` si vous l'avez au minimum visiter.
+{% endhint %}
+
 ### 🔸 <mark style="color:orange;">Caisse Draconique 🐉</mark>
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
