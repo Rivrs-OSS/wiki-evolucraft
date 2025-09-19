@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes la liste des compagnons mythique dans le serveur.
 ---
 
-# Les compagnons MYTHIQUE 🦞
+# 🦞 Compagnon Mythique
 
 ## 💠 La liste des compagnons MYTHIQUE
 

@@ -1,14 +1,16 @@
 ---
-description: Retrouvez ici le tuto pour savoir comment se créer une petite richesse en début de partie.
+description: >-
+  Retrouvez ici le tuto pour savoir comment se créer une petite richesse en
+  début de partie.
 ---
 
-# 💸 Comment se faire de l'argent facilement sur le serveur ?
+# 💸 Gagner de l'argent
 
 L'argent sur ce serveur est indispensable pour monter ses rangs, faire évoluer sa ville ou encore acheter des services ou des items aux joueurs. Mais en tant que nouveau joueur, quels sont les moyens d'avoir une petite base d'argent pour subvenir à ses besoins ? Alors voici quelques astuces pour se faire de l'argent rapidement, sans mendier !
 
 ## 🔶 <mark style="color:green;">Les Métiers 👷‍♂️</mark>
 
-**Les <mark style="color:green;">métiers</mark> vous permettent, en plus de monter des niveaux de jobs et d'accomplir <mark style="color:green;">les prérequis pour vos rangs</mark>, de <mark style="color:green;">gagner de l'argent</mark> selon les actions liées à votre métier.**
+**Les&#x20;**<mark style="color:green;">**métiers**</mark>**&#x20;vous permettent, en plus de monter des niveaux de jobs et d'accomplir&#x20;**<mark style="color:green;">**les prérequis pour vos rangs**</mark>**, de&#x20;**<mark style="color:green;">**gagner de l'argent**</mark>**&#x20;selon les actions liées à votre métier.**
 
 ### 🔹 Comment rejoindre un métier ? 🛠️
 
@@ -17,17 +19,20 @@ Pour <mark style="color:green;">rejoindre un métier</mark>, il vous suffit de f
 ### 🔹 Comment gagner de l'argent avec son métier ? 💰
 
 Pour savoir quelles <mark style="color:green;">actions vous font gagner de l'argent</mark> (ainsi que de l'xp métier), il vous suffit d'abord de faire <mark style="color:green;">`/jobs`</mark> puis de <mark style="color:green;">sélectionner le métier</mark> que vous avez rejoint.
-<figure><img src="../.gitbook/assets/Jobs/InterfaceJobs.png" alt=""><figcaption><p><strong>Aperçu du "<mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Jobs/InterfaceJobs.png" alt=""><figcaption><p><strong>Aperçu du "</strong><mark style="color:green;"><strong>`/jobs`</strong></mark></p></figcaption></figure>
 
 Puis, il vous suffira de cliquer sur "<mark style="color:green;">Action rémunérée</mark>" représentée par <mark style="color:green;">une feuille de papier</mark>.
-<figure><img src="../.gitbook/assets/Jobs/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">menu du jobs Mineur</mark></strong></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Jobs/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>menu du jobs Mineur</strong></mark></p></figcaption></figure>
 
 Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action</mark> (casser, tuer, pêcher, etc.) avec les <mark style="color:green;">actions possibles</mark> et <mark style="color:green;">leur gain associé</mark> (Argent et XP métier)
-<figure><img src="../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">actions rémunérées du mineur</mark></strong></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>actions rémunérées du mineur</strong></mark></p></figcaption></figure>
 
 Également, lorsque vous passez un niveau dans votre métier, vous pouvez récupérer de l'argent en faisant la commande <mark style="color:green;">`/jobs claim`</mark>. Elle vous donnera les récompenses de paliers de tous les métiers atteints.
 
-Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : <a href="https://wiki.evolucraft.fr/le-gameplay/les-metiers"><mark style="color:green;">les métiers 👷‍♂️</mark></a>.
+Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : [<mark style="color:green;">les métiers 👷‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers).
 
 ## 🔶 <mark style="color:green;">Les clés de vote 🗝️</mark>
 
@@ -39,66 +44,68 @@ Nous vous laissons regarder <mark style="color:green;">**ce tutoriel**</mark> po
 
 ## 🔶 <mark style="color:green;">Les donjons 🏛️</mark>
 
-**<mark style="color:green;">Faire des donjons</mark>, c’est <mark style="color:green;">la nouveauté de cette V4 d’Évolucraft</mark> pour vous aider à <mark style="color:green;">compléter les prérequis</mark> de vos futurs rangs !**
+<mark style="color:green;">**Faire des donjons**</mark>**, c’est&#x20;**<mark style="color:green;">**la nouveauté de cette V4 d’Évolucraft**</mark>**&#x20;pour vous aider à&#x20;**<mark style="color:green;">**compléter les prérequis**</mark>**&#x20;de vos futurs rangs !**
 
 ### 🔹 Comment trouver des donjons ? 🤔
 
-**Pour <mark style="color:green;">trouver des donjons</mark>, il y a <mark style="color:green;">plusieurs solutions</mark> :**
+**Pour&#x20;**<mark style="color:green;">**trouver des donjons**</mark>**, il y a&#x20;**<mark style="color:green;">**plusieurs solutions**</mark>**&#x20;:**
 
 #### <mark style="color:green;">• 1️⃣ Les pierres de tp donjon 🟩</mark>
 
-**Les pierres de tp donjon vous servent à être <mark style="color:green;">téléporté directement</mark>, en étant dans le monde ressource, à <mark style="color:green;">un portail de donjon généré</mark>. Très utile si vous ne voulez pas passer des heures à en chercher un !**
+**Les pierres de tp donjon vous servent à être&#x20;**<mark style="color:green;">**téléporté directement**</mark>**, en étant dans le monde ressource, à&#x20;**<mark style="color:green;">**un portail de donjon généré**</mark>**. Très utile si vous ne voulez pas passer des heures à en chercher un !**
 
-**Pour <mark style="color:green;">vous en procurer</mark>, il vous suffit de faire <mark style="color:green;">`/kit donjon`</mark> _(disponible toutes les 24 heures)_ ou via <mark style="color:green;">la box de vote</mark>.**
+**Pour&#x20;**<mark style="color:green;">**vous en procurer**</mark>**, il vous suffit de faire&#x20;**<mark style="color:green;">**`/kit donjon`**</mark> _**(disponible toutes les 24 heures)**_**&#x20;ou via&#x20;**<mark style="color:green;">**la box de vote**</mark>**.**
 
-**Pour les joueurs plus avancés, vous avez le <mark style="color:green;">`/dragon`</mark> où, sur la deuxième page, vous pourrez <mark style="color:green;">échanger des pierres de tp donjon</mark> de rareté plus importante : <mark style="color:yellow;">Rare</mark>, <mark style="color:blue;">Épique</mark> ou <mark style="color:purple;">Légendaire</mark> !**
+**Pour les joueurs plus avancés, vous avez le&#x20;**<mark style="color:green;">**`/dragon`**</mark>**&#x20;où, sur la deuxième page, vous pourrez&#x20;**<mark style="color:green;">**échanger des pierres de tp donjon**</mark>**&#x20;de rareté plus importante :&#x20;**<mark style="color:yellow;">**Rare**</mark>**,&#x20;**<mark style="color:blue;">**Épique**</mark>**&#x20;ou&#x20;**<mark style="color:purple;">**Légendaire**</mark>**&#x20;!**
 
 #### <mark style="color:green;">• 2️⃣ La recherche en balade 🚶‍♂️</mark>
 
-**En vous <mark style="color:green;">baladant dans les différents mondes ressources</mark>, vous pouvez également <mark style="color:green;">trouver des donjons générés</mark> et y entrer pour défier leurs mobs féroces. Avec un peu de chance, le <mark style="color:green;">`/rtp`</mark> pourra vous faire apparaître <mark style="color:green;">à côté d’un portail de donjon</mark>.**
+**En vous&#x20;**<mark style="color:green;">**baladant dans les différents mondes ressources**</mark>**, vous pouvez également&#x20;**<mark style="color:green;">**trouver des donjons générés**</mark>**&#x20;et y entrer pour défier leurs mobs féroces. Avec un peu de chance, le&#x20;**<mark style="color:green;">**`/rtp`**</mark>**&#x20;pourra vous faire apparaître&#x20;**<mark style="color:green;">**à côté d’un portail de donjon**</mark>**.**
 
 #### <mark style="color:green;">• 3️⃣ Les publicités 📣</mark>
 
-**Avec le <a href="http://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite"><mark style="color:green;">/pub 📢</mark></a>, vous pouvez <mark style="color:green;">activer les notifications de pubs pour donjon</mark> lorsque <mark style="color:green;">des joueurs trouvent un portail</mark> et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !**
+**Avec le** [<mark style="color:green;">**/pub 📢**</mark>](http://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite)**, vous pouvez&#x20;**<mark style="color:green;">**activer les notifications de pubs pour donjon**</mark>**&#x20;lorsque&#x20;**<mark style="color:green;">**des joueurs trouvent un portail**</mark>**&#x20;et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !**
 
-**Pour <mark style="color:green;">tenter de participer à ces donjons</mark>, il vous suffit de <mark style="color:green;">cliquer dans le chat</mark> sur la ligne "<mark style="color:green;">Envoyer une demande de téléportation"</mark> pour que le joueur ayant trouvé le donjon puisse <mark style="color:green;">vous téléporter</mark>.**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/DemandeDeTPDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une <mark style="color:green;">pub de donjon</mark></strong></p></figcaption></figure>
+**Pour&#x20;**<mark style="color:green;">**tenter de participer à ces donjons**</mark>**, il vous suffit de&#x20;**<mark style="color:green;">**cliquer dans le chat**</mark>**&#x20;sur la ligne "**<mark style="color:green;">**Envoyer une demande de téléportation"**</mark>**&#x20;pour que le joueur ayant trouvé le donjon puisse&#x20;**<mark style="color:green;">**vous téléporter**</mark>**.**
 
-Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjons et sa réalisation : **[<mark style="color:green;">Les Donjons 🏛️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons)**
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/DemandeDeTPDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une </strong><mark style="color:green;"><strong>pub de donjon</strong></mark></p></figcaption></figure>
+
+Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjons et sa réalisation : [<mark style="color:green;">**Les Donjons 🏛️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons)
 
 ## 🔶 <mark style="color:green;">Vendre des items 🏪</mark>
 
-**Pour <mark style="color:green;">vendre des items</mark> et <mark style="color:green;">récolter un peu d'argent</mark>, <mark style="color:green;">plusieurs solutions sont à votre disposition</mark> :**
+**Pour&#x20;**<mark style="color:green;">**vendre des items**</mark>**&#x20;et&#x20;**<mark style="color:green;">**récolter un peu d'argent**</mark>**,&#x20;**<mark style="color:green;">**plusieurs solutions sont à votre disposition**</mark>**&#x20;:**
 
-### <mark style="color:green;">🔹 L'hôtel de vente _(`/hdv` ou `/ah`)_</mark>
+### <mark style="color:green;">🔹 L'hôtel de vente</mark> <mark style="color:green;"></mark>_<mark style="color:green;">(</mark><mark style="color:green;">`/hdv`</mark> <mark style="color:green;"></mark><mark style="color:green;">ou</mark> <mark style="color:green;"></mark><mark style="color:green;">`/ah`</mark><mark style="color:green;">)</mark>_
 
-**Vous permet de <mark style="color:green;">vendre des items ou d’acheter des items</mark> dans une interface connectée à tous les mondes.**
+**Vous permet de&#x20;**<mark style="color:green;">**vendre des items ou d’acheter des items**</mark>**&#x20;dans une interface connectée à tous les mondes.**
 
-<figure><img src="../.gitbook/assets/Le_Commerce/Interface_Ah.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">hôtel de vente</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le_Commerce/Interface_Ah.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>hôtel de vente</strong></mark></p></figcaption></figure>
 
-**Pour <mark style="color:green;">mettre un item en vente</mark>, il faudra effectuer la commande <mark style="color:green;">`/ah sell [prix] [quantité]`</mark> tout en tenant l’item en main.**
+**Pour&#x20;**<mark style="color:green;">**mettre un item en vente**</mark>**, il faudra effectuer la commande&#x20;**<mark style="color:green;">**`/ah sell [prix] [quantité]`**</mark>**&#x20;tout en tenant l’item en main.**
 
-**Si vous <mark style="color:green;">souhaitez récupérer votre item actuellement en vente</mark>, faites <mark style="color:green;">`/ah viewmine`</mark> puis <mark style="color:green;">cliquez sur l’item</mark> que vous souhaitez récupérer.**
+**Si vous&#x20;**<mark style="color:green;">**souhaitez récupérer votre item actuellement en vente**</mark>**, faites&#x20;**<mark style="color:green;">**`/ah viewmine`**</mark>**&#x20;puis&#x20;**<mark style="color:green;">**cliquez sur l’item**</mark>**&#x20;que vous souhaitez récupérer.**
 
-### <mark style="color:green;">🔹 Les shops de joueurs </mark>
+### <mark style="color:green;">🔹 Les shops de joueurs</mark>
 
-**Nous vous invitons à <mark style="color:green;">lire la page du wiki</mark> dédiée : <a href="https://wiki.evolucraft.fr/les-villes/les-shops-de-joueurs"><mark style="color:green;">**Les shops de joueurs 🏪**</mark></a>**
+**Nous vous invitons à&#x20;**<mark style="color:green;">**lire la page du wiki**</mark>**&#x20;dédiée :** [<mark style="color:green;">**Les shops de joueurs 🏪**</mark>](https://wiki.evolucraft.fr/les-villes/les-shops-de-joueurs)
 
-### <mark style="color:green;">🔹 Le `/finditem` </mark>
+### <mark style="color:green;">🔹 Le</mark> <mark style="color:green;"></mark><mark style="color:green;">`/finditem`</mark>
 
-**Le <mark style="color:green;">`/finditem`</mark> vous permet de <mark style="color:green;">chercher un item</mark> parmi <mark style="color:green;">les coffres de vente/achat des joueurs</mark> sur le serveur.**
+**Le&#x20;**<mark style="color:green;">**`/finditem`**</mark>**&#x20;vous permet de&#x20;**<mark style="color:green;">**chercher un item**</mark>**&#x20;parmi&#x20;**<mark style="color:green;">**les coffres de vente/achat des joueurs**</mark>**&#x20;sur le serveur.**
 
-**Afin de <mark style="color:green;">vendre un item à un coffre de rachat</mark>, il vous suffit de <mark style="color:green;">faire la commande `/finditem vendre [id de l'item/premier mot de l'item custom]`</mark>, puis il vous donnera <mark style="color:green;">la liste de tous les joueurs rachetant cet item</mark>. À vous de <mark style="color:green;">sélectionner le racheteur</mark> en cliquant sur l’item en question.**
+**Afin de&#x20;**<mark style="color:green;">**vendre un item à un coffre de rachat**</mark>**, il vous suffit de&#x20;**<mark style="color:green;">**faire la commande**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/finditem vendre [id de l'item/premier mot de l'item custom]`**</mark>**, puis il vous donnera&#x20;**<mark style="color:green;">**la liste de tous les joueurs rachetant cet item**</mark>**. À vous de&#x20;**<mark style="color:green;">**sélectionner le racheteur**</mark>**&#x20;en cliquant sur l’item en question.**
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface <mark style="color:green;">/finditem</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/finditem</strong></mark></p></figcaption></figure>
 
 {% hint style="info" %}
 **REMARQUE 🔍 : Les items sont triés du plus cher au moins cher 📉**.
 {% endhint %}
 
-## 🔶 <mark style="color:green;">Le `/rewards` 🕐</mark>
+## 🔶 <mark style="color:green;">Le</mark> <mark style="color:green;"></mark><mark style="color:green;">`/rewards`</mark> <mark style="color:green;"></mark><mark style="color:green;">🕐</mark>
 
-**Le <mark style="color:green;">`/rewards`</mark> vous permet de <mark style="color:green;">gagner des récompenses</mark> chaque jour avec un reset à minuit _(heure française)_ selon votre temps de jeu. <mark style="color:green;">Une notification sur votre écran</mark> vous informe lorsqu’un cadeau est débloqué. Vous pouvez y <mark style="color:green;">recevoir des quêtes</mark>, <mark style="color:green;">divers blocs et items</mark>, <mark style="color:green;">une carte aléatoire commune</mark> mais surtout <mark style="color:green;">de l’argent</mark> !**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface <mark style="color:green;">/rewards</mark></strong></p></figcaption></figure>
+**Le&#x20;**<mark style="color:green;">**`/rewards`**</mark>**&#x20;vous permet de&#x20;**<mark style="color:green;">**gagner des récompenses**</mark>**&#x20;chaque jour avec un reset à minuit&#x20;**_**(heure française)**_**&#x20;selon votre temps de jeu.&#x20;**<mark style="color:green;">**Une notification sur votre écran**</mark>**&#x20;vous informe lorsqu’un cadeau est débloqué. Vous pouvez y&#x20;**<mark style="color:green;">**recevoir des quêtes**</mark>**,&#x20;**<mark style="color:green;">**divers blocs et items**</mark>**,&#x20;**<mark style="color:green;">**une carte aléatoire commune**</mark>**&#x20;mais surtout&#x20;**<mark style="color:green;">**de l’argent**</mark>**&#x20;!**
+
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
 
 **Vous avez toutes les infos pour savoir comment gagner de l’argent facilement 🤑 ! À vous de trouver la meilleure technique ou d’en découvrir une nouvelle 😏**

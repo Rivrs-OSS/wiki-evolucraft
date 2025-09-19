@@ -1,8 +1,11 @@
 ---
-description: Retrouvez ici toutes les informations vous permettant de nous aider à modifier ce wiki
+description: >-
+  Retrouvez ici toutes les informations vous permettant de nous aider à modifier
+  ce wiki
+icon: pen-to-square
 ---
 
-# Contribution
+# 🤲 Contribuer
 
 Bienvenue ! Ce guide vous accompagnera pas à pas dans la <mark style="color:blue;">**contribution**</mark> au wiki du projet <mark style="color:blue;">**Evolucraft**</mark> sur <mark style="color:blue;">**GitHub**</mark>.
 
