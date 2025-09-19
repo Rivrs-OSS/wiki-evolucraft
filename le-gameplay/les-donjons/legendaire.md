@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le donjon Légendaire
 
 # 🟪 Donjon Légendaire
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Legendaire.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Légendaire</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Legendaire.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Légendaire</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
