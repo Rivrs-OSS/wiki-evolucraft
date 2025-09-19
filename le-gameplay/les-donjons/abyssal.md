@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le donjon Abyssal
 
 # 🟦 Donjon Abyssal
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Abyssal.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Abyssal</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Abyssal.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Abyssal</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
