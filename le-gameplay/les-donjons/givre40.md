@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le donjon Givré Épique
 
 # 🟦 Givré Épique
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Givre40.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Givré Épique</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Givre40.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Givré Épique</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Pré-requis</mark>
 
