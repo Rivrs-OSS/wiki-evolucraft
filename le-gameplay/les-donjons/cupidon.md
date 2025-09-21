@@ -34,9 +34,9 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 |                                                                              | 
 |:----------------------------------------------------------------------------:|
 | <mark style="color:red;"><strong>Parchemin de l'amour</strong></mark>        |
-| <mark style="color:red;"><strong>40.000 💲</strong></mark>                   |
-| <mark style="color:red;"><strong>60.000 💲</strong></mark>                   |
-| <mark style="color:red;"><strong>100.000 💲</strong></mark>                  |
+| <mark style="color:red;"><strong>40 000 💲</strong></mark>                   |
+| <mark style="color:red;"><strong>60 000 💲</strong></mark>                   |
+| <mark style="color:red;"><strong>100 000 💲</strong></mark>                  |
 | <mark style="color:red;"><strong>2 Auréoles</strong></mark>                 |
 | <mark style="color:red;"><strong>2 Bonbons à l'orange</strong></mark>       |
 | <mark style="color:red;"><strong>Œuf de familier de l'amour</strong></mark> |
