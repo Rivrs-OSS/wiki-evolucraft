@@ -37,7 +37,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 | <mark style="color:yellow;"><strong>15 000 💲</strong></mark>                      |
 | <mark style="color:yellow;"><strong>25 000 💲</strong></mark>                      |
 | <mark style="color:yellow;"><strong>Tablette de chocolat</strong></mark>   |
-| <mark style="color:green;"><strong>Bonbon à la pomme</strong></mark>         |
+| <mark style="color:yellow;"><strong>Bonbon à la pomme</strong></mark>         |
 | <mark style="color:yellow;"><strong>Œuf de familier de Pâques</strong></mark>      |
 | <mark style="color:yellow;"><strong>1 000 XP Classe</strong></mark>            |
 
