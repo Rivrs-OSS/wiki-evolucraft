@@ -4,30 +4,41 @@ description: Retrouvez ici les informations concernant la Fabrique de chocolat
 
 # 🟫 Fabrique de Chocolat
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/FabriqueChocolat.png" alt=""><figcaption><p><strong>Aperçu d'une Fabrique de Chocolat</strong></p></figcaption></figure>
+## <mark style="color:green;"> Caractéristiques 📋</mark>
 
-## <mark style="color:green;"> Pré-requis </mark>
+👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 4 joueurs**</mark>  
+📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 40**</mark>  
+🕓 Durée du donjon : <mark style="color:green;">**20 minutes**</mark>  
 
-Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 40**</mark> dans votre classe.
+## <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
 
-## <mark style="color:green;">Aperçu des récompenses</mark>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Aperçu du Donjon 📸</strong></mark></td>
+  </tr>
+  <tr>
+    <td><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/FabriqueChocolat.png" alt=""></figure></td>
+  </tr>
+</table>
 
-### <mark style="color:green;">XP obtenable</mark>
+## <mark style="color:green;"> XP de classe récoltée ⚔</mark>
 
-* Soldats & Tireurs : 50 xp
-* Dinosaures : 5 000 xp
-* Abomination : 10 000 xp
+Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
-### <mark style="color:green;">Récompense en fin de donjon</mark>
+* <mark style="color:green;"><strong>Soldats & Tireurs 🧟‍♂️</strong></mark> : **50 XP**  
+* <mark style="color:yellow;"><strong>Dinosaures 👽</strong></mark> : **5 000 XP**  
+* <mark style="color:red;"><strong>Abomination 🐉</strong></mark> : **10 000 XP**
+
+### <mark style="color:green;">Récompenses 🎁</mark>
 
 |                                                                                         |
 |:---------------------------------------------------------------------------------------:|
 | <mark style="color:yellow;"><strong>Parchemin de la Fabrique de Chocolat</strong></mark> |
-| <mark style="color:yellow;"><strong>40.000 💰</strong></mark>                            |
-| <mark style="color:yellow;"><strong>60.000 💰</strong></mark>                            |
-| <mark style="color:yellow;"><strong>100.000 💰</strong></mark>                           |
-| <mark style="color:yellow;"><strong>Tablette de chocolat (x2) 💰</strong></mark>         |
-| <mark style="color:orange;"><strong>Bonbon à l'orange (x2)</strong></mark>              |
+| <mark style="color:yellow;"><strong>40 000 💲</strong></mark>                            |
+| <mark style="color:yellow;"><strong>60 000 💲</strong></mark>                            |
+| <mark style="color:yellow;"><strong>100 000 💲</strong></mark>                           |
+| <mark style="color:yellow;"><strong>2 Tablettes de chocolat</strong></mark>         |
+| <mark style="color:yellow;"><strong>2 Bonbons à l'orange</strong></mark>              |
 | <mark style="color:yellow;"><strong>Œuf de familier de Pâques</strong></mark>            |
-| <mark style="color:yellow;"><strong>EXP classe (x5.000)</strong></mark>                  |
-| <mark style="color:yellow;"><strong>Clé de Pâques (x1)</strong></mark>                   |
+| <mark style="color:yellow;"><strong>5 000 XP classe</strong></mark>                  |
+| <mark style="color:yellow;"><strong>Clé de Pâques</strong></mark>                   |
