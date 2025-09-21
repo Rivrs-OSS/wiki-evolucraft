@@ -14,11 +14,11 @@ description: Retrouvez ici les informations concernant le donjon Épique
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Biome du portail 🏛</strong></mark></td>
+    <td><mark style="color:green;"><strong>Biome du portail 🏛️</strong></mark></td>
     <td><mark style="color:white;"><strong>Forêt 🌳</strong></mark></td>
     <td><mark style="color:white;"><strong>Jungle 🦜</strong></mark></td>
-    <td><mark style="color:white;"><strong>Désert 🏜</strong></mark></td>
-    <td><mark style="color:white;"><strong>Neige ❄</strong></mark></td>
+    <td><mark style="color:white;"><strong>Désert 🏜️</strong></mark></td>
+    <td><mark style="color:white;"><strong>Neige ❄️</strong></mark></td>
     <td><mark style="color:white;"><strong>Savane 🦏</strong></mark></td>
     <td><mark style="color:white;"><strong>Marais 🐸</strong></mark></td>
     <td><mark style="color:white;"><strong>Messa 🌵</strong></mark></td>
