@@ -52,14 +52,14 @@ REMARQUE 🤓☝ : Plus un donjon demande un niveau élevé, plus il est diffici
 
 Pour rendre votre expérience variée, plusieurs types de biomes de donjons sont présents, modifiant les salles, les monstres ainsi que l'apparence du portail. Vous pourrez y trouver des donjons dans les biomes suivants :
 
-* Forêt
-* Jungle
-* Marais
-* Neige
-* Désert
-* Mesa
-* Savane
-* Nether
+* **Forêt** 🌳
+* **Jungle** 🦜
+* **Marais** 🐸
+* **Neige** ❄
+* **Désert** 🏜
+* **Messa** 🌵
+* **Savane** 🦏
+* **Nether** 🔥
 
 <figure><img src="../../.gitbook/assets/Les_Donjons/ApercuDonjon.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
 
