@@ -5,7 +5,7 @@ description: Retrouvez ici toutes les informations concernant les donjons
 # 🏛️ Les Donjons
 
 {% embed url="https://www.youtube.com/watch?index=3&list=PL1QLnkRl9WVyR0eGUtFoTo8a9MBJHBFwa&v=NtB-gvzz8mE" %}
-**Tuto : Les Nouveautés MMO/RPG d'Evolucraft**
+**Tuto : Les Nouveautés MMO/RPG d'Evolucraft.**
 {% endembed %}
 
 Les donjons sont une nouvelle fonctionnalité sur Evolucraft, offrant des aventures passionnantes aux explorateurs en quête d'action pour monter en niveaux de classe, gagner de nouvelles armes de classe ou encore obtenir de nombreuses autres récompenses !
