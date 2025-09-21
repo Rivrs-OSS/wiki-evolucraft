@@ -49,8 +49,8 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 
 |                                                                                          |
 |:----------------------------------------------------------------------------------------:|
-| <mark style="color:green;"><strong>Classe Aléatoire Commune</strong></mark>              |
-| <mark style="color:green;"><strong>Parchemin Commun</strong></mark>                      |
+| <mark style="color:green;"><strong>Cartes Aléatoire de Classe Commune</strong></mark>    |
+| <mark style="color:green;"><strong>Parchemin Facile</strong></mark>                      |
 | <mark style="color:green;"><strong>10 000 💲</strong></mark>                              |
 | <mark style="color:green;"><strong>15 000 💲</strong></mark>                              |
 | <mark style="color:green;"><strong>25 000 💲</strong></mark>                              |
