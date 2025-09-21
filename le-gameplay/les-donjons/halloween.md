@@ -4,31 +4,41 @@ description: Retrouvez ici les informations concernant le donjon Halloween
 
 # 🟧 Donjon Halloween
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Halloween.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Halloween</strong></p></figcaption></figure>
+## <mark style="color:green;"> Caractéristiques 📋</mark>
 
-## <mark style="color:green;"> Pré-requis </mark>
+👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 4 joueurs**</mark>  
+📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 20**</mark>  
+🕓 Durée du donjon : <mark style="color:green;">**20 minutes**</mark>  
 
-Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 20**</mark> dans votre classe.
+## <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
 
-## <mark style="color:green;">Aperçu des récompenses</mark>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Aperçu du Donjon 📸</strong></mark></td>
+  </tr>
+  <tr>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Halloween.png" alt=""></figure></td>
+  </tr>
+</table>
 
-### <mark style="color:green;">XP obtenable</mark>
-Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
+## <mark style="color:green;"> XP de classe récoltée ⚔</mark>
 
-* Mob normal : 35 xp
-* Mini boss : 1250 xp
-* Boss : 3500 xp
+Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
-### <mark style="color:green;">Récompense en fin de donjon</mark>
+* <mark style="color:green;"><strong>Mob normal 🧟‍♂️</strong></mark> : **35 XP**  
+* <mark style="color:yellow;"><strong>Mini boss 👽</strong></mark> : **1 250 XP**  
+* <mark style="color:red;"><strong>Boss 🐉</strong></mark> : **3 500 XP**
 
-|                                                                                   |
-|:---------------------------------------------------------------------------------:|
-| <mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark>         |
-| <mark style="color:orange;"><strong>Parchemin Halloween</strong></mark>           |
-| <mark style="color:orange;"><strong>50.000 💰</strong></mark>                     |
-| <mark style="color:orange;"><strong>100.000 💰</strong></mark>                    |
-| <mark style="color:orange;"><strong>250.000 💰</strong></mark>                    |
-| <mark style="color:orange;"><strong>Citrouille Scintillante (x2)</strong></mark>  |
-| <mark style="color:blue;"><strong>Bonbon à la Myrtille (x2)</strong></mark>       |
-| <mark style="color:orange;"><strong>Œuf de Familier Halloween</strong></mark>     |
-| <mark style="color:orange;"><strong>Exp Classe (x5.000)</strong></mark>           |
+### <mark style="color:green;">Récompenses 🎁</mark>
+
+|                                                                                     |
+|:-----------------------------------------------------------------------------------:|
+| <mark style="color:orange;"><strong>Cartes Aléatoire de Classe Rare</strong></mark> |
+| <mark style="color:orange;"><strong>Parchemin Halloween</strong></mark>             |
+| <mark style="color:orange;"><strong>50 000 💲</strong></mark>                       |
+| <mark style="color:orange;"><strong>100 000 💲</strong></mark>                      |
+| <mark style="color:orange;"><strong>250 000 💲</strong></mark>                      |
+| <mark style="color:orange;"><strong>2 Citrouilles Scintillantes</strong></mark>     |
+| <mark style="color:orange;"><strong>2 Bonbons à la Myrtille</strong></mark>         |
+| <mark style="color:orange;"><strong>Œuf de Familier Halloween</strong></mark>       |
+| <mark style="color:orange;"><strong>5 000 XP Classe</strong></mark>                 |
