@@ -4,21 +4,32 @@ description: Retrouvez ici les informations concernant le donjon Cupidon
 
 # 🟥 Cupidon
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Cupidon.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Cupidon</strong></p></figcaption></figure>
+## <mark style="color:green;"> Caractéristiques 📋</mark>
 
-## <mark style="color:green;">Pré-requis</mark>
+👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 8 joueurs**</mark>  
+📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 40**</mark>  
+🕓 Durée du donjon : <mark style="color:green;">**15 minutes**</mark>  
 
-Ce donjon est <mark style="color:green;">**limité à 8 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 40**</mark> dans votre classe.
+## <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
 
-## <mark style="color:green;">Aperçu des récompenses</mark>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Aperçu du Donjon 📸</strong></mark></td>
+  </tr>
+  <tr>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Cupidon.png" alt=""></figure></td>
+  </tr>
+</table>
 
-### <mark style="color:green;">XP obtenable</mark>
+## <mark style="color:green;"> XP de classe récoltée ⚔</mark>
 
-* Apprenti, Archer & Chevalier : 50 xp
-* Seraphiel & Uriel : 5 000 xp
-* Cupidon : 10 000 xp
+Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
-### <mark style="color:green;">Récompense en fin de donjon</mark>
+* <mark style="color:green;"><strong>Apprenti, Archer & Chevalier 🧟‍♂️</strong></mark> : **17.5 XP**  
+* <mark style="color:yellow;"><strong>Seraphiel & Uriel 👽</strong></mark> : **450 XP**  
+* <mark style="color:red;"><strong>Cupidon 🐉</strong></mark> : **900 XP**
+
+### <mark style="color:green;">Récompenses 🎁</mark>
 
 |                                                                              | 
 |:----------------------------------------------------------------------------:|
