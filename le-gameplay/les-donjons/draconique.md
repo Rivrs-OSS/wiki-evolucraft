@@ -37,11 +37,11 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 |:-----------------------------------------------------------------------------------------:|
 | <mark style="color:orange;"><strong>2 Cartes Aléatoires de Classe Commune</strong></mark> |
 | <mark style="color:orange;"><strong>Carte Aléatoire de Classe Rare</strong></mark>        |
-| <mark style="color:orange;"><strong>Parchemin Rare</strong></mark>                        |
-| <mark style="color:orange;"><strong>Parchemin Épique</strong></mark>                      |
-| <mark style="color:orange;"><strong>50.000 💲</strong></mark>                              |
-| <mark style="color:orange;"><strong>100.000 💲</strong></mark>                             |
-| <mark style="color:orange;"><strong>150.000 💲</strong></mark>                             |
+| <mark style="color:orange;"><strong>Parchemin Avancé</strong></mark>                        |
+| <mark style="color:orange;"><strong>Parchemin Difficile</strong></mark>                      |
+| <mark style="color:orange;"><strong>50 000 💲</strong></mark>                              |
+| <mark style="color:orange;"><strong>100 000 💲</strong></mark>                             |
+| <mark style="color:orange;"><strong>150 000 💲</strong></mark>                             |
 | <mark style="color:orange;"><strong>4 Cœurs de Dragon </strong></mark>                    |
 | <mark style="color:orange;"><strong>6 Cœurs de Dragon </strong></mark>                    |
 | <mark style="color:orange;"><strong>Bonbon à l'Orange</strong></mark>                     |
