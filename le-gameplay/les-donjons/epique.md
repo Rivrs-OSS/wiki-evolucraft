@@ -27,13 +27,13 @@ description: Retrouvez ici les informations concernant le donjon Épique
   <tr>
     <td><mark style="color:green;"><strong>Aperçu du Donjon 📸</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Foret.png" alt=""></figure></td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Jungle.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Desert.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Neige.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Savane.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Marais.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Messa.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Nether.png" alt=""></figure></td>
   </tr>
 </table>
 
