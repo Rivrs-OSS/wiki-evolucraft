@@ -57,7 +57,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 | <mark style="color:green;"><strong>Cristal de Donjon Commun</strong></mark>              |
 | <mark style="color:green;"><strong>Bonbon à la Pomme</strong></mark>                      |
 | <mark style="color:green;"><strong>Plume de Fly 10min</strong></mark>                     |
-| <mark style="color:purple;"><strong>Plume de Phoenix</strong></mark>                      |
+| <mark style="color:green;"><strong>Plume de Phoenix</strong></mark>                      |
 | <mark style="color:green;"><strong>Arme Commune</strong></mark>                           |
 | <mark style="color:green;"><strong>Lame de la Machette Aztèque (Musée)</strong></mark>   |
 | <mark style="color:green;"><strong>Socle de la Machette Aztèque (Musée)</strong></mark>  |
