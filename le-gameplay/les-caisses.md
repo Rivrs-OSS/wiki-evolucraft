@@ -179,7 +179,7 @@ Dans cette caisse, il n’est pas question de <mark style="color:green;">**clé*
 | <mark style="color:yellow;">**Carte de classe Légendaire**</mark>                                   | **11,1%**                   |
 | <mark style="color:yellow;">**Oeuf de Familier Légendaire**</mark> _(20% d'avoir la version Shiny)_ | **11,1%**                   |
 | <mark style="color:yellow;">**Spawner Aléatoire**</mark>                                            | **11,1%**                   |
-| <mark style="color:yellow;">\*\*Booster Aléatoire de 100% pendant 1H \*\*</mark>                    | **11,2%**                   |
+| <mark style="color:yellow;">**Booster Aléatoire de 100% pendant 1H**</mark>                         | **11,2%**                   |
 
 ## 💠 <mark style="color:green;">Les caisses Mis à Jour ⛄</mark>
 
