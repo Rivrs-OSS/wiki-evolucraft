@@ -8,7 +8,7 @@ L'<mark style="color:green;">**archéologie**</mark> est une mise à jour vous p
 
 ## 💠 Comment trouver des <mark style="color:green;">**œuvres d'art antiques**</mark> ? 🔍
 
-Pour trouver des <mark style="color:green;">**œuvres d'art antiques enfouies**</mark>, deux solutions sont possibles :
+Pour trouver des <mark style="color:green;">**œuvres d'art antiques enfouies**</mark>, il y a deux possibilité suivant l'oeuvre d'art rechercher :
 
 ### 🔷 Les <mark style="color:green;">**blocs suspects**</mark> ⁉
 

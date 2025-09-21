@@ -4,37 +4,52 @@ description: Retrouvez ici les informations concernant le donjon Légendaire
 
 # 🟪 Donjon Légendaire
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Legendaire.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Légendaire</strong></p></figcaption></figure>
+## <mark style="color:green;"> Caractéristiques 📋</mark>
 
-## <mark style="color:green;"> Pré-requis </mark>
+👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 4 joueurs**</mark>  
+📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 40**</mark>  
+🕓 Durée du donjon : <mark style="color:green;">**30 minutes**</mark>  
 
-Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 40**</mark> dans votre classe.
+## <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
 
-## <mark style="color:green;">Aperçu des récompenses</mark>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Aperçu du Donjon 📸</strong></mark></td>
+  </tr>
+  <tr>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Legendaire.png" alt=""></figure></td>
+  </tr>
+</table>
 
-### <mark style="color:green;">XP obtenable</mark>
-Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
+## <mark style="color:green;"> XP de classe récoltée ⚔</mark>
 
-* Mob normal : 50 xp
-* Sl'Endermen : 500 xp
-* Mini boss : 5000 xp
-* Boss : 10000 xp
+Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
-### <mark style="color:green;">Récompense en fin de donjon</mark>
+* <mark style="color:green;"><strong>Mob normal 🧟‍♂️</strong></mark> : **50 XP**
+* <mark style="color:green;"><strong>Sl'Endermen 🧟‍♂️</strong></mark> : **500 XP**  
+* <mark style="color:yellow;"><strong>Mini boss 👽</strong></mark> : **5 000 XP**  
+* <mark style="color:red;"><strong>Boss 🐉</strong></mark> : **10 000 XP**
 
-|                                                                                   |
-|:---------------------------------------------------------------------------------:|
-| <mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark>         |
-| <mark style="color:blue;"><strong>Classe Aléatoire Épique</strong></mark>         |
-| <mark style="color:blue;"><strong>Parchemin Difficile</strong></mark>             |
-| <mark style="color:purple;"><strong>Parchemin Expert</strong></mark>              |
-| <mark style="color:purple;"><strong>150.000 💰</strong></mark>                    |
-| <mark style="color:purple;"><strong>300.000 💰</strong></mark>                    |
-| <mark style="color:purple;"><strong>750.000 💰</strong></mark>                    |
-| <mark style="color:purple;"><strong>Cristaux de donjon légendaire</strong></mark> |
-| <mark style="color:blue;"><strong>Bonbon à la Myrtille (x2)</strong></mark>     |
-| <mark style="color:purple;"><strong>Bonbon au Raisin (x2)</strong></mark>            |
-| <mark style="color:purple;"><strong>Plume de Phoenix</strong></mark>              |
-| <mark style="color:purple;"><strong>Item Évolutif Aléatoire</strong></mark>       |
-| <mark style="color:purple;"><strong>Pet Aléatoire Donjon</strong></mark>          |
-| <mark style="color:purple;"><strong>Clé Aléatoire</strong></mark>                 |
+### <mark style="color:green;">Récompenses 🎁</mark>
+
+|                                                                                       |
+|:-------------------------------------------------------------------------------------:|
+| <mark style="color:purple;"><strong>Cartes Aléatoire de Classe Rare</strong></mark>   |
+| <mark style="color:purple;"><strong>Cartes Aléatoire de Classe Épique</strong></mark> |
+| <mark style="color:purple;"><strong>Parchemin Difficile</strong></mark>               |
+| <mark style="color:purple;"><strong>Parchemin Expert</strong></mark>                  |
+| <mark style="color:purple;"><strong>150 000 💲</strong></mark>                         |
+| <mark style="color:purple;"><strong>300 000 💲</strong></mark>                         |
+| <mark style="color:purple;"><strong>750 000 💲</strong></mark>                         |
+| <mark style="color:purple;"><strong>Cristal de donjon légendaire</strong></mark>      |
+| <mark style="color:purple;"><strong>2 Bonbons à la Myrtille (x2)</strong></mark>      |
+| <mark style="color:purple;"><strong>2 Bonbons au Raisin (x2)</strong></mark>          |
+| <mark style="color:purple;"><strong>Plume de Phoenix</strong></mark>                  |
+| <mark style="color:purple;"><strong>Item Évolutif Aléatoire</strong></mark>           |
+| <mark style="color:purple;"><strong>Pet Donjon (Uniquement Boss)</strong></mark>      |
+| <mark style="color:purple;"><strong>Clé Aléatoire</strong></mark>                     |
+| <mark style="color:purple;"><strong>Jambe Gauche d'Atlas (Musée)</strong></mark>      |
+| <mark style="color:purple;"><strong>Bras Gauche d'Atlas (Musée)</strong></mark>       |
+| <mark style="color:purple;"><strong>Pierre du Bas d'Atlas (Musée)</strong></mark>     |
+| <mark style="color:purple;"><strong>Pierre du Haut d'Atlas (Musée)</strong></mark>    |
+

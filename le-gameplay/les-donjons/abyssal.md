@@ -4,34 +4,43 @@ description: Retrouvez ici les informations concernant le donjon Abyssal
 
 # 🟦 Donjon Abyssal
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Abyssal.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Abyssal</strong></p></figcaption></figure>
+## <mark style="color:green;"> Caractéristiques 📋</mark>
 
-## <mark style="color:green;"> Pré-requis </mark>
+👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 4 joueurs**</mark>  
+📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 10**</mark>  
+🕓 Durée du donjon : <mark style="color:green;">**20 minutes**</mark>  
 
-Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 10**</mark> dans votre classe.
+## <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
 
-## <mark style="color:green;">Aperçu des récompenses</mark>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Aperçu du Donjon 📸</strong></mark></td>
+  </tr>
+  <tr>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Abyssal.png" alt=""></figure></td>
+  </tr>
+</table>
 
-### <mark style="color:green;">XP obtenable</mark>
-Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
+## <mark style="color:green;"> XP de classe récoltée ⚔</mark>
 
-* Mob normal : 17.5 xp
-* Nautilox : 450 xp
-* Merlock : 900 xp
+Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
-### <mark style="color:green;">Récompense en fin de donjon</mark>
+* <mark style="color:green;"><strong>Mob normal 🧟‍♂️</strong></mark> : **17.5 XP**  
+* <mark style="color:yellow;"><strong>Nautilux 👽</strong></mark> : **450 XP**  
+* <mark style="color:red;"><strong>Merlock 🐉</strong></mark> : **900 XP**
 
-|                                                                                     |
-|:-----------------------------------------------------------------------------------:|
-| <mark style="color:green;"><strong>Classe Aléatoire Commune (x2)</strong></mark>    |
-| <mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark>           |
-|<mark style="color:blue;"><strong>Parchemin Abyssal</strong></mark>                    |
-| <mark style="color:orange;"><strong>Parchemin Rare</strong></mark>                  |
-| <mark style="color:blue;"><strong>Parchemin Épique</strong></mark>                  |
-| <mark style="color:blue;"><strong>75.000 💰</strong></mark>                         |
-| <mark style="color:blue;"><strong>125.000 💰</strong></mark>                        |
-| <mark style="color:blue;"><strong>175.000 💰</strong></mark>                        |
-| <mark style="color:blue;"><strong>Pince de Crabe Abyssale (x2)</strong></mark>      |
-| <mark style="color:orange;"><strong>Bonbon à l'Orange (x2)</strong></mark>          |
-| <mark style="color:blue;"><strong>Pet Boss Abyssal</strong></mark>                  |
-| <mark style="color:blue;"><strong>Exp Classe (x5.000)</strong></mark>               |
+### <mark style="color:green;">Récompenses 🎁</mark>
+
+|                                                                                        |
+|:--------------------------------------------------------------------------------------:|
+| <mark style="color:blue;"><strong>2 Cartes de Classe Aléatoire Commune</strong></mark> |
+| <mark style="color:blue;"><strong>Cartes de Classe Aléatoire Rare</strong></mark>      |
+| <mark style="color:blue;"><strong>Parchemin Abyssal</strong></mark>                    |
+| <mark style="color:blue;"><strong>75.000 💲</strong></mark>                             |
+| <mark style="color:blue;"><strong>125.000 💲</strong></mark>                            |
+| <mark style="color:blue;"><strong>175.000 💲</strong></mark>                            |
+| <mark style="color:blue;"><strong>2 Pinces de Crabe Abyssale</strong></mark>      |
+| <mark style="color:blue;"><strong>2 Bonbons à l'Orange</strong></mark>                 |
+| <mark style="color:blue;"><strong>Œuf de familier Abyssal</strong></mark>              |
+| <mark style="color:blue;"><strong>5 000 XP Classe</strong></mark>                      |
+| <mark style="color:blue;"><strong>Pet Merlock (Uniquement sur le boss)</strong></mark> |

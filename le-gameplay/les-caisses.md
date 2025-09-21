@@ -51,10 +51,10 @@ La <mark style="color:green;">clé</mark> de la Caisse Vote s'obtient en <mark s
 | <mark style="color:green;">**2 Fragments de Netherite**</mark>                                                                                                                      | **4,21%**                   |
 | <mark style="color:green;">**Carapace de Shulker**</mark>                                                                                                                           | **4,21%**                   |
 | <mark style="color:green;">**Chapeau de Tyro**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/cosmetics`**</mark> _(Obtenable qu'une seule fois)_ | **4,21%**                   |
-| <mark style="color:purple;">**Clé Cosmétique**</mark>                                                                                                                               | **1%**                      |
+| <mark style="color:green;">**Clé Cosmétique**</mark>                                                                                                                               | **1%**                      |
 | <mark style="color:green;">**Clé Émeraude**</mark>                                                                                                                                  | **1%**                      |
 | [<mark style="color:green;"><mark style="color:blue;">**24H de Premium 👑**<mark style="color:blue;"></mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium) | **1%**                      |
-| <mark style="color:red;">**Rat de Billy**</mark> _(20% d'avoir la version Shiny)_                                                                                                   | **0,05%**                   |
+| <mark style="color:green;">**Rat de Billy**</mark> _(20% d'avoir la version Shiny)_                                                                                                   | **0,05%**                   |
 
 ### 🔸 <mark style="color:purple;">Caisse Cosmétique 🎩</mark>
 
@@ -105,24 +105,24 @@ La <mark style="color:green;">clé</mark> de la Caisse Émeraude s'obtient en l'
 
 | <mark style="color:green;">**Récompense**</mark>                                                 | **Pourcentage d'obtention**                  |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| <mark style="color:green;">**Épée en Émeraude**</mark> _(20% d'avoir la version Shiny)_          | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Pioche en Émeraude**</mark> _(20% d'avoir la version Shiny)_        | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Hache en Émeraude**</mark> _(20% d'avoir la version Shiny)_         | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Houe en Émeraude**</mark> _(20% d'avoir la version Shiny)_          | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Canne à Pêche en Émeraude**</mark> _(20% d'avoir la version Shiny)_ | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Pelle en Émeraude**</mark> _(20% d'avoir la version Shiny)_         | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Sceptre en Émeraude**</mark>                                        | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Oeuf de Familier**</mark> _(20% d'avoir la version Shiny)_          | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**300.000💰**</mark>                                                  | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Spawner Aléatoire**</mark>                                          | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Booster Aléatoire de 25% pendant 1H**</mark>                        | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:green;">**Carte de Classe Aléatoire**</mark>                                  | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:green;">**Pierre de Téléportation**</mark>                                    | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:green;">**3 Parchemin d'Aventure Difficile**</mark>                           | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:green;">**3 Bonbons à la Myrtille**</mark>                                    | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:green;">**2 Clés Émeraude**</mark>                                            | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:red;">**Clé Rubis**</mark>                                                    | <mark style="color:red;">**5,55%**</mark>    |
-| <mark style="color:yellow;">**Totem d'Immortalité**</mark>                                       | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:green;">**Épée en Émeraude**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**  |
+| <mark style="color:green;">**Pioche en Émeraude**</mark> _(20% d'avoir la version Shiny)_        | **5,55%**  |
+| <mark style="color:green;">**Hache en Émeraude**</mark> _(20% d'avoir la version Shiny)_         | **5,55%**  |
+| <mark style="color:green;">**Houe en Émeraude**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**  |
+| <mark style="color:green;">**Canne à Pêche en Émeraude**</mark> _(20% d'avoir la version Shiny)_ | **5,55%**  |
+| <mark style="color:green;">**Pelle en Émeraude**</mark> _(20% d'avoir la version Shiny)_         | **5,55%**  |
+| <mark style="color:green;">**Sceptre en Émeraude**</mark>                                        | **5,55%**  |
+| <mark style="color:green;">**Oeuf de Familier**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**  |
+| <mark style="color:green;">**300.000💰**</mark>                                                  | **5,55%**  |
+| <mark style="color:green;">**Spawner Aléatoire**</mark>                                          | **5,55%**  |
+| <mark style="color:green;">**Booster Aléatoire de 25% pendant 1H**</mark>                        | **5,55%**  |
+| <mark style="color:green;">**Carte de Classe Aléatoire**</mark>                                  | **5,55%**  |
+| <mark style="color:green;">**Pierre de Téléportation**</mark>                                    | **5,55%**  |
+| <mark style="color:green;">**3 Parchemin d'Aventure Difficile**</mark>                           | **5,55%**  |
+| <mark style="color:green;">**3 Bonbons à la Myrtille**</mark>                                    | **5,55%**  |
+| <mark style="color:green;">**2 Clés Émeraude**</mark>                                            | **5,55%**  |
+| <mark style="color:green;">**Clé Rubis**</mark>                                                    | **5,55%**  |
+| <mark style="color:green;">**Totem d'Immortalité**</mark>                                       | **5,55%**  |
 
 ### 🔸 <mark style="color:red;">Caisse Rubis 🔻</mark>
 
@@ -179,7 +179,7 @@ Dans cette caisse, il n’est pas question de <mark style="color:green;">**clé*
 | <mark style="color:yellow;">**Carte de classe Légendaire**</mark>                                   | **11,1%**                   |
 | <mark style="color:yellow;">**Oeuf de Familier Légendaire**</mark> _(20% d'avoir la version Shiny)_ | **11,1%**                   |
 | <mark style="color:yellow;">**Spawner Aléatoire**</mark>                                            | **11,1%**                   |
-| <mark style="color:yellow;">\*\*Booster Aléatoire de 100% pendant 1H \*\*</mark>                    | **11,2%**                   |
+| <mark style="color:yellow;">**Booster Aléatoire de 100% pendant 1H**</mark>                         | **11,2%**                   |
 
 ## 💠 <mark style="color:green;">Les caisses Mis à Jour ⛄</mark>
 
