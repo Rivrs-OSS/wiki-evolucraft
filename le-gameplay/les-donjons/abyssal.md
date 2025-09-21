@@ -39,7 +39,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 | <mark style="color:blue;"><strong>75.000 💲</strong></mark>                             |
 | <mark style="color:blue;"><strong>125.000 💲</strong></mark>                            |
 | <mark style="color:blue;"><strong>175.000 💲</strong></mark>                            |
-| <mark style="color:blue;"><strong>2 Pinces de Crabe Abyssale (x2)</strong></mark>      |
+| <mark style="color:blue;"><strong>2 Pinces de Crabe Abyssale</strong></mark>      |
 | <mark style="color:blue;"><strong>2 Bonbons à l'Orange</strong></mark>                 |
 | <mark style="color:blue;"><strong>Œuf de familier Abyssal</strong></mark>              |
 | <mark style="color:blue;"><strong>5 000 XP Classe</strong></mark>                      |
