@@ -55,8 +55,8 @@ Pour rendre votre expérience variée, plusieurs types de biomes de donjons sont
 * **Forêt** 🌳
 * **Jungle** 🦜
 * **Marais** 🐸
-* **Neige** ❄
-* **Désert** 🏜
+* **Neige** ❄️
+* **Désert** 🏜️
 * **Messa** 🌵
 * **Savane** 🦏
 * **Nether** 🔥
