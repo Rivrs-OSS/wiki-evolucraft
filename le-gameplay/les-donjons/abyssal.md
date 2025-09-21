@@ -29,7 +29,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 * <mark style="color:yellow;"><strong>Nautilux 👽</strong></mark> : **450 XP**  
 * <mark style="color:red;"><strong>Merlock 🐉</strong></mark> : **900 XP**
 
-### 💠 <mark style="color:green;">Récompenses 🎁</mark>
+## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
 |                                                                                        |
 |:--------------------------------------------------------------------------------------:|
