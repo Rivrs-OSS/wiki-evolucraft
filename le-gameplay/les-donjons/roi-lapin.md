@@ -33,9 +33,9 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 |                                                                                   |
 |:---------------------------------------------------------------------------------:|
 | <mark style="color:yellow;"><strong>Parchemin du Terrier Roi Lapin</strong></mark> |
-| <mark style="color:yellow;"><strong>10.000 💲</strong></mark>                      |
-| <mark style="color:yellow;"><strong>15.000 💲</strong></mark>                      |
-| <mark style="color:yellow;"><strong>25.000 💲</strong></mark>                      |
+| <mark style="color:yellow;"><strong>10 000 💲</strong></mark>                      |
+| <mark style="color:yellow;"><strong>15 000 💲</strong></mark>                      |
+| <mark style="color:yellow;"><strong>25 000 💲</strong></mark>                      |
 | <mark style="color:yellow;"><strong>Tablette de chocolat</strong></mark>   |
 | <mark style="color:green;"><strong>Bonbon à la pomme</strong></mark>         |
 | <mark style="color:yellow;"><strong>Œuf de familier de Pâques</strong></mark>      |
