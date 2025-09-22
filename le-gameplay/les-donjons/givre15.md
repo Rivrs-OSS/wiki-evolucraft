@@ -4,13 +4,13 @@ description: Retrouvez ici les informations concernant le donjon Givré Commun
 
 # 🟦 Donjon Givré Commun
 
-## <mark style="color:green;"> Caractéristiques 📋</mark>
+## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
 👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 ou 2 joueurs**</mark>  
 📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 15**</mark>  
 🕓 Durée du donjon : <mark style="color:green;">**5 minutes**</mark>  
 
-## <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
+## 💠 <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -21,7 +21,7 @@ description: Retrouvez ici les informations concernant le donjon Givré Commun
   </tr>
 </table>
 
-## <mark style="color:green;"> XP de classe récoltée ⚔</mark>
+## 💠 <mark style="color:green;"> XP de classe récoltée ⚔️</mark>
 
 Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
@@ -29,7 +29,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 * <mark style="color:yellow;"><strong>Golem 👽</strong></mark> : **450 XP**  
 * <mark style="color:red;"><strong>Reine 🐉</strong></mark> : **900 XP**
 
-### <mark style="color:green;">Récompenses 🎁</mark>
+## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
 |                                                                           |
 |:-------------------------------------------------------------------------:|
