@@ -4,13 +4,13 @@ description: Retrouvez ici les informations concernant le donjon Légendaire
 
 # 🟪 Donjon Légendaire
 
-## <mark style="color:green;"> Caractéristiques 📋</mark>
+## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
 👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 4 joueurs**</mark>  
 📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 40**</mark>  
 🕓 Durée du donjon : <mark style="color:green;">**30 minutes**</mark>  
 
-## <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
+## 💠 <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -21,7 +21,7 @@ description: Retrouvez ici les informations concernant le donjon Légendaire
   </tr>
 </table>
 
-## <mark style="color:green;"> XP de classe récoltée ⚔</mark>
+## 💠 <mark style="color:green;"> XP de classe récoltée ⚔</mark>
 
 Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
@@ -30,7 +30,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 * <mark style="color:yellow;"><strong>Mini boss 👽</strong></mark> : **5 000 XP**  
 * <mark style="color:red;"><strong>Boss 🐉</strong></mark> : **10 000 XP**
 
-### <mark style="color:green;">Récompenses 🎁</mark>
+## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
 |                                                                                       |
 |:-------------------------------------------------------------------------------------:|
