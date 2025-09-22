@@ -14,11 +14,11 @@ description: Retrouvez ici les informations concernant le donjon Épique
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Biome du portail 🏛</strong></mark></td>
+    <td><mark style="color:green;"><strong>Biome du portail 🏛️</strong></mark></td>
     <td><mark style="color:white;"><strong>Forêt 🌳</strong></mark></td>
     <td><mark style="color:white;"><strong>Jungle 🦜</strong></mark></td>
-    <td><mark style="color:white;"><strong>Désert 🏜</strong></mark></td>
-    <td><mark style="color:white;"><strong>Neige ❄</strong></mark></td>
+    <td><mark style="color:white;"><strong>Désert 🏜️</strong></mark></td>
+    <td><mark style="color:white;"><strong>Neige ❄️</strong></mark></td>
     <td><mark style="color:white;"><strong>Savane 🦏</strong></mark></td>
     <td><mark style="color:white;"><strong>Marais 🐸</strong></mark></td>
     <td><mark style="color:white;"><strong>Messa 🌵</strong></mark></td>
@@ -27,17 +27,17 @@ description: Retrouvez ici les informations concernant le donjon Épique
   <tr>
     <td><mark style="color:green;"><strong>Aperçu du Donjon 📸</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Foret.png" alt=""></figure></td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
-    <td>Arrive Bientôt</td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Jungle.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Desert.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Neige.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Savane.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Marais.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Messa.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Epique/Nether.png" alt=""></figure></td>
   </tr>
 </table>
 
-## <mark style="color:green;"> XP de classe récoltée ⚔</mark>
+## <mark style="color:green;"> XP de classe récoltée ⚔️</mark>
 
 Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
@@ -45,7 +45,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 * <mark style="color:yellow;"><strong>Mini-boss 👽</strong></mark> : **1 500 XP**  
 * <mark style="color:red;"><strong>Boss 🐉</strong></mark> : **4 000 XP**
 
-### <mark style="color:green;">Récompenses 🎁</mark>
+## <mark style="color:green;">Récompenses 🎁</mark>
 
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
