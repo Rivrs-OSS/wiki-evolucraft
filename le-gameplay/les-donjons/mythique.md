@@ -4,17 +4,13 @@ description: Retrouvez ici les informations concernant le donjon Mythique
 
 # 🟥 Donjon Mythique
 
-## <mark style="color:green;"> Pré-requis </mark>
-
-Ce donjon est <mark style="color:green;">**limité à 10 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 50**</mark> dans votre classe.
-
-## <mark style="color:green;"> Caractéristiques 📋</mark>
+## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
 👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 10 joueurs**</mark>  
 📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 50**</mark>  
 🕓 Durée du donjon : <mark style="color:green;">**60 minutes**</mark>  
 
-## <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
+## 💠 <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -25,7 +21,7 @@ Ce donjon est <mark style="color:green;">**limité à 10 personnes**</mark>. Pou
   </tr>
 </table>
 
-## <mark style="color:green;"> XP de classe récoltée ⚔</mark>
+## 💠 <mark style="color:green;"> XP de classe récoltée ⚔</mark>
 
 Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
@@ -33,7 +29,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 * <mark style="color:yellow;"><strong>Mini-Boss 👽</strong></mark> : **10 000 XP**  
 * <mark style="color:red;"><strong>Boss 🐉</strong></mark> : **20 000 XP**
 
-### <mark style="color:green;">Récompenses 🎁</mark>
+## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
 |                                                                                       |
 |:-------------------------------------------------------------------------------------:|
