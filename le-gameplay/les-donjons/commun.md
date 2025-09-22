@@ -37,7 +37,7 @@ description: Retrouvez ici les informations concernant le donjon commun
   </tr>
 </table>
 
-## 💠 <mark style="color:green;"> XP de classe récoltée ⚔</mark>
+## 💠 <mark style="color:green;"> XP de classe récoltée ⚔️</mark>
 
 Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
