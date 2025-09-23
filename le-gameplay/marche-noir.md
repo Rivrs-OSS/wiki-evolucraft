@@ -19,10 +19,10 @@ Mais quels sont les items disponibles...
 Ces items sont achetables avec des **Cœurs de Dragon**, obtenables dans les récompenses du [Donjon Draconique](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique).
 
 | **Items disponibles**                                                                | **Prix**                  |
-| ----------------------------------------------------------------------------------- | ------------------------- |
+| ------------------------------------------------------------------------------------ | ------------------------- |
 | <mark style="color:orange;">**Ailes de Dragon**</mark> *(Cosmétique)*                | **50 Cœurs de Dragon**    |
 | <mark style="color:orange;">**Tête de Dragon**</mark> *(Cosmétique)*                 | **50 Cœurs de Dragon**    |
-| <mark style="color:orange;">**Tag Draconique**</mark>                                | **?? Cœurs de Dragon**    |
+| <mark style="color:orange;">**Tag Draconique**</mark>                                | **100 Cœurs de Dragon**   |
 | <mark style="color:orange;">**Casque du Dragonnier**</mark>                          | **150 Cœurs de Dragon**   |
 | <mark style="color:orange;">**Plastron du Dragonnier**</mark>                        | **150 Cœurs de Dragon**   |
 | <mark style="color:orange;">**Pantalon du Dragonnier**</mark>                        | **150 Cœurs de Dragon**   |
