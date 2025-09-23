@@ -12,7 +12,7 @@ Afin d’apporter un aspect aléatoire et dynamique à votre aventure, Evolucraf
 
 Il existe deux types de caisse :
 
-## 💠 <mark style="color:green;">Les boxs permanentes 🌞</mark>
+## 💠 <mark style="color:green;">Les caisses permanentes 🌞</mark>
 
 Ces boxs sont présentes et resteront <mark style="color:green;">accessibles</mark> sur le serveur pendant toute la version. Ces dernières vous permettent de gagner des <mark style="color:green;">items</mark> améliorant votre <mark style="color:green;">gameplay</mark> comme des <mark style="color:green;">outils</mark>, des <mark style="color:green;">pets</mark>, des <mark style="color:green;">boosters</mark> et autres items très intéressants que nous vous laisserons découvrir...
 
@@ -181,7 +181,7 @@ Dans cette caisse, il n’est pas question de <mark style="color:green;">**clé*
 | <mark style="color:yellow;">**Spawner Aléatoire**</mark>                                            | **11,1%**                   |
 | <mark style="color:yellow;">**Booster Aléatoire de 100% pendant 1H**</mark>                         | **11,2%**                   |
 
-## 💠 <mark style="color:green;">Les caisses Mis à Jour ⛄</mark>
+## 💠 <mark style="color:green;">Les caisses événementielle ⛄</mark>
 
 Ces <mark style="color:green;">caisses spéciales</mark> apparaissent généralement à la suite de <mark style="color:green;">mises à jour</mark> ou lors d’<mark style="color:green;">événements particuliers</mark>. Elles renferment des <mark style="color:green;">objets</mark> qui peuvent considérablement <mark style="color:green;">enrichir votre gameplay</mark>, en apportant de <mark style="color:green;">nouvelles possibilités</mark> ou en renforçant vos <mark style="color:green;">acquis</mark>. Toutefois, ces <mark style="color:green;">items</mark> restent assez <mark style="color:green;">rares</mark> pour s'en procurer !
 
