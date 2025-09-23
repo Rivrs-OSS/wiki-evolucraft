@@ -202,7 +202,6 @@ Ils ne sont alors disponibles **qu’à l’hôtel de vente**, par les joueurs a
 
 <figure><img src="../.gitbook/assets/Marche-Noir/summer2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Summer</mark></strong></figcaption></figure>
 
-
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
 ### 🔸 <mark style="color:blue;">Clé Givrée ❄️</mark>
