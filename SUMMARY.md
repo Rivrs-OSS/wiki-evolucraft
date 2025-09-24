@@ -95,6 +95,6 @@
 
 ## 🔍 LE CODEX
 
-* [❔ Les Commandes](Codex/commandes.md)
-* [🐾 Les spawners](Codex/spawner.md)
+* [❔ Les Commandes](codex/commandes.md)
+* [🐾 Les spawners](codex/spawner.md)
 
