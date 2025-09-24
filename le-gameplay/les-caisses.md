@@ -12,7 +12,7 @@ Afin d’apporter un aspect aléatoire et dynamique à votre aventure, Evolucraf
 
 Il existe deux types de caisse :
 
-## 💠 <mark style="color:green;">Les boxs permanentes 🌞</mark>
+## 💠 <mark style="color:green;">Les caisses permanentes 🌞</mark>
 
 Ces boxs sont présentes et resteront <mark style="color:green;">accessibles</mark> sur le serveur pendant toute la version. Ces dernières vous permettent de gagner des <mark style="color:green;">items</mark> améliorant votre <mark style="color:green;">gameplay</mark> comme des <mark style="color:green;">outils</mark>, des <mark style="color:green;">pets</mark>, des <mark style="color:green;">boosters</mark> et autres items très intéressants que nous vous laisserons découvrir...
 
@@ -26,7 +26,7 @@ La <mark style="color:green;">clé</mark> de la Caisse Vote s'obtient en <mark s
 
 <figure><img src="../.gitbook/assets/Les_Caisses/Vote.png" alt=""><figcaption></figcaption></figure>
 
-| <mark style="color:green;">**Récompense**</mark>                                                                                                                                    | **Pourcentage d'obtention** |
+| **Récompense**                                                                                                                                                                      | **Pourcentage d'obtention** |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | <mark style="color:green;">**Épée de l'Aventurier**</mark>                                                                                                                          | **4,22%**                   |
 | <mark style="color:green;">**Pioche de l'Aventurier**</mark>                                                                                                                        | **4,22%**                   |
@@ -51,10 +51,10 @@ La <mark style="color:green;">clé</mark> de la Caisse Vote s'obtient en <mark s
 | <mark style="color:green;">**2 Fragments de Netherite**</mark>                                                                                                                      | **4,21%**                   |
 | <mark style="color:green;">**Carapace de Shulker**</mark>                                                                                                                           | **4,21%**                   |
 | <mark style="color:green;">**Chapeau de Tyro**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/cosmetics`**</mark> _(Obtenable qu'une seule fois)_ | **4,21%**                   |
-| <mark style="color:green;">**Clé Cosmétique**</mark>                                                                                                                               | **1%**                      |
+| <mark style="color:green;">**Clé Cosmétique**</mark>                                                                                                                                | **1%**                      |
 | <mark style="color:green;">**Clé Émeraude**</mark>                                                                                                                                  | **1%**                      |
 | [<mark style="color:green;"><mark style="color:blue;">**24H de Premium 👑**<mark style="color:blue;"></mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium) | **1%**                      |
-| <mark style="color:green;">**Rat de Billy**</mark> _(20% d'avoir la version Shiny)_                                                                                                   | **0,05%**                   |
+| <mark style="color:green;">**Rat de Billy**</mark> _(20% d'avoir la version Shiny)_                                                                                                  | **0,05%**                   |
 
 ### 🔸 <mark style="color:purple;">Caisse Cosmétique 🎩</mark>
 
@@ -66,7 +66,7 @@ La <mark style="color:green;">clé</mark> de la Caisse Cosmétique s'obtient en 
 
 <figure><img src="../.gitbook/assets/Les_Caisses/Cosmetique.png" alt=""><figcaption></figcaption></figure>
 
-| <mark style="color:green;">**Récompense**</mark>               | **Pourcentage d'obtention** |
+| **Récompense**                                                 | **Pourcentage d'obtention** |
 | -------------------------------------------------------------- | --------------------------- |
 | <mark style="color:purple;">**Chapeau pastèque**</mark>        | **5,55%**                   |
 | <mark style="color:purple;">**Sac de pièce**</mark>            | **5,55%**                   |
@@ -103,8 +103,8 @@ La <mark style="color:green;">clé</mark> de la Caisse Émeraude s'obtient en l'
 
 <figure><img src="../.gitbook/assets/Les_Caisses/Emeraude.png" alt=""><figcaption></figcaption></figure>
 
-| <mark style="color:green;">**Récompense**</mark>                                                 | **Pourcentage d'obtention**                  |
-| ------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| **Récompense**                                                                                   | **Pourcentage d'obtention** |
+| ------------------------------------------------------------------------------------------------ | --------------------------- |
 | <mark style="color:green;">**Épée en Émeraude**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**  |
 | <mark style="color:green;">**Pioche en Émeraude**</mark> _(20% d'avoir la version Shiny)_        | **5,55%**  |
 | <mark style="color:green;">**Hache en Émeraude**</mark> _(20% d'avoir la version Shiny)_         | **5,55%**  |
@@ -121,8 +121,8 @@ La <mark style="color:green;">clé</mark> de la Caisse Émeraude s'obtient en l'
 | <mark style="color:green;">**3 Parchemin d'Aventure Difficile**</mark>                           | **5,55%**  |
 | <mark style="color:green;">**3 Bonbons à la Myrtille**</mark>                                    | **5,55%**  |
 | <mark style="color:green;">**2 Clés Émeraude**</mark>                                            | **5,55%**  |
-| <mark style="color:green;">**Clé Rubis**</mark>                                                    | **5,55%**  |
-| <mark style="color:green;">**Totem d'Immortalité**</mark>                                       | **5,55%**  |
+| <mark style="color:green;">**Clé Rubis**</mark>                                                  | **5,55%**  |
+| <mark style="color:green;">**Totem d'Immortalité**</mark>                                        | **5,55%**  |
 
 ### 🔸 <mark style="color:red;">Caisse Rubis 🔻</mark>
 
@@ -181,7 +181,7 @@ Dans cette caisse, il n’est pas question de <mark style="color:green;">**clé*
 | <mark style="color:yellow;">**Spawner Aléatoire**</mark>                                            | **11,1%**                   |
 | <mark style="color:yellow;">**Booster Aléatoire de 100% pendant 1H**</mark>                         | **11,2%**                   |
 
-## 💠 <mark style="color:green;">Les caisses Mis à Jour ⛄</mark>
+## 💠 <mark style="color:green;">Les caisses événementielle ⛄</mark>
 
 Ces <mark style="color:green;">caisses spéciales</mark> apparaissent généralement à la suite de <mark style="color:green;">mises à jour</mark> ou lors d’<mark style="color:green;">événements particuliers</mark>. Elles renferment des <mark style="color:green;">objets</mark> qui peuvent considérablement <mark style="color:green;">enrichir votre gameplay</mark>, en apportant de <mark style="color:green;">nouvelles possibilités</mark> ou en renforçant vos <mark style="color:green;">acquis</mark>. Toutefois, ces <mark style="color:green;">items</mark> restent assez <mark style="color:green;">rares</mark> pour s'en procurer !
 
@@ -321,7 +321,7 @@ La clé de la Caisse Halloween s'obtient grâce à <mark style="color:green;">la
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
+La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-givrée).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -352,7 +352,7 @@ La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
+La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-cupidon).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -383,7 +383,7 @@ La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
+La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-léprechaun).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -414,7 +414,7 @@ La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
+La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-pâques).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -445,7 +445,7 @@ La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark>.
+La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">12,5%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-summer).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -476,7 +476,7 @@ La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la cl
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient par <mark style="color:green;">**l'achat d'une Clé Antique**</mark> au <mark style="color:green;">**`/boutique`**</mark> au prix de <mark style="color:blue;">**850 Gemmes 💎**</mark> ou par le <mark style="color:green;">**Marché Noir**</mark> en échange de <mark style="color:green;">**16 fragments de Clé Antique**</mark>.
+La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient par <mark style="color:green;">**l'achat d'une Clé Antique**</mark> au <mark style="color:green;">**`/boutique`**</mark> au prix de <mark style="color:blue;">**850 Gemmes 💎**</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-antique).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
