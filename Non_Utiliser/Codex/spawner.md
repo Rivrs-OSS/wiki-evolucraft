@@ -5,13 +5,16 @@ description: Retrouvez ici toutes la liste de tout les spawners du serveur.
 # 🐾 Les spawners
 
 ## 💠 Quelques informations... ? 📃
-Les **spawners** sont des blocs spéciaux permettant de faire apparaître régulièrement un **mob défini** par le spawner. Ils sont particulièrement utiles pour la création de **farm automatiques**, afin de récolter des ressources, **gagner de l'XP** ou encore **monter votre métier de Chasseur**.
+Les <mark style="color:green;">**spawners**</mark> sont des blocs spéciaux permettant de faire apparaître régulièrement un <mark style="color:green;">**mob défini**</mark> par le spawner.  
+Ils sont particulièrement utiles pour la création de <mark style="color:green;">**farm automatiques**</mark>, afin de récolter des ressources, <mark style="color:green;">**gagner de l'XP**</mark> ou encore <mark style="color:green;">**monter votre métier de Chasseur**</mark>.  
 
-Ces blocs peuvent être placés **n’importe où** (dans les zones où vous en avez l’autorisation). Cependant, ils ne sont **récupérables** qu’à l’intérieur de votre propre ville, ou d’une ville où vous disposez des droits nécessaires, et uniquement à l’aide d’une **pioche enchantée Toucher de Soie**. Également, vous ne pouvez placer que 16 spawners par chunk.
+Ces blocs peuvent être placés <mark style="color:green;">**n’importe où**</mark> (dans les zones où vous en avez l’autorisation).  
+Cependant, ils ne sont <mark style="color:green;">**récupérables**</mark> qu’à l’intérieur de votre <mark style="color:green;">**propre ville**</mark>, ou d’une ville où vous disposez des droits nécessaires, et uniquement à l’aide d’une <mark style="color:green;">**pioche enchantée Toucher de Soie**</mark>.  
+Également, vous ne pouvez placer que <mark style="color:green;">**16 spawners par chunk**</mark>.  
 
-Il existe **deux types de spawners** sur le serveur :  
-* **Spawner PASSIF** 🐔 : Nécessite des **blocs d’herbe** et de la **lumière** pour que les mobs puissent apparaître.  
-* **Spawner AGRESSIF** 🐍 : Nécessite l’absence **totale de lumière** pour que les mobs puissent apparaître.
+Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le serveur :  
+* <mark style="color:green;">**Spawner PASSIF**</mark> 🐔 : Nécessite des <mark style="color:green;">**blocs d’herbe**</mark> et de la <mark style="color:green;">**lumière**</mark> pour que les mobs puissent apparaître.  
+* <mark style="color:green;">**Spawner AGRESSIF**</mark> 🐍 : Nécessite l’absence <mark style="color:green;">**totale de lumière**</mark> pour que les mobs puissent apparaître.  
 
 ## 💠 Liste des spawners existant ? 🔍
 
