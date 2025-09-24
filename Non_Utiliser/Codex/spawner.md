@@ -18,26 +18,44 @@ Il existe **deux types de spawners** sur le serveur :
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td><mark style="color:red;"><strong>Nom 🏷️</strong></mark></td>
-    <td><mark style="color:red;"><strong>Image de l'item 🖼️</strong></mark></td>
-    <td><mark style="color:red;"><strong>Avantages 💪</strong></mark></td>
+    <td><mark style="color:red;"><strong>Catégorie 📂</strong></mark></td>
     <td><mark style="color:red;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><mark style="color:red;"><strong>Rat de Billy</strong></mark></td>
-    <td>
-      <figure><img src="../.gitbook/assets/Les_Compagnons/Items/Mythique/RatDeBilly.png" alt=""></figure>
-      <figure>
-        <img src="../.gitbook/assets/Les_Compagnons/Items/Mythique/RatDeBillyShiny.png" alt="">
-      </figure>
+    <td align="center">
+      <p><mark style="color:red;"><strong>Cochon</strong></mark></p>
+      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/vache.png" alt=""></figure></p>
     </td>
     <td>
-      <p><mark style="color:red;"><strong>Niv. 1</strong></mark> → <mark style="color:red;"><strong>+ 500</strong></mark> 💰/h</p>
-      <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>+50%</strong></mark> sur la vente de <mark style="color:red;"><strong>Patates empoisonnées</strong></mark> au /shop</p>
-      <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>+2,5%</strong></mark> d'EXP sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
-      <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>TOUTES les statistiques</strong></mark> +1</p>
-      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+ 1.500</strong></mark> 💰/h</p>
+      <p><mark style="color:green;"><strong>Passif</strong></mark></p>
     <td>
-      <p> * Caisse de Vote
+      <p> * Caisse de Vote 📨</p>
+      <p> * `/Boutique` (300 Gemmes💎)</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p><mark style="color:red;"><strong>Cochon</strong></mark></p>
+      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/vache.png" alt=""></figure></p>
+    </td>
+    <td>
+      <p><mark style="color:green;"><strong>Passif</strong></mark></p>
+    <td>
+      <p> * Caisse de Vote 📨</p>
+      <p> * Caisse Émeraude ✳️</p>
+      <p> * Caisse Rubis 🔻</p>
+      <p> * Caisse Jackpot 🎰</p>
+      <p> * Caisse Draconique 🐉</p>
+      <p> * Caisse Abyssal 🌊</p>
+      <p> * Caisse Trésors 🏴‍☠️</p>
+      <p> * Caisse Halloween 🎃</p>
+      <p> * Caisse Givrée ❄️</p>
+      <p> * Caisse St-Valentin 💕</p>
+      <p> * Caisse St-Patrick 🍀</p>
+      <p> * Caisse Pâques 🥚</p>
+      <p> * Caisse Summer 🏖️</p>
+      <p> * Caisse Antique 🦴</p>
+      <p> * `/Boutique` (300 Gemmes💎)</p>
     </td>
   </tr>
 
