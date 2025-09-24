@@ -19,7 +19,6 @@
 * [🧙‍♀️ Avoir une classe](tuto-et-astuce/avoir-une-classe.md)
 * [📣 Créer une pub](tuto-et-astuce/creation-pub.md)
 * [🧍‍♂️ Le guide de l'ASE](tuto-et-astuce/le-ase.md)
-* [❔ Les Commandes](tuto-et-astuce/commandes.md)
 
 ## 🎮 LE GAMEPLAY
 
@@ -93,3 +92,9 @@
 * [👁️‍🗨️ Les Pwarps](les-villes/les-warps.md)
 * [🛒 Les Shops de Joueurs](les-villes/les-shops-de-joueurs.md)
 * [🔝 Les Niveaux de Ville](les-villes/les-niveaux-de-ville.md)
+
+## 🔍 LE CODEX
+
+* [❔ Les Commandes](Codex/commandes.md)
+* [🐾 Les spawners](Codex/spawner.md)
+
