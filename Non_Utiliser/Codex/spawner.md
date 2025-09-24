@@ -137,11 +137,6 @@ Il existe **deux types de spawners** sur le serveur :
     </td>
   </tr>
   <tr>
-    <td><mark style="color:red;"><strong>Nom 🏷️</strong></mark></td>
-    <td><mark style="color:red;"><strong>Catégorie 📂</strong></mark></td>
-    <td><mark style="color:red;"><strong>Obtentions 🔍</strong></mark></td>
-  </tr>
-  <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Enderman</strong></mark></p>
       <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/enderman.png" alt=""></figure></p>
