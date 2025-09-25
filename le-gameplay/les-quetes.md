@@ -8,57 +8,412 @@ description: Retrouvez ici toutes les informations concernant les quêtes
 **Tuto : Comment gagner de l'argent sur Evolucraft**
 {% endembed %}
 
-Les quêtes constituent un pilier essentiel de votre aventure, vous permettant de gagner de l'argent ainsi que de précieuses récompenses tout au long de votre parcours sur Evolucraft.
+Les <mark style="color:green;">**quêtes**</mark> vous permettent d’explorer plus profondément les différents <mark style="color:green;">**aspects du serveur**</mark>, que ce soit à travers le <mark style="color:green;">**tutoriel**</mark> ou grâce aux <mark style="color:green;">**parchemins**</mark>, qui vous offrent des <mark style="color:green;">**récompenses utiles**</mark> durant votre aventure.  
 
-Que vous soyez un débutant cherchant à explorer le serveur ou un aventurier chevronné en quête de nouveaux défis, les quêtes offrent une variété d'opportunités pour enrichir votre expérience de jeu.
+Il existe <mark style="color:green;">**deux catégories de quêtes**</mark> :
 
-## <mark style="color:green;">Menu</mark>
+## 💠 <mark style="color:green;">**Quêtes Tutoriel**</mark> ❔
 
-Toutes les fonctionnalités liées aux quêtes sont regroupées dans un menu pratique accessible via la commande <mark style="color:green;">**`/quete`**</mark>
+Ces <mark style="color:green;">**quêtes**</mark> sont conçues pour vous familiariser avec les différentes <mark style="color:green;">**fonctionnalités**</mark> et les <mark style="color:green;">**aspects uniques**</mark> du serveur. Elles sont idéales pour les <mark style="color:green;">**nouveaux joueurs**</mark> désireux de découvrir les <mark style="color:green;">**rudiments du jeu**</mark> sur <mark style="color:green;">**Evolucraft**</mark>.  
 
-<figure><img src="../.gitbook/assets/Menu/Quest.png" alt=""><figcaption><p><strong>Menu des quêtes</strong></p></figcaption></figure>
+En plus de guider vos premiers pas, elles vous permettent de <mark style="color:green;">**progresser efficacement**</mark> tout en obtenant des <mark style="color:green;">**récompenses utiles**</mark>. Certaines missions introduisent également des <mark style="color:green;">**mécaniques avancées**</mark>, préparant ainsi les joueurs à relever des <mark style="color:green;">**défis plus complexes**</mark> au fil de leur aventure.  
 
-Il existe trois catégories de quêtes :
+<figure><img src="../.gitbook/assets/Quete/ScoreboardTuto.png" alt=""><figcaption><p><strong>Aperçu d'une </strong><mark style="color:green;"><strong>quête du tuto</strong></mark></p></figcaption></figure>
 
-## <mark style="color:green;">**Quêtes Tutoriel**</mark>
+## 💠 <mark style="color:green;">**Parchemin d'Aventure**</mark>
 
-Ces quêtes sont conçues pour vous familiariser avec les fonctionnalités et les aspects uniques du serveur. Elles sont idéales pour les nouveaux joueurs désireux de découvrir les rudiments du jeu sur Evolucraft.
+<figure><img src="../.gitbook/assets/Quete/QueteReward.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>parchemins disponibles</strong></mark></p></figcaption></figure>
 
-## <mark style="color:green;">**Quêtes Histoire**</mark>
+Chaque <mark style="color:green;">**parchemins**</mark> de <mark style="color:green;">**de diffilcutés différentes**</mark> propose des <mark style="color:green;">**défis différents**</mark> et <mark style="color:green;">**des récompenses**</mark> à la hauteur de vos exploits, visibles dans le <mark style="color:green;">**`/quete`**</mark>, puis en cliquant sur <mark style="color:green;">**parchemins**</mark> et en passant votre curseur sur la quête que vous avez.
 
-Ces quêtes peuvent être accomplies une seule fois et offrent des récompenses substantielles.
+Sur le serveurs, il existent <mark style="color:green;">**11 parchemins différents**</mark> :
 
-À travers ces quêtes, vous aurez l'occasion de plonger au cœur des mystères qui entourent notre ville, de découvrir des récits anciens et d'en apprendre davantage sur les événements qui ont façonné notre monde.&#x20;
+### 🔸 <mark style="color:green;">Parchemin Facile 🟢</mark>
 
-Chaque quête accomplie vous rapproche un peu plus de la vérité cachée derrière les ombres du passé, enrichissant ainsi votre expérience de jeu d'une dimension narrative captivante.
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-{% hint style="warning" %}
-Les quêtes histoire ne sont actuellement pas disponible sur le serveur. Pour vous tenir au courant de leurs sorties, regarder le #mise-à-jour sur discord.
-{% endhint %}
+Le <mark style="color:green;">Parchemin Facile</mark> s'obtient de plusieurs façon, dont :
+* **Parchemin Aléatoire ❔**
+* **Les récompenses des niveau de métiers ⚒️**
+* **Les récompenses de [Donjon Commun 🟩](https://wiki.evolucraft.fr/le-gameplay/les-donjons/commun)**
+* **Le [`/rewards` 🕒](https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#le-rewards)**
+* **Les offres du `/boutique` 🛒** *(50 gemmes 💎)*
 
-## <mark style="color:green;">**Parchemin d'Aventure**</mark>
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-Cette catégorie comprend des quêtes disponibles en 5 niveaux de difficulté :&#x20;
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:green;">**8 Blocks de Fer**</mark>                                         | 
+| <mark style="color:green;">**4 Blocks de Lapis-Lazuli**</mark>                                | 
+| <mark style="color:green;">**1 Block de Diamant**</mark>                                      | 
+| <mark style="color:green;">**1 Block d'Obsidienne Pleureuse**</mark>                          | 
+| <mark style="color:green;">**Spawner à Lapin**</mark>                                         | 
+| <mark style="color:green;">**Spawner à Poule**</mark>                                         | 
+| <mark style="color:green;">**Spawner à Mouton**</mark>                                        | 
+| <mark style="color:green;">**Spawner à Cochon**</mark>                                        |                                       
+| <mark style="color:green;">**1 500 💲**</mark>                                                | 
+| <mark style="color:green;">**2 000 💲**</mark>                                                | 
+| <mark style="color:green;">**3 000 💲**</mark>                                                | 
+| <mark style="color:green;">**3 500 💲**</mark>                                                | 
+| <mark style="color:green;">**4 000 💲**</mark>                                                |
+| <mark style="color:green;">**5 000 💲**</mark>                                                |
+| <mark style="color:green;">**1 Bonbons à la Pomme**</mark>                                    |
+| <mark style="color:green;">**1 Parchemin Avancé 🟡**</mark>                                  |
 
-* <mark style="color:green;">**Facile**</mark>
-* <mark style="color:yellow;">**Avancé**</mark>
-* <mark style="color:blue;">**Difficile**</mark>
-* <mark style="color:purple;">**Expert**</mark>
-* <mark style="color:red;">**Impossible**</mark>
+### 🔸 <mark style="color:yellow;">Parchemin Avancé 🟡</mark>
 
-Il existe aussi 6 quêtes associées aux anciens évènement :&#x20;
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-* <mark style="color:orange;">**Halloween**</mark>
-* <mark style="color:red;">**Givré**</mark>
-* <mark style="color:red;">De l'Amour</mark>
-* <mark style="color:yellow;">Terrier du Roi Lapin</mark>
-* <mark style="color:yellow;">Fabrique de Chocolat</mark>
-* <mark style="color:blue;">Abyssal</mark>
+Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs façon, dont :
+* **Parchemin Aléatoire ❔**
+* **[Parchemin Facile 🟢](https://wiki.evolucraft.fr/le-gameplay/les-quetes/parchemin-commun)**
+* **Le `/AFK`💤**
+* **Les récompenses des niveau de métiers ⚒️**
+* **Les récompenses de [Donjon Rare 🟨](https://wiki.evolucraft.fr/le-gameplay/les-donjons/rare) ou [Donjon Draconique 🟧](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)**
+* **Le [`/rewards` 🕒](https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#le-rewards)**
+* **Les offres du `/boutique` 🛒** *(100 gemmes 💎)*
 
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-Ces quêtes sont obtenables dans les caisses, récompenses votes, récompenses jobs, le `/rewards` ainsi que dans les donjons.&#x20;
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:yellow;">**4 Blocks de Diamant**</mark>                                    |
+| <mark style="color:yellow;">**1 Lingots de Netherite**</mark>                                 |
+| <mark style="color:yellow;">**2 têtes de Wither Squelette**</mark>                            | 
+| <mark style="color:yellow;">**2 Carapaces de Shulker**</mark>                                 | 
+| <mark style="color:yellow;">**Spawner à Vache**</mark>                                        | 
+| <mark style="color:yellow;">**Spawner à Zombie**</mark>                                       | 
+| <mark style="color:yellow;">**Spawner à Squelette**</mark>                                    | 
+| <mark style="color:yellow;">**Spawner à Araignée**</mark>                                     |
+| <mark style="color:yellow;">**5 Gemmes 💎**</mark>                                            | 
+| <mark style="color:yellow;">**2 000 💲**</mark>                                                | 
+| <mark style="color:yellow;">**4 500 💲**</mark>                                                | 
+| <mark style="color:yellow;">**4 750 💲**</mark>                                                | 
+| <mark style="color:yellow;">**8 250 💲**</mark>                                                | 
+| <mark style="color:yellow;">**9 500 💲**</mark>                                                |
+| <mark style="color:yellow;">**10 000 💲**</mark>                                               |
+| <mark style="color:yellow;">**1 Bonbons à l'Orange**</mark>                                   |
+| <mark style="color:yellow;">**1 Carte de Classe Aléatoire Commune**</mark>                    |
+| <mark style="color:yellow;">**1 Parchemin Difficile 🔵**</mark>                               |
 
-**Accomplir ces quêtes vous permet de recevoir des récompenses exclusives. Chaque niveau de difficulté propose des défis différents et des récompenses à la hauteur de vos exploits, visibles dans le <mark style="color:green;">**`/quete`**</mark>, puis en cliquant sur <mark style="color:green;">**parchemins**</mark> et en passant votre curseur sur la quête que vous avez.**
+### 🔸 <mark style="color:blue;">Parchemin Difficile 🔵</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:blue;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
+* **Parchemin Aléatoire ❔**
+* **[Parchemin Avancé 🟡](https://wiki.evolucraft.fr/le-gameplay/les-quetes/parchemin-rare)**
+* **Les récompenses des niveau de métiers ⚒️**
+* **Les récompenses de [Donjon Épique 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/epique), [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) ou encore [Donjon Draconique 🟧](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)**
+* **La Caisse [Émeraude ✳️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-emeraude)**
+* **Les offres du `/boutique` 🛒** *(150 gemmes 💎)*
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**8 Blocks de Diamant**</mark>                                    |
+| <mark style="color:blue;">**4 Lingots de Netherite**</mark>                                 |
+| <mark style="color:blue;">**3 Étoiles du nether**</mark>                             | 
+| <mark style="color:blue;">**3 Éponges**</mark>                                 | 
+| <mark style="color:blue;">**Spawner à Zombie**</mark>                                        | 
+| <mark style="color:blue;">**Spawner à Squelette**</mark>                                       | 
+| <mark style="color:blue;">**Spawner à Araignée**</mark>                                    | 
+| <mark style="color:blue;">**Spawner à Creeper**</mark>                                     |
+| <mark style="color:blue;">**10 Gemmes 💎**</mark>                                           | 
+| <mark style="color:blue;">**35 000 💲**</mark>                                                | 
+| <mark style="color:blue;">**50 000 💲**</mark>                                                | 
+| <mark style="color:blue;">**60 000 💲**</mark>                                                | 
+| <mark style="color:blue;">**75 000 💲**</mark>                                                | 
+| <mark style="color:blue;">**80 000 💲**</mark>                                                |
+| <mark style="color:blue;">**90 000 💲**</mark>                                               |
+| <mark style="color:blue;">**1 Bonbons à la Myrtille**</mark>                                    |
+| <mark style="color:blue;">**1 Carte de Classe Aléatoire Rare**</mark>                     |
+| <mark style="color:blue;">**1 Parchemin Expert 🟣**</mark>                               |
+
+### 🔸 <mark style="color:purple;">Parchemin Expert 🟣</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:purple;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
+* **Parchemin Aléatoire ❔**
+* **[Parchemin Difficile 🔵](https://wiki.evolucraft.fr/le-gameplay/les-quetes/parchemin-difficile)**
+* **Les récompenses des niveau de métiers ⚒️**
+* **Les récompenses de [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) ou [Donjon Mythique 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/mythique)**
+* **La Caisse [Rubis 🔻](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-rubis)**
+* **Les offres du `/boutique` 🛒** *(200 gemmes 💎)*
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:purple;">**1 Block de Netherite**</mark>                                   |
+| <mark style="color:purple;">**2 Blocks d'Émeraude**</mark>                                    |
+| <mark style="color:purple;">**1 Pomme dorée Enchantée**</mark>                                |
+| <mark style="color:purple;">**1 Totem d'immortalité**</mark>                                  | 
+| <mark style="color:purple;">**1 Coeur de la Mer**</mark>                                      | 
+| <mark style="color:purple;">**Spawner à Araigné Venimeuse**</mark>                            | 
+| <mark style="color:purple;">**Spawner à Blaze**</mark>                                        | 
+| <mark style="color:purple;">**Spawner à Enderman**</mark>                                     | 
+| <mark style="color:purple;">**Spawner à Piglin Zombifié**</mark>                              |
+| <mark style="color:purple;">**10 Gemmes 💎**</mark>                                           |
+| <mark style="color:purple;">**20 Gemmes 💎**</mark>                                           | 
+| <mark style="color:purple;">**100 000 💲**</mark>                                              | 
+| <mark style="color:purple;">**150 000 💲**</mark>                                              | 
+| <mark style="color:purple;">**290 000 💲**</mark>                                              | 
+| <mark style="color:purple;">**2 Bonbons aux Raisins**</mark>                                  |
+| <mark style="color:purple;">**1 Corne de Licorne**</mark>                                     |
+| <mark style="color:purple;">**1 Carte de Classe Aléatoire Épique**</mark>                     |
+| <mark style="color:purple;">**1 Parchemin Impossible 🔴**</mark>                              |
+
+### 🔸 <mark style="color:red;">Parchemin Impossible 🔴</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:red;">Parchemin Impossible</mark> s'obtient de plusieurs façon, dont :
+* **[Enchères 💸](https://wiki.evolucraft.fr/le-gameplay/les-evenements#enchere)**
+* **[Parchemin Expert 🟣](https://wiki.evolucraft.fr/le-gameplay/les-quetes/parchemin-expert)**
+* **Les récompenses des niveau de métiers ⚒️**
+* **Les récompenses de [Donjon Mythique 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/mythique)**
+* **Les Caisses :**
+  * **[Draconique 🐉](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique)**
+  * **[Abyssal 🌊](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal)**
+  * **[Trésors 🏴‍☠️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors)**
+  * **[St-Patrick 🍀](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick)** *(avec 2 parchemins)*
+* **Les offres du `/boutique` 🛒** *(300 gemmes 💎)*
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:red;">**8 Blocks d'Émeraude**</mark>                                       |
+| <mark style="color:red;">**2 Pommes dorées Enchantées**</mark>                                |
+| <mark style="color:red;">**Spawner à Gardien**</mark>                                         | 
+| <mark style="color:red;">**Spawner à Golem de Fer**</mark>                                    | 
+| <mark style="color:red;">**Spawner à Sorcière**</mark>                                        | 
+| <mark style="color:red;">**Spawner à Piglin Zombifié**</mark>                                 |
+| <mark style="color:red;">**20 Gemmes 💎**</mark>                                              |
+| <mark style="color:red;">**50 Gemmes 💎**</mark>                                              | 
+| <mark style="color:red;">**200 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**300 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**350 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**500 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**2 Bonbons à la Fraise**</mark>                                     |
+| <mark style="color:red;">**1 Corne de Licorne**</mark>                                        |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Légendaire**</mark>                    |
+
+### 🔸 <mark style="color:blue;">Parchemin Abyssal 🌊</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
+* **Les récompenses de [Donjon  Abyssal 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal)**
+* **La Caisse [Summer 2025 🏖️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer)**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**1 Pince de crabe**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal))*                                       |
+| <mark style="color:blue;">**1 Clé Abyssal**</mark>                                             |
+| <mark style="color:blue;">**Spawner à Vache**</mark>                                           | 
+| <mark style="color:blue;">**Spawner à Poule**</mark>                                           | 
+| <mark style="color:blue;">**Spawner à Squelette**</mark>                                       | 
+| <mark style="color:blue;">**Spawner à Zombie**</mark>                                          |
+| <mark style="color:blue;">**Spawner à Creeper**</mark>                                         |
+| <mark style="color:blue;">**Spawner à Blaze**</mark>                                           |
+| <mark style="color:blue;">**Spawner à Enderman**</mark>                                        |
+| <mark style="color:blue;">**Spawner à Zombie Momifié**</mark>                                  |
+| <mark style="color:blue;">**2 Gemmes 💎**</mark>                                              |
+| <mark style="color:blue;">**4 Gemmes 💎**</mark>                                              |
+| <mark style="color:blue;">**10 Gemmes 💎**</mark>                                             | 
+| <mark style="color:blue;">**13 000 💲**</mark>                                                 | 
+| <mark style="color:blue;">**25 000 💲**</mark>                                                 | 
+| <mark style="color:blue;">**50 000 💲**</mark>                                                 | 
+| <mark style="color:blue;">**60 000 💲**</mark>                                                 | 
+| <mark style="color:blue;">**70 000 💲**</mark>                                                 | 
+| <mark style="color:blue;">**80 000 💲**</mark>                                                 | 
+| <mark style="color:blue;">**100 000 💲**</mark>                                                | 
+| <mark style="color:blue;">**2 Bonbons à la Pomme**</mark>                                      |
+| <mark style="color:blue;">**2 Bonbons à l'Orange**</mark>                                      |
+| <mark style="color:blue;">**2 Bonbons à la Myrtille**</mark>                                   |
+| <mark style="color:blue;">**2 Bonbons aux Raisins**</mark>                                     |
+| <mark style="color:blue;">**1 Carte de Classe Aléatoire Commune**</mark>                       |
+| <mark style="color:blue;">**1 Carte de Classe Aléatoire Rare**</mark>                          |
+| <mark style="color:blue;">**1 Carte de Classe Aléatoire Épique**</mark>                        |
+
+### 🔸 <mark style="color:orange;">Parchemin Halloween 🎃</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs façon, dont :
+* **Les récompenses de [Donjon Halloween 🟧](https://wiki.evolucraft.fr/le-gameplay/les-donjons/halloween)**
+* **La Caisse [Halloween 🎃](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween)**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:orange;">**1 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*                                       |
+| <mark style="color:orange;">**2 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*                                       |
+| <mark style="color:orange;">**10 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*                                       |
+| <mark style="color:orange;">**1 Clé Halloween**</mark>                                          |
+| <mark style="color:orange;">**Spawner à Squelette**</mark>                                      | 
+| <mark style="color:orange;">**Spawner à Zombie**</mark>                                         |
+| <mark style="color:orange;">**Spawner à Creeper**</mark>                                        |
+| <mark style="color:orange;">**Spawner à Blaze**</mark>                                          |
+| <mark style="color:orange;">**Spawner à Hoglin**</mark>                                         |
+| <mark style="color:orange;">**Spawner à Sorcière**</mark>                                       |
+| <mark style="color:orange;">**Spawner à Gardien**</mark>                                        |
+| <mark style="color:orange;">**Spawner à Golem de Fer**</mark>                                   |
+| <mark style="color:orange;">**10 Gemmes 💎**</mark>                                            |
+| <mark style="color:orange;">**20 Gemmes 💎**</mark>                                            |
+| <mark style="color:orange;">**50 Gemmes 💎**</mark>                                            | 
+| <mark style="color:orange;">**65 000 💲**</mark>                                                | 
+| <mark style="color:orange;">**125 000 💲**</mark>                                               | 
+| <mark style="color:orange;">**250 000 💲**</mark>                                               | 
+| <mark style="color:orange;">**300 000 💲**</mark>                                               | 
+| <mark style="color:orange;">**350 000 💲**</mark>                                               | 
+| <mark style="color:orange;">**400 000 💲**</mark>                                               | 
+| <mark style="color:orange;">**500 000 💲**</mark>                                               | 
+| <mark style="color:orange;">**2 Bonbons à l'Orange**</mark>                                     |
+| <mark style="color:orange;">**2 Bonbons à la Myrtille**</mark>                                  |
+| <mark style="color:orange;">**2 Bonbons aux Raisins**</mark>                                    |
+| <mark style="color:orange;">**2 Bonbons à la Fraise**</mark>                                    |
+| <mark style="color:orange;">**1 Cosmétique aléatoire Halloween**</mark>                         |
+| <mark style="color:orange;">**1 Peluche Aléatoire**</mark> *(Collection Halloween uniquement)*  |
+| <mark style="color:orange;">**1 Carte de Classe Aléatoire Rare**</mark>                         |
+| <mark style="color:orange;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
+| <mark style="color:orange;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
+
+### 🔸 <mark style="color:blue;">Parchemin Givré ❄️</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs façon, dont :
+* **Les récompenses de [Donjon Givrée Commun 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15) et [Donjon Givrée Épique 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)**
+* **La Caisse [Givrée ❄️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**1 Sucre d'Orge**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree))*                                       |
+| <mark style="color:blue;">**2 Sucres d'Orge**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree))*                                     |
+| <mark style="color:blue;">**10 Sucres d'Orge**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree))*                                      |
+| <mark style="color:blue;">**1 Clé Givrée**</mark>                                             |
+| <mark style="color:blue;">**Spawner à Squelette**</mark>                                      | 
+| <mark style="color:blue;">**Spawner à Zombie**</mark>                                         |
+| <mark style="color:blue;">**Spawner à Creeper**</mark>                                        |
+| <mark style="color:blue;">**Spawner à Blaze**</mark>                                          |
+| <mark style="color:blue;">**Spawner à Hoglin**</mark>                                         |
+| <mark style="color:blue;">**Spawner à Sorcière**</mark>                                       |
+| <mark style="color:blue;">**Spawner à Gardien**</mark>                                        |
+| <mark style="color:blue;">**Spawner à Golem de Fer**</mark>                                   |
+| <mark style="color:blue;">**10 Gemmes 💎**</mark>                                            |
+| <mark style="color:blue;">**20 Gemmes 💎**</mark>                                            |
+| <mark style="color:blue;">**50 Gemmes 💎**</mark>                                            | 
+| <mark style="color:blue;">**65 000 💲**</mark>                                                | 
+| <mark style="color:blue;">**125 000 💲**</mark>                                               | 
+| <mark style="color:blue;">**250 000 💲**</mark>                                               | 
+| <mark style="color:blue;">**300 000 💲**</mark>                                               | 
+| <mark style="color:blue;">**350 000 💲**</mark>                                               | 
+| <mark style="color:blue;">**400 000 💲**</mark>                                               | 
+| <mark style="color:blue;">**500 000 💲**</mark>                                               | 
+| <mark style="color:blue;">**2 Bonbons à l'Orange**</mark>                                     |
+| <mark style="color:blue;">**2 Bonbons à la Myrtille**</mark>                                  |
+| <mark style="color:blue;">**2 Bonbons aux Raisins**</mark>                                    |
+| <mark style="color:blue;">**2 Bonbons à la Fraise**</mark>                                    |
+| <mark style="color:blue;">**1 Cosmétique aléatoire Halloween**</mark>                         |
+| <mark style="color:blue;">**1 Peluche Aléatoire**</mark> *(Collection Halloween uniquement)*  |
+| <mark style="color:blue;">**1 Carte de Classe Aléatoire Rare**</mark>                         |
+| <mark style="color:blue;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
+| <mark style="color:blue;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
+
+### 🔸 <mark style="color:red;">Parchemin de l'Amour 💕</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs façon, dont :
+* **Les récompenses de [Donjon Amour 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour) et [Donjon Cupidon 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)**
+* **La Caisse [St-Valentin 💕](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:red;">**1 Auréole**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin))*                                       |
+| <mark style="color:red;">**2 Auréoles**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin))*                                       |
+| <mark style="color:red;">**10 Auréoles**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin))*                                      |
+| <mark style="color:red;">**1 Clé Cupidon**</mark>                                             |
+| <mark style="color:red;">**Spawner à Squelette**</mark>                                      | 
+| <mark style="color:red;">**Spawner à Zombie**</mark>                                         |
+| <mark style="color:red;">**Spawner à Creeper**</mark>                                        |
+| <mark style="color:red;">**Spawner à Blaze**</mark>                                          |
+| <mark style="color:red;">**Spawner à Ours Polaire**</mark>                                   |
+| <mark style="color:red;">**Spawner à Bonhomme de Neige**</mark>                              |
+| <mark style="color:red;">**Spawner à Gardien**</mark>                                        |
+| <mark style="color:red;">**Spawner à Golem de Fer**</mark>                                   |
+| <mark style="color:red;">**10 Gemmes 💎**</mark>                                            |
+| <mark style="color:red;">**20 Gemmes 💎**</mark>                                            |
+| <mark style="color:red;">**50 Gemmes 💎**</mark>                                            | 
+| <mark style="color:red;">**65 000 💲**</mark>                                                | 
+| <mark style="color:red;">**125 000 💲**</mark>                                               | 
+| <mark style="color:red;">**250 000 💲**</mark>                                               | 
+| <mark style="color:red;">**300 000 💲**</mark>                                               | 
+| <mark style="color:red;">**350 000 💲**</mark>                                               | 
+| <mark style="color:red;">**400 000 💲**</mark>                                               | 
+| <mark style="color:red;">**500 000 💲**</mark>                                               | 
+| <mark style="color:red;">**2 Bonbons à l'Orange**</mark>                                     |
+| <mark style="color:red;">**2 Bonbons à la Myrtille**</mark>                                  |
+| <mark style="color:red;">**2 Bonbons aux Raisins**</mark>                                    |
+| <mark style="color:red;">**2 Bonbons à la Fraise**</mark>                                    |
+| <mark style="color:red;">**1 Cosmétique aléatoire Halloween**</mark>                         |
+| <mark style="color:red;">**1 Peluche Aléatoire**</mark> *(Collection Halloween uniquement)*  |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Rare**</mark>                         |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
+
+### 🔸 <mark style="color:yellow;">Parchemin Terrier du Roi Lapin & Fabrique du Chocolat 🍫</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
+* **Les récompenses de [Donjon Terrier du Roi Lapin 🟫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin) ou [Donjon Fabrique du Chocolat 🟫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)**
+* **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:yellow;">**2 Tablettes de Chocolat**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques))*                                       |
+| <mark style="color:yellow;">**1 Clé Pâques**</mark>                                             |
+| <mark style="color:yellow;">**Spawner à Vache**</mark>                                           | 
+| <mark style="color:yellow;">**Spawner à Poule**</mark>                                           | 
+| <mark style="color:yellow;">**Spawner à Squelette**</mark>                                       | 
+| <mark style="color:yellow;">**Spawner à Zombie**</mark>                                          |
+| <mark style="color:yellow;">**Spawner à Creeper**</mark>                                         |
+| <mark style="color:yellow;">**Spawner à Blaze**</mark>                                           |
+| <mark style="color:yellow;">**Spawner à Enderman**</mark>                                        |
+| <mark style="color:yellow;">**Spawner à Zombie Momifié**</mark>                                  |
+| <mark style="color:yellow;">**2 Gemmes 💎**</mark>                                              |
+| <mark style="color:yellow;">**4 Gemmes 💎**</mark>                                              |
+| <mark style="color:yellow;">**10 Gemmes 💎**</mark>                                             | 
+| <mark style="color:yellow;">**13 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**25 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**50 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**60 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**70 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**80 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**100 000 💲**</mark>                                                | 
+| <mark style="color:yellow;">**2 Bonbons à la Pomme**</mark>                                      |
+| <mark style="color:yellow;">**2 Bonbons à l'Orange**</mark>                                      |
+| <mark style="color:yellow;">**2 Bonbons à la Myrtille**</mark>                                   |
+| <mark style="color:yellow;">**2 Bonbons aux Raisins**</mark>                                     |
+| <mark style="color:yellow;">**1 Carte de Classe Aléatoire Commune**</mark>                       |
+| <mark style="color:yellow;">**1 Carte de Classe Aléatoire Rare**</mark>                          |
+| <mark style="color:yellow;">**1 Carte de Classe Aléatoire Épique**</mark>                        |
+
 
 {% hint style="warning" %}
 Et puisse le sort vous être favorable !

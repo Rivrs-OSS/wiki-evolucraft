@@ -19,7 +19,6 @@
 * [🧙‍♀️ Avoir une classe](tuto-et-astuce/avoir-une-classe.md)
 * [📣 Créer une pub](tuto-et-astuce/creation-pub.md)
 * [🧍‍♂️ Le guide de l'ASE](tuto-et-astuce/le-ase.md)
-* [❔ Les Commandes](tuto-et-astuce/commandes.md)
 
 ## 🎮 LE GAMEPLAY
 
@@ -64,12 +63,6 @@
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
 * [👑 Les Rangs](le-gameplay/les-rangs.md)
 * [🥚 Les Compagnons](le-gameplay/les-compagnons/README.md)
-  * [🍬 Les Bonbons](le-gameplay/les-compagnons/bonbon-tableau.md)
-  * [🐸 Compagnon Commun](le-gameplay/les-compagnons/pets-communs.md)
-  * [🐤 Compagnon Rare](le-gameplay/les-compagnons/pets-rare.md)
-  * [🐟 Compagnon Épique](le-gameplay/les-compagnons/pets-epique.md)
-  * [👾 Compagnon Légendaire](le-gameplay/les-compagnons/pets-legendaire.md)
-  * [🦞 Compagnon Mythique](le-gameplay/les-compagnons/pets-mythique.md)
 * [⚒️ Les Machines](le-gameplay/les-machines/README.md)
   * [🪚 Machine à Bois](le-gameplay/les-machines/machine-à-bois.md)
   * [🗿 Tailleuse de Pierre](le-gameplay/les-machines/tailleuse-de-pierre.md)
@@ -93,3 +86,16 @@
 * [👁️‍🗨️ Les Pwarps](les-villes/les-warps.md)
 * [🛒 Les Shops de Joueurs](les-villes/les-shops-de-joueurs.md)
 * [🔝 Les Niveaux de Ville](les-villes/les-niveaux-de-ville.md)
+
+## 🔍 LE CODEX
+
+* [❔ Les Commandes](codex/commandes.md)
+* [🐾 Les spawners](codex/spawner.md)
+* [🥚 Les Compagnons](codex/les-compagnons/README.md)
+  * [🍬 Les Bonbons](codex/les-compagnons/bonbon-tableau.md)
+  * [🐸 Compagnon Commun](codex/les-compagnons/pets-communs.md)
+  * [🐤 Compagnon Rare](codex/les-compagnons/pets-rare.md)
+  * [🐟 Compagnon Épique](codex/les-compagnons/pets-epique.md)
+  * [👾 Compagnon Légendaire](codex/les-compagnons/pets-legendaire.md)
+  * [🦞 Compagnon Mythique](codex/les-compagnons/pets-mythique.md)
+

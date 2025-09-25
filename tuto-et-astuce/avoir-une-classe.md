@@ -18,7 +18,7 @@ Pour obtenir une <mark style="color:green;">classe</mark>, il faut <mark style="
 
 À votre arrivée sur le serveur, après avoir découvert le début du spawn, une <mark style="color:green;">quête tutoriel</mark> vous est proposée pour découvrir les bases du serveur.
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Classe/ScoreboardTuto.png" alt=""><figcaption><p><strong>Aperçu d'une </strong><mark style="color:green;"><strong>quête du tuto</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Quete/ScoreboardTuto.png" alt=""><figcaption><p><strong>Aperçu d'une </strong><mark style="color:green;"><strong>quête du tuto</strong></mark></p></figcaption></figure>
 
 Une fois arrivé à un certain chapitre et à une certaine étape, il vous sera demandé d'exécuter la commande <mark style="color:green;">`/classe`</mark>. Après avoir effectué cette commande, une <mark style="color:green;">carte aléatoire commune</mark> vous sera donnée dans votre inventaire.
 

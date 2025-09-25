@@ -37,11 +37,11 @@ Tenez votre <mark style="color:green;">**compagnon**</mark> en main et effectuez
 
 ### 🔸 Étape 2 :
 Faites la commande <mark style="color:green;">**`/pets`**</mark>. Votre compagnon apparaîtra alors dans l’interface.
-<figure><img src="../../.gitbook/assets/Les_Compagnons/InterfacePets.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">/pets</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Compagnons/InterfacePets.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">/pets</mark></strong></p></figcaption></figure>
 
 ### 🔸 Étape 3 :
 Cliquez gauche sur votre compagnon pour l’équiper en mode **PASSIF**.
-<figure><img src="../../.gitbook/assets/Les_Compagnons/Passif.png" alt=""><figcaption><p><strong>Compagnon en mode <mark style="color:green;">PASSIF</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Compagnons/Passif.png" alt=""><figcaption><p><strong>Compagnon en mode <mark style="color:green;">PASSIF</mark></strong></p></figcaption></figure>
 
 {% hint style="info" %}
 🔍 REMARQUE : Pour désactiver un compagnon, refaites un clic droit dans le <mark style="color:green;">`/pets`</mark> pour le passer en mode **Inactif**.
@@ -52,12 +52,12 @@ Pour améliorer un compagnon et débloquer de nouveaux <mark style="color:green;
 
 ### 🔸 Étape 1 :
 En prenant en compte que votre pet est déjà équiper, faites un cliquez gauche sur votre compagnon pour le mettre en mode **ACTIF**. Cette manipulation le fera apparaitre à coté de vous.
-<figure><img src="../../.gitbook/assets/Les_Compagnons/Actif.png" alt=""><figcaption><p><strong>Compagnon en mode <mark style="color:green;">ACTIF</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Compagnons/Actif.png" alt=""><figcaption><p><strong>Compagnon en mode <mark style="color:green;">ACTIF</mark></strong></p></figcaption></figure>
 
 ### 🔸 Étape 2 :
-Donnez lui [<mark style="color:green;">des bonbons 🍬</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/bonbon-tableau) en faisant un clique droit sur votre compagnon.
+Donnez lui [<mark style="color:green;">des bonbons 🍬</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/bonbon-tableau) en faisant un clique droit sur votre compagnon.
 
-Pour plus d'informations sur les bonbons, nous vous invitons à consulter la page concernant [<mark style="color:green;">Les Bonbons 🍬</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/bonbon-tableau)
+Pour plus d'informations sur les bonbons, nous vous invitons à consulter la page concernant [<mark style="color:green;">Les Bonbons 🍬</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/bonbon-tableau)
 
 {% hint style="info" %}
 🔍 REMARQUE : Plus votre compagnon monte en niveau, plus il demandera d’<mark style="color:green;">**XP**</mark> pour progresser.
@@ -68,7 +68,7 @@ Pour plus d'informations sur les bonbons, nous vous invitons à consulter la pag
 Les <mark style="color:green;">**sauvegardes**</mark>, symbolisées par un engrenage dans le <mark style="color:green;">`/pets`</mark>, permettent de stocker vos compositions de compagnons.  
 Vous pouvez enregistrer jusqu’à <mark style="color:green;">**5 sauvegardes**</mark>, ce qui facilite le passage d’une composition **farm** à une composition **donjon**.
 
-<figure><img src="../../.gitbook/assets/Les_Compagnons/Sauvegarde.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">sauvegardes</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Compagnons/Sauvegarde.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">sauvegardes</mark></strong></p></figcaption></figure>
 
 {% hint style="info" %}
 🔍 REMARQUE : Si l’un des compagnons de votre composition n’existe plus, la sauvegarde s’appliquera sans lui, ou un message d’erreur vous préviendra.
@@ -76,18 +76,17 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**5 sauvegardes**<
 
 ## 💠 La liste des compagnons 🧸
 
-<figure><img src="../../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
 Il existe au total <mark style="color:green;">**92 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.  
 Ils sont classés par <mark style="color:green;">**rareté**</mark> :
 
-* [<mark style="color:green;">**20 compagnons Communs 🐸**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-communs) dont 6 shinys.  
-* [<mark style="color:yellow;">**20 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-rare) dont 5 shinys.  
-* [<mark style="color:blue;">**30 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-epique) dont 4 shinys.  
-* [<mark style="color:purple;">**16 compagnons Légendaires 👾**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-legendaire) dont 2 shinys.  
-* [<mark style="color:red;">**6 compagnons Mythiques 🦞**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons/pet-mythique) dont 1 shiny.  
+* [<mark style="color:green;">**20 compagnons Communs 🐸**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pet-communs) dont 6 shinys.  
+* [<mark style="color:yellow;">**20 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pet-rare) dont 5 shinys.  
+* [<mark style="color:blue;">**30 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pet-epique) dont 4 shinys.  
+* [<mark style="color:purple;">**16 compagnons Légendaires 👾**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pet-legendaire) dont 2 shinys.  
+* [<mark style="color:red;">**6 compagnons Mythiques 🦞**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pet-mythique) dont 1 shiny.  
 
 {% hint style="info" %}
 Maintenant que vous savez tout sur les <mark style="color:green;">**compagnons**</mark>, tentez d’en obtenir le plus possible et exploitez-les au maximum dans vos aventures sur Evolucraft !
 {% endhint %}
-
