@@ -205,6 +205,7 @@ Ils ne sont alors disponibles **<mark style="color:blue;">qu’à l’hôtel de 
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
 ### 🔸 <mark style="color:blue;">Clé Givrée ❄️</mark>
+
 La **<mark style="color:blue;">Clé Givrée</mark>** permet d'ouvrir la **[<mark style="color:blue;">Caisse Givrée ❄️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**.  
 Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Givrée</mark>**, disponibles uniquement durant **<mark style="color:blue;">l'évènement Noël 2024</mark>**.
 
