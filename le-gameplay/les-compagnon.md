@@ -37,7 +37,7 @@ Tenez votre <mark style="color:green;">**compagnon**</mark> en main et effectuez
 
 ### 🔸 Étape 2 :
 Faites la commande <mark style="color:green;">**`/pets`**</mark>. Votre compagnon apparaîtra alors dans l’interface.
-<figure><img src=".gitbook/assets/Les_Compagnons/InterfacePets.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">/pets</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Compagnons/InterfacePets.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">/pets</mark></strong></p></figcaption></figure>
 
 ### 🔸 Étape 3 :
 Cliquez gauche sur votre compagnon pour l’équiper en mode **PASSIF**.
