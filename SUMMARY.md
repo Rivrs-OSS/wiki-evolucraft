@@ -62,7 +62,7 @@
 * [💰 Le Commerce](le-gameplay/le-commerce.md)
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
 * [👑 Les Rangs](le-gameplay/les-rangs.md)
-* [🥚 Les Compagnons](le-gameplay/les-compagnons/README.md)
+* [🥚 Les Compagnons](le-gameplay/les-compagnon.md)
 * [⚒️ Les Machines](le-gameplay/les-machines/README.md)
   * [🪚 Machine à Bois](le-gameplay/les-machines/machine-à-bois.md)
   * [🗿 Tailleuse de Pierre](le-gameplay/les-machines/tailleuse-de-pierre.md)
