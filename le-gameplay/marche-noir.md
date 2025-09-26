@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations sur le marché noir.
 
 Dans un **<mark style="color:green;">lieu mystère</mark>** du spawn, se cache un **<mark style="color:green;">marchand spécial</mark>** que seuls les plus curieux parviennent à trouver.  
 Selon les rumeurs, il proposerait à la vente des **<mark style="color:green;">armes puissantes</mark>** et des **<mark style="color:green;">objets rares</mark>** provenant d’anciens **<mark style="color:green;">événements</mark>** qui ont marqué l’histoire d’**<mark style="color:green;">Évolucraft</mark>**.  
-Pour en profiter, il faudra toutefois réunir certains **<mark style="color:green;">items précis</mark>** afin d’obtenir ces **trésors uniques</mark>**.
+Pour en profiter, il faudra toutefois réunir certains **<mark style="color:green;">items précis</mark>** afin d’obtenir ces **<mark style="color:green;">trésors uniques</mark>**.
 
 Mais quels sont les items disponibles...
 
