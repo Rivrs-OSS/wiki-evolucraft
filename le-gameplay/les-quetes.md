@@ -66,7 +66,7 @@ Le <mark style="color:green;">Parchemin Facile</mark> s'obtient de plusieurs fa�
 
 Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
-* **[Parchemin Facile 🟢](https://wiki.evolucraft.fr/le-gameplay/les-quetes/parchemin-commun)**
+* **[Parchemin Facile 🟢](https://wiki.evolucraft.fr/le-gameplay/les-quetes#parchemin-facile)**
 * **Le `/AFK`💤**
 * **Les récompenses des niveau de métiers ⚒️**
 * **Les récompenses de [Donjon Rare 🟨](https://wiki.evolucraft.fr/le-gameplay/les-donjons/rare) ou [Donjon Draconique 🟧](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)**
@@ -102,7 +102,7 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 
 Le <mark style="color:blue;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
-* **[Parchemin Avancé 🟡](https://wiki.evolucraft.fr/le-gameplay/les-quetes/parchemin-rare)**
+* **[Parchemin Avancé 🟡](https://wiki.evolucraft.fr/le-gameplay/les-quetes#parchemin-avance)**
 * **Les récompenses des niveau de métiers ⚒️**
 * **Les récompenses de [Donjon Épique 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/epique), [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) ou encore [Donjon Draconique 🟧](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)**
 * **La Caisse [Émeraude ✳️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-emeraude)**
@@ -112,24 +112,24 @@ Le <mark style="color:blue;">Parchemin Difficile</mark> s'obtient de plusieurs f
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**8 Blocks de Diamant**</mark>                                    |
-| <mark style="color:blue;">**4 Lingots de Netherite**</mark>                                 |
-| <mark style="color:blue;">**3 Étoiles du nether**</mark>                             | 
-| <mark style="color:blue;">**3 Éponges**</mark>                                 | 
-| <mark style="color:blue;">**Spawner à Zombie**</mark>                                        | 
-| <mark style="color:blue;">**Spawner à Squelette**</mark>                                       | 
-| <mark style="color:blue;">**Spawner à Araignée**</mark>                                    | 
-| <mark style="color:blue;">**Spawner à Creeper**</mark>                                     |
-| <mark style="color:blue;">**10 Gemmes 💎**</mark>                                           | 
+| <mark style="color:blue;">**8 Blocks de Diamant**</mark>                                      |
+| <mark style="color:blue;">**4 Lingots de Netherite**</mark>                                   |
+| <mark style="color:blue;">**3 Étoiles du nether**</mark>                                      | 
+| <mark style="color:blue;">**3 Éponges**</mark>                                                | 
+| <mark style="color:blue;">**Spawner à Zombie**</mark>                                         | 
+| <mark style="color:blue;">**Spawner à Squelette**</mark>                                      | 
+| <mark style="color:blue;">**Spawner à Araignée**</mark>                                       | 
+| <mark style="color:blue;">**Spawner à Creeper**</mark>                                        |
+| <mark style="color:blue;">**10 Gemmes 💎**</mark>                                            | 
 | <mark style="color:blue;">**35 000 💲**</mark>                                                | 
 | <mark style="color:blue;">**50 000 💲**</mark>                                                | 
 | <mark style="color:blue;">**60 000 💲**</mark>                                                | 
 | <mark style="color:blue;">**75 000 💲**</mark>                                                | 
 | <mark style="color:blue;">**80 000 💲**</mark>                                                |
-| <mark style="color:blue;">**90 000 💲**</mark>                                               |
-| <mark style="color:blue;">**1 Bonbons à la Myrtille**</mark>                                    |
-| <mark style="color:blue;">**1 Carte de Classe Aléatoire Rare**</mark>                     |
-| <mark style="color:blue;">**1 Parchemin Expert 🟣**</mark>                               |
+| <mark style="color:blue;">**90 000 💲**</mark>                                                |
+| <mark style="color:blue;">**1 Bonbons à la Myrtille**</mark>                                  |
+| <mark style="color:blue;">**1 Carte de Classe Aléatoire Rare**</mark>                         |
+| <mark style="color:blue;">**1 Parchemin Expert 🟣**</mark>                                   |
 
 ### 🔸 <mark style="color:purple;">Parchemin Expert 🟣</mark>
 
@@ -137,7 +137,7 @@ Le <mark style="color:blue;">Parchemin Difficile</mark> s'obtient de plusieurs f
 
 Le <mark style="color:purple;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
-* **[Parchemin Difficile 🔵](https://wiki.evolucraft.fr/le-gameplay/les-quetes/parchemin-difficile)**
+* **[Parchemin Difficile 🔵](https://wiki.evolucraft.fr/le-gameplay/les-quetes#parchemin-difficile)**
 * **Les récompenses des niveau de métiers ⚒️**
 * **Les récompenses de [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) ou [Donjon Mythique 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/mythique)**
 * **La Caisse [Rubis 🔻](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-rubis)**
@@ -172,7 +172,7 @@ Le <mark style="color:purple;">Parchemin Difficile</mark> s'obtient de plusieurs
 
 Le <mark style="color:red;">Parchemin Impossible</mark> s'obtient de plusieurs façon, dont :
 * **[Enchères 💸](https://wiki.evolucraft.fr/le-gameplay/les-evenements#enchere)**
-* **[Parchemin Expert 🟣](https://wiki.evolucraft.fr/le-gameplay/les-quetes/parchemin-expert)**
+* **[Parchemin Expert 🟣](https://wiki.evolucraft.fr/le-gameplay/les-quetes#parchemin-expert)**
 * **Les récompenses des niveau de métiers ⚒️**
 * **Les récompenses de [Donjon Mythique 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/mythique)**
 * **Les Caisses :**
@@ -214,7 +214,7 @@ Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs fa�
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**1 Pince de crabe**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal))*                                       |
+| <mark style="color:blue;">**1 Pince de crabe**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal))* |
 | <mark style="color:blue;">**1 Clé Abyssal**</mark>                                             |
 | <mark style="color:blue;">**Spawner à Vache**</mark>                                           | 
 | <mark style="color:blue;">**Spawner à Poule**</mark>                                           | 
@@ -254,9 +254,9 @@ Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:orange;">**1 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*                                       |
-| <mark style="color:orange;">**2 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*                                       |
-| <mark style="color:orange;">**10 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*                                       |
+| <mark style="color:orange;">**1 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*  |
+| <mark style="color:orange;">**2 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*  |
+| <mark style="color:orange;">**10 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))* |
 | <mark style="color:orange;">**1 Clé Halloween**</mark>                                          |
 | <mark style="color:orange;">**Spawner à Squelette**</mark>                                      | 
 | <mark style="color:orange;">**Spawner à Zombie**</mark>                                         |
@@ -298,9 +298,9 @@ Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs faç
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**1 Sucre d'Orge**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree))*                                       |
-| <mark style="color:blue;">**2 Sucres d'Orge**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree))*                                     |
-| <mark style="color:blue;">**10 Sucres d'Orge**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree))*                                      |
+| <mark style="color:blue;">**1 Sucre d'Orge**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree))*   |
+| <mark style="color:blue;">**2 Sucres d'Orge**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree))*  |
+| <mark style="color:blue;">**10 Sucres d'Orge**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree))* |
 | <mark style="color:blue;">**1 Clé Givrée**</mark>                                             |
 | <mark style="color:blue;">**Spawner à Squelette**</mark>                                      | 
 | <mark style="color:blue;">**Spawner à Zombie**</mark>                                         |
@@ -342,9 +342,9 @@ Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs f
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:red;">**1 Auréole**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin))*                                       |
-| <mark style="color:red;">**2 Auréoles**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin))*                                       |
-| <mark style="color:red;">**10 Auréoles**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin))*                                      |
+| <mark style="color:red;">**1 Auréole**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin))*   |
+| <mark style="color:red;">**2 Auréoles**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin))*  |
+| <mark style="color:red;">**10 Auréoles**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin))* |
 | <mark style="color:red;">**1 Clé Cupidon**</mark>                                             |
 | <mark style="color:red;">**Spawner à Squelette**</mark>                                      | 
 | <mark style="color:red;">**Spawner à Zombie**</mark>                                         |
@@ -386,7 +386,7 @@ Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs f
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:yellow;">**2 Tablettes de Chocolat**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques))*                                       |
+| <mark style="color:yellow;">**2 Tablettes de Chocolat**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques))* |
 | <mark style="color:yellow;">**1 Clé Pâques**</mark>                                             |
 | <mark style="color:yellow;">**Spawner à Vache**</mark>                                           | 
 | <mark style="color:yellow;">**Spawner à Poule**</mark>                                           | 
