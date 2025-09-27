@@ -35,7 +35,6 @@ description: Retrouvez ici la solution pour rejoindre le serveur !
 
 ### <mark style="color:green;">🔸 Étape 3️⃣</mark>
 **Rejoignez le serveur en faisant un double clic sur le serveur, puis une fois arrivé dans le lobby, faites un clic droit avec la boussole en main pour ensuite cliquer sur le bloc vert comme ci-dessous.**
-8.<span style="align-items:center;"> Pour finir, tu n'as plus qu'à cliquer sur le monde.
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/RejoindreServeur/choix_monde.png" alt="" width="600"></figure>
 
 **Vous pouvez dès à présent commencer votre aventure sur Évolucraft ! 🥳**
