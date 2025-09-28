@@ -1,8 +1,8 @@
 ---
-description: Retrouvez ici toutes les informations sur les <mark style="color:green;">**bonbons**</mark>.
+description: Retrouvez ici toutes les informations sur les bonbons.
 ---
 
-# 🍬 Les <mark style="color:green;">**bonbons**</mark>
+# 🍬 <mark style="color:green;">**Les bonbons**</mark>
 
 Les <mark style="color:green;">**bonbons**</mark> servent à <mark style="color:green;">**faire progresser vos familiers (pets)**</mark>.  
 En augmentant leur niveau, ils vous offrent des <mark style="color:green;">**avantages variés**</mark> comme plus d’<mark style="color:green;">**argent toutes les heures**</mark>, des <mark style="color:green;">**bonus de métiers**</mark>, des <mark style="color:green;">**réductions sur la vente d’items**</mark> ou encore des <mark style="color:green;">**effets spéciaux**</mark> pouvant vous aider tout au long de l’aventure.  

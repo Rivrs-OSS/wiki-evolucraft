@@ -14,7 +14,7 @@ PlayerWarp est une fonctionnalité essentielle sur notre serveur qui permet aux 
 
 Ces warps peuvent être utilisés pour se déplacer rapidement à travers le monde et faciliter l'exploration, les échanges commerciaux, ou tout simplement pour rendre la navigation plus pratique.
 
-<figure><img src="../.gitbook/assets/Les_Villes/PlayerWarp.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pwarp</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/PlayerWarp.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pwarp</code></strong></mark></p></figcaption></figure>
 
 ## <mark style="color:green;">Utilité des Warps</mark>
 

@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations concernant les <mark style="color:green;">**compagnons**</mark>
+description: Retrouvez ici toutes les informations concernant les compagnons.
 ---
 
 # 🥚 Les Compagnons

@@ -10,7 +10,7 @@
 
 ## 💡 TUTO ET ASTUCE
 
-* [🎫 Rejoindre le serveur](tuto-et-astuce/rejoindre-serveur.md)
+* [🎫 Rejoindre le serveur](tuto-et-astuce/rejoindre-serveur-1_20_4.md)
 * [🖼️ Problème de pack de ressource](tuto-et-astuce/pb-pack.md)
 * [♒ Problème de barre de boss](tuto-et-astuce/pb-bossbar.md)
 * [🏙️ Être dans une ville](tuto-et-astuce/creer-une-ville.md)
@@ -61,6 +61,13 @@
   * [🟫 Fabrique de Chocolat](le-gameplay/les-donjons/fabrique-chocolat.md)
 * [💰 Le Commerce](le-gameplay/le-commerce.md)
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
+* [🏙️ Les Villes](le-gameplay/les-villes/README.md)
+  * [🎭 Les Rôles](le-gameplay/les-villes/les-roles.md)
+  * [🗃️ Les Sous-zones](le-gameplay/les-villes/les-sous-zones.md)
+  * [🏆 Le Classement des Villes](le-gameplay/les-villes/classement-ville.md)
+  * [👁️‍🗨️ Les Pwarps](le-gameplay/les-villes/les-warps.md)
+  * [🛒 Les Shops de Joueurs](le-gameplay/les-villes/les-shops-de-joueurs.md)
+  * [🔝 Les Niveaux de Ville](le-gameplay/les-villes/les-niveaux-de-ville.md)
 * [👑 Les Rangs](le-gameplay/les-rangs.md)
 * [🥚 Les Compagnons](le-gameplay/les-compagnon.md)
 * [⚒️ Les Machines](le-gameplay/les-machines/README.md)
@@ -76,16 +83,6 @@
 * [🦺 Les Kits](le-gameplay/les-kits.md)
 * [🧥 Le Marché Noir](le-gameplay/marche-noir.md)
 * [💒 Le Mariage](le-gameplay/le-mariage.md)
-
-## 🌆 LE MONDE DES VILLES
-
-* [🏙️ Les Villes](les-villes/les-villes.md)
-* [🎭 Les Rôles](les-villes/les-roles.md)
-* [🗃️ Les Sous-zones](les-villes/les-sous-zones.md)
-* [🏆 Le Classement des Villes](les-villes/classement-ville.md)
-* [👁️‍🗨️ Les Pwarps](les-villes/les-warps.md)
-* [🛒 Les Shops de Joueurs](les-villes/les-shops-de-joueurs.md)
-* [🔝 Les Niveaux de Ville](les-villes/les-niveaux-de-ville.md)
 
 ## 🔍 LE CODEX
 

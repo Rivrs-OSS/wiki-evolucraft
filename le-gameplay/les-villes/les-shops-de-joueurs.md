@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant les coffres de ven
 
 # 🛒 Les shops de joueurs
 
-**Les shops de joueurs** servent **à vendre ou acheter des items** dans des contenants (coffre, double coffre, et coffre piégé) à des joueurs visitant votre [**👁️‍🗨️ Pwarp**](https://wiki.evolucraft.fr/le-monde-des-villes/les-warps).
+**Les shops de joueurs** servent **à vendre ou acheter des items** dans des contenants (coffre, double coffre, et coffre piégé) à des joueurs visitant votre [**👁️‍🗨️ Pwarp**](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-warps).
 
 ## <mark style="color:green;">**👜 Créer un shop dans votre ville**</mark>
 
@@ -15,7 +15,7 @@ description: Retrouvez ici toutes les informations concernant les coffres de ven
 
 Et voilà ! Votre coffre de vente est créé 🤩 !
 
-<figure><img src="../.gitbook/assets/Les_Villes/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu d'un <mark style="color:green;">coffre de vente d'item</mark></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu d'un <mark style="color:green;">coffre de vente d'item</mark></strong></p></figcaption></figure>
 
 {% hint style="info" %}
 **💡 REMARQUE : Pensez à créer votre pwarp au plus proche de vos coffres de vente afin d'éviter que les autres joueurs soient téléportés à plusieurs blocs de votre ville ou qu'ils ne puissent pas y accéder !**
@@ -30,7 +30,7 @@ Pour cela, réalisez la commande suivante en fonction de votre besoin :
 * <mark style="color:green;">**`/finditem acheter [id de l'item / bout d'un mot de l'item]`**</mark>**&#x20;: Permet de chercher tous les coffres où les joueurs vendent l'item.**
 * <mark style="color:green;">**`/finditem vendre [id de l'item / bout d'un mot de l'item]`**</mark>**&#x20;: Permet de chercher tous les coffres où les joueurs achètent l'item.**
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface du <mark style="color:green;">/finditem</mark></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface du <mark style="color:green;">/finditem</mark></strong></p></figcaption></figure>
 
 ## <mark style="color:green;">**💡 Quelques commandes à connaître !**</mark>
 

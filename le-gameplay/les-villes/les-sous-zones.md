@@ -16,11 +16,11 @@ Les sous-zones sont un moyen de surclaim sa ville en définissant une région d'
 
 ### <mark style="color:green;">Étape 1️⃣</mark>
 **Dans <mark style="color:green;">le menu de la ville</mark>, via la commande `/ville`, tout en pensant à bien utiliser `/v select` sur la bonne ville, cliquez sur <mark style="color:green;">"Sous-Zones"</mark> comme sur l'image ci-dessous.**
-<figure><img src="../.gitbook/assets/Les_Villes/SousZone/InterfaceVilleSousZone.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/SousZone/InterfaceVilleSousZone.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 2️⃣</mark>
 **Dans <mark style="color:green;">ce menu des Sous-Zones</mark>, où vous retrouverez toutes les sous-zones de votre ville déjà créées, cliquez sur "<mark style="color:green;">Nouvelle zone</mark>", représentée par la petite gemme à droite.**
-<figure><img src="../.gitbook/assets/Les_Villes/SousZone/InterfaceSousZone.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/SousZone/InterfaceSousZone.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 3️⃣</mark>
 
@@ -30,7 +30,7 @@ Les sous-zones sont un moyen de surclaim sa ville en définissant une région d'
 
 **Cela vous permettra de créer <mark style="color:green;">une zone cubique délimitée par un point A et un point B</mark>.**
 
-<figure><img src="../.gitbook/assets/Les_Villes/SousZone/Selection.png" alt=""><figcaption><p><strong>_La visualisation des délimitations de la zone n'est pas issue de ce plugin_</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/SousZone/Selection.png" alt=""><figcaption><p><strong>_La visualisation des délimitations de la zone n'est pas issue de ce plugin_</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 🔎 <mark style="color:green;">**Remarque**</mark> : Lorsque vous sélectionnez vos deux points, des particules s'afficheront pour vous montrer la délimitation de la zone effectuée, ce qui vous permet de vérifier si la sélection vous convient.
@@ -51,7 +51,7 @@ ATTENTION ⚠️ : Vous ne pouvez pas mettre d'espace dans le nom de votre sous-
 **Créer une location vous permet de louer une zone pour une journée à un prix que vous décidez, dans la zone que vous avez choisie. Très pratique pour louer vos farms ou taxer davantage vos citoyens afin qu'ils disposent d'un endroit tranquille à eux.**
 
 **Pour réaliser une location, il vous faut être muni <mark style="color:green;">d'un panneau vanilla</mark>, peu importe le type de bois, et y inscrire <mark style="color:green;">cette forme ci-dessous</mark> tout en étant dans la sous-zone où aura lieu la location :**
-<figure><img src="../.gitbook/assets/Les_Villes/SousZone/Location.png" alt=""><figcaption><p><strong>Le texte entre parenthèses doit être modifié pour correspondre au nom de votre sous-zone et au prix de la location</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/SousZone/Location.png" alt=""><figcaption><p><strong>Le texte entre parenthèses doit être modifié pour correspondre au nom de votre sous-zone et au prix de la location</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 **REMARQUE 🔍 : Le montant maximum pour une location peut aller jusqu'à 10 millions par jour.**.

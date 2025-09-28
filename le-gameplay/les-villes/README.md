@@ -57,21 +57,21 @@ Une fois prêt, utilisez <mark style="color:green;">**`/v disband`**</mark> puis
 
 Lors de la création de votre ville, vous pourrez accéder à un menu pour <mark style="color:green;">**gérer et personnaliser**</mark> tous ses aspects. Pour y accéder : <mark style="color:green;">**`/ville`**</mark> ou <mark style="color:green;">**`/v`**</mark>.
 
-<figure><img src="../.gitbook/assets/Les_Villes/Interface_Ville.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>`/ville`</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Interface_Ville.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>`/ville`</strong></mark></p></figcaption></figure>
 
 ### 🔶 <mark style="color:green;">**Téléportation 📌**</mark>
 
 Ce bouton permet de se téléporter au point de spawn de votre ville, comme avec la commande <mark style="color:green;">/v spawn</mark>.
 
 ### 🔶 <mark style="color:green;">**Membres 👥**</mark>
-Gérez vos membres grâce aux [<mark style="color:green;">**rôles 🎭**</mark>](https://wiki.evolucraft.fr/les-villes/les-roles).
+Gérez vos membres grâce aux [<mark style="color:green;">**rôles 🎭**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-roles).
 
 Pour cela, il vous suffit de passer votre souris sur la tête du joueur puis de suivre les instructions suivantes :
 * <mark style="color:green;">**Accéder 🖼️**</mark> : Permet de voir le /profile du joueur. _(Clic gauche)_
 * <mark style="color:green;">**Promouvoir ⏫**</mark> : Permet d’attribuer un rôle supérieur au joueur. _(Touche d'accroupissement + Clic gauche)_
 * <mark style="color:green;">**Destituer ⏬**</mark> : Permet de rétrograder le rôle du joueur. _(Touche d'accroupissement + Clic droit)_
 
-<figure><img src="../.gitbook/assets/Les_Villes/Role/InterfaceMembre.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/InterfaceMembre.png" alt=""><figcaption></figcaption></figure>
 
 ### 🔶 <mark style="color:green;">**Divers 📂**</mark>
 Dans ce menu Divers, vous pouvez trouver l’aspect visuel ainsi que les informations principales de la ville pour vos habitants, comme :
@@ -85,32 +85,32 @@ Dans ce menu Divers, vous pouvez trouver l’aspect visuel ainsi que les informa
 * <mark style="color:green;">**Banque 💰**</mark> : Permet de gérer (pour déposer ou retirer) l'argent dans la banque de la ville. 
 * <mark style="color:green;">**Couleur du Chat Ville 🎨**</mark> : Permet de changer la couleur de votre tchat de ville entre <mark style="color:green;">Vert</mark>, <mark style="color:blue;">Bleu</mark> et <mark style="color:purple;">Violet/Rose</mark>.
 
-<figure><img src="../.gitbook/assets/Les_Villes/InterfaceDivers.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>Options Divers</strong></mark> du </strong><mark style="color:green;"><strong>/ville</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/InterfaceDivers.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>Options Divers</strong></mark> du </strong><mark style="color:green;"><strong>/ville</strong></mark></p></figcaption></figure>
 
 ### 🔶 <mark style="color:green;">**Sous-Zones 🗃️**</mark>
 Les <mark style="color:green;">sous-zones</mark> permettent de définir une <mark style="color:green;">région</mark> d’un <mark style="color:green;">point A</mark> à un <mark style="color:green;">point B</mark> à l’intérieur de la <mark style="color:green;">ville</mark> (cube ou parallélépipède).
 Elles permettent de <mark style="color:green;">restreindre</mark> ou <mark style="color:green;">ouvrir des permissions</mark> à certains joueurs dans une <mark style="color:green;">partie spécifique</mark> de la ville, sans leur donner accès aux autres zones.
 C’est souvent utilisé pour des <mark style="color:green;">champs publics</mark>, des <mark style="color:green;">locations</mark> ou la <mark style="color:green;">gestion de la ville</mark>.
 
-👉 Pour plus d’infos sur [<mark style="color:green;">**Les Sous-Zones 🗃️**</mark>](https://wiki.evolucraft.fr/le-monde-des-villes/les-sous-zones)
+👉 Pour plus d’infos sur [<mark style="color:green;">**Les Sous-Zones 🗃️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-sous-zones)
 
 ### 🔶 <mark style="color:green;">**Rôles 🎭**</mark>
 
 Attribuez des <mark style="color:green;">**permissions**</mark> différentes selon les joueurs afin de garantir la sécurité et de structurer une hiérarchie RP.
 
-👉 Pour plus d’infos sur [<mark style="color:green;">**Les Rôles 🎭**</mark>](https://wiki.evolucraft.fr/les-villes/les-roles)
+👉 Pour plus d’infos sur [<mark style="color:green;">**Les Rôles 🎭**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-roles)
 
 ### 🔶 <mark style="color:green;">**Classement Villes 🏆**</mark>
 
 Chaque mois, les villes s’affrontent pour obtenir le meilleur score. Récoltez un maximum de <mark style="color:green;">**points**</mark> pour devenir la meilleure ville du serveur !  
 
-👉 Pour plus d’infos sur [<mark style="color:green;">**Le Classement Villes 🏆**</mark>](https://wiki.evolucraft.fr/les-villes/classement-ville)
+👉 Pour plus d’infos sur [<mark style="color:green;">**Le Classement Villes 🏆**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-villes/classement-ville)
 
 ### 🔶 <mark style="color:green;">**Niveau de Ville 🔝**</mark>
 
 Les <mark style="color:green;">**niveaux de ville**</mark> augmentent le nombre de <mark style="color:green;">**claims**</mark> disponibles à certains paliers.
 
-👉 Pour plus d’infos sur [<mark style="color:green;">**Les Niveaux de Ville 🔝**</mark>](https://wiki.evolucraft.fr/le-monde-des-villes/les-niveaux-de-ville)
+👉 Pour plus d’infos sur [<mark style="color:green;">**Les Niveaux de Ville 🔝**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-niveaux-de-ville)
 
 ### 🔶 <mark style="color:green;">**Paramètres de Ville ⚙️**</mark>
 
