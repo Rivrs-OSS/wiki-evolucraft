@@ -64,7 +64,7 @@ Lors de la création de votre ville, vous pourrez accéder à un menu pour <mark
 Ce bouton permet de se téléporter au point de spawn de votre ville, comme avec la commande <mark style="color:green;">/v spawn</mark>.
 
 ### 🔶 <mark style="color:green;">**Membres 👥**</mark>
-Gérez vos membres grâce aux [<mark style="color:green;">**rôles 🎭**</mark>](https://wiki.evolucraft.fr/les-villes/les-roles).
+Gérez vos membres grâce aux [<mark style="color:green;">**rôles 🎭**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-roles).
 
 Pour cela, il vous suffit de passer votre souris sur la tête du joueur puis de suivre les instructions suivantes :
 * <mark style="color:green;">**Accéder 🖼️**</mark> : Permet de voir le /profile du joueur. _(Clic gauche)_
