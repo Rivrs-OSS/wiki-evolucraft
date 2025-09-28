@@ -4,7 +4,7 @@ description: Retrouvez ici toutes la liste de tout les spawners du serveur.
 
 # 🐾 Les spawners
 
-## 💠 Quelques informations... ? 📃
+## 💠 <mark style="color:green;">Quelques informations... ?</mark> 📃
 Les <mark style="color:green;">**spawners**</mark> sont des blocs spéciaux permettant de faire apparaître régulièrement un <mark style="color:green;">**mob défini**</mark> par le spawner.  
 Ils sont particulièrement utiles pour la création de <mark style="color:green;">**farm automatiques**</mark>, afin de récolter des ressources, <mark style="color:green;">**gagner de l'XP**</mark> ou encore <mark style="color:green;">**monter votre métier de Chasseur**</mark>.  
 
@@ -16,7 +16,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
 * <mark style="color:green;">**Spawner PASSIF**</mark> 🐔 : Nécessite des <mark style="color:green;">**blocs d’herbe**</mark> et de la <mark style="color:green;">**lumière**</mark> pour que les mobs puissent apparaître.  
 * <mark style="color:green;">**Spawner AGRESSIF**</mark> 🐍 : Nécessite l’absence <mark style="color:green;">**totale de lumière**</mark> pour que les mobs puissent apparaître.  
 
-## 💠 Liste des spawners existant ? 🔍
+## 💠 <mark style="color:green;">Liste des spawners existant ?</mark> 🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
