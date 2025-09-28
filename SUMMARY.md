@@ -69,7 +69,7 @@
   * [🛒 Les Shops de Joueurs](le-gameplay/les-villes/les-shops-de-joueurs.md)
   * [🔝 Les Niveaux de Ville](le-gameplay/les-villes/les-niveaux-de-ville.md)
 * [👑 Les Rangs](le-gameplay/les-rangs.md)
-* [🥚 Les Compagnons](le-gameplay/les-compagnon.md)
+* [🥚 Les Compagnons](le-gameplay/les-compagnons.md)
 * [⚒️ Les Machines](le-gameplay/les-machines/README.md)
   * [🪚 Machine à Bois](le-gameplay/les-machines/machine-à-bois.md)
   * [🗿 Tailleuse de Pierre](le-gameplay/les-machines/tailleuse-de-pierre.md)
