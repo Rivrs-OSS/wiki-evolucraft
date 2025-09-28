@@ -12,13 +12,13 @@ description: Retrouvez ici toutes les informations concernant les rôles dans le
 
 **Dans&#x20;**<mark style="color:green;">**le menu de la ville**</mark>**, via la commande `/ville`, en veillant à bien utiliser `/v select` sur la bonne ville, cliquez sur&#x20;**<mark style="color:green;">**"Rôle"**</mark>**&#x20;comme sur l’image ci-dessous.**
 
-<figure><img src="../.gitbook/assets/Les_Villes/Role/InterfaceVilleRole.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/InterfaceVilleRole.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 2️⃣</mark>
 
 **Dans cette interface&#x20;**<mark style="color:green;">**des Rôles**</mark>**, où vous retrouverez tous les rôles déjà créés de votre ville, cliquez sur "**<mark style="color:green;">**Nouveau rôle**</mark>**", représenté par un petit personnage blanc sur la droite.**
 
-<figure><img src="../.gitbook/assets/Les_Villes/Role/Cree.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/Cree.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 3️⃣</mark>
 
@@ -36,13 +36,13 @@ ATTENTION ⚠️ : Vous ne pouvez pas mettre d’espace dans le nom du rôle.
 
 **Dans&#x20;**<mark style="color:green;">**le menu de la ville**</mark>**, via la commande `/ville`, en veillant à bien utiliser `/v select` sur la bonne ville, cliquez sur&#x20;**<mark style="color:green;">**"Rôle"**</mark>**&#x20;comme sur l’image ci-dessous.**
 
-<figure><img src="../.gitbook/assets/Les_Villes/Role/InterfaceVilleRole.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/InterfaceVilleRole.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 2️⃣</mark>
 
 **Dans cette interface&#x20;**<mark style="color:green;">**des Rôles**</mark>**, cliquez sur le rôle que vous souhaitez modifier.**
 
-<figure><img src="../.gitbook/assets/Les_Villes/Role/Select.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/Select.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 3️⃣</mark>
 
@@ -54,7 +54,7 @@ ATTENTION ⚠️ : Vous ne pouvez pas mettre d’espace dans le nom du rôle.
 * <mark style="color:green;">**Permission de Gestion 🔑**</mark> : Permet de modifier la gestion administrative du rôle (_claim, ajouter des rôles ou des membres, etc._).
 * <mark style="color:green;">**Permission d’Action 🔧**</mark> : Permet de modifier la gestion des actions du rôle (_ouvrir des coffres, fly, casser des blocs, etc._).
 
-<figure><img src="../.gitbook/assets/Les_Villes/Role/Gestion.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/Gestion.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 ATTENTION ⚠️ : Certaines actions sont activées ou désactivées par défaut, que ce soit pour le maire ou pour les visiteurs. Veillez donc à bien vérifier vos préférences d’action.
@@ -68,7 +68,7 @@ ATTENTION ⚠️ : Certaines actions sont activées ou désactivées par défaut
 
 **Dans&#x20;**<mark style="color:green;">**le menu de la ville**</mark>**, via la commande `/ville`, en veillant à bien utiliser `/v select` sur la bonne ville, cliquez sur&#x20;**<mark style="color:green;">**"Membres"**</mark>**&#x20;comme sur l’image ci-dessous.**
 
-<figure><img src="../.gitbook/assets/Les_Villes/Role/InterfaceVilleMembre.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/InterfaceVilleMembre.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 2️⃣</mark>
 
@@ -78,7 +78,7 @@ ATTENTION ⚠️ : Certaines actions sont activées ou désactivées par défaut
 * <mark style="color:green;">**Promouvoir ⏫**</mark> : Touche <mark style="color:green;">Sneak</mark> + <mark style="color:green;">Clique Gauche</mark> de la souris —> Permet d’attribuer un rôle supérieur au joueur.
 * <mark style="color:green;">**Destituer ⏬**</mark> : Touche <mark style="color:green;">Sneak</mark> + <mark style="color:green;">Clique Droit</mark> de la souris —> Permet de rétrograder le rôle du joueur.
 
-<figure><img src="../.gitbook/assets/Les_Villes/Role/InterfaceMembre.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/InterfaceMembre.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:green;">**💠 Comment retirer un rôle ? ❌**</mark>
 
@@ -86,7 +86,7 @@ ATTENTION ⚠️ : Certaines actions sont activées ou désactivées par défaut
 
 **Dans&#x20;**<mark style="color:green;">**le menu de la ville**</mark>**, via la commande `/ville`, en veillant à bien utiliser `/v select` sur la bonne ville, cliquez sur&#x20;**<mark style="color:green;">**"Rôle"**</mark>**&#x20;comme sur l’image ci-dessous.**
 
-<figure><img src="../.gitbook/assets/Les_Villes/Role/InterfaceVilleRole.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/InterfaceVilleRole.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 2️⃣</mark>
 
