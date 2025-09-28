@@ -10,7 +10,7 @@ Pour passer au niveau suivant, vous devez remplir certains prérequis.
 
 Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style="color:green;">**`/ville`**</mark> et en cliquant sur l'icône représentant une maison.
 
-<figure><img src="../.gitbook/assets/Les_Villes/Interface_Ville.png" alt=""><figcaption><p><strong>Aperçu du <code>/ville</code></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Interface_Ville.png" alt=""><figcaption><p><strong>Aperçu du <code>/ville</code></strong></p></figcaption></figure>
 
 ## <mark style="color:green;">**Niveau 0 : Parcelle**</mark>
 
