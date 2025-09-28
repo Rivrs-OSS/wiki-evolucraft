@@ -8,7 +8,7 @@ Le <mark style="color:green;">**classement des villes**</mark> est une <mark sty
 
 <figure><img src="../.gitbook/assets/Les_Villes/Classement/InterfaceClassement.png" alt=""><figcaption>Interface du Classement Villes</figcaption></figure>
 
-## 💠 Comment gagner des points ? 🌠
+## 💠 <mark style="color:green;">Comment gagner des points ?</mark> 🌠
 Les <mark style="color:green;">**points**</mark> se gagnent avec des <mark style="color:green;">**étoiles**</mark>, mais comment en avoir ?
 
 ### 🔷 Étape 1️⃣
@@ -86,7 +86,7 @@ Une fois <mark style="color:green;">**craftée**</mark>, il vous suffira de fair
 **🚨 IMPORTANT ‼ :** Les <mark style="color:green;">**étoiles**</mark> et les <mark style="color:green;">**fragments**</mark> ont une <mark style="color:green;">**date limite**</mark>, c'est-à-dire qu'ils ne sont plus utilisables après le mois où ils ont été obtenus et deviennent alors <mark style="color:green;">**obsolètes**</mark>. Par conséquent, ils sont <mark style="color:green;">**interdits à la vente ❌**</mark>.
 {% endhint %}
 
-## 💠 Comment voir son classement ? 💭
+## 💠 <mark style="color:green;">Comment voir son classement ?</mark> 💭
 Pour vérifier son <mark style="color:green;">**classement de ville**</mark>, il vous suffira d'aller dans <mark style="color:green;">**l'interface des classements**</mark>, puis de passer votre curseur sur le <mark style="color:green;">**pictogramme de la maison**</mark>.
 
 Dessus, vous y retrouverez la <mark style="color:green;">**ville**</mark> et sa <mark style="color:green;">**position**</mark>.
@@ -97,7 +97,7 @@ Si vous voulez faire un petit concours dans votre ville, il existe la possibilit
 
 <figure><img src="../.gitbook/assets/Les_Villes/Classement/MaVille.png" alt=""><figcaption>Interface du classement des ville</figcaption></figure>
 
-## 💠 Les récompenses ? 🎁
+## 💠 <mark style="color:green;">Les récompenses ?</mark> 🎁
 À la <mark style="color:green;">**fin du mois**</mark>, le <mark style="color:green;">**classement**</mark> est établi et les <mark style="color:green;">**villes dans le Top 25**</mark> recevront alors les <mark style="color:green;">**récompenses**</mark> suivantes :
 
 | Classement | Récompenses | 
