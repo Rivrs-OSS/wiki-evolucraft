@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations sur les <mark style="color:green;">**bonbons**</mark>.
+description: Retrouvez ici toutes les informations sur les bonbons.
 ---
 
 # 🍬 Les <mark style="color:green;">**bonbons**</mark>
