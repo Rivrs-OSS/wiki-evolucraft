@@ -67,7 +67,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Bonus à l'achat : <mark style="color:blue;">**1 Clé Rubis 🗝️**</mark>
 * Accès aux <mark style="color:blue;">**aventages du grade précédent ✨**</mark>
 
-### **🔸 Son kit : [<mark style="color:blue;">Le kit Élite 💠</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-elite)**
+#### **🔸 Son kit : [<mark style="color:blue;">Le kit Élite 💠</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#le-kit-elite)**
 
 ### <mark style="color:red;">💞 Légende 💞</mark>
 
