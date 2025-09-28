@@ -1,7 +1,5 @@
 ---
-description: >-
-  Retrouvez ici toutes les informations concernant les différents niveaux de
-  ville
+description: Retrouvez ici toutes les informations concernant les différents niveaux de ville
 ---
 
 # 🔝 Les Niveaux de Ville
