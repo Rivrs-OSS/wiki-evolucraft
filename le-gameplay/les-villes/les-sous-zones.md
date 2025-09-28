@@ -16,11 +16,11 @@ Les sous-zones sont un moyen de surclaim sa ville en définissant une région d'
 
 ### <mark style="color:green;">Étape 1️⃣</mark>
 **Dans <mark style="color:green;">le menu de la ville</mark>, via la commande `/ville`, tout en pensant à bien utiliser `/v select` sur la bonne ville, cliquez sur <mark style="color:green;">"Sous-Zones"</mark> comme sur l'image ci-dessous.**
-<figure><img src="../.gitbook/assets/Les_Villes/SousZone/InterfaceVilleSousZone.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/SousZone/InterfaceVilleSousZone.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 2️⃣</mark>
 **Dans <mark style="color:green;">ce menu des Sous-Zones</mark>, où vous retrouverez toutes les sous-zones de votre ville déjà créées, cliquez sur "<mark style="color:green;">Nouvelle zone</mark>", représentée par la petite gemme à droite.**
-<figure><img src="../.gitbook/assets/Les_Villes/SousZone/InterfaceSousZone.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/SousZone/InterfaceSousZone.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 3️⃣</mark>
 
@@ -30,7 +30,7 @@ Les sous-zones sont un moyen de surclaim sa ville en définissant une région d'
 
 **Cela vous permettra de créer <mark style="color:green;">une zone cubique délimitée par un point A et un point B</mark>.**
 
-<figure><img src="../.gitbook/assets/Les_Villes/SousZone/Selection.png" alt=""><figcaption><p><strong>_La visualisation des délimitations de la zone n'est pas issue de ce plugin_</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/SousZone/Selection.png" alt=""><figcaption><p><strong>_La visualisation des délimitations de la zone n'est pas issue de ce plugin_</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 🔎 <mark style="color:green;">**Remarque**</mark> : Lorsque vous sélectionnez vos deux points, des particules s'afficheront pour vous montrer la délimitation de la zone effectuée, ce qui vous permet de vérifier si la sélection vous convient.
