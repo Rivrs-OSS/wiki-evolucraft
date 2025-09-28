@@ -86,7 +86,7 @@ Augmente l’<mark style="color:green;">argent</mark> gagné par action.
 
 ### 🔸 Les compagnons 🐾  
 Les <mark style="color:green;">compagnons</mark> vous proposent, pour certains, à partir d'un certain levels, des <mark style="color:green;">bonus de métiers</mark> (xp ou revenus).  
-Consultez le <mark style="color:green;">`/pokedex`</mark> ou la page dédiée : [<mark style="color:green;">Les Compagnons</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnon).  
+Consultez le <mark style="color:green;">`/pokedex`</mark> ou la page dédiée : [<mark style="color:green;">Les Compagnons</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons).  
 
 ### 🔸 L'évènement FARM BOOST 💱  
 Cet évènement temporaire offre des <mark style="color:green;">bonus de gains</mark> sur certains métiers.  
