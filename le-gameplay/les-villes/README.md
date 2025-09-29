@@ -79,8 +79,8 @@ Dans ce menu Divers, vous pouvez trouver l’aspect visuel ainsi que les informa
 * <mark style="color:green;">**Nom de votre ville 🚩**</mark> : Permet de changer le nom de votre ville 
 * <mark style="color:green;">**Description de votre ville 📜**</mark> : Permet de changer la description de votre ville 
 * <mark style="color:green;">**Invitations 📧**</mark> : Permet d'envoyer ou de supprimer une invitation d'adhésion à la ville. _(Seuls les joueurs ayant la permission "Inviter des Joueurs" peuvent y accéder)_ 
-* <mark style="color:green;">**Taxes et Impôts 🧾**</mark> : Permet de voir la taxe payée par la banque de la ville et les impôts que vous payez 
-* <mark style="color:green;">**Limites 🚦**</mark> : Permet de vérifier les limites de blocs par chunk imposées par le serveur 
+* <mark style="color:green;">**Impôts 🧾**</mark> : Permet de voir les impôts que vous payez dans la ville que vous avez selectionner.
+* <mark style="color:green;">**Limites 🚦**</mark> : Permet de vérifier les limites de blocs par chunk imposées par le serveur, consultables également avec la commande `/limites`
 * <mark style="color:green;">**Historique ⏪**</mark> : Permet de voir les interactions réalisées dans la ville (arrivée d’un joueur, retrait d’un joueur, infos de la banque de la ville, etc.) 
 * <mark style="color:green;">**Banque 💰**</mark> : Permet de gérer (pour déposer ou retirer) l'argent dans la banque de la ville. 
 * <mark style="color:green;">**Couleur du Chat Ville 🎨**</mark> : Permet de changer la couleur de votre tchat de ville entre <mark style="color:green;">Vert</mark>, <mark style="color:blue;">Bleu</mark> et <mark style="color:purple;">Violet/Rose</mark>.
