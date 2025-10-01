@@ -12,7 +12,7 @@ Evolucraft est un serveur survie/semi-rp qui évolue pour offrir une expérience
 
 Dans cette nouvelle version, nous conservons les bases de l'ancienne tout en ajoutant une dimension MMORPG pour enrichir votre aventure.&#x20;
 
-Plongez dans notre monde créé sur la version de Minecraft, la 1.20.4 à la 1.21.1, avec un pack de ressources exclusif qui apporte de nouvelles fonctionnalités telles que des GUIs, des fournitures, des monstres et des minerais.
+Plongez dans notre monde créé sur [la version de Minecraft 1.21.8](https://wiki.evolucraft.fr/tuto-et-astuce/rejoindre-serveur-1_21_8), avec un pack de ressources exclusif qui apporte de nouvelles fonctionnalités telles que des GUIs, des fournitures, des monstres et des minerais.
 
 ## <mark style="color:green;">Lore Général</mark>&#x20;
 
