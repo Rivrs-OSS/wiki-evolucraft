@@ -10,7 +10,7 @@
 
 ## 💡 TUTO ET ASTUCE
 
-* [🎫 Rejoindre le serveur](tuto-et-astuce/rejoindre-serveur-1_20_4.md)
+* [🎫 Rejoindre le serveur](tuto-et-astuce/rejoindre-serveur-1_21_8.md)
 * [🖼️ Problème de pack de ressource](tuto-et-astuce/pb-pack.md)
 * [♒ Problème de barre de boss](tuto-et-astuce/pb-bossbar.md)
 * [🏙️ Être dans une ville](tuto-et-astuce/creer-une-ville.md)
