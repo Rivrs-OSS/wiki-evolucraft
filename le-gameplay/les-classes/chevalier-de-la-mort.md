@@ -132,6 +132,15 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td>Forge</td>
   </tr>
   <tr>
+    <td><mark style="color:yellow;">Épée des morts Légendaire</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>    
+    <td>Caisse Jackpot</td>
+  </tr>
+  <tr>
     <td><mark style="color:blue;">Épée des morts Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>   
     <td>
