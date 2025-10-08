@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant le mariage
 
 Pour pouvoir vous marier, il faut d'abord atteindre le <mark style="color:green;">**rang Valeureux**</mark> ! Ensuite, vous pouvez vous marier avec une personne consentante. (Et non monsieur Seguin, vous ne pouvez pas vous marier avec votre chèvre !🐐)
 
-Lorsque le rang est atteint, il faut se diriger vers un <mark style="color:green;">**modérateur**</mark> afin qu'il puisse vous unir. 
+Lorsque le rang est atteint, il faut se diriger vers un <mark style="color:green;">**guide ou plus haut gradé**</mark> afin qu'il puisse vous unir. 
 
 __Voici les commandes :__
 
@@ -18,7 +18,8 @@ __Voici les commandes :__
 - <mark style="color:green;">`/marry home`</mark> -> pour se téléporter au home 🏠
 - <mark style="color:green;">`/marry msg <...>`</mark> -> pour envoyer un message dans le chat du couple 💬
 
+{% hint style="warning" %}
 ⚠️ Si vous souhaitez vous divorcer de votre moitié, il faut vous diriger vers un modérateur.
-
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/Mariage/Screen_mariage.png" alt=""><figcaption></figcaption></figure>
