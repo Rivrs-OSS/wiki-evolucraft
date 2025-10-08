@@ -238,7 +238,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡 Force +25</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
+     <p><mark style="color:orange;">❤️ Vie +56</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
   </tr>

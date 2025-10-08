@@ -59,7 +59,7 @@ Pendant ce temps, tout les dégâts reçus sont absorbés et convertis en soins.
 * <mark style="color:red;">**Mana**</mark>**:** 100
 * <mark style="color:red;">**Dégâts**</mark>**:**  62,3 + 311,6
 
-### 🔸 <mark style="color:red;">**Niveau 30 : Nécrophage **</mark>
+### 🔸 <mark style="color:red;">**Niveau 30 : Nécrophage**</mark>
 
 Faites tourner votre Nécrophage dans un vortex mortel, soulevant légèrement les ennemis en l'air au contact.
 À la fin de la compétence, invoquez des griffes nécrotiques pour trancher les ennemis proches et soignez-vous en fonction du nombre d'ennemis touchés. Les ennemis sont repoussées et ralentis.
@@ -130,6 +130,15 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>    
     <td>Forge</td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Épée des morts Légendaire</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>    
+    <td>Caisse Jackpot</td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Épée des morts Summer</mark></td>

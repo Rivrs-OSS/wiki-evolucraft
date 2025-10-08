@@ -23,8 +23,6 @@ Voter pour le serveur vous permets de contribuer au serveur en plus de votre pr�
 **⚠️ Attention : si plusieurs joueurs jouent sur la même connexion internet, chacun doit utiliser une connexion différente, par exemple en utilisant les données mobiles.**
 {% endhint %}
 
-Voici ton texte corrigé avec les mots importants en **gras** et en <mark style="color:green;">vert</mark> :
-
 ## 💠 Que peut-on gagner en étant dans le <mark style="color:green;">**classement vote du mois**</mark> ? 🏆
 
 À chaque fin de mois, un <mark style="color:green;">**classement**</mark> est publié dans le channel [<mark style="color:green;">**`#🥇・classements`**</mark>](https://discord.com/channels/699670538737418343/1063147838965547138), affichant les <mark style="color:green;">**joueurs ayant voté le plus de fois**</mark> durant le mois.  
