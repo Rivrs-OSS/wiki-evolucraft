@@ -42,7 +42,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Cochon</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/cochon.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/cochon.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:green;"><strong>Passif 🐔</strong></mark></p>
@@ -55,7 +55,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Mouton</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/mouton.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/mouton.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:green;"><strong>Passif 🐔</strong></mark></p>
@@ -68,7 +68,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Poule</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/poule.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/poule.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:green;"><strong>Passif 🐔</strong></mark></p>
@@ -83,7 +83,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Lapin</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/lapin.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/lapin.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:green;"><strong>Passif 🐔</strong></mark></p>
@@ -96,7 +96,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Tortue</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/tortue.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/tortue.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:green;"><strong>Passif 🐔</strong></mark></p>
@@ -107,7 +107,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Grenouille</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/grenouille.gif" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/grenouille.gif" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:green;"><strong>Passif 🐔</strong></mark></p>
@@ -118,7 +118,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Ours Polaire</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/ourspolaire.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/ourspolaire.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:green;"><strong>Passif 🐔</strong></mark></p>
@@ -131,7 +131,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Champimeuh</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/champimeuh.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/champimeuh.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:green;"><strong>Passif 🐔</strong></mark></p>
@@ -142,7 +142,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Enderman</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/enderman.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/enderman.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -157,7 +157,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Blaze</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/blaze.gif" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/blaze.gif" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -176,7 +176,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Zombie</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/zombie.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/zombie.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -196,7 +196,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Squelette</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/squelette.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/squelette.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -215,7 +215,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Creeper</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/creeper.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/creeper.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -232,7 +232,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Piglin Zombifié</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/pigmen.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/pigmen.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -248,7 +248,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Cube de Magma</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/magmacube.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/magmacube.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -260,7 +260,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Gardien</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/gardien.gif" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/gardien.gif" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -275,7 +275,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Dauphin</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/dauphin.gif" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/dauphin.gif" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -286,7 +286,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Sorcière</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/sorciere.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/sorciere.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -300,7 +300,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Hoglin</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/hoglin.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/hoglin.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -314,7 +314,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Bonhomme de Neige</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/snowgolem.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/snowgolem.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -326,7 +326,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Zombie Momifié</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/zombiemomie.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/zombiemomie.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -339,7 +339,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Vindicateur</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/vindicateur.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/vindicateur.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -350,7 +350,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Slime</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/Ama.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/Ama.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -361,7 +361,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Poulpe</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/poulpe.gif" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/poulpe.gif" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -372,7 +372,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Poulpe Scintillant</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/glowsquid.gif" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/glowsquid.gif" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -383,7 +383,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Araignée</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/araignée.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/araignée.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -396,7 +396,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Golem de Fer</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/golemdefer.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/golemdefer.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
@@ -412,7 +412,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Araignée Venimeuse</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/araigneevenimeuse.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/araigneevenimeuse.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:red;"><strong>Agressif 🐍</strong></mark></p>
