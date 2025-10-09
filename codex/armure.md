@@ -1,24 +1,24 @@
 ---
-description: Retrouvez ici toutes la liste de tout les armures présents sur le serveur.
+description: Retrouvez ici toutes la liste de tout les Armure présents sur le serveur.
 ---
 
-# 🥼 Les Armures
+# 🥼 Les Armure
 
 ## 💠 <mark style="color:green;">Quelques informations... ?</mark> 📃
 
-Les <mark style="color:green;">**armures customs**</mark>, offrent bien plus qu’une simple protection. En plus de réduire les <mark style="color:green;">**dégâts des mobs**</mark> grâce à leurs <mark style="color:green;">**enchantements vanilla**</mark>, elles procurent des <mark style="color:green;">**statistiques de classe supplémentaires**</mark>, vous rendant plus résistant face aux ennemis.
+Les <mark style="color:green;">**Armure customs**</mark>, offrent bien plus qu’une simple protection. En plus de réduire les <mark style="color:green;">**dégâts des mobs**</mark> grâce à leurs <mark style="color:green;">**enchantements vanilla**</mark>, elles procurent des <mark style="color:green;">**statistiques de classe supplémentaires**</mark>, vous rendant plus résistant face aux ennemis.
 
 Également, les différentes <mark style="color:green;">**pièces d’armure**</mark> vous permettent de compléter votre <mark style="color:green;">**/collection**</mark> afin d’obtenir un <mark style="color:green;">**tag exclusif**</mark> lorsque la <mark style="color:green;">**collection complète**</mark> a été réunie. Cela ajoute un objectif supplémentaire pour les joueurs souhaitant <mark style="color:green;">**collectionner et se démarquer**</mark> sur le serveur.
 
-Ces armures sont trouvables dans différentes [<mark style="color:green;">**caisses du serveur**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses), lors des <mark style="color:green;">**événements temporaires**</mark>, Le [<mark style="color:green;">**Marché Noir**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir) ou encore [<mark style="color:green;">**l'hôtel de vente**</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Ces Armure sont trouvables dans différentes [<mark style="color:green;">**caisses du serveur**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses), lors des <mark style="color:green;">**événements temporaires**</mark>, Le [<mark style="color:green;">**Marché Noir**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir) ou encore [<mark style="color:green;">**l'hôtel de vente**</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-## 💠 <mark style="color:green;">Liste des armures existantes ?</mark> 📑
+## 💠 <mark style="color:green;">Liste des Armure existantes ?</mark> 📑
 
 ### 🎲 Armure Jackpot
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Les <mark style="color:green;">pièces d'armures Jackpot</mark> ne sont <mark style="color:green;">plus obtenable actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'Armure Jackpot</mark> ne sont <mark style="color:green;">plus obtenable actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
 
@@ -30,10 +30,10 @@ Les <mark style="color:green;">pièces d'armures Jackpot</mark> ne sont <mark st
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Test/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Test/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Test/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Test/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -94,7 +94,7 @@ Les <mark style="color:green;">pièces d'armures Jackpot</mark> ne sont <mark st
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Test/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
       <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
@@ -120,10 +120,10 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtient dan
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconique/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconique/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconique/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconique/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -178,7 +178,7 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtient dan
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconique/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
       <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+8</strong></p>
@@ -205,10 +205,10 @@ Les <mark style="color:orange;">pièces d'armures Draconnier</mark> s'obtient da
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconnier/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconnier/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconnier/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconnier/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -263,7 +263,7 @@ Les <mark style="color:orange;">pièces d'armures Draconnier</mark> s'obtient da
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Draconnier/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
       <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
@@ -290,10 +290,10 @@ Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dan
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Abyssal/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Abyssal/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Abyssal/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Abyssal/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -348,7 +348,7 @@ Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dan
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Jackpot/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
       <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
@@ -375,10 +375,10 @@ Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennen
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Conquistador/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Conquistador/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Conquistador/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Conquistador/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -433,7 +433,7 @@ Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennen
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Conquistador/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
       <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+8</strong></p>
@@ -458,10 +458,10 @@ Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent d
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Minuit/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Minuit/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Minuit/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Minuit/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -516,7 +516,7 @@ Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent d
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Minuit/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
       <p>● <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+40</strong></p>
@@ -543,10 +543,10 @@ Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/PereNoel/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/PereNoel/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/PereNoel/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/PereNoel/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -601,7 +601,7 @@ Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/PereNoel/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
       <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+16</strong></p>
@@ -626,10 +626,10 @@ Les <mark style="color:green;">pièces d'armures Elfes</mark> ne sont <mark styl
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Elfes/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Elfes/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Elfes/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Elfes/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -684,7 +684,7 @@ Les <mark style="color:green;">pièces d'armures Elfes</mark> ne sont <mark styl
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Elfes/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
       <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+1</strong></p>
@@ -709,10 +709,10 @@ Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dan
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Cupidon/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Cupidon/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Cupidon/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Cupidon/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -767,7 +767,7 @@ Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dan
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Cupidon/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
       <p>● <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+1</strong></p>
@@ -792,10 +792,10 @@ Les <mark style="color:green;">pièces d'armures Amour</mark> ne sont <mark styl
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Amour/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Amour/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Amour/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Amour/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -846,7 +846,7 @@ Les <mark style="color:green;">pièces d'armures Amour</mark> ne sont <mark styl
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Amour/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
     </td>
@@ -870,10 +870,10 @@ Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent 
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Leprechaun/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Leprechaun/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Leprechaun/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Leprechaun/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -924,7 +924,7 @@ Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent 
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Leprechaun/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
     </td>
@@ -948,10 +948,10 @@ Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Legendaire/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Legendaire/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Legendaire/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Legendaire/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -1014,7 +1014,7 @@ Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Legendaire/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+180</strong></p>
       <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+64</strong></p>
@@ -1041,10 +1041,10 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent 
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Lapin/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Lapin/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Lapin/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Lapin/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -1099,7 +1099,7 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent 
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Lapin/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
       <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+20</strong></p>
@@ -1126,10 +1126,10 @@ Les <mark style="color:green;">pièces d'armures Pâques</mark> ne sont <mark st
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Paques/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Paques/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Paques/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Paques/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -1184,7 +1184,7 @@ Les <mark style="color:green;">pièces d'armures Pâques</mark> ne sont <mark st
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Paques/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
       <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p>
@@ -1211,10 +1211,10 @@ Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Summer/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Summer/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Summer/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Summer/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -1269,7 +1269,7 @@ Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Summer/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
       <p>● <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+16</strong></p>
@@ -1294,10 +1294,10 @@ Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennen
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Archeologue/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Archeologue/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Archeologue/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Archeologue/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -1352,7 +1352,7 @@ Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennen
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Archeologue/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
       <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
