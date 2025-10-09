@@ -184,7 +184,7 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtient dan
       <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+8</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les [<mark style="color:green;"><strong>Donjons Draconiques</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique).
+      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique"><mark style="color:green;"><strong>Donjons Draconiques</strong></mark></a>
     </td>
   </tr>
 </table>
@@ -269,7 +269,7 @@ Les <mark style="color:orange;">pièces d'armures Draconnier</mark> s'obtient da
       <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 1%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les [<mark style="color:green;"><strong>Donjons Draconiques</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)
+      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 1%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique"><mark style="color:green;"><strong>Donjons Draconiques</strong></mark></a>
     </td>
   </tr>
 </table>
@@ -354,7 +354,7 @@ Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dan
       <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les [<mark style="color:green;"><strong>Donjons Abysseaux</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal)
+      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal"><mark style="color:green;"><strong>Donjons Abysseaux</strong></mark></a>
     </td>
   </tr>
 </table>
@@ -1105,7 +1105,7 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent 
       <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+20</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les [<mark style="color:green;"><strong>Donjons Fabriques du Chocolat</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)
+      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat"><mark style="color:green;"><strong>Donjons Fabriques Du Chocolat</strong></mark></a>
     </td>
   </tr>
 </table>
@@ -1190,7 +1190,7 @@ Les <mark style="color:green;">pièces d'armures Pâques</mark> ne sont <mark st
       <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les [<mark style="color:green;"><strong>Donjons Terriers du Roi Lapin/</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin)
+      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin"><mark style="color:green;"><strong>Donjons Terriers du Roi Lapin</strong></mark></a>
     </td>
   </tr>
 </table>
