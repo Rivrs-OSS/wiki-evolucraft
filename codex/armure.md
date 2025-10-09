@@ -30,10 +30,10 @@ Les <mark style="color:green;">pièces d'armures Jackpot</mark> ne sont <mark st
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Jackpot/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Jackpot/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Jackpot/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Jackpot/Bottes.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Bottes.png" alt=""></figure></td>
   </tr>
   <tr>
     <td>
@@ -94,7 +94,7 @@ Les <mark style="color:green;">pièces d'armures Jackpot</mark> ne sont <mark st
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Jackpot/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armures/Test/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
       <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
