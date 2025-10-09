@@ -27,7 +27,7 @@ Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le se
   <tr>
     <td align="center">
       <p><mark style="color:red;"><strong>Vache</strong></mark></p>
-      <p></p><figure><img src="../../.gitbook/assets/Codex/Spawner/vache.png" alt=""></figure></p>
+      <p></p><figure><img src="../.gitbook/assets/Codex/Spawner/vache.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:green;"><strong>Passif 🐔</strong></mark></p>
