@@ -33,10 +33,10 @@ Les <mark style="color:orange;">pièces d'armures Draconnier</mark> s'obtient da
     <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
   </tr>
   <tr>
-   <td align="center"><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt=""><figcaption></figcaption></figure></div><div><figure></td>
-   <td align="center"><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt=""><figcaption></figcaption></figure></div><div><figure></td>
-   <td align="center"><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt=""><figcaption></figcaption></figure></div><div><figure></td>
-   <td align="center"><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt=""><figcaption></figcaption></figure></div><div><figure></td>  
+   <td align="center"><figure><img src="../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt=""><figcaption></figcaption></figure></div><div><figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt=""><figcaption></figcaption></figure></div><div><figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt=""><figcaption></figcaption></figure></div><div><figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt=""><figcaption></figcaption></figure></div><div><figure></td>  
   </tr>
   <tr>
     <td>
