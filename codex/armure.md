@@ -109,7 +109,7 @@ Les <mark style="color:green;">pièces d'Armure Jackpot</mark> ne sont <mark sty
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtient dans la [<mark style="color:green;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique).
+Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:green;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique).
 
 #### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
 
@@ -194,7 +194,7 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtient dan
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Les <mark style="color:orange;">pièces d'armures Draconnier</mark> s'obtient dans le [<mark style="color:orange;"><strong>Marché Noir 🧥</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique) avec les <mark style="color:orange;">Coeurs de Dragons</mark>.
+Les <mark style="color:orange;">pièces d'armures Draconnier</mark> s'obtiennent dans le [<mark style="color:orange;"><strong>Marché Noir 🧥</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique) avec les <mark style="color:orange;">Coeurs de Dragons</mark>.
 
 #### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
 
