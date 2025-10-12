@@ -105,6 +105,97 @@ Les <mark style="color:green;">pièces d'Armure Jackpot</mark> ne sont <mark sty
   </tr>
 </table>
 
+### 🎰✨ Armure Jackpot Shiny
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Les <mark style="color:green;">pièces d'Armure Jackpot Shiny</mark> ne sont <mark style="color:green;">plus obtenable actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+
+#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
+    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
+    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
+    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+  </tr>
+  <tr>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Casque.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Plastron.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Pantalon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Bottes.png" alt=""></figure></td>
+  </tr>
+  <tr>
+    <td>
+      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+    </td>
+    <td>
+      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+    </td>
+    <td>
+      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+    </td>
+    <td>
+      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+    </td>
+    <td>
+      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+    </td>
+    <td>
+      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+    </td>
+    <td>
+      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+    </td>
+  </tr>
+</table>
+
+</table>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
+    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
+    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+  </tr>
+  <tr>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Complet.png" alt=""></figure></td>
+    <td>
+      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
+      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
+      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
+    </td>
+    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></td>
+  </tr>
+</table>
+      
 ### 🐉 Armure Draconique 
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
