@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici le tuto pour savoir comment créer une publicité dans le /pub
+description: Retrouvez ici le tuto pour savoir comment voter pour le serveur !
 ---
 # 📩 Comment voter sur le serveur ?
 

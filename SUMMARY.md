@@ -87,7 +87,8 @@
 ## 🔍 LE CODEX
 
 * [❔ Les Commandes](codex/commandes.md)
-* [🐾 Les spawners](codex/spawner.md)
+* [🐾 Les Spawners](codex/spawner.md)
+* [🥼 Les Armures](codex/armure.md)
 * [🥚 Les Compagnons](codex/les-compagnons/README.md)
   * [🍬 Les Bonbons](codex/les-compagnons/bonbon-tableau.md)
   * [🐸 Compagnon Commun](codex/les-compagnons/pets-communs.md)
