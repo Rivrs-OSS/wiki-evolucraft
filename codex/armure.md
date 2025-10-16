@@ -14,20 +14,20 @@ Ces Armure sont trouvables dans différentes [<mark style="color:green;">**caiss
 
 ## 💠 <mark style="color:green;">Liste des Armure existantes ?</mark> 📑
 
-### 🎲 Armure Jackpot
+### 🎲◦ <mark style="color:yellow;">Armure Jackpot</mark>
 
-#### 🔹 <mark style="color:blue;"><ins>Son obtention</ins></mark> 🤔
+#### 🔹 <ins>Son obtention</ins>🤔
 
 Les <mark style="color:green;">pièces d'Armure Jackpot</mark> ne sont <mark style="color:green;">plus obtenable actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Casque.png" alt=""></figure></td>
@@ -37,52 +37,52 @@ Les <mark style="color:green;">pièces d'Armure Jackpot</mark> ne sont <mark sty
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
@@ -90,35 +90,35 @@ Les <mark style="color:green;">pièces d'Armure Jackpot</mark> ne sont <mark sty
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></td>
+    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
-### 🎰✨ Armure Jackpot Shiny
+### 🎰✨◦ <mark style="color:green;">Armure Jackpot Shiny</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
 Les <mark style="color:green;">pièces d'Armure Jackpot Shiny</mark> ne sont <mark style="color:green;">plus obtenable actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Casque.png" alt=""></figure></td>
@@ -128,52 +128,52 @@ Les <mark style="color:green;">pièces d'Armure Jackpot Shiny</mark> ne sont <ma
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
@@ -181,35 +181,35 @@ Les <mark style="color:green;">pièces d'Armure Jackpot Shiny</mark> ne sont <ma
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></td>
+    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
       
-### 🐉 Armure Draconique 
+### 🐉◦ <mark style="color:orange;"> Armure Draconique</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:green;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique).
+Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Casque.png" alt=""></figure></td>
@@ -219,82 +219,82 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent 
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+8</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+8</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique"><mark style="color:green;"><strong>Donjons Draconiques</strong></mark></a>
+      <mark style="color:orange;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:orange;"><strong>+ 2.5%</strong></mark> de <mark style="color:orange;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique"><mark style="color:orange;"><strong>Donjons Draconiques</strong></mark></a>
     </td>
   </tr>
 </table>
 
-### 🐲 Armure Draconnier 
+### 🐲◦ <mark style="color:red;">Armure Draconnier</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:orange;">pièces d'armures Draconnier</mark> s'obtiennent dans le [<mark style="color:orange;"><strong>Marché Noir 🧥</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique) avec les <mark style="color:orange;">Coeurs de Dragons</mark>.
+Les <mark style="color:green;">pièces d'armures Draconnier</mark> s'obtiennent dans le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique) avec les <mark style="color:green;">Coeurs de Dragons</mark>.
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Casque.png" alt=""></figure></td>
@@ -304,82 +304,82 @@ Les <mark style="color:orange;">pièces d'armures Draconnier</mark> s'obtiennent
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 1%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique"><mark style="color:green;"><strong>Donjons Draconiques</strong></mark></a>
+      <mark style="color:red;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:red;"><strong>+ 1%</strong></mark> de <mark style="color:red;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique"><mark style="color:red;"><strong>Donjons Draconiques</strong></mark></a>
     </td>
   </tr>
 </table>
 
-### 🌊 Armure Abyssal
+### 🌊◦ <mark style="color:blue;">Armure Abyssal</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dans la [<mark style="color:green;">caisse Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal).
+Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Casque.png" alt=""></figure></td>
@@ -389,82 +389,82 @@ Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dan
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal"><mark style="color:green;"><strong>Donjons Abysseaux</strong></mark></a>
+      <mark style="color:blue;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:blue;"><strong>+ 2.5%</strong></mark> de <mark style="color:blue;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal"><mark style="color:blue;"><strong>Donjons Abysseaux</strong></mark></a>
     </td>
   </tr>
 </table>
 
-### 🏴‍☠️ Armure Conquistador 
+### 🏴‍☠️◦ <mark style="color:yellow;">Armure Conquistador</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
 Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennent dans la [<mark style="color:green;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Casque.png" alt=""></figure></td>
@@ -474,80 +474,80 @@ Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennen
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+8</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+8</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></td>
+    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
-### 🌛 Armure de Minuit 
+### 🌛◦ <mark style="color:blue;">Armure de Minuit 
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent dans la [<mark style="color:green;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween).
+Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Casque.png" alt=""></figure></td>
@@ -557,82 +557,82 @@ Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent d
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>● <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+40</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
+      <p>🞄 <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+40</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 0.5%</strong></mark> de <mark style="color:green;"><strong>Vol de vie</strong></mark> dans <mark style="color:green;"><strong>Tout types de Donjons</strong></mark>
+      <mark style="color:blue;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:blue;"><strong>+ 0.5%</strong></mark> de <mark style="color:blue;"><strong>Vol de vie</strong></mark> dans <mark style="color:blue;"><strong>Tout types de Donjons</strong></mark>
     </td>
   </tr>
 </table>
 
-### 🎅 Armure Père Noël 
+### 🎅◦ <mark style="color:red;">Armure Père Noël</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
 Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent dans la [<mark style="color:green;">caisse Givrée</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Casque.png" alt=""></figure></td>
@@ -642,80 +642,80 @@ Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:red;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+16</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+16</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></td>
+    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
-### 🧚‍♂️ Armure Elfes 
+### 🧚‍♂️◦ <mark style="color:green;">Armure Elfes</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
 Les <mark style="color:green;">pièces d'armures Elfes</mark> ne sont <mark style="color:green;">plus obtenables actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Casque.png" alt=""></figure></td>
@@ -725,80 +725,80 @@ Les <mark style="color:green;">pièces d'armures Elfes</mark> ne sont <mark styl
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
-      <p>● <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+1</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+1</strong></p>
     </td>
     <td><mark style="color:green;"><strong>Effet avec l'armure complète équiper</strong></mark> : Vous permet <mark style="color:green;"><strong>d'effectuer un Double Saut</strong></mark> _(Touche de Saut + Touche de Sneak)_</td>
   </tr>
 </table>
 
-### 💘 Armure Cupidon 
+### 💘◦ <mark style="color:yellow;">Armure Cupidon</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dans la [<mark style="color:green;">caisse Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-cupidon).
+Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-cupidon).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Casque.png" alt=""></figure></td>
@@ -808,80 +808,80 @@ Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dan
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>● <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+1</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+1</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></td>
+    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
-### 🩷 Armure Amour
+### 🩷 ◦ <mark style="color:white;">Armure Amour</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
 Les <mark style="color:green;">pièces d'armures Amour</mark> ne sont <mark style="color:green;">plus obtenables actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Casque.png" alt=""></figure></td>
@@ -891,75 +891,75 @@ Les <mark style="color:green;">pièces d'armures Amour</mark> ne sont <mark styl
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></td>
+    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
-### 🍀 Armure Leprechaun 
+### 🍀◦ <mark style="color:green;">Armure Leprechaun</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
 Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse St-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Casque.png" alt=""></figure></td>
@@ -969,75 +969,75 @@ Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent 
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
     </td>
     <td><mark style="color:green;"><strong>Effet par pièce d'armure équiper/avec l'armure complète équiper</strong></mark> : <mark style="color:green;"><strong>+ 50$</strong></mark> pour <mark style="color:green;"><strong>Chaque ennemie tuée</strong></mark> dans les <mark style="color:green;"><strong>Tout types de Donjons</strong></mark></td>
   </tr>
 </table>
 
-### 🌠 Armure Légendaire 
+### 🌠◦ <mark style="color:white;">Armure Légendaire</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent dans la [<mark style="color:green;">caisse Jackpot</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot).
+Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Jackpot</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Casque.png" alt=""></figure></td>
@@ -1047,90 +1047,90 @@ Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:white;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+180</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+64</strong></p>
-      <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+24</strong></p>
-      <p>● <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+24</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+180</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+64</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+24</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+24</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></td>
+    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
-### 🐇 Armure Lapin 
+### 🐇◦ <mark style="color:blue;">Armure Lapin</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:green;">caisse Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques).
+Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Casque.png" alt=""></figure></td>
@@ -1140,82 +1140,82 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent 
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:blue;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+20</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+20</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat"><mark style="color:green;"><strong>Donjons Fabriques Du Chocolat</strong></mark></a>
+      <mark style="color:blue;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:blue;"><strong>+ 2.5%</strong></mark> de <mark style="color:blue;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat"><mark style="color:blue;"><strong>Donjons Fabriques Du Chocolat</strong></mark></a>
     </td>
   </tr>
 </table>
 
-### 🥚 Armure Pâques
+### 🥚 ◦ <mark style="color:yellow;">Armure Pâques</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
 Les <mark style="color:green;">pièces d'armures Pâques</mark> ne sont <mark style="color:green;">plus obtenables actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Casque.png" alt=""></figure></td>
@@ -1225,82 +1225,82 @@ Les <mark style="color:green;">pièces d'armures Pâques</mark> ne sont <mark st
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
-      <p>● <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
+      <p>🞄 <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p>
     </td>
     <td>
-      <mark style="color:green;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:green;"><strong>+ 2.5%</strong></mark> de <mark style="color:green;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin"><mark style="color:green;"><strong>Donjons Terriers du Roi Lapin</strong></mark></a>
+      <mark style="color:yellow;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:yellow;"><strong>+ 2.5%</strong></mark> de <mark style="color:yellow;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin"><mark style="color:yellow;"><strong>Donjons Terriers du Roi Lapin</strong></mark></a>
     </td>
   </tr>
 </table>
 
-### 🏖️ Armure Summer 
+### 🏖️◦ <mark style="color:yellow;">Armure Summer</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans la [<mark style="color:green;">caisse Summer</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer).
+Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Summer</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Casque.png" alt=""></figure></td>
@@ -1310,80 +1310,80 @@ Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
-      <p>● <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+16</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
+      <p>🞄 <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+16</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></td>
+    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
-### 🦴 Armure Archéologue 
+### 🦴◦ <mark style="color:yellow;">Armure Archéologue</mark>
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennent dans la [<mark style="color:green;">caisse Antique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique).
+Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Antique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique).
 
-#### 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+#### 🔹 <ins>Son aperçue</ins>🔍
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Casque</strong></mark></td>
-    <td><mark style="color:green;"><strong>Plastron</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pantalon</strong></mark></td>
-    <td><mark style="color:green;"><strong>Bottes</strong></mark></td>    
+    <td align="center"><ins><strong>Casque</strong></ins></td>
+    <td align="center"><ins><strong>Plastron</strong></ins></td>
+    <td align="center"><ins><strong>Pantalon</strong></ins></td>
+    <td align="center"><ins><strong>Bottes</strong></ins></td>    
   </tr>
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Casque.png" alt=""></figure></td>
@@ -1393,63 +1393,63 @@ Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennen
   </tr>
   <tr>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
     </td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
     </td>
   <tr>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>● <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>● <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Aperçue de l'armure</strong></mark></td>
-    <td><mark style="color:green;"><strong>Statistiques globales</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effets</strong></mark></td>
+    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
+    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
+    <td><strong><ins>Effets</ins>✨</strong></td>
   </tr>
   <tr>
     <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Complet.png" alt=""></figure></td>
     <td>
-      <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
-      <p>● <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
+      <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
+      <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></td>
+    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
