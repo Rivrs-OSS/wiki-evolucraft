@@ -14,10 +14,10 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Nom 🏷️</strong></mark></td>
-    <td><mark style="color:green;"><strong>Enchentement 📖</strong></mark></td>
-    <td><mark style="color:green;"><strong>Durabilité 📏</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effet ✨</strong></mark></td>    
+    <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
+    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
+    <td align="center"><strong><ins>Effet</ins> ✨</strong></td>    
   </tr>
   <tr>
    <td align="center">
@@ -25,18 +25,16 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Châtiment VI</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Fléau des Arthopodes VI</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Affliage III</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Butin III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Châtiment VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fléau des Arthopodes VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Affliage III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Butin III</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -44,15 +42,13 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Pioche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Fortune III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fortune III</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>  
   <tr>
    <td align="center">
@@ -60,14 +56,12 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Hache.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficaciter VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficaciter VI</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -75,15 +69,15 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Houe.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Fortune IV</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fortune IV</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>4 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>4 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-     <p>● <mark style="color:green;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
-     <p>● <mark style="color:green;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 1X1.</p>
+     <p>🞄 <mark style="color:green;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
+     <p>🞄 <mark style="color:green;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 1X1.</p>
    </td>
   </tr>
   <tr>
@@ -92,15 +86,13 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Chance de la Mer IV</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Appât IV</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Chance de la Mer IV</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Appât IV</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>750</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>750</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>  
   <tr>
    <td align="center">
@@ -108,15 +100,13 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Pelle.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficaciter VI</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Toucher de Soi</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficaciter VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Toucher de Soi</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
@@ -124,108 +114,98 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Nom 🏷️</strong></mark></td>
-    <td><mark style="color:green;"><strong>Enchentement 📖</strong></mark></td>
-    <td><mark style="color:green;"><strong>Durabilité 📏</strong></mark></td>
-    <td><mark style="color:green;"><strong>Effet ✨</strong></mark></td>    
+    <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
+    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
+    <td align="center"><strong><ins>Effet</ins> ✨</strong></td>    
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Épée en Émeraude Shiny</strong></mark></p>
+     <p><mark style="color:green;"><strong>Épée en Émeraude</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude_Shiny/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Châtiment VI</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Fléau des Arthopodes VI</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Affliage III</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Butin III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Châtiment VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fléau des Arthopodes VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Affliage III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Butin III</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Pioche en Émeraude Shiny</strong></mark></p>
+     <p><mark style="color:green;"><strong>Pioche en Émeraude</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude_Shiny/Pioche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Fortune III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fortune III</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>  
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Hache en Émeraude Shiny</strong></mark></p>
+     <p><mark style="color:green;"><strong>Hache en Émeraude</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude_Shiny/Hache.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficaciter VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficaciter VI</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Houe en Émeraude Shiny</strong></mark></p>
+     <p><mark style="color:green;"><strong>Houe en Émeraude</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude_Shiny/Houe.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Fortune IV</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fortune IV</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>4 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>4 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-     <p>● <mark style="color:green;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
-     <p>● <mark style="color:green;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 1X1.</p>
+     <p>🞄 <mark style="color:green;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
+     <p>🞄 <mark style="color:green;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 1X1.</p>
    </td>
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Canne à pêche en Émeraude Shiny</strong></mark></p>
+     <p><mark style="color:green;"><strong>Canne à pêche en Émeraude</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude_Shiny/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Chance de la Mer IV</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Appât IV</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Chance de la Mer IV</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Appât IV</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>750</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>750</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>  
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Pelle en Émeraude Shiny</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude_Shiny/Hache.png" alt=""></figure></p>
+     <p><mark style="color:green;"><strong>Pelle en Émeraude</strong></mark></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude_Shiny/Pelle.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficaciter VI</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Toucher de Soi</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficaciter VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Toucher de Soi</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>● <mark style="color:green;"><strong>Aucun Effet Supplémentaire</strong></mark></p>
-   </td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
