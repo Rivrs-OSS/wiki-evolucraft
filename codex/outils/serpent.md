@@ -48,6 +48,7 @@ description: Retrouvez ici toutes la liste de tout les Outils disponible durant 
    <td align="center">
      <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
+   <tr>
      <p>🞄 <mark style="color:green;"><strong>Effet Dextérité</strong></mark> : Frappe 15% plus vite.</p>
   </tr>  
   <tr>
