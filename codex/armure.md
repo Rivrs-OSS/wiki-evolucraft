@@ -785,7 +785,7 @@ Les <mark style="color:green;">pièces d'armures Elfes</mark> ne sont <mark styl
   </tr>
 </table>
 
-### 💘◦ <mark style="color:yellow;">Armure Cupidon</mark>
+### 💘◦ <mark style="color:orange;">Armure Cupidon</mark>
 
 #### 🔹 <ins>Son obtention</ins>🤔
 
@@ -825,30 +825,30 @@ Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dan
     </td>
   <tr>
     <td>
-      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Respiration III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Affinité Aquatique</strong></mark></p>
     </td>
     <td>
-      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
     </td>
     <td>
-      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Furtivité Rapide III</strong></mark></p>
     </td>
     <td>
-      <p>🞄 <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>🞄 <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Agilité des Âmes III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Agilité Aquatique III</strong></mark></p>
+      <p>🞄 <mark style="color:orange;"><strong>Chute Amortie IV</strong></mark></p>
     </td>
   </tr>
 </table>
