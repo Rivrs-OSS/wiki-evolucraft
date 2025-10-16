@@ -25,14 +25,13 @@ description: Retrouvez ici toutes la liste de tout les Outils disponible durant 
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Dague.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>...</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Tranchant X</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Butin V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:green;"><strong>...</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
-   </td>
-   <td>  
-     <p>🞄 <mark style="color:green;"><strong>Effet...</strong></mark> : ...</p>
-   </td>
+     <p><mark style="color:green;"><strong>3 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   </td>   
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
     <tr>
    <td align="center">
@@ -40,14 +39,16 @@ description: Retrouvez ici toutes la liste de tout les Outils disponible durant 
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Lance.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>...</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Châtiment VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fléau des Arthopodes VI</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Affliage V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Butin V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:green;"><strong>...</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:green;"><strong>Effet...</strong></mark> : ...</p>
-   </td>
+     <p>🞄 <mark style="color:green;"><strong>Effet Dextérité</strong></mark> : Frappe 15% plus vite.</p>
   </tr>  
   <tr>
    <td align="center">
