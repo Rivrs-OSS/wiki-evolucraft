@@ -7,11 +7,11 @@ description: Retrouvez ici toutes la liste de tout les Outils Aventurier présen
 > [!CAUTION]
 > Les <mark style="color:green;">**outils de l'Aventurier**</mark> ne sont <mark style="color:green;">**pas réparables**</mark> avec le <mark style="color:green;">**`/forgeron`**</mark>, dès qu'ils <mark style="color:green;">**tombent à 0 de durabilité**</mark>, ils <mark style="color:green;">**sont alors inutilisable**</mark> à tout jamais.
 
-## 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+## 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Les <mark style="color:green;">outils de l'Aventurier</mark> s'obtiennent dans la [<mark style="color:green;">caisse Vote</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-vote).
 
-## 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+## 🔹 <mark style="color:green;">Son aperçue 🔍</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
