@@ -6,7 +6,9 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
 
 ## 🔷 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Les <mark style="color:green;">**outils HolyCube**</mark> s'obtennaient dans la <mark style="color:green;">**HolyCube**</mark> durant le <mark style="color:green;">**partenariat entre HolyCube et Évolucraft**</mark>, ces derniers <mark style="color:green;">**n'est plus disponible**</mark> sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+#### Les <mark style="color:green;">**outils HolyCube**</mark> s'obtennaient avec le <mark style="color:green;">**`/holycube`**</mark> durant le <mark style="color:green;">**partenariat entre HolyCube et Évolucraft**</mark>
+> [!WARNING]
+> Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 ## 🔷 <mark style="color:blue;">Son aperçue 🔍</mark>
 
