@@ -781,7 +781,7 @@ Les <mark style="color:green;">pièces d'armures Elfes</mark> ne sont <mark styl
       <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
       <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+1</strong></p>
     </td>
-    <td><mark style="color:green;"><strong>Effet avec l'armure complète équiper</strong></mark> : Vous permet <mark style="color:green;"><strong>d'effectuer un Double Saut</strong></mark> _(Touche de Saut + Touche de Sneak)_</td>
+    <td><mark style="color:green;"><strong>Effet avec l'armure complète équiper</strong></mark> : Vous permet <mark style="color:green;"><strong>d'effectuer un Double Saut</strong></mark> <em>(Touche de Saut + Touche de Sneak)</em></td>
   </tr>
 </table>
 
