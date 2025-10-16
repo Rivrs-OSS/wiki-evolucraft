@@ -14,9 +14,9 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:green;"><strong>Nom 🏷️</strong></mark></td>
-    <td><mark style="color:green;"><strong>Enchentement 📖</strong></mark></td>
-    <td><mark style="color:green;"><strong>Durabilité 📏</strong></mark></td>
+    <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
+    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -24,12 +24,12 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Affliage III</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Aura de Feu II</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Affliage III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Aura de Feu II</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
   </tr>
   <tr>
@@ -38,11 +38,11 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Pioche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Fortune III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fortune III</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
   </tr>  
   <tr>
@@ -51,11 +51,11 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Hache.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Fortune III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fortune III</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
   </tr>
   <tr>
@@ -64,11 +64,11 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Houe.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Fortune III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Fortune III</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
   </tr>
   <tr>
@@ -77,11 +77,11 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Chance de la Mer III</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Appât III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Chance de la Mer III</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Appât III</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
   </tr>  
   <tr>
@@ -90,11 +90,11 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Pelle.png" alt=""></figure></p>
    </td>
    <td>
-     <p>● <mark style="color:green;"><strong>Efficaciter V</strong></mark></p>
-     <p>● <mark style="color:green;"><strong>Toucher de Soi</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Efficaciter V</strong></mark></p>
+     <p>🞄 <mark style="color:green;"><strong>Toucher de Soi</strong></mark></p>
    </td>
-   <td>
-     <p>● <mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   <td align="center">
+     <p><mark style="color:green;"><strong>2 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
   </tr>
 </table>
