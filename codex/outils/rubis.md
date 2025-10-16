@@ -4,11 +4,11 @@ description: Retrouvez ici toutes la liste de tout les Outils en Rubis présents
 
 # 🔻 Outils en Rubis
 
-## 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+## 🔹 <mark style="color:red;">Son obtention 🤔</mark>
 
 Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mark style="color:green;">caisse Rubis</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-rubis).
 
-## 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+## 🔹 <mark style="color:red;">Son aperçue 🔍</mark>
 
 ### 🔹 Outils en Rubis
 
