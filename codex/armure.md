@@ -101,7 +101,7 @@ Les <mark style="color:green;">pièces d'Armure Jackpot</mark> ne sont <mark sty
       <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
       <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
     </td>
-    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
@@ -192,7 +192,7 @@ Les <mark style="color:green;">pièces d'Armure Jackpot Shiny</mark> ne sont <ma
       <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
       <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
     </td>
-    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
       
@@ -530,7 +530,7 @@ Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennen
       <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
       <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+8</strong></p>
     </td>
-    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
@@ -698,7 +698,7 @@ Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent
       <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
       <p>🞄 <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+16</strong></p>
     </td>
-    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
@@ -864,7 +864,7 @@ Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dan
       <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
       <p>🞄 <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+1</strong></p>
     </td>
-    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
@@ -942,7 +942,7 @@ Les <mark style="color:green;">pièces d'armures Amour</mark> ne sont <mark styl
     <td>
       <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
     </td>
-    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
@@ -1113,7 +1113,7 @@ Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent
       <p>🞄 <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+24</strong></p>
       <p>🞄 <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+24</strong></p>
     </td>
-    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
@@ -1366,7 +1366,7 @@ Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans
       <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
       <p>🞄 <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+16</strong></p>
     </td>
-    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
@@ -1449,7 +1449,7 @@ Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennen
       <p>🞄 <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
       <p>🞄 <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
     </td>
-    <td><strong><em>Aucun Effet Supplémentaire ❌</em></strong></td>
+    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
 </table>
 
