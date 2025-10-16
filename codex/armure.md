@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes la liste de tout les Armure présents sur le serveur.
 ---
 h1{
-color:green
+color: green;
 }
 
 # 🥼 Les Armure
