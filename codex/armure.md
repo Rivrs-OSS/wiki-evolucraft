@@ -1,9 +1,6 @@
 ---
 description: Retrouvez ici toutes la liste de tout les Armure présents sur le serveur.
 ---
-h1{
-color: green;
-}
 
 # 🥼 Les Armure
 
@@ -11,7 +8,7 @@ color: green;
 
 Les <mark style="color:green;">**Armure customs**</mark>, offrent bien plus qu’une simple protection. En plus de réduire les <mark style="color:green;">**dégâts des mobs**</mark> grâce à leurs <mark style="color:green;">**enchantements vanilla**</mark>, elles procurent des <mark style="color:green;">**statistiques de classe supplémentaires**</mark>, vous rendant plus résistant face aux ennemis.
 
-Également, les différentes <h1>**pièces d’armure**</h1> vous permettent de compléter votre <h1>**/collection**</h1> afin d’obtenir un <h1>**tag exclusif**</h1> lorsque la <h1>**collection complète**</h1> a été réunie. Cela ajoute un objectif supplémentaire pour les joueurs souhaitant <h1>**collectionner et se démarquer**</h1> sur le serveur.
+Également, les différentes <mark style="color:green;">**pièces d’armure**</mark> vous permettent de compléter votre <mark style="color:green;">**/collection**</mark> afin d’obtenir un <mark style="color:green;">**tag exclusif**</mark> lorsque la <mark style="color:green;">**collection complète**</mark> a été réunie. Cela ajoute un objectif supplémentaire pour les joueurs souhaitant <mark style="color:green;">**collectionner et se démarquer**</mark> sur le serveur.
 
 Ces Armure sont trouvables dans différentes [<mark style="color:green;">**caisses du serveur**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses), lors des <mark style="color:green;">**événements temporaires**</mark>, Le [<mark style="color:green;">**Marché Noir**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir) ou encore [<mark style="color:green;">**l'hôtel de vente**</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
