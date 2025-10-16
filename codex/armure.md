@@ -16,7 +16,7 @@ Ces Armure sont trouvables dans différentes [<mark style="color:green;">**caiss
 
 ### 🎲 Armure Jackpot
 
-#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+#### 🔹 <mark style="color:blue;"><ins>Son obtention</ins></mark> 🤔
 
 Les <mark style="color:green;">pièces d'Armure Jackpot</mark> ne sont <mark style="color:green;">plus obtenable actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
@@ -440,7 +440,7 @@ Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dan
     <td><mark style="color:green;"><strong>Effets</strong></mark></td>
   </tr>
   <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Complet.png" alt=""></figure></td>
+    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Complet.png" alt=""></figure></td>
     <td>
       <p>● <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
       <p>● <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
