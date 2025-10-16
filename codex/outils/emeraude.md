@@ -4,13 +4,13 @@ description: Retrouvez ici toutes la liste de tout les Outils en Émeraude prés
 
 # ✳️ Outils en Émeraude
 
-## 🔷 <mark style="color:blue;">Son obtention 🤔</mark>
+## 🔷 <mark style="color:green;">Son obtention 🤔</mark>
 
 Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [<mark style="color:green;">caisse Émeraude</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-emeraude).
 
-## 🔷 <mark style="color:blue;">Son aperçue 🔍</mark>
+## 🔷 <mark style="color:green;">Son aperçue 🔍</mark>
 
-### 🔹 Outils en Émeraude
+### 🔹 <ins>Outils en Émeraude</ins>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -110,7 +110,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   </tr>
 </table>
 
-### 🔹 Outils en Émeraude Shiny
+### 🔹 <ins>Outils en Émeraude Shiny</ins>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
