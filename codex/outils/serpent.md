@@ -31,7 +31,7 @@ description: Retrouvez ici toutes la liste de tout les Outils disponible durant 
    <td align="center">
      <p><mark style="color:green;"><strong>3 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>   
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
+   <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
     <tr>
    <td align="center">
