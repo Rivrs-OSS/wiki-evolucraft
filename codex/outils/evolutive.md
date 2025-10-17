@@ -245,14 +245,13 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité VII</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Bûches</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Bûches cassées</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -300,10 +299,10 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fortune II</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Bûches</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Cultures cassées</strong></mark></p>
    </td>
    <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
@@ -317,7 +316,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p>🞄 <mark style="color:yellow;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Cultures cassés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Cultures cassées</strong></mark></p>
    </td>
    <td>  
      <p>🞄 <mark style="color:yellow;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone 1X1.</p>
@@ -329,13 +328,15 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fortune IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Bûches</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Cultures cassées</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
+   <td>
+     <p>🞄 <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les cultures cassées.</p>
+     <p>🞄 <mark style="color:yellow;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone 1X1.</p>
    </td>
   </tr>
   <tr>
@@ -386,8 +387,8 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer II</strong></mark></p>
-     <p>🞄 <mark style="color:yellow;"><strong>Appât II</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Appât ...</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>350 Poissons pêchés</strong></mark></p>
@@ -400,8 +401,8 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer II</strong></mark></p>
-     <p>🞄 <mark style="color:yellow;"><strong>Appât II</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Appât ...</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>350 Poissons pêchés</strong></mark></p>
@@ -414,8 +415,8 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer II</strong></mark></p>
-     <p>🞄 <mark style="color:yellow;"><strong>Appât II</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Appât ...</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>350 Poissons pêchés</strong></mark></p>
@@ -502,13 +503,15 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
+     <p>🞄 <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les blocs cassés.</p>
+     <p>🞄 <mark style="color:yellow;"><strong>Effet Hammer</strong></mark> : Casse les blocs dans une zone 3X3.</p>
    </td>
   </tr>
   <tr>
