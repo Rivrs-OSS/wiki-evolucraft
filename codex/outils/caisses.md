@@ -336,7 +336,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:orange;"><strong>Épée de l'Archéoloque</strong></mark></p>
+     <p><mark style="color:orange;"><strong>Épée de l'Archéologue</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/Epee.png" alt=""></figure></p>
    </td>
    <td>
@@ -355,7 +355,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:orange;"><strong>Pioche de l'Archéoloque</strong></mark></p>
+     <p><mark style="color:orange;"><strong>Pioche de l'Archéologue</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/Pioche.png" alt=""></figure></p>
    </td>
    <td>
@@ -371,7 +371,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:orange;"><strong>Hache de l'Archéoloque</strong></mark></p>
+     <p><mark style="color:orange;"><strong>Hache de l'Archéologue</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/Hache.png" alt=""></figure></p>
    </td>
    <td>
@@ -386,7 +386,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:orange;"><strong>Houe de l'Archéoloque</strong></mark></p>
+     <p><mark style="color:orange;"><strong>Houe de l'Archéologue</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/Houe.png" alt=""></figure></p>
    </td>
    <td>
@@ -403,7 +403,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:orange;"><strong>Canne à Pêchede l'Archéoloque</strong></mark></p>
+     <p><mark style="color:orange;"><strong>Canne à Pêchede l'Archéologue</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
@@ -434,7 +434,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:orange;"><strong>Multi-tools de l'Archéoloque</strong></mark></p>
+     <p><mark style="color:orange;"><strong>Multi-tools de l'Archéologue</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/MultiTools.png" alt=""></figure></p>
    </td>
    <td>
