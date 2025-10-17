@@ -319,7 +319,7 @@ Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la 
   </tr>
 </table>
 
-## 🏴‍☠️◦ <mark style="color:orange;">Outils de l'Archéologue</mark>
+## 🦴◦ <mark style="color:orange;">Outils de l'Archéologue</mark>
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
