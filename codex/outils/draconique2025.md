@@ -12,8 +12,6 @@ description: Retrouvez ici toutes la liste de tout les Outils Draconique disponi
 
 ## 🔹 <mark style="color:red;">Son aperçue 🔍</mark>
 
-### 🔹 <ins>Outils en Rubis</ins>
-
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
