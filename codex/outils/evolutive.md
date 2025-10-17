@@ -119,14 +119,12 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Blocks cassés</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -137,7 +135,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks cassés</strong></mark></p>
    </td>
    <td>  
      <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
@@ -152,7 +150,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks cassés</strong></mark></p>
    </td>
    <td>  
      <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
@@ -167,7 +165,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks cassés</strong></mark></p>
    </td>
    <td>  
      <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
