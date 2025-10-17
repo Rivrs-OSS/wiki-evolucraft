@@ -80,13 +80,13 @@
 * [🎪 Les Événements](le-gameplay/les-evenements.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
-* [🦺 Les Kits](le-gameplay/les-kits.md)
 * [🧥 Le Marché Noir](le-gameplay/marche-noir.md)
 * [💒 Le Mariage](le-gameplay/le-mariage.md)
 
 ## 🔍 LE CODEX
 
 * [❔ Les Commandes](codex/commandes.md)
+* [🦺 Les Kits](codex/les-kits.md)
 * [🐾 Les Spawners](codex/spawner.md)
 * [🥼 Les Armures](codex/armure.md)
 * [🥚 Les Compagnons](codex/les-compagnons/README.md)
