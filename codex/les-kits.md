@@ -13,12 +13,12 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 ## 💠 <mark style="color:green;">Le /kit bousole 🧭</mark>
 
 * <mark style="color:green;">**1 boussole de navigation du `/menu`**</mark>
-<figure><img src="../.gitbook/assets/Menu/Kit/bousole.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Codex/Kits/bousole.png" alt=""><figcaption></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Le /kit donjon 🟩</mark>
 
 * <mark style="color:green;">**1 pierre de téléportation donjon**</mark>
-<figure><img src="../.gitbook/assets/Menu/Kit/donjon.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Codex/Kits/donjon.png" alt=""><figcaption></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Le /kit bienvenue 👋</mark>
 
@@ -38,7 +38,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:green;">**1 seau de lave**</mark>
 * <mark style="color:green;">**1 bouclier**</mark>
 
-<figure><img src="../.gitbook/assets/Menu/Kit/bienvenue.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Codex/Kits/bienvenue.png" alt=""><figcaption></figcaption></figure>
 
 > [!WARNING]
 > **Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>**.
@@ -64,7 +64,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:yellow;">**16 bûches de chêne**</mark>
 * <mark style="color:yellow;">**1 parchemin d’aventure (Rare)**</mark>
 
-<figure><img src="../.gitbook/assets/Menu/Kit/heros.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Codex/Kits/heros.png" alt=""><figcaption></figcaption></figure>
 
 > [!WARNING]
 > **Ce kit n'est obtenable qu'en ayant acheté <mark style="color:green;">un grade dans le `/grades`</mark>**.
@@ -92,7 +92,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:blue;">**24 bûches de chêne**</mark>
 * <mark style="color:blue;">**1 parchemin d’aventure (Difficile)**</mark>
 
-<figure><img src="../.gitbook/assets/Menu/Kit/elite.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Codex/Kits/elite.png" alt=""><figcaption></figcaption></figure>
 
 > [!WARNING]
 > **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:blue;">Grade Élite</mark> ou plus**.
@@ -121,7 +121,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:red;">**1 seau d’eau**</mark>
 * <mark style="color:red;">**1 seau de lave**</mark>
 
-<figure><img src="../.gitbook/assets/Menu/Kit/legende.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Codex/Kits/legende.png" alt=""><figcaption></figcaption></figure>
 
 > [!WARNING]
 > **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">Grade Légende</mark>**.
