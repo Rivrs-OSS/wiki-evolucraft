@@ -137,9 +137,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
    <td align="center">
      <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks cassés</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -147,14 +145,13 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité V</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fortune II</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks cassés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Blocks cassés</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -391,7 +388,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p>🞄 <mark style="color:yellow;"><strong>Appât ...</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>350 Poissons pêchés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Poissons pêchés</strong></mark></p>
    </td>
    <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
@@ -405,7 +402,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p>🞄 <mark style="color:yellow;"><strong>Appât ...</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>350 Poissons pêchés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Poissons pêchés</strong></mark></p>
    </td>
    <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
@@ -419,7 +416,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p>🞄 <mark style="color:yellow;"><strong>Appât ...</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>350 Poissons pêchés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Poissons pêchés</strong></mark></p>
    </td>
    <td>  
      <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
