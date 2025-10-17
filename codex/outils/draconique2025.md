@@ -2,11 +2,11 @@
 description: Retrouvez ici toutes la liste de tout les Outils Draconique disponible durant le Pass Draconique présents sur le serveur.
 ---
 
-# 🐲 Outils Draconique édition 2025
+# 🐲 Outils Draconiques édition 2025
 
 ## 🔹 <mark style="color:red;">Son obtention 🤔</mark>
 
-#### Les <mark style="color:green;">**outils Draconique**</mark> s'obtennaient dans le <mark style="color:red;">**Pass Draconique**</mark> durant la <mark style="color:orange;">**mise à jour Draconique 2.0**</mark>
+#### Les <mark style="color:green;">**outils Draconiques**</mark> s'obtennaient dans le <mark style="color:red;">**Pass Draconique**</mark> durant la <mark style="color:orange;">**mise à jour Draconique 2.0**</mark>
 > [!WARNING]
 > Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
