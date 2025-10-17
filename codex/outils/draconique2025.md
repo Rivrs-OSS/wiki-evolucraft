@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes la liste de tout les Outils Draconique disponible durant le Pass Draconique présents sur le serveur.
 ---
 
-# 🔻 Outils en Rubis
+# 🐲 Outils Draconique édition 2025
 
 ## 🔹 <mark style="color:red;">Son obtention 🤔</mark>
 
