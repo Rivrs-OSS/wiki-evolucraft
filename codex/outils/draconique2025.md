@@ -24,7 +24,7 @@ description: Retrouvez ici toutes la liste de tout les Outils Draconique disponi
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Épée Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>🞄 <mark style="color:red;"><strong>Tranchant V</strong></mark></p>
@@ -41,7 +41,7 @@ description: Retrouvez ici toutes la liste de tout les Outils Draconique disponi
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pioche Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>🞄 <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
@@ -55,7 +55,7 @@ description: Retrouvez ici toutes la liste de tout les Outils Draconique disponi
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Hache Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>🞄 <mark style="color:red;"><strong>Efficaciter VI</strong></mark></p>
@@ -68,7 +68,7 @@ description: Retrouvez ici toutes la liste de tout les Outils Draconique disponi
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Houe Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>🞄 <mark style="color:red;"><strong>Efficacité V</strong></mark></p>
@@ -85,7 +85,7 @@ description: Retrouvez ici toutes la liste de tout les Outils Draconique disponi
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Canne à pêche Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>🞄 <mark style="color:red;"><strong>Chance de la Mer IV</strong></mark></p>
@@ -99,7 +99,7 @@ description: Retrouvez ici toutes la liste de tout les Outils Draconique disponi
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pelle Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>🞄 <mark style="color:red;"><strong>Efficaciter VI</strong></mark></p>
