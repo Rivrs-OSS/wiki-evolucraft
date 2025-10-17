@@ -41,7 +41,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 <figure><img src="../.gitbook/assets/Menu/Kit/bienvenue.png" alt=""><figcaption></figcaption></figure>
 
 > [!WARNING]
-> Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>.
+> **Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>**.
 
 ## 💠 <mark style="color:yellow;">Le /kit Héros ⚜️</mark>
 
@@ -67,7 +67,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 <figure><img src="../.gitbook/assets/Menu/Kit/heros.png" alt=""><figcaption></figcaption></figure>
 
 > [!WARNING]
-> Ce kit n'est obtenable qu'en ayant acheté <mark style="color:green;">un grade dans le `/grades`</mark>.
+> **Ce kit n'est obtenable qu'en ayant acheté <mark style="color:green;">un grade dans le `/grades`</mark>**.
 
 ## 💠 <mark style="color:blue;">Le /kit Élite 💠</mark>
 
@@ -95,7 +95,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 <figure><img src="../.gitbook/assets/Menu/Kit/elite.png" alt=""><figcaption></figcaption></figure>
 
 > [!WARNING]
-> Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:blue;">grade Élite</mark> ou plus.
+> **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:blue;">Grade Élite</mark> ou plus**.
 
 ## 💠 <mark style="color:red;">Le /kit Légende 💞</mark>
 
@@ -124,7 +124,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 <figure><img src="../.gitbook/assets/Menu/Kit/legende.png" alt=""><figcaption></figcaption></figure>
 
 > [!WARNING]
-> Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">grade Légende</mark>.
+> **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">Grade Légende</mark>**.
 
 **Vous connaissez maintenant tous les kits disponibles sur Évolucraft ! 🌍**
 
