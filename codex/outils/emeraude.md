@@ -111,7 +111,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Sceptre en Émeraude</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Sceptre.png" alt=""></figure></p>
    </td>
    <td>
      <p>🞄 <mark style="color:green;"><strong>Solidité I</strong></mark></p>
