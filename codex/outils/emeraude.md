@@ -108,6 +108,21 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
    </td>
    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:green;"><strong>Sceptre en Émeraude</strong></mark></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Pelle.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>🞄 <mark style="color:green;"><strong>Solidité I</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:green;"><strong>300</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>  
+     <p>🞄 <mark style="color:green;"><strong>Effet Bâton de Vente</strong></mark> : Vend les contenu d'un coffre à un prix 20% plus chère du /shop.</p>
+   </td>
+  </tr>
 </table>
 
 ### 🔹 <ins>Outils en Émeraude Shiny</ins>
