@@ -47,7 +47,7 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous pouvez désormais ajouter des <mark style="color:green;">**avantages spéciaux**</mark> à vos outils ou armes lorsque vous les tenez en main. Cette fonctionnalité est particulièrement utile pour <mark style="color:green;">**optimiser vos performances**</mark> sans dépendre constamment de vos <mark style="color:green;">**pets à effet**</mark>. Ces bonus apportent une nouvelle dimension stratégique à votre gameplay, vous permettant d’adapter vos outils/armes à votre <mark style="color:green;">**style de jeu et vos besoins**</mark> selon la situation.
 
 > [!NOTE]
-> <mark style="color:green;"><strong>Ces items d'aventage</strong></mark> ne <mark style="color:green;"><strong>peuvent pas être appliqué</strong></mark> sur les <mark style="color:green;"><strong>différents Sceptres, <mark style="color:green;"><strong>Baton du Vent</strong></mark> ou encore <mark style="color:green;"><strong>Armures</strong></mark> (Elytre y compris). 
+> <mark style="color:green;"><strong>Ces items d'aventage</strong></mark> ne <mark style="color:green;"><strong>peuvent pas être appliqué</strong></mark> sur les <mark style="color:green;"><strong>différents Sceptres</strong></mark>, <mark style="color:green;"><strong>Baton du Vent</strong></mark> ou encore <mark style="color:green;"><strong>Armures</strong></mark> (Elytre y compris). 
 
 ### 🛡️ ◦ <mark style="color:green;">Adamantium</mark>
 <figure align="left"><img src="../.gitbook/assets/Codex/Outils/Adamantium.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium</mark></strong></p></figcaption></figure>
