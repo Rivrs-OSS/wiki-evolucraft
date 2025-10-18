@@ -42,14 +42,22 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 * 🐉 [<mark style="color:blue;"><strong>Outils Saphira</strong></mark>](https://wiki.evolucraft.fr/codex/outils/saphira)
 * ⚒️ [<mark style="color:green;"><strong>Autres Outils</strong></mark>](https://wiki.evolucraft.fr/codex/outils/?)
 
-## 💠 <mark style="color:green;">Des aventages supplémentaire ?</mark> ✨
+## 💠 <mark style="color:green;">Des aventages supplémentaire ?</mark> 😵
 
 Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous pouvez désormais ajouter des <mark style="color:green;">**avantages spéciaux**</mark> à vos outils lorsque vous les tenez en main. Cette fonctionnalité est particulièrement utile pour <mark style="color:green;">**optimiser vos performances**</mark> sans dépendre constamment de vos <mark style="color:green;">**pets à effet**</mark>. Ces bonus apportent une nouvelle dimension stratégique à votre gameplay, vous permettant d’adapter vos outils à votre <mark style="color:green;">**style de jeu et vos besoins**</mark> selon la situation.
 
-### 
+### 🛡️ ◦ <mark style="color:yellow;">Adamantium</mark>
+<figure align="left"><img src="../.gitbook/assets/Codex/Outils/Adamantium.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium</mark></strong></p></figcaption></figure>
 
+L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark style="color:green;">**outil**</mark> sur lequel il est appliqué la propriété d’être <mark style="color:green;">**incassable**</mark>. Vous n’aurez plus jamais à vous préoccuper de la <mark style="color:green;">**durabilité**</mark> de votre équipement.
 
-Leurs <mark style="color:green;">**bonus**</mark> proviennent directement des [<mark style="color:green;">**effets de Minecraft Vanilla**</mark>](https://fr.minecraft.wiki/w/Effet) et sont exclusivement <mark style="color:green;">**positifs**</mark>. Vous n’avez donc aucune crainte d'avoir comme <mark style="color:green;">**poison**</mark> sur votre <mark style="color:green;">**pioche évolutive**</mark> 😌.
+### ✨ ◦ <mark style="color:yellow;">Poussière d'Étoile</mark>
+<figure align="left"><img src="../.gitbook/assets/Codex/Outils/PoussiereEtoile.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">APoussière d'Étoile</mark></strong></p></figcaption></figure>
+
+La <mark style="color:green;">**Poussière d'Étoile**</mark> vous proccura des [<mark style="color:green;">**effets de Minecraft Vanilla**</mark>](https://fr.minecraft.wiki/w/Effet) et sont exclusivement <mark style="color:green;">**positifs**</mark>. Vous n’avez donc aucune crainte d'avoir comme <mark style="color:green;">**poison**</mark> sur votre <mark style="color:green;">**pioche évolutive**</mark> 😌.
+
+> [!WARNING]
+> L'action de l'appliquer est irréverssible. C'est à dire, qu'une fois appliqué, vous ne pouvez plus modifié son effet ni le retiré.
 
 
 
