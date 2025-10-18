@@ -20,11 +20,11 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 
 * 🤠 [<mark style="color:green;"><strong>Outils de l'Aventurier</strong></mark>](https://wiki.evolucraft.fr/codex/outils/aventurier)
 * ✳️ [<mark style="color:green;"><strong>Outils en Émeraude</strong></mark>](https://wiki.evolucraft.fr/codex/outils/emeraude)
- * 🛠️ Outils Émeraude Basique
- * ✨ Outils Émeraude Shiny
+  * 🛠️ Outils Émeraude Basique
+  * ✨ Outils Émeraude Shiny
 * 🔻 [<mark style="color:red;"><strong>Outils en Rubis</strong></mark>](https://wiki.evolucraft.fr/codex/outils/rubis)
- * 🛠️ Outils Rubis Basique
- * ✨ Outils Rubis Shiny
+  * 🛠️ Outils Rubis Basique
+  * ✨ Outils Rubis Shiny
 * 💎 [<mark style="color:blue;"><strong>Outils de l'Émérite</strong></mark>](https://wiki.evolucraft.fr/codex/outils/emerite)
 * 🛠️ [<mark style="color:yellow;"><strong>Outils des Métiers</strong></mark>](https://wiki.evolucraft.fr/codex/outils/metiers)
 * 👨‍🎓 [<mark style="color:blue;"><strong>Outils de Maître</strong></mark>](https://wiki.evolucraft.fr/codex/outils/maitre)
