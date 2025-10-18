@@ -20,11 +20,11 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 
 * 🤠 [<mark style="color:green;"><strong>Outils de l'Aventurier</strong></mark>](https://wiki.evolucraft.fr/codex/outils/aventurier)
 * ✳️ [<mark style="color:green;"><strong>Outils en Émeraude</strong></mark>](https://wiki.evolucraft.fr/codex/outils/emeraude)
-  * 🛠️ Outils Émeraude Basique
-  * ✨ Outils Émeraude Shiny
+  * 🛠️ [Outils Émeraude Basique](https://wiki.evolucraft.fr/codex/outils/emeraude#outils-en-émeraude)
+  * ✨ [Outils Émeraude Shiny](https://wiki.evolucraft.fr/codex/outils/emeraude#outils-en-émeraude-shiny)
 * 🔻 [<mark style="color:red;"><strong>Outils en Rubis</strong></mark>](https://wiki.evolucraft.fr/codex/outils/rubis)
-  * 🛠️ Outils Rubis Basique
-  * ✨ Outils Rubis Shiny
+  * 🛠️ [Outils Rubis Basique](https://wiki.evolucraft.fr/codex/outils/emeraude#outils-en-rubis)
+  * ✨ [Outils Rubis Shiny](https://wiki.evolucraft.fr/codex/outils/emeraude#outils-en-rubis-shiny)
 * 💎 [<mark style="color:blue;"><strong>Outils de l'Émérite</strong></mark>](https://wiki.evolucraft.fr/codex/outils/emerite)
 * 🛠️ [<mark style="color:yellow;"><strong>Outils des Métiers</strong></mark>](https://wiki.evolucraft.fr/codex/outils/metiers)
 * 👨‍🎓 [<mark style="color:blue;"><strong>Outils de Maître</strong></mark>](https://wiki.evolucraft.fr/codex/outils/maitre)
@@ -41,5 +41,15 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 * 🐲 [<mark style="color:red;"><strong>Outils Draconique édition 2025</strong></mark>](https://wiki.evolucraft.fr/codex/outils/draconique2025)
 * 🐉 [<mark style="color:blue;"><strong>Outils Saphira</strong></mark>](https://wiki.evolucraft.fr/codex/outils/saphira)
 * ⚒️ [<mark style="color:green;"><strong>Autres Outils</strong></mark>](https://wiki.evolucraft.fr/codex/outils/?)
+
+## 💠 <mark style="color:green;">Des aventages supplémentaire ?</mark> ✨
+
+Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous pouvez désormais ajouter des <mark style="color:green;">**avantages spéciaux**</mark> à vos outils lorsque vous les tenez en main. Cette fonctionnalité est particulièrement utile pour <mark style="color:green;">**optimiser vos performances**</mark> sans dépendre constamment de vos <mark style="color:green;">**pets à effet**</mark>. Ces bonus apportent une nouvelle dimension stratégique à votre gameplay, vous permettant d’adapter vos outils à votre <mark style="color:green;">**style de jeu et vos besoins**</mark> selon la situation.
+
+### 
+
+
+Leurs <mark style="color:green;">**bonus**</mark> proviennent directement des [<mark style="color:green;">**effets de Minecraft Vanilla**</mark>](https://fr.minecraft.wiki/w/Effet) et sont exclusivement <mark style="color:green;">**positifs**</mark>. Vous n’avez donc aucune crainte d'avoir comme <mark style="color:green;">**poison**</mark> sur votre <mark style="color:green;">**pioche évolutive**</mark> 😌.
+
 
 
