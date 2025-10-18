@@ -52,7 +52,7 @@ Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous p
 L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark style="color:green;">**outil**</mark> sur lequel il est appliqué la propriété d’être <mark style="color:green;">**incassable**</mark>. Vous n’aurez plus jamais à vous préoccuper de la <mark style="color:green;">**durabilité**</mark> de votre équipement.
 
 ### ✨ ◦ <mark style="color:yellow;">Poussière d'Étoile</mark>
-<figure align="left"><img src="../.gitbook/assets/Codex/Outils/PoussiereEtoile.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">APoussière d'Étoile</mark></strong></p></figcaption></figure>
+<figure align="left"><img src="../.gitbook/assets/Codex/Outils/PoussiereEtoile.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Poussière d'Étoile</mark></strong></p></figcaption></figure>
 
 La <mark style="color:green;">**Poussière d'Étoile**</mark> vous proccura des [<mark style="color:green;">**effets de Minecraft Vanilla**</mark>](https://fr.minecraft.wiki/w/Effet) et sont exclusivement <mark style="color:green;">**positifs**</mark>. Vous n’avez donc aucune crainte d'avoir comme <mark style="color:green;">**poison**</mark> sur votre <mark style="color:green;">**pioche évolutive**</mark> 😌.
 
