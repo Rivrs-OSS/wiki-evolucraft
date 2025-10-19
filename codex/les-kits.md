@@ -40,8 +40,9 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 
 <figure align="left"><img src="../.gitbook/assets/Codex/Kits/bienvenue.png" alt=""><figcaption></figcaption></figure>
 
-> [!WARNING]
-> **Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>**.
+{% hint style="warning" %}
+**Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>**.
+{% endhint %}
 
 ## 💠 <mark style="color:yellow;">Le /kit Héros ⚜️</mark>
 
@@ -66,8 +67,9 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 
 <figure align="left"><img src="../.gitbook/assets/Codex/Kits/heros.png" alt=""><figcaption></figcaption></figure>
 
-> [!WARNING]
-> **Ce kit n'est obtenable qu'en ayant acheté <mark style="color:green;">un grade dans le `/grades`</mark>**.
+{% hint style="warning" %}
+**Ce kit n'est obtenable qu'en ayant acheté <mark style="color:green;">un grade dans le `/grades`</mark>**.
+{% endhint %}
 
 ## 💠 <mark style="color:blue;">Le /kit Élite 💠</mark>
 
@@ -94,8 +96,9 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 
 <figure align="left"><img src="../.gitbook/assets/Codex/Kits/elite.png" alt=""><figcaption></figcaption></figure>
 
-> [!WARNING]
-> **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:blue;">Grade Élite</mark> ou plus**.
+{% hint style="warning" %}
+**Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:blue;">Grade Élite</mark> ou plus**.
+{% endhint %}
 
 ## 💠 <mark style="color:red;">Le /kit Légende 💞</mark>
 
@@ -123,8 +126,9 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 
 <figure align="left"><img src="../.gitbook/assets/Codex/Kits/legende.png" alt=""><figcaption></figcaption></figure>
 
-> [!WARNING]
-> **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">Grade Légende</mark>**.
+{% hint style="warning" %}
+**Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">Grade Légende</mark>**.
+{% endhint %}
 
 **Vous connaissez maintenant tous les kits disponibles sur Évolucraft ! 🌍**
 
