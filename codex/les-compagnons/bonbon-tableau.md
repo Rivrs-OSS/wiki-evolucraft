@@ -24,8 +24,8 @@ En ouvrant les <mark style="color:green;">**boxs Émeraude, Rubis, Évènements 
 ### 🔸 Les <mark style="color:green;">**parchemins**</mark>  
 En complétant certains <mark style="color:green;">**parchemins**</mark>, vous pouvez recevoir des <mark style="color:green;">**bonbons**</mark> comme récompense.  
 
-{% hint style="tips" %}
-**🔍 REMARQUE :** Pour savoir quels <mark style="color:green;">**parchemins**</mark> peuvent offrir des <mark style="color:green;">**bonbons**</mark>, utilisez la commande <mark style="color:green;">**`/quest`**</mark> puis cliquez sur **"Parchemins"**.
+{% hint style="tip" %}
+Pour savoir quels <mark style="color:green;">**parchemins**</mark> peuvent offrir des <mark style="color:green;">**bonbons**</mark>, utilisez la commande <mark style="color:green;">**`/quest`**</mark> puis cliquez sur **"Parchemins"**.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Menu/Quest.png" alt=""><figcaption><p><strong>Menu des <mark style="color:green;">quêtes</mark></strong></p></figcaption></figure>
@@ -34,8 +34,8 @@ En complétant certains <mark style="color:green;">**parchemins**</mark>, vous p
 En éliminant le <mark style="color:green;">**boss d’un donjon**</mark>, vous obtenez l’accès à des coffres remplis de <mark style="color:green;">**récompenses**</mark>.  
 Parmi celles-ci, vous pouvez parfois trouver des <mark style="color:green;">**bonbons**</mark>.  
 
-{% hint style="info" %}
-**🔍 REMARQUE :** Consultez la page des [<mark style="color:green;">**donjons 🏛️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons) pour découvrir les différents <mark style="color:green;">**types de récompenses**</mark> et ainsi savoir quels <mark style="color:green;">**bonbons**</mark> vous pouvez obtenir.
+{% hint style="tip" %}
+Consultez la page des [<mark style="color:green;">**donjons 🏛️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons) pour découvrir les différents <mark style="color:green;">**types de récompenses**</mark> et ainsi savoir quels <mark style="color:green;">**bonbons**</mark> vous pouvez obtenir.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Les_Donjons/DJ-recompense.png" alt=""><figcaption><p><strong>Aperçu des coffres de <mark style="color:green;">récompenses de donjons</mark></strong></p></figcaption></figure>
