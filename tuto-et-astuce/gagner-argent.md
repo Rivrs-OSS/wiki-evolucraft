@@ -121,4 +121,15 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
 
+## 🔶 <mark style="color:green;">Les Évènements 🎪</mark>
+
+Dans certains <mark style="color:green;">évènements organisés par le staff</mark>, il est possible de <mark style="color:green;">remporter plusieurs gemmes 💎</mark> en fonction du <mark style="color:green;">type d’évènement</mark> et de la <mark style="color:green;">manière dont il est réalisé</mark>.  
+Ces évènements sont une excellente occasion de <mark style="color:green;">gagner des récompenses exclusives</mark> tout en <mark style="color:green;">vous amusant avec la communauté</mark>, alors n’hésitez pas à y participer pour tenter votre chance ! 🍀
+
+{% hint style="info" %}
+Pour plus d’informations sur les <mark style="color:green;">Évènements</mark>, nous vous invitons à lire cette page : [Évènements 🎪](https://wiki.evolucraft.fr/le-gameplay/les-evenements#des-evenements-de-lequipe-danimation).
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du<mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
+
 **Vous avez toutes les infos pour savoir comment gagner de l’argent facilement 🤑 ! À vous de trouver la meilleure technique ou d’en découvrir une nouvelle 😏**
