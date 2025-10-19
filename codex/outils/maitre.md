@@ -24,14 +24,14 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:blue;"><strong>Tranchant VI</strong></mark></p>
-     <p>🞄 <mark style="color:blue;"><strong>Butin V</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Tranchant VI</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Butin V</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:blue;"><strong>Effet Dextérité</strong></mark> : Frappe 15% plus vite.</p>
+     <p>▸ <mark style="color:blue;"><strong>Effet Dextérité</strong></mark> : Frappe 15% plus vite.</p>
    </td>
   </tr>
   <tr>
@@ -40,8 +40,8 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Pioche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:blue;"><strong>Efficacité VII</strong></mark></p>
-     <p>🞄 <mark style="color:blue;"><strong>Fortune IV</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Efficacité VII</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Fortune IV</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:blue;"><strong>2 500</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
@@ -54,7 +54,7 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Hache.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:blue;"><strong>Efficaciter VII</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Efficaciter VII</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
@@ -67,14 +67,14 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Houe.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:blue;"><strong>6 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:blue;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
-     <p>🞄 <mark style="color:blue;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 3X3.</p>
+     <p>▸ <mark style="color:blue;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
+     <p>▸ <mark style="color:blue;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 3X3.</p>
    </td>
   </tr>
   <tr>
@@ -83,14 +83,14 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:blue;"><strong>Chance de la Mer IV</strong></mark></p>
-     <p>🞄 <mark style="color:blue;"><strong>Appât V</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Chance de la Mer IV</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Appât V</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:blue;"><strong>1 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:blue;"><strong>Effet Pêche</strong></mark> : Vous avez 10% de chance de doubler votre pêche.</p>
+     <p>▸ <mark style="color:blue;"><strong>Effet Pêche</strong></mark> : Vous avez 10% de chance de doubler votre pêche.</p>
    </td>
   </tr>
 </table>

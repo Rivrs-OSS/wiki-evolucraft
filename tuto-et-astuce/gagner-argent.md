@@ -1,7 +1,5 @@
 ---
-description: >-
-  Retrouvez ici le tuto pour savoir comment se créer une petite richesse en
-  début de partie.
+description: Retrouvez ici le tuto pour savoir comment se créer une petite richesse en début de partie.
 ---
 
 # 💸 Gagner de l'argent
@@ -10,13 +8,11 @@ L'argent sur ce serveur est indispensable pour monter ses rangs, faire évoluer 
 
 ## 🔶 <mark style="color:green;">Les Métiers 👷‍♂️</mark>
 
-**Les&#x20;**<mark style="color:green;">**métiers**</mark>**&#x20;vous permettent, en plus de monter des niveaux de jobs et d'accomplir&#x20;**<mark style="color:green;">**les prérequis pour vos rangs**</mark>**, de&#x20;**<mark style="color:green;">**gagner de l'argent**</mark>**&#x20;selon les actions liées à votre métier.**
+{% hint style="info" %}
+Pour découvrir mark style="color:green;">comment rejoindre un métier</mark>, nous vous invitons à lire cette page : [Rejoindre un métier](https://wiki.evolucraft.fr/le-gameplay/les-metiers#comment-rejoindre-un-metier) 👷‍♂️
+{% endhint %}
 
-### 🔹 Comment rejoindre un métier ? 🛠️
-
-Pour <mark style="color:green;">rejoindre un métier</mark>, il vous suffit de faire la commande <mark style="color:green;">`/jobs join [métier]`</mark>. Selon <mark style="color:green;">votre rang</mark>, vous pourrez <mark style="color:green;">choisir plusieurs métiers</mark> à la fois. Mais pas d'inquiétude : lorsque vous changez de métier, vous <mark style="color:green;">ne perdez pas votre progression</mark>.
-
-### 🔹 Comment gagner de l'argent avec son métier ? 💰
+### 🔹 Les actions de métiers 💱
 
 Pour savoir quelles <mark style="color:green;">actions vous font gagner de l'argent</mark> (ainsi que de l'xp métier), il vous suffit d'abord de faire <mark style="color:green;">`/jobs`</mark> puis de <mark style="color:green;">sélectionner le métier</mark> que vous avez rejoint.
 
@@ -30,17 +26,34 @@ Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action<
 
 <figure><img src="../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>actions rémunérées du mineur</strong></mark></p></figcaption></figure>
 
-Également, lorsque vous passez un niveau dans votre métier, vous pouvez récupérer de l'argent en faisant la commande <mark style="color:green;">`/jobs claim`</mark>. Elle vous donnera les récompenses de paliers de tous les métiers atteints.
+### 🔹 Les paliers de métiers ✅
 
+Également, à chaque <mark style="color:green;">niveau de métier</mark> compléter, vous pouvez récupérer des <mark style="color:green;">récompenses de palier de métiers</mark> telles que de <mark style="color:green;">l’argent</mark>, en utilisant la commande <mark style="color:green;">`/jobs claim`</mark>. Celle-ci vous permettra d’obtenir toutes les <mark style="color:green;">récompenses de paliers des métiers</mark> atteints qui n’avaient pas encore été récupérées.
+
+<figure><img src="../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de métiers</strong></mark></p></figcaption></figure>
+
+{% hint style="tip" %}
 Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : [<mark style="color:green;">les métiers 👷‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers).
+{% endhint %}
 
 ## 🔶 <mark style="color:green;">Les clés de vote 🗝️</mark>
 
-Les <mark style="color:green;">clés de vote</mark> font partie des marchés préférés des joueurs qui aiment <mark style="color:green;">gagner</mark> par exemple <mark style="color:green;">de l'argent</mark> ou encore <mark style="color:green;">des items plutôt rares</mark> _(items en émeraude, Rubis Shiny ou encore des pets)_.
-
 Nous vous laissons regarder <mark style="color:green;">**ce tutoriel**</mark> pour savoir : [<mark style="color:green;">**Comment voter pour le serveur 📩**</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/voter)
 
+### 🔹 Utiliser ou vendre ? 🤔
+
+Les <mark style="color:green;">clés de vote</mark> font partie des marchés préférés des joueurs qui aiment <mark style="color:green;">gagner</mark> par exemple <mark style="color:green;">de l'argent</mark> ou encore <mark style="color:green;">des items plutôt rares</mark> _(items en émeraude, Rubis Shiny ou encore des pets)_.
+
 **Vous pouvez dès maintenant choisir de les ouvrir à la box au spawn 🧰 ou de les vendre au /ah 🛒**
+
+### 🔹 Les palliers de vote ? ✅
+
+Vous votez souvent sur le serveur ? Alors profitez des <mark style="color:green;">récompenses de vote hebdomadaires</mark> ! 
+
+Si vous souhaitez <mark style="color:green;">jouer le classement des votes</mark>, sachez qu’il est possible de débloquer des <mark style="color:green;">récompensse</mark> de votes <mark style="color:green;">chaque semaine</mark>.
+C'est à dire qu'en votant <mark style="color:green;">60 fois</mark> durant la semaine, vous pourrez récupérer jusqu'à <mark style="color:green;">160 000 💲 de money</mark> !
+
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/PalierVote.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de votes</strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">Les donjons 🏛️</mark>
 
@@ -107,5 +120,16 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 **Le&#x20;**<mark style="color:green;">**`/rewards`**</mark>**&#x20;vous permet de&#x20;**<mark style="color:green;">**gagner des récompenses**</mark>**&#x20;chaque jour avec un reset à minuit&#x20;**_**(heure française)**_**&#x20;selon votre temps de jeu.&#x20;**<mark style="color:green;">**Une notification sur votre écran**</mark>**&#x20;vous informe lorsqu’un cadeau est débloqué. Vous pouvez y&#x20;**<mark style="color:green;">**recevoir des quêtes**</mark>**,&#x20;**<mark style="color:green;">**divers blocs et items**</mark>**,&#x20;**<mark style="color:green;">**une carte aléatoire commune**</mark>**&#x20;mais surtout&#x20;**<mark style="color:green;">**de l’argent**</mark>**&#x20;!**
 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
+
+## 🔶 <mark style="color:green;">Les Évènements 🎪</mark>
+
+Dans certains <mark style="color:green;">évènements organisés par le staff</mark>, il est possible de <mark style="color:green;">remporter plusieurs gemmes 💎</mark> en fonction du <mark style="color:green;">type d’évènement</mark> et de la <mark style="color:green;">manière dont il est réalisé</mark>.  
+Ces évènements sont une excellente occasion de <mark style="color:green;">gagner des récompenses exclusives</mark> tout en <mark style="color:green;">vous amusant avec la communauté</mark>, alors n’hésitez pas à y participer pour tenter votre chance ! 🍀
+
+{% hint style="info" %}
+Pour plus d’informations sur les <mark style="color:green;">Évènements</mark>, nous vous invitons à lire cette page : [Évènements 🎪](https://wiki.evolucraft.fr/le-gameplay/les-evenements#des-evenements-de-lequipe-danimation).
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
 
 **Vous avez toutes les infos pour savoir comment gagner de l’argent facilement 🤑 ! À vous de trouver la meilleure technique ou d’en découvrir une nouvelle 😏**

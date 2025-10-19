@@ -7,8 +7,10 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
 ## 🔷 <mark style="color:orange;">Son obtention 🤔</mark>
 
 #### Les <mark style="color:green;">**outils HolyCube**</mark> s'obtennaient avec le <mark style="color:green;">**`/holycube`**</mark> durant le <mark style="color:green;">**partenariat entre HolyCube et Évolucraft**</mark>
-> [!WARNING]
-> Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+
+{% hint style="warning" %}
+Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+{% endhint %}
 
 ## 🔷 <mark style="color:orange;">Son aperçue 🔍</mark>
 
@@ -24,9 +26,9 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Epee.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:orange;"><strong>Tranchant V</strong></mark></p>
-     <p>🞄 <mark style="color:orange;"><strong>Affliage III</strong></mark></p>
-     <p>🞄 <mark style="color:orange;"><strong>Aura de Feu II</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Tranchant V</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Affliage III</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Aura de Feu II</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
@@ -38,8 +40,8 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Pioche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
-     <p>🞄 <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
@@ -51,8 +53,8 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Hache.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
-     <p>🞄 <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
@@ -64,8 +66,8 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Houe.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
-     <p>🞄 <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
@@ -77,8 +79,8 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:orange;"><strong>Chance de la Mer III</strong></mark></p>
-     <p>🞄 <mark style="color:orange;"><strong>Appât III</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Chance de la Mer III</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Appât III</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
@@ -90,8 +92,8 @@ description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Pelle.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:orange;"><strong>Efficaciter V</strong></mark></p>
-     <p>🞄 <mark style="color:orange;"><strong>Toucher de Soi</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Efficaciter V</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Toucher de Soi</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>

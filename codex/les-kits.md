@@ -7,7 +7,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 <mark style="color:green;">Les kits</mark> sont <mark style="color:green;">des pack d’items</mark> mis à disposition gratuitement pour tous les joueurs sur Évolucraft via la commande `/kits`. Ils permettent de <mark style="color:green;">récupérer facilement du stuff</mark>, <mark style="color:green;">des minerais</mark>, <mark style="color:green;">des outils</mark> et même <mark style="color:green;">des parchemins de toutes sortes</mark>, sans dépenser la moindre ressource. C’est une fonctionnalité particulièrement utile <mark style="color:green;">pour les nouveaux joueurs</mark> souhaitant se constituer <mark style="color:green;">un équipement de base rapidement</mark> et démarrer leur aventure dans de bonnes conditions !
 
 {% hint style="info" %}
-**REMARQUE 🔍 :**Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la commande correspondante.
+Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la commande correspondante.
 {% endhint %}
 
 ## 💠 <mark style="color:green;">Le /kit bousole 🧭</mark>
@@ -40,8 +40,9 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 
 <figure align="left"><img src="../.gitbook/assets/Codex/Kits/bienvenue.png" alt=""><figcaption></figcaption></figure>
 
-> [!WARNING]
-> **Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>**.
+{% hint style="warning" %}
+**Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>**.
+{% endhint %}
 
 ## 💠 <mark style="color:yellow;">Le /kit Héros ⚜️</mark>
 
@@ -66,8 +67,9 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 
 <figure align="left"><img src="../.gitbook/assets/Codex/Kits/heros.png" alt=""><figcaption></figcaption></figure>
 
-> [!WARNING]
-> **Ce kit n'est obtenable qu'en ayant acheté <mark style="color:green;">un grade dans le `/grades`</mark>**.
+{% hint style="warning" %}
+**Ce kit n'est obtenable qu'en ayant acheté <mark style="color:green;">un grade dans le `/grades`</mark>**.
+{% endhint %}
 
 ## 💠 <mark style="color:blue;">Le /kit Élite 💠</mark>
 
@@ -94,8 +96,9 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 
 <figure align="left"><img src="../.gitbook/assets/Codex/Kits/elite.png" alt=""><figcaption></figcaption></figure>
 
-> [!WARNING]
-> **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:blue;">Grade Élite</mark> ou plus**.
+{% hint style="warning" %}
+**Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:blue;">Grade Élite</mark> ou plus**.
+{% endhint %}
 
 ## 💠 <mark style="color:red;">Le /kit Légende 💞</mark>
 
@@ -123,8 +126,9 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 
 <figure align="left"><img src="../.gitbook/assets/Codex/Kits/legende.png" alt=""><figcaption></figcaption></figure>
 
-> [!WARNING]
-> **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">Grade Légende</mark>**.
+{% hint style="warning" %}
+**Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">Grade Légende</mark>**.
+{% endhint %}
 
 **Vous connaissez maintenant tous les kits disponibles sur Évolucraft ! 🌍**
 
