@@ -38,7 +38,7 @@ Parmi celles-ci, vous pouvez parfois trouver des <mark style="color:green;">**bo
 Consultez la page des [<mark style="color:green;">**donjons 🏛️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons) pour découvrir les différents <mark style="color:green;">**types de récompenses**</mark> et ainsi savoir quels <mark style="color:green;">**bonbons**</mark> vous pouvez obtenir.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/DJ-recompense.png" alt=""><figcaption><p><strong>Aperçu des coffres de <mark style="color:green;">récompenses de donjons</mark></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/ZoneRecompense.png" alt=""><figcaption><p><strong>Aperçu des coffres de <mark style="color:green;">récompenses de donjons</mark></strong></p></figcaption></figure>
 
 ### 🔸 Le <mark style="color:green;">**`/boutique`**</mark>  
 Chaque jour, à <mark style="color:green;">**minuit**</mark>, la <mark style="color:green;">**boutique du jour**</mark> propose **5 articles**, dont **2 gratuits** (1 accessible uniquement avec le [<mark style="color:green;">**Premium 👑**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium)).  
