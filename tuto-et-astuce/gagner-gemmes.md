@@ -50,6 +50,8 @@ Pour découvrir <mark style="color:green;">comment gagner du Farmium</mark>, nou
 
 Lorsque vous <mark style="color:green;">débloquez des paliers</mark>, vous pouvez parfois obtenir des <mark style="color:green;">gemmes 💎</mark>, un excellent moyen d’en récupérer en quantité chaque mois, encore plus si vous possédez le [<mark style="color:green;">Premium</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium) 👑 !
 
+<figure><img src="../.gitbook/assets/Pass/RéclamationPalier.png" alt=""><figcaption><p><strong>Aperçu de l'onglet </strong><mark style="color:green;"><strong><code>Récompenses du /pass</code></strong></mark></p></figcaption></figure>
+
 ### 🔹 Classement Farmium 🏆
 
 Chaque semaine, un <mark style="color:green;">classement</mark> est établi regroupant les joueurs ayant <mark style="color:green;">récolté le plus de Farmium</mark> 🔱.  
@@ -58,6 +60,8 @@ Les meilleurs d’entre eux remportent de <mark style="color:green;">belles réc
 {% hint style="info" %}
 Pour plus d’informations sur le <mark style="color:green;">Classement Farmium</mark>, nous vous invitons à lire cette page : [Classement Farmium 🏆](https://wiki.evolucraft.fr/le-gameplay/pass#comment-gagner-du-farmium).
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/Pass/ClassementPerso.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>classement personnel</code></strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">La Boutique 💳</mark>
 
