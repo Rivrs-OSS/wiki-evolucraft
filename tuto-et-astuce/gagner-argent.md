@@ -1,7 +1,5 @@
 ---
-description: >-
-  Retrouvez ici le tuto pour savoir comment se créer une petite richesse en
-  début de partie.
+description: Retrouvez ici le tuto pour savoir comment se créer une petite richesse en début de partie.
 ---
 
 # 💸 Gagner de l'argent
@@ -10,13 +8,11 @@ L'argent sur ce serveur est indispensable pour monter ses rangs, faire évoluer 
 
 ## 🔶 <mark style="color:green;">Les Métiers 👷‍♂️</mark>
 
-**Les&#x20;**<mark style="color:green;">**métiers**</mark>**&#x20;vous permettent, en plus de monter des niveaux de jobs et d'accomplir&#x20;**<mark style="color:green;">**les prérequis pour vos rangs**</mark>**, de&#x20;**<mark style="color:green;">**gagner de l'argent**</mark>**&#x20;selon les actions liées à votre métier.**
+{% hint style="info" %}
+Pour découvrir comment rejoindre un métier, nous vous invitons à lire cette page : Rejoindre un métier 👷‍♂️
+{% endhint %}
 
-### 🔹 Comment rejoindre un métier ? 🛠️
-
-Pour <mark style="color:green;">rejoindre un métier</mark>, il vous suffit de faire la commande <mark style="color:green;">`/jobs join [métier]`</mark>. Selon <mark style="color:green;">votre rang</mark>, vous pourrez <mark style="color:green;">choisir plusieurs métiers</mark> à la fois. Mais pas d'inquiétude : lorsque vous changez de métier, vous <mark style="color:green;">ne perdez pas votre progression</mark>.
-
-### 🔹 Comment gagner de l'argent avec son métier ? 💰
+### 🔹 Les actions de métiers 💱
 
 Pour savoir quelles <mark style="color:green;">actions vous font gagner de l'argent</mark> (ainsi que de l'xp métier), il vous suffit d'abord de faire <mark style="color:green;">`/jobs`</mark> puis de <mark style="color:green;">sélectionner le métier</mark> que vous avez rejoint.
 
@@ -30,9 +26,15 @@ Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action<
 
 <figure><img src="../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>actions rémunérées du mineur</strong></mark></p></figcaption></figure>
 
-Également, lorsque vous passez un niveau dans votre métier, vous pouvez récupérer de l'argent en faisant la commande <mark style="color:green;">`/jobs claim`</mark>. Elle vous donnera les récompenses de paliers de tous les métiers atteints.
+### 🔹 Les palliers de métiers ✅
 
+Également, à chaque niveau de métiers monté, vous pouvez récupérer des récompenses de métiers comme de l'argent en faisant la commande <mark style="color:green;">`/jobs claim`</mark>. Elle vous donnera les récompenses de paliers de tous les métiers atteints qui n'avais pas encore été récupéré.
+
+<figure><img src="../.gitbook/assets/Jobs/Pallier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de métiers</strong></mark></p></figcaption></figure>
+
+{% hint style="tip" %}
 Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : [<mark style="color:green;">les métiers 👷‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers).
+{% endhint %}
 
 ## 🔶 <mark style="color:green;">Les clés de vote 🗝️</mark>
 
