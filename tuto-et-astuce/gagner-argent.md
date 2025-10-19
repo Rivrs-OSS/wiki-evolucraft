@@ -130,6 +130,6 @@ Ces évènements sont une excellente occasion de <mark style="color:green;">gagn
 Pour plus d’informations sur les <mark style="color:green;">Évènements</mark>, nous vous invitons à lire cette page : [Évènements 🎪](https://wiki.evolucraft.fr/le-gameplay/les-evenements#des-evenements-de-lequipe-danimation).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du<mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
 
 **Vous avez toutes les infos pour savoir comment gagner de l’argent facilement 🤑 ! À vous de trouver la meilleure technique ou d’en découvrir une nouvelle 😏**
