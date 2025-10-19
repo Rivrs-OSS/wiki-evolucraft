@@ -4,11 +4,13 @@ description: Retrouvez ici toutes les informations concernant le mariage
 
 # 💒 Le Mariage
 
+## 💠 <mark style="color:green;">La déclaration 💕</mark>
+
 Pour pouvoir vous marier, il faut d'abord atteindre le <mark style="color:green;">**rang Valeureux**</mark> ! Ensuite, vous pouvez vous marier avec une personne consentante. (Et non monsieur Seguin, vous ne pouvez pas vous marier avec votre chèvre !🐐)
 
 Lorsque le rang est atteint, il faut se diriger vers un <mark style="color:green;">**guide ou plus haut gradé**</mark> afin qu'il puisse vous unir. 
 
-__Voici les commandes :__
+## 💠 <mark style="color:green;">Les commandes ❔</mark>
 
 - <mark style="color:green;">`/marry request`</mark> -> pour proposer le mariage aux deux personnes (commande réservée aux modérateurs et plus)
 - <mark style="color:green;">`/marry accept`</mark> -> pour accepter la demande ✅
