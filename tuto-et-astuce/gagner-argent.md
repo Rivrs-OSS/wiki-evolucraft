@@ -9,7 +9,7 @@ L'argent sur ce serveur est indispensable pour monter ses rangs, faire évoluer 
 ## 🔶 <mark style="color:green;">Les Métiers 👷‍♂️</mark>
 
 {% hint style="info" %}
-Pour découvrir comment rejoindre un métier, nous vous invitons à lire cette page : Rejoindre un métier 👷‍♂️
+Pour découvrir mark style="color:green;">comment rejoindre un métier</mark>, nous vous invitons à lire cette page : [Rejoindre un métier](https://wiki.evolucraft.fr/le-gameplay/les-metiers#comment-rejoindre-un-metier) 👷‍♂️
 {% endhint %}
 
 ### 🔹 Les actions de métiers 💱
@@ -26,11 +26,11 @@ Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action<
 
 <figure><img src="../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>actions rémunérées du mineur</strong></mark></p></figcaption></figure>
 
-### 🔹 Les palliers de métiers ✅
+### 🔹 Les paliers de métiers ✅
 
-Également, à chaque niveau de métiers monté, vous pouvez récupérer des récompenses de métiers comme de l'argent en faisant la commande <mark style="color:green;">`/jobs claim`</mark>. Elle vous donnera les récompenses de paliers de tous les métiers atteints qui n'avais pas encore été récupéré.
+Également, à chaque <mark style="color:green;">niveau de métier</mark> monté, vous pouvez récupérer des <mark style="color:green;">récompenses de palier de métiers</mark> telles que de <mark style="color:green;">l’argent</mark>, en utilisant la commande <mark style="color:green;">`/jobs claim`</mark>. Celle-ci vous permettra d’obtenir toutes les <mark style="color:green;">récompenses de paliers des métiers</mark> atteints qui n’avaient pas encore été récupérées.
 
-<figure><img src="../.gitbook/assets/Jobs/Pallier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de métiers</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de métiers</strong></mark></p></figcaption></figure>
 
 {% hint style="tip" %}
 Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : [<mark style="color:green;">les métiers 👷‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers).
