@@ -100,4 +100,6 @@ Pour plus d’informations sur les <mark style="color:green;">Évènements</mark
 
 <figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
 
+---
+
 **Vous avez toutes les infos pour savoir comment gagner des gemmes facilement 🤑 ! À vous de trouver la meilleure technique ou d’en découvrir une nouvelle 😏**
