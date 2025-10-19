@@ -16,7 +16,10 @@ Les <mark style="color:green;">**outils non vanilla**</mark> sont <mark style="c
 
 ## 💠 <mark style="color:green;">Liste des Outils existantes ?</mark> 📑
 
-Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark style="color:green;">**outils**</mark> selon leur <mark style="color:green;">**catégorie de rareté**</mark>. Chaque catégorie permet d’identifier rapidement la <mark style="color:green;">**puissance et la valeur**</mark> de l’objet, facilitant ainsi votre choix lors de vos futures acquisitions. Cette organisation vous aidera à mieux comprendre la <mark style="color:green;">**progression des outils**</mark> et à repérer ceux qui correspondent le mieux à vos besoins et à votre niveau.  
+Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark style="color:green;">**outils**</mark> selon leur <mark style="color:green;">**catégorie de rareté**</mark>. Chaque catégorie permet d’identifier rapidement la <mark style="color:green;">**puissance et la valeur**</mark> de l’objet, facilitant ainsi votre choix lors de vos futures acquisitions. Cette organisation vous aidera à mieux comprendre la <mark style="color:green;">**progression des outils**</mark> et à repérer ceux qui correspondent le mieux à vos besoins et à votre niveau.
+
+> [!NOTE]
+> <mark style="color:green;">L’aperçu des outils n’est pas encore disponible</mark>. Il arrivera dans une <mark style="color:green;">mise à jour future du wiki</mark>. Merci de votre <mark style="color:green;">compréhension</mark> !
 
 * 🤠 [<mark style="color:green;"><strong>Outils de l'Aventurier</strong></mark>](https://wiki.evolucraft.fr/codex/outils/aventurier)
 * ✳️ [<mark style="color:green;"><strong>Outils en Émeraude</strong></mark>](https://wiki.evolucraft.fr/codex/outils/emeraude)
