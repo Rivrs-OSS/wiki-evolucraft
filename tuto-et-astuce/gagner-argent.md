@@ -38,11 +38,22 @@ Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers<
 
 ## 🔶 <mark style="color:green;">Les clés de vote 🗝️</mark>
 
-Les <mark style="color:green;">clés de vote</mark> font partie des marchés préférés des joueurs qui aiment <mark style="color:green;">gagner</mark> par exemple <mark style="color:green;">de l'argent</mark> ou encore <mark style="color:green;">des items plutôt rares</mark> _(items en émeraude, Rubis Shiny ou encore des pets)_.
-
 Nous vous laissons regarder <mark style="color:green;">**ce tutoriel**</mark> pour savoir : [<mark style="color:green;">**Comment voter pour le serveur 📩**</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/voter)
 
+### 🔹 Utiliser ou vendre ? 🤔
+
+Les <mark style="color:green;">clés de vote</mark> font partie des marchés préférés des joueurs qui aiment <mark style="color:green;">gagner</mark> par exemple <mark style="color:green;">de l'argent</mark> ou encore <mark style="color:green;">des items plutôt rares</mark> _(items en émeraude, Rubis Shiny ou encore des pets)_.
+
 **Vous pouvez dès maintenant choisir de les ouvrir à la box au spawn 🧰 ou de les vendre au /ah 🛒**
+
+### 🔹 Les palliers de vote ? ✅
+
+Vous votez souvent sur le serveur ? Alors profitez des <mark style="color:green;">récompenses de vote hebdomadaires</mark> ! 
+
+Si vous souhaitez <mark style="color:green;">jouer le classement des votes</mark>, sachez qu’il est possible de débloquer des <mark style="color:green;">récompensse</mark> de votes <mark style="color:green;">chaque semaine</mark>.
+C'est à dire qu'en votant <mark style="color:green;">60 fois</mark> durant la semaine, vous pourrez récupérer jusqu'à <mark style="color:green;">160 000 💲 de money</mark> !
+
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/PalierVote.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de votes</strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">Les donjons 🏛️</mark>
 
