@@ -51,7 +51,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/SceptreBatisseur.png" alt=""></figure>Aperçue de l'item bientôt présente</td>
 <td align="center">
-     <p><mark style="color:green;"><strong>600</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:green;"><strong>600</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>Ce <mark style="color:green;">sceptre du bâtisseur</mark> vous permet de poser plusieurs <mark style="color:green;">blocs alignés</mark> en un seul clic, selon une <mark style="color:green;">liste de blocs définie</mark>. Il vous fera gagner un <mark style="color:green;">temps considérable</mark> lors de vos <mark style="color:green;">constructions géantes</mark> et facilitera grandement vos projets architecturaux.</td>
   </tr>
@@ -79,7 +79,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
   <tr>
    <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/TraqueurDonjon.png" alt=""></figure>Aperçue de l'item bientôt présente</td>
 <td align="center">
-     <p><mark style="color:green;"><strong>20</strong></mark> d'<mark style="color:orange;"><strong>Utilisations</strong></mark></p>
+     <p><mark style="color:green;"><strong>20</strong></mark> d'<mark style="color:green;"><strong>Utilisations</strong></mark></p>
    </td>
    <td>Ce <mark style="color:green;">traqueur de donjon</mark> vous permet, en plus des méthodes déjà existantes pour <mark style="color:green;">trouver des donjons</mark>, de <mark style="color:green;">localiser plus facilement</mark> celui qui se trouve le plus proche de vous. Un outil idéal pour <mark style="color:green;">gagner du temps</mark> et <mark style="color:green;">optimiser vos explorations</mark> sans passer des heures à chercher.</td>
   </tr>
