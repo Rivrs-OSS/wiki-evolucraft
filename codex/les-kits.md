@@ -13,12 +13,12 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 ## 💠 <mark style="color:green;">Le /kit bousole 🧭</mark>
 
 * <mark style="color:green;">**1 boussole de navigation du `/menu`**</mark>
-<figure><img src="../.gitbook/assets/Menu/Kit/bousole.png" alt=""><figcaption></figcaption></figure>
+<figure align="left"><img src="../.gitbook/assets/Codex/Kits/bousole.png" alt=""><figcaption></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Le /kit donjon 🟩</mark>
 
 * <mark style="color:green;">**1 pierre de téléportation donjon**</mark>
-<figure><img src="../.gitbook/assets/Menu/Kit/donjon.png" alt=""><figcaption></figcaption></figure>
+<figure align="left"><img src="../.gitbook/assets/Codex/Kits/donjon.png" alt=""><figcaption></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Le /kit bienvenue 👋</mark>
 
@@ -38,11 +38,10 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:green;">**1 seau de lave**</mark>
 * <mark style="color:green;">**1 bouclier**</mark>
 
-<figure><img src="../.gitbook/assets/Menu/Kit/bienvenue.png" alt=""><figcaption></figcaption></figure>
+<figure align="left"><img src="../.gitbook/assets/Codex/Kits/bienvenue.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-**ATTENTION ⚠️ : Ce kit n'est obtenable qu'à partir du rangs Débutant.**
-{% endhint %}
+> [!WARNING]
+> **Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>**.
 
 ## 💠 <mark style="color:yellow;">Le /kit Héros ⚜️</mark>
 
@@ -65,11 +64,10 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:yellow;">**16 bûches de chêne**</mark>
 * <mark style="color:yellow;">**1 parchemin d’aventure (Rare)**</mark>
 
-<figure><img src="../.gitbook/assets/Menu/Kit/heros.png" alt=""><figcaption></figcaption></figure>
+<figure align="left"><img src="../.gitbook/assets/Codex/Kits/heros.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-**ATTENTION ⚠️ : Ce kit n'est obtenable qu'en ayant acheté un grade dans le /grades.**
-{% endhint %}
+> [!WARNING]
+> **Ce kit n'est obtenable qu'en ayant acheté <mark style="color:green;">un grade dans le `/grades`</mark>**.
 
 ## 💠 <mark style="color:blue;">Le /kit Élite 💠</mark>
 
@@ -83,7 +81,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:blue;">**Hache en diamant**</mark> _(Efficacité 3 / Solidité 3)_
 * <mark style="color:blue;">**Houe en diamant**</mark> _(Solidité 3)_
 * <mark style="color:blue;">**Canne à pêche**</mark> _(Chance de la mer 3 / Solidité 3)_
-* <mark style="color:blue;">**Bouclier**</mark> _(Solidité 2)_
+* <mark style="color:blue;">**Bouclier**</mark>
 * <mark style="color:blue;">**32 steaks**</mark>
 * <mark style="color:blue;">**6 lingots d’or**</mark>
 * <mark style="color:blue;">**4 diamants**</mark>
@@ -94,11 +92,10 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:blue;">**24 bûches de chêne**</mark>
 * <mark style="color:blue;">**1 parchemin d’aventure (Difficile)**</mark>
 
-<figure><img src="../.gitbook/assets/Menu/Kit/elite.png" alt=""><figcaption></figcaption></figure>
+<figure align="left"><img src="../.gitbook/assets/Codex/Kits/elite.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-**ATTENTION ⚠️ : Ce kit n'est obtenable qu'en ayant acheté un grade Élite ou plus.**
-{% endhint %}
+> [!WARNING]
+> **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:blue;">Grade Élite</mark> ou plus**.
 
 ## 💠 <mark style="color:red;">Le /kit Légende 💞</mark>
 
@@ -112,7 +109,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:red;">**Hache en diamant**</mark> _(Efficacité 4 / Solidité 3 / Fortune 1)_
 * <mark style="color:red;">**Houe en diamant**</mark> _(Efficacité 3)_
 * <mark style="color:red;">**Canne à pêche**</mark> _(Chance de la mer 3 / Solidité 3 / Appât 1)_
-* <mark style="color:red;">**Bouclier**</mark> _(Solidité 3)_
+* <mark style="color:red;">**Bouclier**</mark>
 * <mark style="color:red;">**64 steaks**</mark>
 * <mark style="color:red;">**12 lingots d’or**</mark>
 * <mark style="color:red;">**6 diamants**</mark>
@@ -124,11 +121,10 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 * <mark style="color:red;">**1 seau d’eau**</mark>
 * <mark style="color:red;">**1 seau de lave**</mark>
 
-<figure><img src="../.gitbook/assets/Menu/Kit/legende.png" alt=""><figcaption></figcaption></figure>
+<figure align="left"><img src="../.gitbook/assets/Codex/Kits/legende.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-**ATTENTION ⚠️ : Ce kit n'est obtenable qu'en ayant acheté un grade Légende.**
-{% endhint %}
+> [!WARNING]
+> **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">Grade Légende</mark>**.
 
 **Vous connaissez maintenant tous les kits disponibles sur Évolucraft ! 🌍**
 

@@ -117,7 +117,7 @@ Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</m
 | <mark style="color:blue;">**Sceptre des Glaces**</mark> *(Armes Clerc)*             | **150 Sucres d'Orges**     |
 | <mark style="color:blue;">**Pistolet Laser des Glaces**</mark> *(Armes Artificier)* | **150 Sucres d'Orges**     |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/givre.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Givrée**</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/givre.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Givrée</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:red;">St-Valentin 💕</mark>
 
