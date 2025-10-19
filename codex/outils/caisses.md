@@ -32,7 +32,7 @@ Les <mark style="color:green;">outils abyssaux</mark> s'obtiennent dans la [<mar
      <p>▸ <mark style="color:blue;"><strong>Solidité I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>1 500</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:blue;"><strong>1 500</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:blue;"><strong>Effet Bêche</strong></mark> : Bêche les blocks de terre dans une zone de 5x5.</p>
@@ -70,7 +70,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
      <p>▸ <mark style="color:yellow;"><strong>Solidité I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>3 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:yellow;"><strong>Effet Dextérité</strong></mark> : Frappe 10% plus vite.</p>
@@ -87,7 +87,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
      <p>▸ <mark style="color:yellow;"><strong>Solidité I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>3 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:yellow;"><strong>Effet Excavation</strong></mark> : Mine tout le filon du minerais miné.</p>
@@ -103,7 +103,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
      <p>▸ <mark style="color:yellow;"><strong>Solidité I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>3 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:yellow;"><strong>Effet Bûcheron</strong></mark> : Coupe un petit arbre en entier dès une bûche cassée.</p>
@@ -119,7 +119,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
      <p>▸ <mark style="color:yellow;"><strong>Solidité I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>9 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>9 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
@@ -137,7 +137,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
      <p>▸ <mark style="color:yellow;"><strong>Solidité I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>1 500</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>1 500</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 10% de chance de doubler votre pêche.</p>
@@ -170,7 +170,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
      <p>▸ <mark style="color:blue;"><strong>Solidité I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:blue;"><strong>Effet Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
@@ -186,7 +186,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
      <p>▸ <mark style="color:blue;"><strong>Solidité I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:blue;"><strong>Effet Cacao</strong></mark> : Replante le cacao cassé.</p>
@@ -347,7 +347,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
      <p>▸ <mark style="color:orange;"><strong>Butin IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>3 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:orange;"><strong>Effet Dextérité</strong></mark> : Frappe 15% plus vite.</p>
@@ -363,7 +363,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
      <p>▸ <mark style="color:orange;"><strong>Fortune IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>3 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:orange;"><strong>Effet Excavation</strong></mark> : Mine tout le filon du minerais miné.</p>
@@ -378,7 +378,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
      <p>▸ <mark style="color:orange;"><strong>Efficacité VII</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>3 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:orange;"><strong>Effet Bûcheron</strong></mark> : Coupe un petit arbre en entier dès une bûche cassée.</p>
@@ -394,7 +394,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
      <p>▸ <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>9 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>9 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:orange;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
@@ -426,7 +426,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
      <p>▸ <mark style="color:orange;"><strong>Efficacité VII</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>3 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
@@ -441,7 +441,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
      <p>▸ <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Effet Hammer</strong></mark> : Casse les blocks dans une zone de 3X3.</p>
