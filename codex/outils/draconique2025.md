@@ -7,8 +7,10 @@ description: Retrouvez ici toutes la liste de tout les Outils Draconique disponi
 ## 🔹 <mark style="color:red;">Son obtention 🤔</mark>
 
 #### Les <mark style="color:green;">**outils Draconiques**</mark> s'obtennaient dans le <mark style="color:red;">**Pass Draconique**</mark> durant la <mark style="color:orange;">**mise à jour Draconique 2.0**</mark>
-> [!WARNING]
-> Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+
+{% hint style="warning" %}
+Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+{% endhint %}
 
 ## 🔹 <mark style="color:red;">Son aperçue 🔍</mark>
 
