@@ -10,8 +10,9 @@ Pour pouvoir vous marier, il faut d'abord atteindre le <mark style="color:green;
 
 Lorsque le rang est atteint, il faut se diriger vers un <mark style="color:green;">**guide ou plus haut gradé**</mark> afin qu'il puisse vous unir.
 
-> [!IMPORTANT]
-> Si vous souhaitez vous <mark style="color:green;">divorcer de votre moitié</mark>, il <mark style="color:green;">faut vous diriger vers un modérateur</mark>.
+{% hint style="important" %}
+Si vous souhaitez vous <mark style="color:green;">divorcer de votre moitié</mark>, il <mark style="color:green;">faut vous diriger vers un modérateur</mark>.
+{% endhint %}
 
 ## 💠 <mark style="color:green;">Les commandes ❔</mark>
 
