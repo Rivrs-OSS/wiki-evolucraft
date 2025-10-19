@@ -29,14 +29,13 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Epee1.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Tranchant ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Tranchant II</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fléau des Arthropodes I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Mobs Tuées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Mobs Tuées</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -44,14 +43,14 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Epee2.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Tranchant ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Tranchant III</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fléau des Arthropodes II</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Affliage I</strong></mark></p
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Mobs Tuées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Mobs Tuées</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -59,14 +58,16 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Epee3.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Tranchant ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Tranchant IV</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Chatiment I</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fléau des Arthropodes III</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Affliage II</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Butin III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Mobs Tuées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Mobs Tuées</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -74,13 +75,17 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Epee4.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Tranchant ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Tranchant V</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Chatiment II</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fléau des Arthropodes IV</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Affliage III</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Butin IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Mobs Tuées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Mobs Tuées</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
+     <p>🞄 <mark style="color:yellow;"><strong>Effet Dextérité</strong></mark> : Tappe 5% plus vite</p>
    </td>
   </tr>
   <tr>
@@ -132,10 +137,11 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Pioche2.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>EfficacitéI IV</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fortune I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks cassés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Blocks cassés</strong></mark></p>
    </td>
    <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
@@ -159,14 +165,13 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Pioche4.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks cassés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Blocks cassés</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -202,10 +207,10 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Hache1.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Bûches</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Bûches cassées</strong></mark></p>
    </td>
    <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
@@ -215,10 +220,11 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Hache2.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité IV</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fortune I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Bûches</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Bûches cassées</strong></mark></p>
    </td>
    <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
@@ -232,7 +238,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p>🞄 <mark style="color:yellow;"><strong>Fortune II</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>10 000 Bûches</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>10 000 Bûches cassées</strong></mark></p>
    </td>
    <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
@@ -283,10 +289,10 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Houe1.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Fortune I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Bûches</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Cultures cassées</strong></mark></p>
    </td>
    <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
@@ -384,13 +390,15 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/CanneAPeche2.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer ...</strong></mark></p>
-     <p>🞄 <mark style="color:yellow;"><strong>Appât ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer III</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Appât III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Poissons pêchés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>1 000 Poissons pêchés</strong></mark></p>
    </td>
-   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
+   <td>  
+     <p>🞄 <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 5% de chance de doubler votre pêche.</p>
+   </td>
   </tr>
   <tr>
    <td align="center">
@@ -398,13 +406,15 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/CanneAPeche3.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer ...</strong></mark></p>
-     <p>🞄 <mark style="color:yellow;"><strong>Appât ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer IV</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Appât IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Poissons pêchés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>2 500 Poissons pêchés</strong></mark></p>
    </td>
-   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
+   <td>  
+     <p>🞄 <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 10% de chance de doubler votre pêche.</p>
+   </td>
   </tr>
   <tr>
    <td align="center">
@@ -412,14 +422,14 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/CanneAPeche4.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer ...</strong></mark></p>
-     <p>🞄 <mark style="color:yellow;"><strong>Appât ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Chance de la mer V</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Appât V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Poissons pêchés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 500 Poissons pêchés</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
+     <p>🞄 <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 15% de chance de doubler votre pêche.</p>
    </td>
   </tr>
   <tr>
@@ -455,14 +465,12 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Pelle1.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Blocks cassés</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -470,14 +478,13 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Pelle2.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Blocks cassés</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -485,14 +492,13 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Evolutif/Pelle3.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:yellow;"><strong>Efficacité ...</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Efficacité V</strong></mark></p>
+     <p>🞄 <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Blocks cassés</strong></mark></p>
    </td>
-   <td>  
-     <p>🞄 <mark style="color:yellow;"><strong>Effet ...</strong></mark> : ...</p>
-   </td>
+   <td><strong><em><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
   </tr>
   <tr>
    <td align="center">
@@ -504,7 +510,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les
      <p>🞄 <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>... Blocks</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Blocks cassés</strong></mark></p>
    </td>
    <td>  
      <p>🞄 <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les blocs cassés.</p>
