@@ -64,6 +64,6 @@ Le <mark style="color:green;">**rôle Événement**</mark> est disponible dans l
 
 Vous souhaitez organiser **votre propre événement** ? 🤔 Proposez votre idée d'événement en créant un ticket, tout en suivant [<mark style="color:green;">les conditions indiquées</mark>](https://discord.com/channels/699670538737418343/1100899408641536000/1105953174864543865) afin qu'il sois mit en avant dans le channel [<mark style="color:green;">**`#🦄・événement-joueur`**</mark>](https://discord.com/channels/699670538737418343/1100899408641536000) !
 
-<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du<mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
 
 ✨ **Plus d’excuse pour manquer ces occasions uniques de briller et de vous amuser !**
