@@ -30,47 +30,28 @@ Commencez à <mark style="color:green;">**farmer les items indiqués**</mark> po
 
 <table border="1" cellspacing="0" cellpadding="6">
  <tr> 
-  <td><mark style="color:white;"><strong>Métiers 🛠</strong></mark></td> <td><mark style="color:green;"><strong>Fragment d'étoile</strong></mark></td>
+  <td><mark style="color:green;"><strong><ins>Métiers 🛠️</ins></strong></mark></td> 
+  <td><mark style="color:green;"><strong><ins>Fragment d'étoile</ins></strong></mark></td>
  </tr>
   <tr>
    <td><mark style="color:green;"><strong>Fermier 🌾</strong></mark></td>
-   <td>
-    <figure>
-     <img src="../../.gitbook/assets/Les_Villes/Classement/FragmentFermier.png" alt="">
-    </figure>
-   </td>
+   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentFermier.png" alt=""></figure></td>
   </tr>
   <tr>
    <td><mark style="color:green;"><strong>Mineur ⛏️</strong></mark></td>
-   <td>
-    <figure>
-     <img src="../../.gitbook/assets/Les_Villes/Classement/FragmentMineur.png" alt="">
-    </figure>
-   </td>
+   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentMineur.png" alt=""></figure></td>
   </tr>
   <tr>
    <td><mark style="color:green;"><strong>Bûcheron 🪚</strong></mark></td>
-   <td>
-    <figure>
-     <img src="../../.gitbook/assets/Les_Villes/Classement/FragmentBucheron.png" alt="">
-      </figure>
-   </td>
+   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentBucheron.png" alt=""></figure></td>
   </tr>
   <tr>
    <td><mark style="color:green;"><strong>Pêcheur 🎣</strong></mark></td>
-   <td>
-    <figure>
-     <img src="../../.gitbook/assets/Les_Villes/Classement/FragmentPecheur.png" alt="">
-    </figure>
-   </td>
+   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentPecheur.png" alt=""></figure></td>
   </tr>
   <tr>
    <td><mark style="color:green;"><strong>Chasseur 🗡️</strong></mark></td>
-   <td>
-    <figure>
-     <img src="../../.gitbook/assets/Les_Villes/Classement/FragmentChasseur.png" alt="">
-    </figure>
-   </td>
+   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentChasseur.png" alt=""></figure></td>
   </tr>
  </table>
 
