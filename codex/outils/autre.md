@@ -57,7 +57,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
   </tr>
 </table>
 
-### 🪄 ◦ <mark style="color:green;">Sac Chauve-Souris</mark>
+### 🎒 ◦ <mark style="color:green;">Sac Chauve-Souris</mark>
 
 🔹 Le <mark style="color:green;">sac Chauve-Souris</mark> s'obtient dans la [<mark style="color:orange;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween).
 
