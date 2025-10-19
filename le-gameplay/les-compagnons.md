@@ -12,7 +12,7 @@ Les <mark style="color:green;">**compagnons**</mark> sont un système qui vous p
 
 Mais pour profiter de ces avantages… encore faut-il avoir un <mark style="color:green;">**compagnon**</mark> !
 
-## 💠 Comment avoir un compagnon ? 🐾
+## 💠 <mark style="color:green;">Comment avoir un compagnon ?</mark> 🐾
 
 Pour en obtenir un, plusieurs moyens sont possibles :
 
@@ -28,7 +28,7 @@ Au palier 7 (atteint après <mark style="color:green;">**50 votes**</mark> dans 
 Vous pouvez aussi acheter des compagnons directement dans l’<mark style="color:green;">**hôtel de vente**</mark>, en échange d’<mark style="color:green;">**argent ingame**</mark>.  
 Cependant, leur disponibilité dépend de ce que les autres joueurs proposent à la vente.
 
-## 💠 Équiper un compagnon 🎒
+## 💠 <mark style="color:green;">Équiper un compagnon</mark> 🎒
 
 Équiper un compagnon permet d’activer ses <mark style="color:green;">**avantages**</mark>, à condition que son <mark style="color:green;">**palier**</mark> soit débloqué.  
 
@@ -47,7 +47,7 @@ Cliquez gauche sur votre compagnon pour l’équiper en mode **PASSIF**.
 🔍 REMARQUE : Pour désactiver un compagnon, refaites un clic droit dans le <mark style="color:green;">`/pets`</mark> pour le passer en mode **Inactif**.
 {% endhint %}
 
-## 💠 Améliorer un compagnon 🆙
+## 💠 <mark style="color:green;">Améliorer un compagnon</mark> 🆙
 Pour améliorer un compagnon et débloquer de nouveaux <mark style="color:green;">**avantages**</mark>, vous devez lui donner des <mark style="color:green;">**bonbons**</mark>.
 
 ### 🔸 Étape 1 :
@@ -63,7 +63,7 @@ Pour plus d'informations sur les bonbons, nous vous invitons à consulter la pag
 🔍 REMARQUE : Plus votre compagnon monte en niveau, plus il demandera d’<mark style="color:green;">**XP**</mark> pour progresser.
 {% endhint %}
 
-## 💠 Créer une sauvegarde 💾
+## 💠 <mark style="color:green;">Créer une sauvegarde</mark> 💾
 
 Les <mark style="color:green;">**sauvegardes**</mark>, symbolisées par un engrenage dans le <mark style="color:green;">`/pets`</mark>, permettent de stocker vos compositions de compagnons.  
 Vous pouvez enregistrer jusqu’à <mark style="color:green;">**5 sauvegardes**</mark>, ce qui facilite le passage d’une composition **farm** à une composition **donjon**.
@@ -74,7 +74,7 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**5 sauvegardes**<
 🔍 REMARQUE : Si l’un des compagnons de votre composition n’existe plus, la sauvegarde s’appliquera sans lui, ou un message d’erreur vous préviendra.
 {% endhint %}
 
-## 💠 La liste des compagnons 🧸
+## 💠 <mark style="color:green;">La liste des compagnons</mark> 🧸
 
 <figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
