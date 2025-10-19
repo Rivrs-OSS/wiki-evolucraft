@@ -16,7 +16,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/SeauEau_Infini.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/SeauEau_Infini.png" alt=""></figure>Aperçue de l'item bientôt présente</td>
    <td>Ce <mark style="color:green;">seau d’eau infini</mark> vous permet de remplir vos <mark style="color:green;">blocs d’eau</mark> comme un <mark style="color:green;">seau classique</mark>, mais sans jamais avoir besoin de le recharger. Très pratique pour la <mark style="color:green;">construction de vos champs</mark> ou tout autre <mark style="color:green;">construction</mark>.</td>
   </tr>
 </table>
@@ -27,7 +27,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/Arroseur.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/Arroseur.png" alt=""></figure>Aperçue de l'item bientôt présente</td>
    <td>L’<mark style="color:green;">arroseur automatique</mark> vous permet, uniquement pour les <mark style="color:green;">plantes issues du</mark> <a href="https://wiki.evolucraft.fr/le-gameplay/mondes#le-new-world"><mark style="color:green;"><strong>/newworld</strong></mark></a>, d’arroser automatiquement la <mark style="color:green;">terre en pot</mark> sur une zone de <mark style="color:green;">3x3</mark>. Grâce à lui, vos <mark style="color:green;">plantes pousseront plus facilement</mark> sans avoir besoin d’une intervention manuelle.</td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/TerreEnPot.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/TerreEnPot.png" alt=""></figure>Aperçue de l'item bientôt présente</td>
    <td>La <mark style="color:green;">terre en pot</mark> vous permet de faire pousser uniquement le <mark style="color:green;">maïs</mark> et les <mark style="color:green;">tomates</mark>, issus du <a href="https://wiki.evolucraft.fr/le-gameplay/mondes#le-new-world"><mark style="color:green;"><strong>/newworld</strong></mark></a>. Elle sert donc à créer un <mark style="color:green;">champ spécial</mark> dédié à ces plantes uniques.</td>
   </tr>
 </table>
@@ -49,7 +49,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/SceptreBatisseur.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/SceptreBatisseur.png" alt=""></figure>Aperçue de l'item bientôt présente</td>
 <td align="center">
      <p><mark style="color:green;"><strong>600</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
    </td>
@@ -63,7 +63,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/Sac_ChauveSouris.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/Sac_ChauveSouris.png" alt=""></figure>Aperçue de l'item bientôt présente</td>
 <td align="center">
      <p><mark style="color:green;"><strong>9 stacks d'items</strong></mark>
    </td>
@@ -77,7 +77,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/TraqueurDonjon.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/TraqueurDonjon.png" alt=""></figure>Aperçue de l'item bientôt présente</td>
 <td align="center">
      <p><mark style="color:green;"><strong>20</strong></mark> d'<mark style="color:orange;"><strong>Utilisations</strong></mark></p>
    </td>
@@ -91,7 +91,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/SeauVide_Infini.png" alt=""></figure></td>
+   <td align="center"><figure><img src="../.gitbook/assets/Codex/Outils/Autre/SeauVide_Infini.png" alt=""></figure>Aperçue de l'item bientôt présente</td>
    <td>Ce <mark style="color:green;">seau vide infini</mark> vous permet, à l'inverse du seau d'eau infini, d'enlever vos <mark style="color:green;">source d’eau</mark> comme un <mark style="color:green;">seau vide classique</mark>, mais sans jamais avoir besoin de le vider. Très pratique pour la <mark style="color:green;">construction en pleine océan</mark> par exemple.</td>
   </tr>
 </table>
