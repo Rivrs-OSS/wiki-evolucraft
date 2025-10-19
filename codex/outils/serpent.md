@@ -27,8 +27,8 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Dague.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Tranchant X</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Butin V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Tranchant X</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Butin V</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:green;"><strong>3 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
@@ -41,17 +41,17 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Lance.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Châtiment VI</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Fléau des Arthopodes VI</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Affliage V</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Butin V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Châtiment VI</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Fléau des Arthopodes VI</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Affliage V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Butin V</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Effet Dextérité</strong></mark> : Frappe 15% plus vite.</p>
+     <p>▸ <mark style="color:green;"><strong>Effet Dextérité</strong></mark> : Frappe 15% plus vite.</p>
    </td>
   </tr>
   <tr>
@@ -60,10 +60,10 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Arc.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Puissance VII</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Frappe III</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Flamme III</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Infinité</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Puissance VII</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Frappe III</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Flamme III</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Infinité</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
@@ -76,8 +76,8 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Pioche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Fortune IX</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Fortune IX</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:green;"><strong>3 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
@@ -90,13 +90,13 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Hache.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Efficaciter VII</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Efficaciter VII</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:green;"><strong>Effet Bûcheron</strong></mark> : Coupe un petit arbre en y cassant juste une bûche.</p>
+     <p>▸ <mark style="color:green;"><strong>Effet Bûcheron</strong></mark> : Coupe un petit arbre en y cassant juste une bûche.</p>
    </td>
   </tr>
   <tr>
@@ -105,15 +105,15 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Houe.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Fortune V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Fortune V</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:green;"><strong>8 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:green;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
-     <p>🞄 <mark style="color:green;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 3X3.</p>
+     <p>▸ <mark style="color:green;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
+     <p>▸ <mark style="color:green;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 3X3.</p>
    </td>
   </tr>
   <tr>
@@ -122,14 +122,14 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Chance de la Mer V</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Appât V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Chance de la Mer V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Appât V</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:green;"><strong>1 250</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:green;"><strong>Effet Pêche</strong></mark> : Vous avez 10% de chance de doubler votre pêche.</p>
+     <p>▸ <mark style="color:green;"><strong>Effet Pêche</strong></mark> : Vous avez 10% de chance de doubler votre pêche.</p>
    </td>
   </tr>  
   <tr>
@@ -138,8 +138,8 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Pelle.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Efficaciter VII</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Toucher de Soi</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Efficaciter VII</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Toucher de Soi</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:green;"><strong>4 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
@@ -152,14 +152,14 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Marteau.png" alt=""></figure></p>
    </td>
    <td>
-     <p>🞄 <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
-     <p>🞄 <mark style="color:green;"><strong>Fortune III</strong></mark></p>   
+     <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Fortune III</strong></mark></p>   
    </td>
    <td align="center">
      <p><mark style="color:green;"><strong>4 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-     <p>🞄 <mark style="color:green;"><strong>Effet Hammer</strong></mark> : Casse les blocks dans une zone de 3X3.</p>
+     <p>▸ <mark style="color:green;"><strong>Effet Hammer</strong></mark> : Casse les blocks dans une zone de 3X3.</p>
    </td>
   </tr>
 </table>
