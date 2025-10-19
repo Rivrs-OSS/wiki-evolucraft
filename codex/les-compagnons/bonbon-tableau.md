@@ -24,7 +24,7 @@ En ouvrant les <mark style="color:green;">**boxs Émeraude, Rubis, Évènements 
 ### 🔸 Les <mark style="color:green;">**parchemins**</mark>  
 En complétant certains <mark style="color:green;">**parchemins**</mark>, vous pouvez recevoir des <mark style="color:green;">**bonbons**</mark> comme récompense.  
 
-{% hint style="info" %}
+{% hint style="tips" %}
 **🔍 REMARQUE :** Pour savoir quels <mark style="color:green;">**parchemins**</mark> peuvent offrir des <mark style="color:green;">**bonbons**</mark>, utilisez la commande <mark style="color:green;">**`/quest`**</mark> puis cliquez sur **"Parchemins"**.
 {% endhint %}
 
