@@ -100,7 +100,7 @@
   * [📈 Outils Évolutifs](codex/outils/evolutive.md)
   * [🎁 Outils des Caisses Évènements](codex/outils/caisses.md)
   * [🐍 Outils du Serpent](codex/outils/serpent.md)
-  * [⚙️ Outils HolyCube](codex/outils/holycube.md)
+  * [🚂 Outils HolyCube](codex/outils/holycube.md)
   * [🐲 Outils Draconique édition 2025](codex/outils/draconique2025.md)
   * [🐉 Outils Saphira](codex/outils/saphira.md)
   * [⚒️ Autres Outils](codex/outils/autre.md)
@@ -111,4 +111,3 @@
   * [🐟 Compagnon Épique](codex/les-compagnons/pets-epique.md)
   * [👾 Compagnon Légendaire](codex/les-compagnons/pets-legendaire.md)
   * [🦞 Compagnon Mythique](codex/les-compagnons/pets-mythique.md)
-

@@ -26,34 +26,34 @@ La <mark style="color:green;">clé</mark> de la Caisse Vote s'obtient en <mark s
 
 <figure><img src="../.gitbook/assets/Les_Caisses/Vote.png" alt=""><figcaption></figcaption></figure>
 
-| **Récompense**                                                                                                                                                                      | **Pourcentage d'obtention** |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| <mark style="color:green;">**Épée de l'Aventurier**</mark>                                                                                                                          | **4,22%**                   |
-| <mark style="color:green;">**Pioche de l'Aventurier**</mark>                                                                                                                        | **4,22%**                   |
-| <mark style="color:green;">**Houe de l'Aventurier**</mark>                                                                                                                          | **4,22%**                   |
-| <mark style="color:green;">**Canne à Pêche de l'Aventurier**</mark>                                                                                                                 | **4,22%**                   |
-| <mark style="color:green;">**Hache de l'Aventurier**</mark>                                                                                                                         | **4,22%**                   |
-| <mark style="color:green;">**5.000💰**</mark>                                                                                                                                       | **4,22%**                   |
-| <mark style="color:green;">**10.000💰**</mark>                                                                                                                                      | **4,22%**                   |
-| <mark style="color:green;">**10 Gemmes 💎**</mark>                                                                                                                                  | **4,22%**                   |
-| <mark style="color:green;">**Spawner Aléatoire**</mark>                                                                                                                             | **4,22%**                   |
-| <mark style="color:green;">**Booster Aléatoire de 10% pendant 30 minutes**</mark>                                                                                                   | **4,21%**                   |
-| <mark style="color:green;">**Pierre de Téléportation Commun**</mark>                                                                                                                | **4,21%**                   |
-| <mark style="color:green;">**2 000 XP sur un Métier Aléatoire**</mark>                                                                                                              | **4,21%**                   |
-| <mark style="color:green;">**1 000 XP Classe**</mark>                                                                                                                               | **4,21%**                   |
-| <mark style="color:green;">**1 395 Point d'XP (Vanilla)**</mark>                                                                                                                    | **4,21%**                   |
-| <mark style="color:green;">**Plume de Fly de 10 Minutes**</mark>                                                                                                                    | **4,21%**                   |
-| <mark style="color:green;">**Plume de Fly de 30 Minutes**</mark>                                                                                                                    | **4,21%**                   |
-| <mark style="color:green;">**Parchemin d'Aventure Aléatoire**</mark>                                                                                                                | **4,21%**                   |
-| <mark style="color:green;">**2 Bonbons à la Pomme**</mark>                                                                                                                          | **4,21%**                   |
-| <mark style="color:green;">**Livre d'Echantement Aléatoire**</mark>                                                                                                                 | **4,21%**                   |
-| <mark style="color:green;">**Entonnoir**</mark>                                                                                                                                     | **4,21%**                   |
-| <mark style="color:green;">**2 Fragments de Netherite**</mark>                                                                                                                      | **4,21%**                   |
-| <mark style="color:green;">**Carapace de Shulker**</mark>                                                                                                                           | **4,21%**                   |
-| <mark style="color:green;">**Chapeau de Tyro**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/cosmetics`**</mark> _(Obtenable qu'une seule fois)_ | **4,21%**                   |
-| <mark style="color:green;">**Clé Cosmétique**</mark>                                                                                                                                | **1%**                      |
-| <mark style="color:green;">**Clé Émeraude**</mark>                                                                                                                                  | **1%**                      |
-| [<mark style="color:green;"><mark style="color:blue;">**24H de Premium 👑**<mark style="color:blue;"></mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium) | **1%**                      |
+| **Récompense**                                                                                                                                                                       | **Pourcentage d'obtention** |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| <mark style="color:green;">**Épée de l'Aventurier**</mark>                                                                                                                           | **4,22%**                   |
+| <mark style="color:green;">**Pioche de l'Aventurier**</mark>                                                                                                                         | **4,22%**                   |
+| <mark style="color:green;">**Houe de l'Aventurier**</mark>                                                                                                                           | **4,22%**                   |
+| <mark style="color:green;">**Canne à Pêche de l'Aventurier**</mark>                                                                                                                  | **4,22%**                   |
+| <mark style="color:green;">**Hache de l'Aventurier**</mark>                                                                                                                          | **4,22%**                   |
+| <mark style="color:green;">**5.000💰**</mark>                                                                                                                                        | **4,22%**                   |
+| <mark style="color:green;">**10.000💰**</mark>                                                                                                                                       | **4,22%**                   |
+| <mark style="color:green;">**10 Gemmes 💎**</mark>                                                                                                                                   | **4,22%**                   |
+| <mark style="color:green;">**Spawner Aléatoire**</mark>                                                                                                                              | **4,22%**                   |
+| <mark style="color:green;">**Booster Aléatoire de 10% pendant 30 minutes**</mark>                                                                                                    | **4,21%**                   |
+| <mark style="color:green;">**Pierre de Téléportation Commun**</mark>                                                                                                                 | **4,21%**                   |
+| <mark style="color:green;">**2 000 XP sur un Métier Aléatoire**</mark>                                                                                                               | **4,21%**                   |
+| <mark style="color:green;">**1 000 XP Classe**</mark>                                                                                                                                | **4,21%**                   |
+| <mark style="color:green;">**1 395 Point d'XP (Vanilla)**</mark>                                                                                                                     | **4,21%**                   |
+| <mark style="color:green;">**Plume de Fly de 10 Minutes**</mark>                                                                                                                     | **4,21%**                   |
+| <mark style="color:green;">**Plume de Fly de 30 Minutes**</mark>                                                                                                                     | **4,21%**                   |
+| <mark style="color:green;">**Parchemin d'Aventure Aléatoire**</mark>                                                                                                                 | **4,21%**                   |
+| <mark style="color:green;">**2 Bonbons à la Pomme**</mark>                                                                                                                           | **4,21%**                   |
+| <mark style="color:green;">**Livre d'Echantement Aléatoire**</mark>                                                                                                                  | **4,21%**                   |
+| <mark style="color:green;">**Entonnoir**</mark>                                                                                                                                      | **4,21%**                   |
+| <mark style="color:green;">**2 Fragments de Netherite**</mark>                                                                                                                       | **4,21%**                   |
+| <mark style="color:green;">**Carapace de Shulker**</mark>                                                                                                                            | **4,21%**                   |
+| <mark style="color:green;">**Chapeau de Tyro**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/cosmetics`**</mark> _(Obtenable qu'une seule fois)_  | **4,21%**                   |
+| <mark style="color:green;">**Clé Cosmétique**</mark>                                                                                                                                 | **1%**                      |
+| <mark style="color:green;">**Clé Émeraude**</mark>                                                                                                                                   | **1%**                      |
+| [<mark style="color:blue;"><mark style="color:green;">**24H de Premium 👑**<mark style="color:green;"></mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium) | **1%**                      |
 | <mark style="color:green;">**Rat de Billy**</mark> _(20% d'avoir la version Shiny)_                                                                                                  | **0,05%**                   |
 
 ### 🔸 <mark style="color:purple;">Caisse Cosmétique 🎩</mark>
@@ -105,24 +105,24 @@ La <mark style="color:green;">clé</mark> de la Caisse Émeraude s'obtient en l'
 
 | **Récompense**                                                                                   | **Pourcentage d'obtention** |
 | ------------------------------------------------------------------------------------------------ | --------------------------- |
-| <mark style="color:green;">**Épée en Émeraude**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**  |
-| <mark style="color:green;">**Pioche en Émeraude**</mark> _(20% d'avoir la version Shiny)_        | **5,55%**  |
-| <mark style="color:green;">**Hache en Émeraude**</mark> _(20% d'avoir la version Shiny)_         | **5,55%**  |
-| <mark style="color:green;">**Houe en Émeraude**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**  |
-| <mark style="color:green;">**Canne à Pêche en Émeraude**</mark> _(20% d'avoir la version Shiny)_ | **5,55%**  |
-| <mark style="color:green;">**Pelle en Émeraude**</mark> _(20% d'avoir la version Shiny)_         | **5,55%**  |
-| <mark style="color:green;">**Sceptre en Émeraude**</mark>                                        | **5,55%**  |
-| <mark style="color:green;">**Oeuf de Familier**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**  |
-| <mark style="color:green;">**300.000💰**</mark>                                                  | **5,55%**  |
-| <mark style="color:green;">**Spawner Aléatoire**</mark>                                          | **5,55%**  |
-| <mark style="color:green;">**Booster Aléatoire de 25% pendant 1H**</mark>                        | **5,55%**  |
-| <mark style="color:green;">**Carte de Classe Aléatoire**</mark>                                  | **5,55%**  |
-| <mark style="color:green;">**Pierre de Téléportation**</mark>                                    | **5,55%**  |
-| <mark style="color:green;">**3 Parchemin d'Aventure Difficile**</mark>                           | **5,55%**  |
-| <mark style="color:green;">**3 Bonbons à la Myrtille**</mark>                                    | **5,55%**  |
-| <mark style="color:green;">**2 Clés Émeraude**</mark>                                            | **5,55%**  |
-| <mark style="color:green;">**Clé Rubis**</mark>                                                  | **5,55%**  |
-| <mark style="color:green;">**Totem d'Immortalité**</mark>                                        | **5,55%**  |
+| <mark style="color:green;">**Épée en Émeraude**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**                   |
+| <mark style="color:green;">**Pioche en Émeraude**</mark> _(20% d'avoir la version Shiny)_        | **5,55%**                   |
+| <mark style="color:green;">**Hache en Émeraude**</mark> _(20% d'avoir la version Shiny)_         | **5,55%**                   |
+| <mark style="color:green;">**Houe en Émeraude**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**                   |
+| <mark style="color:green;">**Canne à Pêche en Émeraude**</mark> _(20% d'avoir la version Shiny)_ | **5,55%**                   |
+| <mark style="color:green;">**Pelle en Émeraude**</mark> _(20% d'avoir la version Shiny)_         | **5,55%**                   |
+| <mark style="color:green;">**Sceptre en Émeraude**</mark>                                        | **5,55%**                   |
+| <mark style="color:green;">**Oeuf de Familier**</mark> _(20% d'avoir la version Shiny)_          | **5,55%**                   |
+| <mark style="color:green;">**300.000💰**</mark>                                                  | **5,55%**                   |
+| <mark style="color:green;">**Spawner Aléatoire**</mark>                                          | **5,55%**                   |
+| <mark style="color:green;">**Booster Aléatoire de 25% pendant 1H**</mark>                        | **5,55%**                   |
+| <mark style="color:green;">**Carte de Classe Aléatoire**</mark>                                  | **5,55%**                   |
+| <mark style="color:green;">**Pierre de Téléportation**</mark>                                    | **5,55%**                   |
+| <mark style="color:green;">**3 Parchemin d'Aventure Difficile**</mark>                           | **5,55%**                   |
+| <mark style="color:green;">**3 Bonbons à la Myrtille**</mark>                                    | **5,55%**                   |
+| <mark style="color:green;">**2 Clés Émeraude**</mark>                                            | **5,55%**                   |
+| <mark style="color:green;">**Clé Rubis**</mark>                                                  | **5,55%**                   |
+| <mark style="color:green;">**Totem d'Immortalité**</mark>                                        | **5,55%**                   |
 
 ### 🔸 <mark style="color:red;">Caisse Rubis 🔻</mark>
 
@@ -189,7 +189,7 @@ Si vous réussissez à obtenir une <mark style="color:green;">clé</mark> afin d
 
 <figure><img src="../.gitbook/assets/Les_Caisses/AncienneBox.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %} 
+{% hint style="info" %}
 Vous pouvez y accèder à cette zone via le `/codex` si vous l'avez au minimum visiter.
 {% endhint %}
 
@@ -321,7 +321,7 @@ La clé de la Caisse Halloween s'obtient grâce à <mark style="color:green;">la
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-givrée).
+La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-givr%C3%A9e).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -352,7 +352,7 @@ La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-cupidon).
+La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-cupidon).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -383,7 +383,7 @@ La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-léprechaun).
+La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-l%C3%A9prechaun).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -414,7 +414,7 @@ La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-pâques).
+La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-p%C3%A2ques).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -445,7 +445,7 @@ La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki-evolucraft/le-gameplay/marche-noir#clé-summer).
+La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-summer).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -476,7 +476,7 @@ La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la cl
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-antique).
+La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">10%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-antique).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -505,4 +505,4 @@ La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient gr�
 
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
-**Et voilà, vous connaissez désormais toutes les **<mark style="color:green;">**caisses**</mark>** du serveur ! À vous de jouer avec les dernières ! 😎** _Nous rappelons que jouer à la loterie comporte des risques d’addiction, faites-y attention ! 🤗_
+**Et voilà, vous connaissez désormais toutes les&#x20;**<mark style="color:green;">**caisses**</mark>**&#x20;du serveur ! À vous de jouer avec les dernières ! 😎** _Nous rappelons que jouer à la loterie comporte des risques d’addiction, faites-y attention ! 🤗_

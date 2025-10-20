@@ -93,6 +93,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * La vente de cosmétiques (issus d'un use bug), d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de têtes de minerais, de têtes du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
 * La création de casino est interdite.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus.
+* De même, plusieurs joueurs de la même team/ville ne peuvent pas apparaître/participer deux fois dans le classement ville avec plusieurs villes différentes.
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.

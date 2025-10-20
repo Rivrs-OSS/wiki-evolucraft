@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes la liste de tout les Armure présents sur le serveur.
 ---
 
-# 🥼 Les Armure
+# 🥼 Les Armures
 
 ## 💠 <mark style="color:green;">Quelques informations... ?</mark> 📃
 
@@ -16,1442 +16,306 @@ Ces Armure sont trouvables dans différentes [<mark style="color:green;">**caiss
 
 ### 🎲◦ <mark style="color:yellow;">Armure Jackpot</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'Armure Jackpot</mark> ne sont <mark style="color:green;">plus obtenable actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
+|                                                                                                                                                                                       **Casque**                                                                                                                                                                                       |                                                                                                                                 **Plastron**                                                                                                                                 |                                                                                                                                                 **Pantalon**                                                                                                                                                 |                                                                                                                                                                                                                                  **Bottes**                                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                               <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                               |                                                                         <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                                                         |                                                                                         <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                         |                                                                                                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                         |
+|                                                      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>                                                      | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p> |                 <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>                 |                                                                                                 <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>                                                                                                |
+| <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p> |                          <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>                         | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p> |
 
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
-    </td>
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
-  </tr>
-</table>
+| **Aperçue de l'armure 🖼️**                                                                                                 | **Statistiques globales 📊**                                                                                                                                                                                                                                                  | **Effets✨**                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p> | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
 
 ### 🎰✨◦ <mark style="color:green;">Armure Jackpot Shiny</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'Armure Jackpot Shiny</mark> ne sont <mark style="color:green;">plus obtenable actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
+|                                                                                                                                                                                     **Casque**                                                                                                                                                                                    |                                                                                                                                 **Plastron**                                                                                                                                 |                                                                                                                                               **Pantalon**                                                                                                                                               |                                                                                                                                                                                                                               **Bottes**                                                                                                                                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                         |                                                                      <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                                                      |                                                                                    <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                    |                                                                                                                                                                    <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                   |
+|                                                    <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>                                                   | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p> |               <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>               |                                                                                              <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>                                                                                             |
+| <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p> |                           <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>                           | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p> |
 
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
-    </td>
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
-  </tr>
-</table>
-      
-### 🐉◦ <mark style="color:orange;"> Armure Draconique</mark>
+| **Aperçue de l'armure 🖼️**                                                                                                       | **Statistiques globales 📊**                                                                                                                                                                                                                                                  | **Effets✨**                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Jackpot_Shiny/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p> | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
 
-#### 🔹 <ins>Son obtention</ins>🤔
+### 🐉◦ <mark style="color:orange;">Armure Draconique</mark>
+
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+8</strong></p>
-    </td>
-    <td>
-      <mark style="color:orange;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:orange;"><strong>+ 2.5%</strong></mark> de <mark style="color:orange;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique"><mark style="color:orange;"><strong>Donjons Draconiques</strong></mark></a>
-    </td>
-  </tr>
-</table>
+|                                                                                                                                                                                       **Casque**                                                                                                                                                                                       |                                                                                                         **Plastron**                                                                                                        |                                                                                                                                                 **Pantalon**                                                                                                                                                 |                                                                                                                                                                                                                                  **Bottes**                                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                              <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                             |                                               <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                               |                                                                                        <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                       |                                                                                                                                                                        <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                        |
+|                                                                                                     <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>                                                                                                    |                       <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>                       |                                                                <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>                                                               |                                                                                                                                               <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+2</strong></p>                                                                                                                                               |
+| <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                                    | **Statistiques globales 📊**                                                                                                                                                    | **Effets✨**                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconique/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+8</strong></p> | <mark style="color:orange;">**Effet par pièce d'armure équiper**</mark> : <mark style="color:orange;">**+ 2.5%**</mark> de <mark style="color:orange;">**Dégats supplémentaire**</mark> dans les [<mark style="color:orange;">**Donjons Draconiques**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique) |
 
 ### 🐲◦ <mark style="color:red;">Armure Draconnier</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Draconnier</mark> s'obtiennent dans le [<mark style="color:green;"><strong>Marché Noir 🧥</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique) avec les <mark style="color:green;">Coeurs de Dragons</mark>.
+Les <mark style="color:green;">pièces d'armures Draconnier</mark> s'obtiennent dans le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique) avec les <mark style="color:green;">Coeurs de Dragons</mark>.
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <mark style="color:red;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:red;"><strong>+ 1%</strong></mark> de <mark style="color:red;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique"><mark style="color:red;"><strong>Donjons Draconiques</strong></mark></a>
-    </td>
-  </tr>
-</table>
+|                                                                                                                                                                                **Casque**                                                                                                                                                                               |                                                                                                    **Plastron**                                                                                                    |                                                                                                                                           **Pantalon**                                                                                                                                           |                                                                                                                                                                                                                         **Bottes**                                                                                                                                                                                                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                      <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                      |                                           <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                          |                                                                                  <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                 |                                                                                                                                                               <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                               |
+|                                                                                              <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>                                                                                             |                   <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>                   |                                                          <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>                                                          |                                                                                                                                       <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+1</strong></p>                                                                                                                                      |
+| <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:red;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:red;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:red;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                                    | **Statistiques globales 📊**                                                                                                                                                    | **Effets✨**                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Draconnier/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p> | <mark style="color:red;">**Effet par pièce d'armure équiper**</mark> : <mark style="color:red;">**+ 1%**</mark> de <mark style="color:red;">**Dégats supplémentaire**</mark> dans les [<mark style="color:red;">**Donjons Draconiques**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique) |
 
 ### 🌊◦ <mark style="color:blue;">Armure Abyssal</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p>
-    </td>
-    <td>
-      <mark style="color:blue;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:blue;"><strong>+ 2.5%</strong></mark> de <mark style="color:blue;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal"><mark style="color:blue;"><strong>Donjons Abysseaux</strong></mark></a>
-    </td>
-  </tr>
-</table>
+|                                                                                                                                                                                  **Casque**                                                                                                                                                                                  |                                                                                                      **Plastron**                                                                                                     |                                                                                                                                             **Pantalon**                                                                                                                                             |                                                                                                                                                                                                                            **Bottes**                                                                                                                                                                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                          |                                              <div><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                             |                                                                                     <div><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                     |                                                                                                                                                                    <div><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                   |
+|                                                                                              <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>                                                                                              |                   <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>                  |                                                          <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>                                                          |                                                                                                                                        <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+2</strong></p>                                                                                                                                       |
+| <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                                 | **Statistiques globales 📊**                                                                                                                                                       | **Effets✨**                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Abyssal/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+8</strong></p> | <mark style="color:blue;">**Effet par pièce d'armure équiper**</mark> : <mark style="color:blue;">**+ 2.5%**</mark> de <mark style="color:blue;">**Dégats supplémentaire**</mark> dans les [<mark style="color:blue;">**Donjons Abysseaux**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal) |
 
 ### 🏴‍☠️◦ <mark style="color:yellow;">Armure Conquistador</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennent dans la [<mark style="color:green;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+8</strong></p>
-    </td>
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
-  </tr>
-</table>
+|                                                                                                                                                                                     **Casque**                                                                                                                                                                                    |                                                                                                       **Plastron**                                                                                                       |                                                                                                                                               **Pantalon**                                                                                                                                               |                                                                                                                                                                                                                               **Bottes**                                                                                                                                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                          |                                             <div><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                            |                                                                                     <div><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                    |                                                                                                                                                                    <div><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                    |
+|                                                                                                  <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>                                                                                                 |                     <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>                     |                                                             <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>                                                             |                                                                                                                                            <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+2</strong></p>                                                                                                                                           |
+| <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p> |
 
-### 🌛◦ <mark style="color:blue;">Armure de Minuit 
+| **Aperçue de l'armure 🖼️**                                                                                                      | **Statistiques globales 📊**                                                                                                                                                      | **Effets✨**                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Conquistador/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+8</strong></p> | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
 
-#### 🔹 <ins>Son obtention</ins>🤔
+### 🌛◦ <mark style="color:blue;">Armure de Minuit</mark>
+
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+40</strong></p>
-    </td>
-    <td>
-      <mark style="color:blue;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:blue;"><strong>+ 0.5%</strong></mark> de <mark style="color:blue;"><strong>Vol de vie</strong></mark> dans <mark style="color:blue;"><strong>Tout types de Donjons</strong></mark>
-    </td>
-  </tr>
-</table>
+|                                                                                                                                                                                  **Casque**                                                                                                                                                                                  |                                                                                                      **Plastron**                                                                                                     |                                                                                                                                             **Pantalon**                                                                                                                                             |                                                                                                                                                                                                                            **Bottes**                                                                                                                                                                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                           <div><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                          |                                              <div><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                              |                                                                                      <div><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                     |                                                                                                                                                                    <div><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                    |
+|                                                                                                <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>                                                                                                |                     <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>                    |                                                            <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>                                                            |                                                                                                                                          <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+10</strong></p>                                                                                                                                         |
+| <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                                | **Statistiques globales 📊**                                                                                                                                                   | **Effets✨**                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Minuit/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p><p>▸ <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> <strong>+40</strong></p> | <mark style="color:blue;">**Effet par pièce d'armure équiper**</mark> : <mark style="color:blue;">**+ 0.5%**</mark> de <mark style="color:blue;">**Vol de vie**</mark> dans <mark style="color:blue;">**Tout types de Donjons**</mark> |
 
 ### 🎅◦ <mark style="color:red;">Armure Père Noël</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent dans la [<mark style="color:green;">caisse Givrée</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:red;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+16</strong></p>
-    </td>
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
-  </tr>
-</table>
+|                                                                                                                                                                                **Casque**                                                                                                                                                                               |                                                                                                    **Plastron**                                                                                                    |                                                                                                                                           **Pantalon**                                                                                                                                           |                                                                                                                                                                                                                         **Bottes**                                                                                                                                                                                                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                       <div><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                       |                                            <div><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                           |                                                                                   <div><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                  |                                                                                                                                                                <div><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                |
+|                                                                                         <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>                                                                                        |              <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>              |                                                     <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>                                                     |                                                                                                                                  <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+4</strong></p>                                                                                                                                 |
+| <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:red;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:red;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:red;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                                  | **Statistiques globales 📊**                                                                                                                                                              | **Effets✨**                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/PereNoel/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+16</strong></p> | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
 
 ### 🧚‍♂️◦ <mark style="color:green;">Armure Elfes</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Elfes</mark> ne sont <mark style="color:green;">plus obtenables actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
-      <p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+1</strong></p>
-    </td>
-    <td><mark style="color:green;"><strong>Effet avec l'armure complète équiper</strong></mark> : Vous permet <mark style="color:green;"><strong>d'effectuer un Double Saut</strong></mark> <em>(Touche de Saut + Touche de Sneak)</em></td>
-  </tr>
-</table>
+|                                                                                                                                                                                     **Casque**                                                                                                                                                                                    |                                                                                                       **Plastron**                                                                                                       |                                                                                                                                               **Pantalon**                                                                                                                                               |                                                                                                                                                                                                                               **Bottes**                                                                                                                                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                              <div><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                             |                                                <div><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                                |                                                                                        <div><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                        |                                                                                                                                                                        <div><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                       |
+|                                                                                             <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>                                                                                            |                <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>                |                                                        <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>                                                        |                                                                                                                                       <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+0.25</strong></p>                                                                                                                                      |
+| <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                               | **Statistiques globales 📊**                                                                                                                                                             | **Effets✨**                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Elfes/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> <strong>+1</strong></p> | <mark style="color:green;">**Effet avec l'armure complète équiper**</mark> : Vous permet <mark style="color:green;">**d'effectuer un Double Saut**</mark> _(Touche de Saut + Touche de Sneak)_ |
 
 ### 💘◦ <mark style="color:orange;">Armure Cupidon</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-cupidon).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:orange;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+1</strong></p>
-    </td>
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
-  </tr>
-</table>
+|                                                                                                                                                                                       **Casque**                                                                                                                                                                                       |                                                                                                         **Plastron**                                                                                                        |                                                                                                                                                 **Pantalon**                                                                                                                                                 |                                                                                                                                                                                                                                  **Bottes**                                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                               <div><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                               |                                                 <div><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                                |                                                                                         <div><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                         |                                                                                                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                         |
+|                                                                                              <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>                                                                                             |                <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>                |                                                         <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>                                                        |                                                                                                                                        <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+0.25</strong></p>                                                                                                                                        |
+| <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Chute Amortie IV</strong></mark></p> |
 
-### 🩷 ◦ <mark style="color:white;">Armure Amour</mark>
+| **Aperçue de l'armure 🖼️**                                                                                                 | **Statistiques globales 📊**                                                                                                                                                               | **Effets✨**                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Cupidon/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p><p>▸ <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> <strong>+1</strong></p> | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
 
-#### 🔹 <ins>Son obtention</ins>🤔
+### 🩷 ◦ Armure Amour
+
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Amour</mark> ne sont <mark style="color:green;">plus obtenables actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:white;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:white;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:white;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:white;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
-    </td>
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
-  </tr>
-</table>
+|                                                                                                **Casque**                                                                                               |                                                        **Plastron**                                                        |                                                                           **Pantalon**                                                                           |                                                                                                                         **Bottes**                                                                                                                        |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                         <div><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Casque.png" alt=""><figcaption></figcaption></figure></div>                                        | <div><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Plastron.png" alt=""><figcaption></figcaption></figure></div> |                    <div><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                    |                                                                  <div><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                 |
+|                                                                           ▸ <mark style="color:red;">**❤️ Vie**</mark> **+5**                                                                           |                                     ▸ <mark style="color:red;">**❤️ Vie**</mark> **+5**                                    |                                                        ▸ <mark style="color:red;">**❤️ Vie**</mark> **+5**                                                       |                                                                                                    ▸ <mark style="color:red;">**❤️ Vie**</mark> **+5**                                                                                                    |
+| <p>▸ <strong>Protection IV</strong></p><p>▸ <strong>Solidité III</strong></p><p>▸ <strong>Raccomodage</strong></p><p>▸ <strong>Respiration III</strong></p><p>▸ <strong>Affinité Aquatique</strong></p> |     <p>▸ <strong>Protection IV</strong></p><p>▸ <strong>Solidité III</strong></p><p>▸ <strong>Raccomodage</strong></p>     | <p>▸ <strong>Protection IV</strong></p><p>▸ <strong>Solidité III</strong></p><p>▸ <strong>Raccomodage</strong></p><p>▸ <strong>Furtivité Rapide III</strong></p> | <p>▸ <strong>Protection IV</strong></p><p>▸ <strong>Solidité III</strong></p><p>▸ <strong>Raccomodage</strong></p><p>▸ <strong>Agilité des Âmes III</strong></p><p>▸ <strong>Agilité Aquatique III</strong></p><p>▸ <strong>Chute Amortie IV</strong></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                               | **Statistiques globales 📊**                         | **Effets✨**                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Amour/Complet.png" alt=""><figcaption></figcaption></figure></div> | ▸ <mark style="color:red;">**❤️ Vie**</mark> **+20** | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
 
 ### 🍀◦ <mark style="color:green;">Armure Leprechaun</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse St-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-    </td>
-    <td><mark style="color:green;"><strong>Effet par pièce d'armure équiper/avec l'armure complète équiper</strong></mark> : <mark style="color:green;"><strong>+ 50$</strong></mark> pour <mark style="color:green;"><strong>Chaque ennemie tuée</strong></mark> dans les <mark style="color:green;"><strong>Tout types de Donjons</strong></mark></td>
-  </tr>
-</table>
+|                                                                                                                                                                                     **Casque**                                                                                                                                                                                    |                                                                                                       **Plastron**                                                                                                       |                                                                                                                                               **Pantalon**                                                                                                                                               |                                                                                                                                                                                                                               **Bottes**                                                                                                                                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                           <div><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                           |                                              <div><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                             |                                                                                      <div><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                     |                                                                                                                                                                     <div><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                     |
+|                                                                                                                                                                ▸ <mark style="color:red;">**❤️ Vie**</mark> **+10**                                                                                                                                                               |                                                                                   ▸ <mark style="color:red;">**❤️ Vie**</mark> **+10**                                                                                   |                                                                                                                           ▸ <mark style="color:red;">**❤️ Vie**</mark> **+10**                                                                                                                           |                                                                                                                                                                                                          ▸ <mark style="color:red;">**❤️ Vie**</mark> **+10**                                                                                                                                                                                                         |
+| <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:green;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:green;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:green;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:green;"><strong>Chute Amortie IV</strong></mark></p> |
 
-### 🌠◦ <mark style="color:white;">Armure Légendaire</mark>
+| **Aperçue de l'armure 🖼️**                                                                                                    | **Statistiques globales 📊**                         | **Effets✨**                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Leprechaun/Complet.png" alt=""><figcaption></figcaption></figure></div> | ▸ <mark style="color:red;">**❤️ Vie**</mark> **+40** | <mark style="color:green;">**Effet par pièce d'armure équiper/avec l'armure complète équiper**</mark> : <mark style="color:green;">**+ 50$**</mark> pour <mark style="color:green;">**Chaque ennemie tuée**</mark> dans les <mark style="color:green;">**Tout types de Donjons**</mark> |
 
-#### 🔹 <ins>Son obtention</ins>🤔
+### 🌠◦ Armure Légendaire
+
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Jackpot</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:white;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:white;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:white;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:white;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:white;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+180</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+64</strong></p>
-      <p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+24</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+24</strong></p>
-    </td>
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
-  </tr>
-</table>
+|                                                                                                                                                                                 **Casque**                                                                                                                                                                                |                                                                                                                                                                                **Plastron**                                                                                                                                                                               |                                                                                                                                                                                **Pantalon**                                                                                                                                                                               |                                                                                                                                                                                 **Bottes**                                                                                                                                                                                |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                       <div><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                       |                                                                                                                      <div><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                      |                                                                                                                      <div><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                      |                                                                                                                       <div><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                       |
+| <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+45</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+6</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+6</strong></p> |
+|                                                                                  <p>▸ <strong>Protection IV</strong></p><p>▸ <strong>Solidité III</strong></p><p>▸ <strong>Raccomodage</strong></p><p>▸ <strong>Respiration III</strong></p><p>▸ <strong>Affinité Aquatique</strong></p>                                                                                  |                                                                                                                             <p>▸ <strong>Protection IV</strong></p><p>▸ <strong>Solidité III</strong></p><p>▸ <strong>Raccomodage</strong></p>                                                                                                                            |                                                                                                      <p>▸ <strong>Protection IV</strong></p><p>▸ <strong>Solidité III</strong></p><p>▸ <strong>Raccomodage</strong></p><p>▸ <strong>Furtivité Rapide III</strong></p>                                                                                                     |                                                         <p>▸ <strong>Protection IV</strong></p><p>▸ <strong>Solidité III</strong></p><p>▸ <strong>Raccomodage</strong></p><p>▸ <strong>Agilité des Âmes III</strong></p><p>▸ <strong>Agilité Aquatique III</strong></p><p>▸ <strong>Chute Amortie IV</strong></p>                                                         |
+
+| **Aperçue de l'armure 🖼️**                                                                                                    | **Statistiques globales 📊**                                                                                                                                                                                                                                                                                                                                                 | **Effets✨**                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Legendaire/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+180</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+64</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+24</strong></p><p>▸ <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+24</strong></p> | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
 
 ### 🐇◦ <mark style="color:blue;">Armure Lapin</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:blue;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+20</strong></p>
-    </td>
-    <td>
-      <mark style="color:blue;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:blue;"><strong>+ 2.5%</strong></mark> de <mark style="color:blue;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat"><mark style="color:blue;"><strong>Donjons Fabriques Du Chocolat</strong></mark></a>
-    </td>
-  </tr>
-</table>
+|                                                                                                                                                                                  **Casque**                                                                                                                                                                                  |                                                                                                      **Plastron**                                                                                                     |                                                                                                                                             **Pantalon**                                                                                                                                             |                                                                                                                                                                                                                            **Bottes**                                                                                                                                                                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                           <div><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                           |                                               <div><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                              |                                                                                      <div><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                      |                                                                                                                                                                     <div><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                    |
+|                                                                                           <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>                                                                                          |               <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>               |                                                       <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>                                                      |                                                                                                                                    <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+5</strong></p>                                                                                                                                    |
+| <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:blue;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                               | **Statistiques globales 📊**                                                                                                                                                               | **Effets✨**                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Lapin/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+40</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+20</strong></p> | <mark style="color:blue;">**Effet par pièce d'armure équiper**</mark> : <mark style="color:blue;">**+ 2.5%**</mark> de <mark style="color:blue;">**Dégats supplémentaire**</mark> dans les [<mark style="color:blue;">**Donjons Fabriques Du Chocolat**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat) |
 
 ### 🥚 ◦ <mark style="color:yellow;">Armure Pâques</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Pâques</mark> ne sont <mark style="color:green;">plus obtenables actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p>
-      <p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p>
-    </td>
-    <td>
-      <mark style="color:yellow;"><strong>Effet par pièce d'armure équiper</strong></mark> : <mark style="color:yellow;"><strong>+ 2.5%</strong></mark> de <mark style="color:yellow;"><strong>Dégats supplémentaire</strong></mark> dans les <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin"><mark style="color:yellow;"><strong>Donjons Terriers du Roi Lapin</strong></mark></a>
-    </td>
-  </tr>
-</table>
+|                                                                                                                                                                                       **Casque**                                                                                                                                                                                       |                                                                                                         **Plastron**                                                                                                        |                                                                                                                                                 **Pantalon**                                                                                                                                                 |                                                                                                                                                                                                                                  **Bottes**                                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                <div><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                               |                                                 <div><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                                 |                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                         |                                                                                                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                          |
+|                                                                                                <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>                                                                                                |                   <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>                  |                                                           <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>                                                           |                                                                                                                                           <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+5</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+2</strong></p>                                                                                                                                          |
+| <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                                | **Statistiques globales 📊**                                                                                                                                                              | **Effets✨**                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Paques/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p> | <mark style="color:yellow;">**Effet par pièce d'armure équiper**</mark> : <mark style="color:yellow;">**+ 2.5%**</mark> de <mark style="color:yellow;">**Dégats supplémentaire**</mark> dans les [<mark style="color:yellow;">**Donjons Terriers du Roi Lapin**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin) |
 
 ### 🏖️◦ <mark style="color:yellow;">Armure Summer</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Summer</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
-      <p>▸ <mark style="color:red"><strong>🗡️ Force</strong></mark> <strong>+16</strong></p>
-    </td>
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
-  </tr>
-</table>
+|                                                                                                                                                                                       **Casque**                                                                                                                                                                                       |                                                                                                         **Plastron**                                                                                                        |                                                                                                                                                 **Pantalon**                                                                                                                                                 |                                                                                                                                                                                                                                  **Bottes**                                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                <div><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                               |                                                 <div><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                                 |                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                         |                                                                                                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                          |
+|                                                                                                      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:red;"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>                                                                                                      |                         <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:red;"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>                        |                                                                 <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:red;"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>                                                                 |                                                                                                                                                 <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:red;"><strong>🗡️ Force</strong></mark> <strong>+4</strong></p>                                                                                                                                                |
+| <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                                | **Statistiques globales 📊**                                                                                                                                                  | **Effets✨**                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Summer/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:red;"><strong>🗡️ Force</strong></mark> <strong>+16</strong></p> | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
 
 ### 🦴◦ <mark style="color:yellow;">Armure Archéologue</mark>
 
-#### 🔹 <ins>Son obtention</ins>🤔
+#### 🔹 Son obtention🤔
 
 Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Antique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique).
 
-#### 🔹 <ins>Son aperçue</ins>🔍
+#### 🔹 Son aperçue🔍
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><ins><strong>Casque</strong></ins></td>
-    <td align="center"><ins><strong>Plastron</strong></ins></td>
-    <td align="center"><ins><strong>Pantalon</strong></ins></td>
-    <td align="center"><ins><strong>Bottes</strong></ins></td>    
-  </tr>
-  <tr>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Casque.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Plastron.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Pantalon.png" alt=""></figure></td>
-   <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Bottes.png" alt=""></figure></td>
-  </tr>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>
-    </td>
-  <tr>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Respiration III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p>
-    </td>
-    <td>
-      <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p>
-      <p>▸ <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p>
-    </td>
-  </tr>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong><ins>Aperçue de l'armure</ins> 🖼️</strong></td>
-    <td><strong><ins>Statistiques globales</ins> 📊</strong></td>
-    <td><strong><ins>Effets</ins>✨</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Complet.png" alt=""></figure></td>
-    <td>
-      <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p>
-      <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p>
-    </td>
-    <td><strong><em><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</em></strong></td>
-  </tr>
-</table>
+|                                                                                                                                                                                       **Casque**                                                                                                                                                                                       |                                                                                                         **Plastron**                                                                                                        |                                                                                                                                                 **Pantalon**                                                                                                                                                 |                                                                                                                                                                                                                                  **Bottes**                                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                             <div><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Casque.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                             |                                               <div><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Plastron.png" alt=""><figcaption></figcaption></figure></div>                                              |                                                                                       <div><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Pantalon.png" alt=""><figcaption></figcaption></figure></div>                                                                                       |                                                                                                                                                                        <div><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Bottes.png" alt=""><figcaption></figcaption></figure></div>                                                                                                                                                                       |
+|                                                                                                     <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>                                                                                                    |                       <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>                       |                                                                <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>                                                               |                                                                                                                                               <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+4</strong></p>                                                                                                                                               |
+| <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:yellow;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:yellow;"><strong>Chute Amortie IV</strong></mark></p> |
 
-
-
+| **Aperçue de l'armure 🖼️**                                                                                                     | **Statistiques globales 📊**                                                                                                                                                     | **Effets✨**                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p> | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
