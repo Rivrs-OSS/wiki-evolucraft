@@ -160,9 +160,7 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 * Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 
 {% hint style="warning" %}
-```
 Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Evolucraft en ticket.
-```
 {% endhint %}
 
 ### <mark style="color:green;">Article G : L'AFK & Inactivité</mark>
