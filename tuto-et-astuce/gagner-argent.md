@@ -9,7 +9,7 @@ L'argent sur ce serveur est indispensable pour monter ses rangs, faire évoluer 
 ## 🔶 <mark style="color:green;">Les Métiers 👷‍♂️</mark>
 
 {% hint style="info" %}
-Pour découvrir mark style="color:green;">comment rejoindre un métier</mark>, nous vous invitons à lire cette page : [Rejoindre un métier](https://wiki.evolucraft.fr/le-gameplay/les-metiers#comment-rejoindre-un-metier) 👷‍♂️
+Pour découvrir <mark style="color:green;">comment rejoindre un métier</mark>, nous vous invitons à lire cette page : [Rejoindre un métier](https://wiki.evolucraft.fr/le-gameplay/les-metiers#comment-rejoindre-un-metier) 👷‍♂️
 {% endhint %}
 
 ### 🔹 Les actions de métiers 💱
