@@ -11,7 +11,7 @@ Les <mark style="color:green;">gemmes</mark> font partie des <mark style="color:
 ## 🔶 <mark style="color:green;">Les Métiers 👷‍♂️</mark>
 
 {% hint style="info" %}
-Pour découvrir mark style="color:green;">comment rejoindre un métier</mark>, nous vous invitons à lire cette page : [Rejoindre un métier](https://wiki.evolucraft.fr/le-gameplay/les-metiers#comment-rejoindre-un-metier) 👷‍♂️
+Pour découvrir <mark style="color:green;">comment rejoindre un métier</mark>, nous vous invitons à lire cette page : [Rejoindre un métier](https://wiki.evolucraft.fr/le-gameplay/les-metiers#comment-rejoindre-un-metier) 👷‍♂️
 {% endhint %}
 
 À chaque <mark style="color:green;">niveau de métier</mark> compléter, vous pouvez récupérer des <mark style="color:green;">récompenses de palier de métiers</mark> telles que des <mark style="color:green;">gemmes</mark> dans certains paliers, en utilisant la commande <mark style="color:green;">`/jobs claim`</mark>. Celle-ci vous permettra d’obtenir toutes les <mark style="color:green;">récompenses de paliers des métiers</mark> atteints qui n’avaient pas encore été récupérées.
