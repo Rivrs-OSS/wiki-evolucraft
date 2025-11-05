@@ -143,11 +143,10 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 * **Tous les mods donnant un avantage sur les autres joueurs :**
   * X-Ray / FreeCam
   * Schematica Printer & Easy Place & copy/paste
-    * Ainsi que tout mod qui permet de poser ou planer plus rapidement
+    * Ainsi que tout mod qui permet de poser ou planter plus rapidement
   * FlyMod
   * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
   * AutoTools
-  *
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket afin que celui-ci soit approuvé par l'équipe Staff.
