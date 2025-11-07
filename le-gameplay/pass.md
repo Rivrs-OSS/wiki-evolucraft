@@ -30,7 +30,7 @@ Cependant, il peut toujours conserver une des actions déjà présent mais dans 
 
 Pour connaître les items du jour, il vous suffit de faire la commande <mark style="color:green;">**`/pass`**</mark>, puis cliquez sur **Objectifs**.
 
-<figure><img src="../.gitbook/assets/PassInterfacePassObjectifs.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pass</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pass/InterfacePassObjectifs.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pass</code></strong></mark></p></figcaption></figure>
 
 Passez ensuite votre souris sur l’item pour connaître le <mark style="color:green;">**nombre de Farmiums 🔱**</mark> récoltés par action.
 
