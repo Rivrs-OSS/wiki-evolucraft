@@ -142,7 +142,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 
 * **Tous les mods donnant un avantage sur les autres joueurs :**
   * X-Ray / FreeCam
-  * Schematica Printer & Easy Place & copy/paste
+  * Schematica Printer & Easy Place & copy/paste ainsi que tout mod qui permet de poser ou planter plus rapidement
   * FlyMod
   * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
   * AutoTools
