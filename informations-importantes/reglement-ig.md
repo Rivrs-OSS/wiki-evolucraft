@@ -17,7 +17,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Vous êtes entièrement responsable de votre compte Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une sanction adéquate sera mise en place.
 * Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés. De même pour vos items ou familiers renommés.
-* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une ville, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
+* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une ville, une chaîne youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
 * Nous ne prenons pas en charge les transferts de compte.
 * Toute vente, achat de comptes ou de stuff avec autre chose que de l'argent IG est interdite.
 
@@ -47,7 +47,7 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
   * Provocation, insultes envers une personne ou une communauté.
   * Racisme, misogynie, homophobie, transphobie, politique.
   * Troll, obscénité.
-  * Les majuscules abusive (BONJOUR EVOLUCRAFT)
+  * Les majuscules abusives (BONJOUR EVOLUCRAFT)
   * Spam (envoi répété de la même phrase, du même mot), Flood (succession de la même lettre ou du même caractère. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii)
   * La mendicité (demander des items, de l'argent, etc.).
 * **Où qu'ils soient les messages sont sanctionnables :**
@@ -142,7 +142,8 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 
 * **Tous les mods donnant un avantage sur les autres joueurs :**
   * X-Ray / FreeCam
-  * Schematica Printer & Easy Place & copy/paste ainsi que tout mod qui permet de poser ou planter plus rapidement
+  * Schematica Printer & Easy Place & copy/paste
+    * Ainsi que tout mod qui permet de poser ou planter plus rapidement
   * FlyMod
   * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
   * AutoTools
@@ -219,5 +220,5 @@ En vous connectant sur nos plateformes, nous considérons que vous avez lu et ac
 
 Toute sanction sera donnée à l'entière appréciation du staff.
 
-Si vous souhaitez contester une quelconque sanction, merci de créer un ticket sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
+Si vous souhaitez contester une quelconque sanction, merci de [**créer un ticket**](https://discord.com/channels/699670538737418343/709491272385298532) sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
 Créer un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
