@@ -207,7 +207,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Petit-Pied</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Petite-Pied.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Petit-Pied.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Pomme de Terre</strong></mark> au /shop</p>
      <p><mark style="color:green;"><strong>Niv. 5</strong></mark> → <mark style="color:green;"><strong>🛡️ Défense</strong></mark> +2</p>
