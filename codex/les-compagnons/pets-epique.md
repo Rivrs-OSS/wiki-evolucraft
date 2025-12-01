@@ -338,7 +338,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Skell</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Skell.png" alt=""></figure></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Skel.png" alt=""></figure></td>
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark>+3</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +5</p>
