@@ -8,10 +8,10 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td><mark style="color:red;"><strong>Nom 🏷️</strong></mark></td>
-    <td><mark style="color:red;"><strong>Image de l'item 🖼️</strong></mark></td>
-    <td><mark style="color:red;"><strong>Avantages 💪</strong></mark></td>
-    <td><mark style="color:red;"><strong>Obtentions 🔍</strong></mark></td>
+    <td><mark style="color:green;"><strong>Nom 🏷️</strong></mark></td>
+    <td><mark style="color:green;"><strong>Image de l'item 🖼️</strong></mark></td>
+    <td><mark style="color:green;"><strong>Avantages 💪</strong></mark></td>
+    <td><mark style="color:green;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Meow</strong></mark></td>
