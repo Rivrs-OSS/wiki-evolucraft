@@ -14,7 +14,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td><mark style="color:red;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Meow**</mark></td>
+    <td><mark style="color:green;"><strong>Meow</strong></mark></td>
     <td>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Meow.png" alt=""></figure></p>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/MeowShiny.png" alt=""></figure></p>
@@ -32,7 +32,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Duck**</mark></td>
+    <td><mark style="color:green;"><strong>Duck</strong></mark></td>
     <td>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Duck.png" alt=""></figure></p>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/DuckShiny.png" alt=""></figure></p>
@@ -50,7 +50,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Lapinou**</mark></td>
+    <td><mark style="color:green;"><strong>Lapinou</strong></mark></td>
     <td>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Lapinou.png" alt=""></figure></p>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/LapinouShiny.png" alt=""></figure></p>
@@ -68,7 +68,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Nugget**</mark></td>
+    <td><mark style="color:green;"><strong>Nugget</strong></mark></td>
     <td>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Nugget.png" alt=""></figure></p>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/NuggetShiny.png" alt=""></figure></p>
@@ -86,7 +86,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Pike**</mark></td>
+    <td><mark style="color:green;"><strong>Pike</strong></mark></td>
     <td>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Pike.png" alt=""></figure></p>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/PikeShiny.png" alt=""></figure></p>
@@ -104,7 +104,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Surt**</mark></td>
+    <td><mark style="color:green;"><strong>Surt</strong></mark></td>
     <td>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Surt.png" alt=""></figure></p>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/SurtShiny.png" alt=""></figure></p>
@@ -122,7 +122,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Potato**</mark></td>
+    <td><mark style="color:green;"><strong>Potato</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Potato.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+10%</strong></mark> sur la vente de <mark style="color:green;"><strong>Bettrave</strong></mark> chez Jimmy</p>
@@ -134,7 +134,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td>* Œuf de famillier (Caisse Draconique 🐉)</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Coka**</mark></td>
+    <td><mark style="color:green;"><strong>Coka</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Coka.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+ 1.500</strong></mark> 💰/h</p>
@@ -146,7 +146,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td>* Œuf de famillier (Caisse aux Trésors 🏴‍☠️)</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**The Reaper**</mark></td>
+    <td><mark style="color:green;"><strong>The Reaper</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/TheReaper.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Citrouille</strong></mark> au /shop</p>
@@ -158,7 +158,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td>* Œuf de famillier (Caisse Halloween 🎃)</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Olaf**</mark></td>
+    <td><mark style="color:green;"><strong>Olaf</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Olaf.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Diorite</strong></mark> au /shop</p>
@@ -170,7 +170,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td>* Œuf de famillier (Caisse Givrée ❄️)</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Chimère**</mark></td>
+    <td><mark style="color:green;"><strong>Chimère</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Chimère.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Peau de Lapin</strong></mark> au /shop</p>
@@ -182,7 +182,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td>* Œuf de famillier (Caisse Saint Valentin 💕)</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Cot-Cot**</mark></td>
+    <td><mark style="color:green;"><strong>Cot-Cot</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Cot-Cot.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Poulet Cru</strong></mark> au /shop</p>
@@ -194,7 +194,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td>* Œuf de famillier (Caisse Pâques 🥚)</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Petite-Feuille**</mark></td>
+    <td><mark style="color:green;"><strong>Petite-Feuille</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Petite-Feuille.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Liane</strong></mark> au /shop</p>
@@ -206,7 +206,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td>* Œuf de famillier (Caisse Summer 🏖️)</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">**Petit-Pied**</mark></td>
+    <td><mark style="color:green;"><strong>Petit-Pied</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Petite-Pied.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Pomme de Terre</strong></mark> au /shop</p>
