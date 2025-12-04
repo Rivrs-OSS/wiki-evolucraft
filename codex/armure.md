@@ -72,7 +72,7 @@ Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent 
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Draconnier</mark> s'obtiennent dans le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique) avec les <mark style="color:green;">Coeurs de Dragons</mark>.
+Les <mark style="color:green;">pièces d'armures Draconnier</mark> s'obtiennent dans le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique) avec les <mark style="color:green;">Coeurs de Dragons</mark> ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -90,7 +90,7 @@ Les <mark style="color:green;">pièces d'armures Draconnier</mark> s'obtiennent 
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal).
+Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -108,7 +108,7 @@ Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dan
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennent dans la [<mark style="color:green;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors).
+Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennent dans la [<mark style="color:green;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -126,7 +126,7 @@ Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennen
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween).
+Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -144,7 +144,7 @@ Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent d
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent dans la [<mark style="color:green;">caisse Givrée</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree).
+Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent dans la [<mark style="color:green;">caisse Givrée</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -180,7 +180,7 @@ Les <mark style="color:green;">pièces d'armures Elfes</mark> ne sont <mark styl
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-cupidon).
+Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-cupidon) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -216,7 +216,7 @@ Les <mark style="color:green;">pièces d'armures Amour</mark> ne sont <mark styl
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse St-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick).
+Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse St-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -234,7 +234,7 @@ Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent 
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Jackpot</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot).
+Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Jackpot</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -252,7 +252,7 @@ Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques).
+Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -288,7 +288,7 @@ Les <mark style="color:green;">pièces d'armures Pâques</mark> ne sont <mark st
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Summer</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer).
+Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Summer</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -306,7 +306,7 @@ Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Antique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique).
+Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Antique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
@@ -319,3 +319,21 @@ Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennen
 | **Aperçue de l'armure 🖼️**                                                                                                     | **Statistiques globales 📊**                                                                                                                                                     | **Effets✨**                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | <div><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p> | _<mark style="color:green;">**Aucun Effet**</mark>**&#x20;****Supplémentaire ❌**_ |
+
+### 🩸 ◦ <mark style="color:yellow;">Armure Lune de Sang</mark>
+
+#### 🔹 Son obtention🤔
+
+Les <mark style="color:green;">pièces d'armures de la Lune de Sang</mark> ne sont <mark style="color:green;">plus obtenables actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+
+#### 🔹 Son aperçue🔍
+
+|                                                                                                                                                                                       **Casque**                                                                                                                                                                                       |                                                                                                         **Plastron**                                                                                                        |                                                                                                                                                 **Pantalon**                                                                                                                                                 |                                                                                                                                                                                                                                  **Bottes**                                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                <div><figure><img src="../.gitbook/assets/Codex/Armure/Lune_De_Sang/Casque.png" alt=""><figcaption>Pas de rendue disponible</figcaption></figure></div>                                                                                                                               |                                                  <div><figure><img src="../.gitbook/assets/Codex/Armure/Lune_De_Sang/Plastron.png" alt=""><figcaption>Pas de rendue disponible</figcaption></figure></div>                                                 |                                                                                           <div><figure><img src="../.gitbook/assets/Codex/Armure/Lune_De_Sang/Pantalon.png" alt=""><figcaption>Pas de rendue disponible</figcaption></figure></div>                                                                                         |                                                                                                                                                                          <div><figure><img src="../.gitbook/assets/Codex/Armure/Lune_De_Sang/Bottes.png" alt=""><figcaption>Pas de rendue disponible</figcaption></figure></div>                                                                                                                                                                          |
+|                                                                                                <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p>                                                                                                |                   <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p>                  |                                                           <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p>                                                           |                                                                                                                                           <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+15</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+8</strong></p>                                                                                                                                          |
+| <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:red;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:red;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:red;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:red;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:red;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:red;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️**                                                                                                | **Statistiques globales 📊**                                                                                                                                                              | **Effets✨**                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Lune_De_Sang/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+24</strong></p> | <mark style="color:red;">**Effet par pièce d'armure équiper**</mark> : <mark style="color:red;">**+ 2.5%**</mark> de <mark style="color:red;">**Dégats supplémentaire**</mark> dans les [<mark style="color:red;">**Donjons Lune de Sang**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang) |
