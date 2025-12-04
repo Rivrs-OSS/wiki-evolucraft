@@ -10,7 +10,7 @@ Pour en profiter, il faudra toutefois réunir certains **<mark style="color:gree
 
 Mais quels sont les items disponibles...
 
-<figure><img src="../.gitbook/assets/Marche-Noir/Menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les items échangeables 📦</mark>
 
@@ -93,7 +93,7 @@ Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Sci
 | <mark style="color:orange;">**Sceptre de Minuit**</mark> *(Armes Clerc)*             | **150 Citrouilles Scintillantes**  |
 | <mark style="color:orange;">**Pistolet de Minuit**</mark> *(Armes Artificier)*       | **150 Citrouilles Scintillantes**  |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/Halloween2024.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Halloween</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/halloween2024.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Halloween</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:blue;">Givrée ❄️</mark>
 
@@ -231,7 +231,7 @@ Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mar
 | <mark style="color:blue;">**Épée de la Lune de Sang**</mark> *(Armes Guerrier)*                       | **150 Lunes de Sang** |
 | <mark style="color:blue;">**Totem de la Lune de Sang**</mark> *(Armes Chaman)*                        | **150 Lunes de Sang** |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/Halloween2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Lunes de Sang</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/halloween2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Lunes de Sang</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
