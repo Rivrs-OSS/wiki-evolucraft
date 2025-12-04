@@ -217,4 +217,16 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
     <td>* Œuf de famillier (Caisse Antique 🗿)</td>
   </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Gardien</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Gardien.png" alt=""></figure></td>
+    <td>
+     <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Chêne pale</strong></mark> au /shop</p>
+     <p><mark style="color:green;"><strong>Niv. 5</strong></mark> → <mark style="color:green;"><strong>+ 1.000</strong></mark> 💲/h</p>
+     <p><mark style="color:green;"><strong>Niv. 10</strong></mark> → <mark style="color:green;"><strong>🥊 Chance de Critique</strong></mark> +1</p>
+     <p><mark style="color:green;"><strong>Niv. 15</strong></mark> → <mark style="color:green;"><strong>+ 1.750</strong></mark> 💲/h</p>
+     <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Bûcheron 🪚</strong></mark></p>  
+    </td>
+    <td>* Œuf de famillier (Caisse Lune de Sang 🩸)</td>
+  </tr>
 </table>
