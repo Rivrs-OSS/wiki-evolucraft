@@ -93,7 +93,7 @@ Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Sci
 | <mark style="color:orange;">**Sceptre de Minuit**</mark> *(Armes Clerc)*             | **150 Citrouilles Scintillantes**  |
 | <mark style="color:orange;">**Pistolet de Minuit**</mark> *(Armes Artificier)*       | **150 Citrouilles Scintillantes**  |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/halloween.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Halloween</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Halloween2024.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Halloween</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:blue;">Givrée ❄️</mark>
 
