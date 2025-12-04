@@ -104,8 +104,8 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
     </td>
   </tr>
   <tr>
-    <td align="center"><mark style="color:red;"><strong>Quacku</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/Quacku.png" alt=""></figure></td>
+    <td align="center"><mark style="color:red;"><strong>BloodMoon</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/BloodMoon.png" alt=""></figure></td>
     <td>
       <p><mark style="color:red;"><strong>Niv. 1</strong></mark> → <mark style="color:red;"><strong>+25%</strong></mark> sur la vente d'<mark style="color:red;"><strong>oeil d'araignée</strong></mark> au /shop</p>
       <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>🏃‍♂️ Vitesse</strong></mark> +12</p>
