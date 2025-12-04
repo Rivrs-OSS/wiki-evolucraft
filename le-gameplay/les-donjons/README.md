@@ -55,8 +55,8 @@ Pour rendre votre expérience variée, plusieurs types de biomes de donjons sont
 * **Forêt** 🌳
 * **Jungle** 🦜
 * **Marais** 🐸
-* **Neige** ❄
-* **Désert** 🏜
+* **Neige** ❄️
+* **Désert** 🏜️
 * **Messa** 🌵
 * **Savane** 🦏
 * **Nether** 🔥
@@ -72,10 +72,12 @@ De plus, des donjons spécifiques ajoutés lors de mises à jour sur le serveur 
 * 🟧[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/halloween)  _(Niveau requis : <mark style="color:orange;">niveau 20</mark>)_
 * 🟦[<mark style="color:blue;">Donjon Givrée Commun</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15)  _(Niveau requis : <mark style="color:blue;">niveau 15</mark>)_
 * 🟦[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)  _(Niveau requis : <mark style="color:blue;">niveau 40</mark>)_
-* 🟥[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour)  _(Niveau requis : <mark style="color:red;">niveau 10</mark>)_
-* 🟥[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)  _(Niveau requis : <mark style="color:red;">niveau 40</mark>)_
+* 🟥[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)  _(Niveau requis : <mark style="color:red;">niveau 10</mark>)_
+* 🟥[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour)  _(Niveau requis : <mark style="color:red;">niveau 40</mark>)_
 * 🟫[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin)  _(Niveau requis : <mark style="color:yellow;">niveau 15</mark>)_
 * 🟫[<mark style="color:yellow;">Donjon Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)  _(Niveau requis : <mark style="color:yellow;">niveau 40</mark>)_
+* 🟥[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)  _(Niveau requis : <mark style="color:red;">niveau 15</mark>)_
+* 🟥[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang)  _(Niveau requis : <mark style="color:red;">niveau 45</mark>)_
 
 {% hint style="info" %}
 REMARQUE 🔍 : Lorsqu’un <mark style="color:green;">donjon est ajouté ou mis en avant après une mise à jour</mark>, son <mark style="color:green;">taux d’apparition est boosté</mark>. 📈
