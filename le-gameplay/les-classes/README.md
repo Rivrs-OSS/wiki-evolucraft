@@ -14,7 +14,7 @@ description: Retrouvez ici toutes les informations concernant les classes
 
 **Choisir une <mark style="color:green;">classe</mark>, c’est donc faire évoluer son <mark style="color:green;">personnage</mark>, participer à des <mark style="color:green;">défis exclusifs</mark>, et découvrir une nouvelle <mark style="color:green;">dimension de progression</mark> sur Évolucraft !**
 
-<figure><img src="../../.gitbook/assets/Les_Classes/Readme/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">Classes</mark></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/ChoixDesClasseV4.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">Classes</mark></strong></p></figcaption></figure>
 
 ## <mark style="color:green;">💠 Comment débloquer une classe ? 🕵️‍♂️</mark>
 
@@ -22,7 +22,7 @@ Nous vous invitons à lire cette page du wiki expliquant le <mark style="color:g
 
 ## <mark style="color:green;">💠 Quelles sont les classes disponibles sur le serveur ? 🧐</mark>
 
-Sur le serveur Évolucraft, il existe <mark style="color:green;">**20 classes**</mark> distinctes avec <mark style="color:green;">3 types de gameplay</mark> disponibles (<mark style="color:green;">Tank</mark>, <mark style="color:green;">Soutien</mark> et <mark style="color:green;">DPS</mark>) :
+Sur le serveur Évolucraft, il existe <mark style="color:green;">**22 classes**</mark> distinctes avec <mark style="color:green;">3 types de gameplay</mark> disponibles (<mark style="color:green;">Tank</mark>, <mark style="color:green;">Soutien</mark> et <mark style="color:green;">DPS</mark>) :
 
 ### 🟩 <mark style="color:green;">Classes Communes</mark>
 
@@ -38,6 +38,7 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**20 classes**<
 * [<mark style="color:yellow;">**Paladin 🛡️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/paladin) : Chevaliers sacrés combattant au nom de la justice, purifiant les forces du malin. _(Tanks)_
 * [<mark style="color:yellow;">**Élémentaliste 🌬️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/elementaliste) : Maîtres des éléments primordiaux, manipulant le feu, le vent, l'eau et la terre. Aussi versatile que puissant. _(DPS)_
 * [<mark style="color:yellow;">**Chevalier des glaces ❄️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-des-glaces) : Chevalier maniant le givre paralysant ses ennemis dans le froid et refroidi leurs ardeur. _(DPS)_
+* [<mark style="color:yellow;">**Barbare 🪓**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/barbare) : Barbare au courroux sauvage brisant ses ennemis d'un coup furieux sous sa rage déchaînée. _(Tanks)_
 
 ### 🟦 <mark style="color:blue;">Classes Épiques</mark>
 
@@ -54,6 +55,7 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**20 classes**<
 * [<mark style="color:purple;">**Artiste Martial 🥋**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/artiste-martial) : Maître légendaire dans l'art antique du poing d'acier, il recherche la perfection dans chacune de ses frappes. _(DPS)_
 * [<mark style="color:purple;">**Artificier 🎇**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/artificier) : Maître de la robotique et de la destruction, il répand la terreur avec son grincement sinistre. _(DPS)_
 * [<mark style="color:purple;">**Samouraï 🥷**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/samourai) : Guerrier d'honneur et de discipline maître de la lame et du silence, le samouraï fauche ses ennemis avec grâce et précision. _(DPS)_
+* [<mark style="color:purple;">**Chasseur de Phénix 💥**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chasseur-de-phenix) : Maîtes des flammes éternelles, le Chasseur de Phénix puise sa force dans la renaissance et le feu sacré. _(DPS)_
 
 ### 🟥 <mark style="color:red;">Classe Mythique</mark>
 * [<mark style="color:red;">**Chevalier de la mort ☠️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-de-la-mort) : Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur. _(DPS)_
