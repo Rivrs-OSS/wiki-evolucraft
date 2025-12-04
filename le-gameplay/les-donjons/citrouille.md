@@ -33,11 +33,11 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 
 |                                                                                     |
 |:-----------------------------------------------------------------------------------:|
-| <mark style="color:orange;"><strong>Parchemin Citrouille</strong></mark>             |
-| <mark style="color:orange;"><strong>10 000 💲</strong></mark>                       |
-| <mark style="color:orange;"><strong>15 000 💲</strong></mark>                      |
-| <mark style="color:orange;"><strong>25 000 💲</strong></mark>                      |
-| <mark style="color:orange;"><strong>1 Lune de Sang</strong></mark>     |
-| <mark style="color:orange;"><strong>2 Bonbons à la Pomme</strong></mark>         |
-| <mark style="color:orange;"><strong>Œuf de Familier Lune de Sang</strong></mark>       |
-| <mark style="color:orange;"><strong>1 000 XP Classe</strong></mark>                 |
+| <mark style="color:red;"><strong>Parchemin Citrouille</strong></mark>             |
+| <mark style="color:red;"><strong>10 000 💲</strong></mark>                       |
+| <mark style="color:red;"><strong>15 000 💲</strong></mark>                      |
+| <mark style="color:red;"><strong>25 000 💲</strong></mark>                      |
+| <mark style="color:red;"><strong>1 Lune de Sang</strong></mark>     |
+| <mark style="color:red;"><strong>2 Bonbons à la Pomme</strong></mark>         |
+| <mark style="color:red;"><strong>Œuf de Familier Lune de Sang</strong></mark>       |
+| <mark style="color:red;"><strong>1 000 XP Classe</strong></mark>                 |
