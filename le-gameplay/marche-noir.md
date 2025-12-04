@@ -202,7 +202,7 @@ Ils ne sont alors disponibles **<mark style="color:blue;">qu’à l’hôtel de 
 
 <figure><img src="../.gitbook/assets/Marche-Noir/summer2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Summer</mark></strong></figcaption></figure>
 
-### 🔸 <mark style="color:red;">Halloween 2025 🧛‍♂️</mark>
+### 🔸 <mark style="color:red;">Halloween 2025 🩸</mark>
 
 Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)** et **[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-sang)** ou encore dans les récompenses des **<mark style="color:red;">Parchemins Citrouilles</mark>** et les **<mark style="color:red;">Parchemins Lunes de Sang</mark>**.
 
@@ -260,7 +260,7 @@ Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé S
 La **<mark style="color:yellow;">Clé Antique</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Antique 🦴</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique)**.  
 Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Antique</mark>**, qui sont obtenables en **<mark style="color:yellow;">terminant des statues</mark>** dans le Musée du spawn.
 
-### 🔸 <mark style="color:red;">Clé Lune de Sang 🧛‍♂️</mark>
+### 🔸 <mark style="color:red;">Clé Lune de Sang 🩸</mark>
 La **<mark style="color:red;">Clé Lune de sang</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Lune de Sang 🧛‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**.  
 Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de Lune de Sang</mark>**, disponibles durant **<mark style="color:red;">l'évènement d'Halloween 2025</mark>**.
 
