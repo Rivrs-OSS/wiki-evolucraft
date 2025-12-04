@@ -277,6 +277,18 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
    <td>* Œuf de famillier (Caisse Antique 🗿)</td>
   </tr>
   <tr>
+   <td><mark style="color:blue;"><strong>Auréoles</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Auréoles.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Poisson Tropical</strong></mark> au /shop</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 3.500</strong></mark> 💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +10</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Pêcheur 🎣</strong></mark></p>   
+   </td>
+   <td>* Œuf de famillier (Caisse Lune de Sang 🩸)</td>
+  </tr>
+  <tr>
    <td><mark style="color:blue;"><strong>Arhi</strong></mark></td>
    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Arhi.png" alt=""></figure></td>
    <td>
@@ -345,6 +357,30 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +7</p>
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +9</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +11</p>  
+   </td>
+   <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
+  </tr>
+  <tr>
+   <td><mark style="color:blue;"><strong>Haemalith</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Haemalith.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>💕 Régénération</strong></mark>+2</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>💕 Régénération</strong></mark> +4</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>💕 Régénération</strong></mark> +5</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>💕 Régénération</strong></mark> +7</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>💕 Régénération</strong></mark> +9</p>  
+   </td>
+   <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
+  </tr>
+  <tr>
+   <td><mark style="color:blue;"><strong>Krovoselenos</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Krovoselenos.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🥊 Chance de Critique</strong></mark>+0.25</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🥊 Chance de Critique</strong></mark> +0.5</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🥊 Chance de Critique</strong></mark> +0.75</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🥊 Chance de Critique</strong></mark> +1</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🥊 Chance de Critique</strong></mark> +1.5</p>  
    </td>
    <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
   </tr>
