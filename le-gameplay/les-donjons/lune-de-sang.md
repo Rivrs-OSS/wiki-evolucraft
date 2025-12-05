@@ -37,8 +37,8 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 | <mark style="color:red;"><strong>40 000 💲</strong></mark>                       |
 | <mark style="color:red;"><strong>60 000 💲</strong></mark>                      |
 | <mark style="color:red;"><strong>100 000 💲</strong></mark>                      |
-| <mark style="color:orange;"><strong>2 Lunes de Sang</strong></mark>     |
-| <mark style="color:orange;"><strong>2 Bonbons à l'Orange</strong></mark>         |
-| <mark style="color:orange;"><strong>Œuf de Familier Lune de Sang</strong></mark>       |
-| <mark style="color:orange;"><strong>5 000 XP Classe</strong></mark>                 |
-| <mark style="color:orange;"><strong>1 clé Lune de Sang</strong></mark>                 |
+| <mark style="color:red;"><strong>2 Lunes de Sang</strong></mark>     |
+| <mark style="color:red;"><strong>2 Bonbons à l'Orange</strong></mark>         |
+| <mark style="color:red;"><strong>Œuf de Familier Lune de Sang</strong></mark>       |
+| <mark style="color:red;"><strong>5 000 XP Classe</strong></mark>                 |
+| <mark style="color:red;"><strong>1 clé Lune de Sang</strong></mark>                 |
