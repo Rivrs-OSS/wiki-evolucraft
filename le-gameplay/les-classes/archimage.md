@@ -84,7 +84,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td><mark style="color:green;">Spectre des Arcanes</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +7</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +7</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
     <td>Pack d'arme</td>
@@ -93,7 +93,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td><mark style="color:yellow;">Spectre des Arcanes</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +15</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +15</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -102,7 +102,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td><mark style="color:blue;">Spectre des Arcanes</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +25</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -111,7 +111,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td><mark style="color:purple;">Spectre des Arcanes</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +45</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
     <td>Forge</td>
@@ -120,7 +120,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td><mark style="color:red;">Spectre des Arcanes</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +80</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
     <td>Forge</td>
@@ -129,7 +129,16 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td><mark style="color:yellow;">Bâton Légendaire</mark></td>
     <td><mark style="color:yellow;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td>Box Jackpot</td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Bâton Légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
     <td>Box Jackpot</td>
@@ -138,7 +147,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td><mark style="color:yellow;">Bâton en Chocolat</mark></td>
     <td><mark style="color:yellow;">Pâques</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -147,10 +156,23 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td><mark style="color:blue;">Bâton Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></p>
     </td>
     <td>Marché Noir</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Bâton de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">️🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>X</td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
   </tr>
 </table>
