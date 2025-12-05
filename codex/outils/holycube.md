@@ -83,7 +83,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
      <p>▸ <mark style="color:orange;"><strong>Appât III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>750</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
    </td>
   </tr>  
   <tr>
