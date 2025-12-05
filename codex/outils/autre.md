@@ -63,7 +63,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 ### 💜 ◦ <mark style="color:green;">Coeur du Démon</mark>
 
-🔹 Le <mark style="color:green;">coeur du démon</mark> s'obtient dans la [<mark style="color:yellow;">caisse lune de sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang).
+🔹 Le <mark style="color:green;">coeur du démon</mark> s'obtient dans la [<mark style="color:yellow;">caisse Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang).
 
 | <div><figure><img src="../.gitbook/assets/Codex/Outils/Autre/CoeurDuDémon.png" alt=""><figcaption></figcaption></figure></div><p>Aperçue de l'item bientôt présente</p> | Ce <mark style="color:green;">cœur du démon</mark> vous permet, en le mangeant, de restaurer votre <mark style="color:green;">barre de faim</mark> et ainsi de bénéficier d’une <mark style="color:green;">source de nourriture illimitée</mark>. |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
