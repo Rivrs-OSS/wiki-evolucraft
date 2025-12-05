@@ -22,7 +22,7 @@ En plus de guider vos premiers pas, elles vous permettent de <mark style="color:
 
 ## 💠 <mark style="color:green;">**Parchemin d'Aventure**</mark>
 
-<figure><img src="../.gitbook/assets/Quete/QueteReward.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>parchemins disponibles</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Quete/Quete_Reward.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>parchemins disponibles</strong></mark></p></figcaption></figure>
 
 Chaque <mark style="color:green;">**parchemins**</mark> de <mark style="color:green;">**de diffilcutés différentes**</mark> propose des <mark style="color:green;">**défis différents**</mark> et <mark style="color:green;">**des récompenses**</mark> à la hauteur de vos exploits, visibles dans le <mark style="color:green;">**`/quete`**</mark>, puis en cliquant sur <mark style="color:green;">**parchemins**</mark> et en passant votre curseur sur la quête que vous avez.
 
@@ -324,8 +324,6 @@ Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs faç
 | <mark style="color:blue;">**2 Bonbons à la Myrtille**</mark>                                  |
 | <mark style="color:blue;">**2 Bonbons aux Raisins**</mark>                                    |
 | <mark style="color:blue;">**2 Bonbons à la Fraise**</mark>                                    |
-| <mark style="color:blue;">**1 Cosmétique aléatoire Halloween**</mark>                         |
-| <mark style="color:blue;">**1 Peluche Aléatoire**</mark> *(Collection Halloween uniquement)*  |
 | <mark style="color:blue;">**1 Carte de Classe Aléatoire Rare**</mark>                         |
 | <mark style="color:blue;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
 | <mark style="color:blue;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
@@ -336,7 +334,7 @@ Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs faç
 
 Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses de [Donjon Amour 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour) et [Donjon Cupidon 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)**
-* **La Caisse [St-Valentin 💕](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**
+* **La Caisse [St-Valentin 💕](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -368,8 +366,6 @@ Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs f
 | <mark style="color:red;">**2 Bonbons à la Myrtille**</mark>                                  |
 | <mark style="color:red;">**2 Bonbons aux Raisins**</mark>                                    |
 | <mark style="color:red;">**2 Bonbons à la Fraise**</mark>                                    |
-| <mark style="color:red;">**1 Cosmétique aléatoire Halloween**</mark>                         |
-| <mark style="color:red;">**1 Peluche Aléatoire**</mark> *(Collection Halloween uniquement)*  |
 | <mark style="color:red;">**1 Carte de Classe Aléatoire Rare**</mark>                         |
 | <mark style="color:red;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
 | <mark style="color:red;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
@@ -414,6 +410,87 @@ Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs f
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Rare**</mark>                          |
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Épique**</mark>                        |
 
+### 🔸 <mark style="color:red;">Parchemin Citrouille 🎃 </mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:orange;">Parchemin Citrouille</mark> s'obtient de plusieurs façon, dont :
+* **Les récompenses de [Donjon Citrouille 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)**
+* **La Caisse [Lune de Sang 🩸](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                              |
+| ------------------------------------------------------------------------------------------- |
+| <mark style="color:orange;">**2 Lunes de Sang**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025))*  |
+| <mark style="color:orange;">**1 Clé Lune de Sang**</mark>                                       |
+| <mark style="color:orange;">**Spawner à Vache**</mark>                                          | 
+| <mark style="color:orange;">**Spawner à Poule**</mark>                                          |
+| <mark style="color:orange;">**Spawner à Squelette**</mark>                                      |
+| <mark style="color:orange;">**Spawner à Zombie**</mark>                                         |
+| <mark style="color:orange;">**Spawner à Creeper**</mark>                                        |
+| <mark style="color:orange;">**Spawner à Blaze**</mark>                                          |
+| <mark style="color:orange;">**Spawner à Enderman**</mark>                                       |
+| <mark style="color:orange;">**Spawner à Zombie momifié**</mark>                                 |
+| <mark style="color:orange;">**2 Gemmes 💎**</mark>                                              |
+| <mark style="color:orange;">**4 Gemmes 💎**</mark>                                              |
+| <mark style="color:orange;">**10 Gemmes 💎**</mark>                                             | 
+| <mark style="color:orange;">**13 000 💲**</mark>                                                 | 
+| <mark style="color:orange;">**25 000 💲**</mark>                                                 | 
+| <mark style="color:orange;">**50 000 💲**</mark>                                                 | 
+| <mark style="color:orange;">**60 000 💲**</mark>                                                 | 
+| <mark style="color:orange;">**70 000 💲**</mark>                                                 | 
+| <mark style="color:orange;">**80 000 💲**</mark>                                                 | 
+| <mark style="color:orange;">**100 000 💲**</mark>                                                | 
+| <mark style="color:orange;">**2 Bonbons à la Pomme**</mark>                                     |
+| <mark style="color:orange;">**2 Bonbons à l'Orange**</mark>                                     |
+| <mark style="color:orange;">**2 Bonbons à la Myrtille**</mark>                                  |
+| <mark style="color:orange;">**2 Bonbons aux Raisins**</mark>                                    |
+| <mark style="color:orange;">**1 Carte de Classe Aléatoire Commune**</mark>                      |
+| <mark style="color:orange;">**1 Carte de Classe Aléatoire Rare**</mark>                         |
+| <mark style="color:orange;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
+
+### 🔸 <mark style="color:red;">Parchemin Lune de Sang 🩸 </mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient de plusieurs façon, dont :
+* **Les récompenses de [Donjon Lune de Sang 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang)**
+* **La Caisse [Lune de Sang 🩸](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                              |
+| ------------------------------------------------------------------------------------------- |
+| <mark style="color:red;">**1 Lune de Sang**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025))*  |
+| <mark style="color:red;">**2 Lunes de Sang**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025))*  |
+| <mark style="color:red;">**10 Lunes de Sang**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025))*  |
+| <mark style="color:red;">**1 Clé Lune de Sang**</mark>                                       |
+| <mark style="color:red;">**Spawner à Squelette**</mark>                                      |
+| <mark style="color:red;">**Spawner à Zombie**</mark>                                         |
+| <mark style="color:red;">**Spawner à Creeper**</mark>                                        |
+| <mark style="color:red;">**Spawner à Blaze**</mark>                                          |
+| <mark style="color:red;">**Spawner à Enderman**</mark>                                       |
+| <mark style="color:red;">**Spawner à Zombie momifié**</mark>                                 |
+| <mark style="color:red;">**Spawner à Gardien**</mark>                                          | 
+| <mark style="color:red;">**Spawner à Golem de Fer**</mark>                                          |
+| <mark style="color:red;">**10 Gemmes 💎**</mark>                                              |
+| <mark style="color:red;">**20 Gemmes 💎**</mark>                                              |
+| <mark style="color:red;">**50 Gemmes 💎**</mark>                                             | 
+| <mark style="color:red;">**65 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**125 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**250 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**300 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**350 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**400 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**500 000 💲**</mark>                                                | 
+| <mark style="color:red;">**2 Bonbons à l'Orange**</mark>                                     |
+| <mark style="color:red;">**2 Bonbons à la Myrtille**</mark>                                  |
+| <mark style="color:red;">**2 Bonbons aux Raisins**</mark>                                    |
+| <mark style="color:red;">**2 Bonbons à la Fraise**</mark>                                    |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Rare**</mark>                         |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
 
 {% hint style="warning" %}
 Et puisse le sort vous être favorable !

@@ -10,7 +10,7 @@ Pour en profiter, il faudra toutefois réunir certains **<mark style="color:gree
 
 Mais quels sont les items disponibles...
 
-<figure><img src="../.gitbook/assets/Marche-Noir/Menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les items échangeables 📦</mark>
 
@@ -93,7 +93,7 @@ Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Sci
 | <mark style="color:orange;">**Sceptre de Minuit**</mark> *(Armes Clerc)*             | **150 Citrouilles Scintillantes**  |
 | <mark style="color:orange;">**Pistolet de Minuit**</mark> *(Armes Artificier)*       | **150 Citrouilles Scintillantes**  |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/halloween.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Halloween</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/halloween2024.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Halloween</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:blue;">Givrée ❄️</mark>
 
@@ -202,6 +202,37 @@ Ils ne sont alors disponibles **<mark style="color:blue;">qu’à l’hôtel de 
 
 <figure><img src="../.gitbook/assets/Marche-Noir/summer2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Summer</mark></strong></figcaption></figure>
 
+### 🔸 <mark style="color:red;">Halloween 2025 🩸</mark>
+
+Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)** et **[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-sang)** ou encore dans les récompenses des **<mark style="color:red;">Parchemins Citrouilles</mark>** et les **<mark style="color:red;">Parchemins Lunes de Sang</mark>**.
+
+| **Items disponible**                                                                                  | **Prix**              |
+| ----------------------------------------------------------------------------------------------------- | --------------------- |
+| <mark style="color:blue;">**Livre de la Lune de Sang**</mark> *(Armes Invocateur)*                    | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Arc de la Lune de Sang**</mark> *(Armes Archer)*                          | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Dague de la Lune de Sang**</mark> *(Armes Assassin)*                      | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Arc de l'enfer de la Lune de Sang**</mark> *(Armes Chasseur de Phénix)*   | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Poing de la Lune de Sang**</mark> *(Armes Moine)*                         | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Gantelet de la Lune de Sang**</mark> *(Armes Artiste Martial)*            | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Pistolet de la Lune de Sang**</mark> *(Armes Artificier)*                 | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Marteau de la Lune de Sang**</mark> *(Armes Paladin)*                     | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Harpe de la Lune de Sang**</mark> *(Armes Barde)*                         | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Lance Glacée de la Lune de Sang**</mark> *(Armes Chevalier de Glace)*     | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Carte Mystique de la Lune de Sang**</mark> *(Armes Illusioniste)*         | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Épée des Morts de la Lune de Sang**</mark> *(Armes Chevalier de la Mort)* | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Katana de la Lune de Sang**</mark> *(Armes Samoraï)*                      | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Orbe de la Lune de Sang**</mark> *(Armes Élémentaliste)*                  | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Sceptre de la Lune de Sang**</mark> *(Armes Clerc)*                       | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Faux de la Lune de Sang**</mark> *(Armes Faucheur)*                       | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Lance de la Lune de Sang**</mark> *(Armes Guerrier Dragon)*               | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Bâton de la Lune de Sang**</mark> *(Armes Archimage)*                     | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Hache de la Lune de Sang**</mark> *(Armes Barbare)*                       | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Bâton de la Lune de Sang**</mark> *(Armes Mage)*                          | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Épée de la Lune de Sang**</mark> *(Armes Guerrier)*                       | **150 Lunes de Sang** |
+| <mark style="color:blue;">**Totem de la Lune de Sang**</mark> *(Armes Chaman)*                        | **150 Lunes de Sang** |
+
+<figure><img src="../.gitbook/assets/Marche-Noir/halloween2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Lunes de Sang</mark></strong></figcaption></figure>
+
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
 ### 🔸 <mark style="color:blue;">Clé Givrée ❄️</mark>
@@ -228,5 +259,9 @@ Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé S
 ### 🔸 <mark style="color:yellow;">Clé Antique 🦴</mark>
 La **<mark style="color:yellow;">Clé Antique</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Antique 🦴</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique)**.  
 Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Antique</mark>**, qui sont obtenables en **<mark style="color:yellow;">terminant des statues</mark>** dans le Musée du spawn.
+
+### 🔸 <mark style="color:red;">Clé Lune de Sang 🩸</mark>
+La **<mark style="color:red;">Clé Lune de sang</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Lune de Sang 🧛‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**.  
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de Lune de Sang</mark>**, disponibles durant **<mark style="color:red;">l'évènement d'Halloween 2025</mark>**.
 
 **Et voilà, vous savez tout sur le marché noir d'Évolucraft, mais attention… ceci doit rester secret 🤫**
