@@ -366,7 +366,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
   </tr>
   <tr>
     <td><mark style="color:red;">Arc de la Lune de Sang</mark></td>
-    <td><mark style="color:red;">Summer</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
