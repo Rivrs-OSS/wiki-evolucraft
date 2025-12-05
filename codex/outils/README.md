@@ -45,7 +45,7 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 * 🐉 [<mark style="color:blue;"><strong>Outils Saphira</strong></mark>](https://wiki.evolucraft.fr/codex/outils/saphira)
 * ⚒️ [<mark style="color:green;"><strong>Autres Outils</strong></mark>](https://wiki.evolucraft.fr/codex/outils/autre)
 
-## 💠 <mark style="color:green;">Des aventages supplémentaire ?</mark> 😵
+## 💠 <mark style="color:green;">Des avantages supplémentaire ?</mark> 😵
 
 Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous pouvez désormais ajouter des <mark style="color:green;">**avantages spéciaux**</mark> à vos outils ou armes lorsque vous les tenez en main. Cette fonctionnalité est particulièrement utile pour <mark style="color:green;">**optimiser vos performances**</mark> sans dépendre constamment de vos <mark style="color:green;">**pets à effet**</mark>. Ces bonus apportent une nouvelle dimension stratégique à votre gameplay, vous permettant d’adapter vos outils/armes à votre <mark style="color:green;">**style de jeu et vos besoins**</mark> selon la situation.
 
