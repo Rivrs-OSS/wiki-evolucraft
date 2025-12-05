@@ -204,7 +204,7 @@ Ils ne sont alors disponibles **<mark style="color:blue;">qu’à l’hôtel de 
 
 ### 🔸 <mark style="color:red;">Halloween 2025 🩸</mark>
 
-Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)** et **[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-sang)** ou encore dans les récompenses des **<mark style="color:red;">Parchemins Citrouilles</mark>** et les **<mark style="color:red;">Parchemins Lunes de Sang</mark>**.
+Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)** et **[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang)** ou encore dans les récompenses des **<mark style="color:red;">Parchemins Citrouilles</mark>** et les **<mark style="color:red;">Parchemins Lunes de Sang</mark>**.
 
 | **Items disponible**                                                                                  | **Prix**              |
 | ----------------------------------------------------------------------------------------------------- | --------------------- |
