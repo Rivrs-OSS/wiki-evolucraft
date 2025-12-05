@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant la classe Chasseur
 
 Maîtres des flammes éternelles, le Chasseur de Phénix puise sa force dans la renaissance et le feu sacré.
 
-<figure><img src="../../.gitbook/assets/Les_Classes/Barbare.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Barbare</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Chasseur_De_Phénix.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Barbare</strong></p></figcaption></figure>
 
 ## 💠 <mark style="color:purple;">Compétences</mark>
 
