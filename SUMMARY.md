@@ -107,6 +107,7 @@
   * [🚂 Outils HolyCube](codex/outils/holycube.md)
   * [🐲 Outils Draconique édition 2025](codex/outils/draconique2025.md)
   * [🐉 Outils Saphira](codex/outils/saphira.md)
+  * [💫 Outils Sompteueux](codex/outils/sompteueux.md)
   * [⚒️ Autres Outils](codex/outils/autre.md)
 * [🥚 Les Compagnons](codex/les-compagnons/README.md)
   * [🍬 Les Bonbons](codex/les-compagnons/bonbon-tableau.md)
