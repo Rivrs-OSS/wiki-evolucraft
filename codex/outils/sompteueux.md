@@ -40,7 +40,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p><mark style="color:yellow;"><strong>2 500</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>_<strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌_</p>
+     <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌</p>
    </td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p><mark style="color:yellow;"><strong>2 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>_<strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌_</p>
+     <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌</p>
    </td>
   </tr>  
   <tr>
@@ -71,7 +71,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p><mark style="color:yellow;"><strong>2 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>_<strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌_</p>
+     <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌</p>
    </td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p><mark style="color:yellow;"><strong>750</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>_<strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌_</p>
+     <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌</p>
    </td>
   </tr>  
   <tr>
@@ -120,7 +120,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p><mark style="color:yellow;"><strong>2 500</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>_<strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌_</p>
+     <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire</strong> ❌</p>
    </td>
   </tr>
 </table>
