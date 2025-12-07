@@ -175,7 +175,6 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
     </td>
-    <td>X</td>
     <td>
       <p>▸ Marché Noir</p>
       <p>▸ Caisse Lune de Sang</p>
