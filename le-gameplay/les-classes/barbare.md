@@ -79,6 +79,7 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
   <tr>
     <th>Armes</th>
     <th>Rareté</th>
+    <th>Effets</th>
     <th>Stat</th>
     <th>Obtention</th>
   </tr>
