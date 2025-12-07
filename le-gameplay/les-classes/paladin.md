@@ -86,7 +86,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:green;">Brise feuille</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +3</mark></p>
     </td>
     <td>Donjon Biome Forêt</td>
@@ -95,7 +95,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:yellow;">Brise feuille</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +6</mark></p>
     </td>
     <td>Donjon Biome Forêt ou Forge</td>
@@ -104,7 +104,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:blue;">Brise feuille</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +9</mark></p>
     </td>
     <td>Donjon Biome Forêt ou Forge</td>
@@ -113,7 +113,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:purple;">Brise feuille</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +15</mark></p>
     </td>
     <td>Forge</td>
@@ -122,7 +122,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:red;">Brise feuille</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
     </td>
     <td>Forge</td>
@@ -131,7 +131,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:green;">Ecraseur de tête</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td>Donjon Biome Savane</td>
@@ -140,7 +140,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:yellow;">Ecraseur de tête</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td>Donjon Biome Savane ou Forge</td>
@@ -149,7 +149,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:blue;">Ecraseur de tête</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
     <td>Donjon Biome Savane ou Forge</td>
@@ -158,7 +158,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:purple;">Ecraseur de tête</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
     </td>
     <td>Forge</td>
@@ -167,7 +167,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:red;">Ecraseur de tête</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
     <td>Forge</td>
@@ -176,7 +176,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:green;">Marteau sismique</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
     <td>Donjon Biome Messa</td>
@@ -185,7 +185,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:yellow;">Marteau sismique</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
     <td>Donjon Biome Messa ou Forge</td>
@@ -194,7 +194,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:blue;">Marteau sismique</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
     <td>Donjon Biome Messa ou Forge</td>
@@ -203,7 +203,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:purple;">Marteau sismique</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +15</mark></p>
     </td>
     <td>Forge</td>
@@ -212,7 +212,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:red;">Marteau sismique</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
     <td>Forge</td>
@@ -267,7 +267,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:green;">Marteau de la lumière</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +7</mark></p>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
      <p><mark style="color:red;">❤️ Vie +14</mark></p>
     </td>
     <td>Pack d'arme</td>
@@ -276,7 +276,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:yellow;">Marteau de la lumière</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +15</mark></p>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
      <p><mark style="color:red;">❤️ Vie +35</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -285,7 +285,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:blue;">Marteau de la lumière</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +25</mark></p>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:red;">❤️ Vie +56</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -294,7 +294,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:purple;">Marteau de la lumière</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +45</mark></p>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:red;">❤️ Vie +100</mark></p>
     </td>
     <td>Forge</td>
@@ -303,7 +303,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:red;">Marteau de la lumière</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +80</mark></p>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:red;">❤️ Vie +180</mark></p>
     </td>
     <td>Forge</td>
@@ -312,13 +312,25 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:yellow;">Marteau légendaire</mark></td>
     <td><mark style="color:yellow;">Légendaire</mark></td>
     <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td>Box Jackpot</td>
+  </tr>  
+  <tr>
+    <td><mark style="color:yellow;">Marteau légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
     <td>Box Jackpot</td>
   </tr>
   <tr>
     <td><mark style="color:orange;">Marteau Draconique</mark></td>
     <td><mark style="color:orange;">Draconique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +20</mark></p>
+     <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -327,7 +339,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:blue;">Marteau Abyssal</mark></td>
     <td><mark style="color:blue;">Abyssal</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +20</mark></p>
+     <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -336,7 +348,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:orange;">Marteau de Minuit</mark></td>
     <td><mark style="color:orange;">Halloween</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +31</mark></p>
+     <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -345,7 +357,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:blue;">Marteau des Glaces</mark></td>
     <td><mark style="color:blue;">Givrée</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +31</mark></p>
+     <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -354,7 +366,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:red;">Marteau de l'Amour</mark></td>
     <td><mark style="color:red;">ST-Valentin</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +36</mark></p>
+     <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:red;">❤️ Vie +91</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -363,7 +375,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:yellow;">Marteau en Chocolat</mark></td>
     <td><mark style="color:yellow;">Pâques</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:red;">❤️ Vie +109</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -372,10 +384,23 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:blue;">Marteau Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></p>
      <p><mark style="color:red;">❤️ Vie +109</mark></p>
     </td>
     <td>Marché Noir</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Marteau de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>X</td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
   </tr>
 </table>
