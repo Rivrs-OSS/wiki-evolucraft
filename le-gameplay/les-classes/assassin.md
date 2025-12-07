@@ -272,6 +272,15 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     </td>
     <td>Box Jackpot</td>
   </tr>
+    <tr>
+    <td><mark style="color:yellow;">Dague légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td>Box Jackpot</td>
+  </tr>
   <tr>
     <td><mark style="color:orange;">Dague Draconique</mark></td>
     <td><mark style="color:orange;">Draconique</mark></td>
@@ -335,5 +344,18 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td>Marché Noir</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Dague de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>X</td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
   </tr>
 </table>
