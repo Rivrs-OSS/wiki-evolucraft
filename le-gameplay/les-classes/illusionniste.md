@@ -141,7 +141,6 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     </td>
     <td>Box Jackpot</td>
   </tr>
-</table>
   <tr>
     <td><mark style="color:yellow;">Carte Mythique légendaire Shiny</mark></td>
     <td><mark style="color:yellow;">Légendaire</mark></td>
