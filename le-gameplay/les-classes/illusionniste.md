@@ -151,7 +151,6 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     </td>
     <td>Box Jackpot</td>
   </tr>
-</table>
   <tr>
     <td><mark style="color:blue;">Carte Mythique Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
