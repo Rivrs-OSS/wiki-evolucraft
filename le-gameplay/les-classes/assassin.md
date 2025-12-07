@@ -352,7 +352,6 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
     </td>
-    <td>X</td>
     <td>
       <p>▸ Marché Noir</p>
       <p>▸ Caisse Lune de Sang</p>
