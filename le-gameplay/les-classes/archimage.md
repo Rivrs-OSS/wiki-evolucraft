@@ -169,7 +169,6 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
      <p><mark style="color:red;">️🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
     </td>
-    <td>X</td>
     <td>
       <p>▸ Marché Noir</p>
       <p>▸ Caisse Lune de Sang</p>
