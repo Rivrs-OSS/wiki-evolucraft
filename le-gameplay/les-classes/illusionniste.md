@@ -133,6 +133,26 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td>Forge</td>
   </tr>
   <tr>
+    <td><mark style="color:yellow;">Carte Mythique légendaire</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td>Box Jackpot</td>
+  </tr>
+</table>
+  <tr>
+    <td><mark style="color:yellow;">Carte Mythique légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td>Box Jackpot</td>
+  </tr>
+</table>
+  <tr>
     <td><mark style="color:blue;">Carte Mythique Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
@@ -141,5 +161,18 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td>Marché Noir</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Carte Mythique de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>X</td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
   </tr>
 </table>
