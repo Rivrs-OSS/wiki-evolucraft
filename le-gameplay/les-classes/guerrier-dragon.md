@@ -349,7 +349,6 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
     </td>
-    <td>X</td>
     <td>
       <p>▸ Marché Noir</p>
       <p>▸ Caisse Lune de Sang</p>
