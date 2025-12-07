@@ -83,6 +83,16 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
     <th>Obtention</th>
   </tr>
   <tr>
-    <td colspan="4"><p>Bientôt disponible</p></td>
+    <td><mark style="color:red;">Arc de l'enfer la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>X</td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
   </tr>
 </table>
