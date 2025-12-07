@@ -84,7 +84,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:green;">Faux de la mort</mark></td>
     <td><mark style="color:green;">Commun</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +7</mark></p>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
     <td>Pack d'arme</td>
@@ -93,7 +93,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:yellow;">Faux de la mort</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +15</mark></p>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -102,7 +102,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:blue;">Faux de la mort</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +25</mark></p>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -111,7 +111,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:purple;">Faux de la mort</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +45</mark></p>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
     <td>Forge</td>
@@ -120,7 +120,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:red;">Faux de la mort</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +80</mark></p>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
     <td>Forge</td>
@@ -129,7 +129,16 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:yellow;">Faux légendaire</mark></td>
     <td><mark style="color:yellow;">Légendaire</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td>Box Jackpot</td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Faux légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
     <td>Box Jackpot</td>
@@ -138,7 +147,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:orange;">Faux de Minuit</mark></td>
     <td><mark style="color:orange;">Halloween</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +31</mark></p>
+     <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -147,7 +156,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:blue;">Faux des Glaces</mark></td>
     <td><mark style="color:blue;">Givrée</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +31</mark></p>
+     <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -156,7 +165,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:red;">Faux de l'Amour</mark></td>
     <td><mark style="color:red;">ST-Valentin</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +36</mark></p>
+     <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +16</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -165,7 +174,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:yellow;">Faux en Chocolat</mark></td>
     <td><mark style="color:yellow;">Pâques</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -174,10 +183,22 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:blue;">Faux Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td>Marché Noir</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Faux de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
   </tr>
 </table>
