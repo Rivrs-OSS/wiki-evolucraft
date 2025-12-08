@@ -44,9 +44,9 @@ description: Retrouvez ici toutes les informations concernant la tailleuse de pi
 
 | Nom de la statue                                       | Ressource                                                                                          | Prix de revente |
 |--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------|
-| <mark style="color:purple">**Phénix**</mark>           | 512 pierres, 32 émeraudes, 5 lingots de netherite, 1 plume de phénix                                       | 252 000$ |
-| <mark style="color:purple">**Licorne**</mark>          | 512 pierres, 32 émeraudes, 4 lingots de netherite 1 corne de licorne                                       | 292 500$ |
-| <mark style="color:purple">**Golem de fer**</mark>     | 512 pierres, 32 émeraudes, 1 bloc de netherite,  128 bloc de fer                                           |81 000$   |
-| <mark style="color:purple">**Warden**</mark>           | 512 pierres, 32 émeraudes, 1 bloc de netherite,  3 sculk shrieker                                          | 135 000$ |
-| <mark style="color:purple">**BlobFish**</mark>         | 512 pierres, 32 émeraudes, 4 lingots de netherite, 1 poisson perroquet, 1 truite arc-en-ciel, 1 hippocampe | 108 000$ |
-| <mark style="color:purple">**Poisson écarlate**</mark> | 512 pierres, 32 émeraudes, 1 poisson écarlate,  1 cristal de donjon légendaire                           | 1 500 000$ |
+| <mark style="color:purple">**Phénix**</mark>           | 512 roches, 32 émeraudes, 5 lingots de netherite, 1 plume de phénix                                       | 252 000$ |
+| <mark style="color:purple">**Licorne**</mark>          | 512 roches, 32 émeraudes, 4 lingots de netherite 1 corne de licorne                                       | 292 500$ |
+| <mark style="color:purple">**Golem de fer**</mark>     | 512 roches, 32 émeraudes, 1 bloc de netherite,  128 bloc de fer                                           |81 000$   |
+| <mark style="color:purple">**Warden**</mark>           | 512 roches, 32 émeraudes, 1 bloc de netherite,  3 sculk shrieker                                          | 135 000$ |
+| <mark style="color:purple">**BlobFish**</mark>         | 512 roches, 32 émeraudes, 4 lingots de netherite, 1 poisson perroquet, 1 truite arc-en-ciel, 1 hippocampe | 108 000$ |
+| <mark style="color:purple">**Poisson écarlate**</mark> | 512 roches, 32 émeraudes, 1 poisson écarlate,  1 cristal de donjon légendaire                           | 1 500 000$ |

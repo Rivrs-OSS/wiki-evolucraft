@@ -33,9 +33,9 @@ Voici la liste des <mark style="color:green;">métiers disponibles</mark> sur le
 
 Pour connaître votre <mark style="color:green;">progression</mark> (ou celle d’un autre joueur) dans les métiers, utilisez la commande :  
 <mark style="color:green;">`/jobs stats [Pseudo]`</mark>.  
-Un message apparaîtra dans votre chat, affichant pour chaque métier : votre <mark style="color:green;">niveau</mark>, votre <mark style="color:green;">xp actuel</mark>, l’<mark style="color:green;">xp requis</mark> ainsi que le <mark style="color:green;">pourcentage de progression</mark>.  
+Un message apparaîtra dans votre chat, affichant pour chaque métier : votre <mark style="color:green;">niveau</mark> et <mark style="color:green;">niveau de prestige</mark>, ainsi que le <mark style="color:green;">pourcentage de progression</mark> sur votre level de métier actuel.  
 
-<figure><img src="../.gitbook/assets/Jobs/JobsStats.png" alt=""><figcaption><p><strong>Message du <mark style="color:green;">/jobs stats</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jobs/Jobs_Stats.png" alt=""><figcaption><p><strong>Message du <mark style="color:green;">/jobs stats</mark></strong></p></figcaption></figure>
 
 ## 💠 **<mark style="color:green;">A quoi sert l'interface du /jobs ?</mark> 🤨**
 

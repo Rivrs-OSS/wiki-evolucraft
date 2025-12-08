@@ -91,7 +91,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td><mark style="color:green;">Carte divinatoire</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +7</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +7</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
     <td>Pack d'arme</td>
@@ -100,7 +100,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td><mark style="color:yellow;">Carte divinatoire</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +15</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +15</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -109,7 +109,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td><mark style="color:blue;">Carte divinatoire</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +25</mark></p>
+     <p><mark style="color:red;">🗡️️️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -118,7 +118,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td><mark style="color:purple;">Carte divinatoire</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +45</mark></p>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
     <td>Forge</td>
@@ -127,19 +127,49 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td><mark style="color:red;">Carte divinatoire</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +80</mark></p>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Carte Mythique Summer</mark></td>
+    <td><mark style="color:yellow;">Carte Mysthique légendaire</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td>Box Jackpot</td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Carte Mysthique légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td>Box Jackpot</td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Carte Mysthique Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td>Marché Noir</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Carte Mysthique de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️️️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
   </tr>
 </table>

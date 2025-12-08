@@ -90,7 +90,7 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td><mark style="color:red;">Épée des morts</mark></td>
     <td><mark style="color:red;">Commun</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡 Force +7</mark></p>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>    
     <td>Pack d'arme</td>
@@ -99,7 +99,7 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td><mark style="color:yellow;">Épée des morts</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡 Force +15</mark></p>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>    
     <td>Pack d'arme ou Forge</td>
@@ -108,7 +108,7 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td><mark style="color:blue;">Épée des morts</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡 Force +25</mark></p>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>    
     <td>Pack d'arme ou Forge</td>
@@ -117,7 +117,7 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td><mark style="color:purple;">Épée des morts</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡 Force +45</mark></p>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>    
     <td>Forge</td>
@@ -126,7 +126,7 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td><mark style="color:red;">Épée des morts</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡 Force +80</mark></p>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>    
     <td>Forge</td>
@@ -135,7 +135,25 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td><mark style="color:yellow;">Épée des morts Légendaire</mark></td>
     <td><mark style="color:yellow;">Légendaire</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>    
+    <td>Caisse Jackpot</td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Épée des morts Légendaire</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>    
+    <td>Caisse Jackpot</td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Épée des morts Légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>    
     <td>Caisse Jackpot</td>
@@ -144,10 +162,22 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td><mark style="color:blue;">Épée des morts Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>    
     <td>Marché Noir</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Épée des morts de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
   </tr>
 </table>

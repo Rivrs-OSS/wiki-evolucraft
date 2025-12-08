@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes les informations concernant la classe Assassin
 ---
 
-# 🗡️ Assassin
+# 🗡️️ Assassin
 
 L'Assassin est un maître de l'art de la furtivité et du combat rapproché. Utilisant des techniques rapides et précises, l'Assassin inflige des dégâts critiques et utilise des compétences mortelles pour éliminer ses ennemis avant même qu'ils ne remarquent sa présence.
 
@@ -87,7 +87,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:green;">Croc de Fenrir</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
     <td>Donjon Biome Forêt</td>
@@ -96,7 +96,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:yellow;">Croc de Fenrir</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
     <td>Donjon Biome Forêt ou Forge</td>
@@ -105,7 +105,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:blue;">Croc de Fenrir</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
     <td>Donjon Biome Forêt ou Forge</td>
@@ -114,7 +114,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:purple;">Croc de Fenrir</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +15</mark></p>
     </td>
     <td>Forge</td>
@@ -123,7 +123,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Croc de Fenrir</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
     <td>Forge</td>
@@ -132,7 +132,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:green;">Dague Vipérienne</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +3</mark></p>
     </td>
     <td>Donjon Biome Jungle</td>
@@ -141,7 +141,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:yellow;">Dague Vipérienne</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +6</mark></p>
     </td>
     <td>Donjon Biome Jungle ou Forge</td>
@@ -150,7 +150,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:blue;">Dague Vipérienne</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +9</mark></p>
     </td>
     <td>Donjon Biome Jungle ou Forge</td>
@@ -159,7 +159,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:purple;">Dague Vipérienne</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +15</mark></p>
     </td>
     <td>Forge</td>
@@ -168,7 +168,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Dague Vipérienne</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
     </td>
     <td>Forge</td>
@@ -177,7 +177,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:green;">Dague Polaire</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td>Donjon Biome Neige</td>
@@ -186,7 +186,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:yellow;">Dague Polaire</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td>Donjon Biome Neige ou Forge</td>
@@ -195,7 +195,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:blue;">Dague Polaire</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
     <td>Donjon Biome Neige ou Forge</td>
@@ -204,7 +204,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:purple;">Dague Polaire</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
     </td>
     <td>Forge</td>
@@ -213,7 +213,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Dague Polaire</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
     <td>Forge</td>
@@ -222,7 +222,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:green;">Dague des Ombres</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +7</mark></p>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
     <td>Pack d'arme</td>
@@ -231,7 +231,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:yellow;">Dague des Ombres</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +15</mark></p>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -240,7 +240,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:blue;">Dague des Ombres</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +25</mark></p>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>
     <td>Pack d'arme ou Forge</td>
@@ -249,7 +249,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:purple;">Dague des Ombres</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +45</mark></p>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
     <td>Forge</td>
@@ -258,7 +258,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Dague des Ombres</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +80</mark></p>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
     <td>Forge</td>
@@ -267,7 +267,16 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:yellow;">Dague légendaire</mark></td>
     <td><mark style="color:yellow;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td>Box Jackpot</td>
+  </tr>
+    <tr>
+    <td><mark style="color:yellow;">Dague légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
     <td>Box Jackpot</td>
@@ -276,7 +285,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:orange;">Dague Draconique</mark></td>
     <td><mark style="color:orange;">Draconique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +20</mark></p>
+     <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +10</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -285,7 +294,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:blue;">Dague Abyssal</mark></td>
     <td><mark style="color:blue;">Abyssal</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +20</mark></p>
+     <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +5</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -294,7 +303,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:orange;">Dague de Minuit</mark></td>
     <td><mark style="color:orange;">Halloween</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +31</mark></p>
+     <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -303,7 +312,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:blue;">Dague des Glaces</mark></td>
     <td><mark style="color:blue;">Givrée</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +31</mark></p>
+     <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -312,7 +321,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Dague de l'Amour</mark></td>
     <td><mark style="color:red;">ST-Valentin</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +36</mark></p>
+     <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +16</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -321,7 +330,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:yellow;">Dague en Chocolat</mark></td>
     <td><mark style="color:yellow;">Pâques</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
     </td>
     <td>Marché Noir</td>
@@ -330,10 +339,22 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:blue;">Dague Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td>Marché Noir</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Dague de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
   </tr>
 </table>

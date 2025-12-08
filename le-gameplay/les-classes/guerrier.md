@@ -85,7 +85,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:green;">Tranche Givre</mark></td>
         <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
     </td>
         <td>"+1% de chance de doubler les dégât"</td>
         <td>Donjon Biome Neige</td>
@@ -94,7 +94,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:yellow;">Tranche Givre</mark></td>
         <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
     </td>
         <td>"+2% de chance de doubler les dégât"</td>
         <td>Donjon Biome Neige ou Forge</td>
@@ -103,7 +103,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:blue;">Tranche Givre</mark></td>
         <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
     </td>
         <td>"+2% de chance de doubler les dégât"</td>
         <td>Donjon Biome Neige ou Forge</td>
@@ -112,7 +112,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:purple;">Tranche Givre</mark></td>
         <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
     </td>
         <td>"+4% de chance de doubler les dégât"</td>
         <td>Forge</td>
@@ -121,7 +121,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Tranche Givre</mark></td>
         <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
     </td>
         <td>"+5% de chance de doubler les dégât"</td>
         <td>Forge</td>
@@ -130,7 +130,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:green;">Lame du Styx</mark></td>
         <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
         <td>X</td>
@@ -140,7 +140,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:yellow;">Lame du Styx</mark></td>
         <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
         <td>X</td>
@@ -150,7 +150,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:blue;">Lame du Styx</mark></td>
         <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
         <td>X</td>
@@ -160,7 +160,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:purple;">Lame du Styx</mark></td>
         <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +15</mark></p>
     </td>
         <td>X</td>
@@ -170,7 +170,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Lame du Styx</mark></td>
         <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
         <td>X</td>
@@ -180,7 +180,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:green;">Sabre des Sables</mark></td>
         <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>
         <td>X</td>
@@ -190,7 +190,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:yellow;">Sabre des Sables</mark></td>
         <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>
         <td>X</td>
@@ -200,7 +200,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:blue;">Sabre des Sables</mark></td>
         <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>
         <td>X</td>
@@ -210,7 +210,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:purple;">Sabre des Sables</mark></td>
         <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +15</mark></td></p>
     </td>
         <td>X</td>
@@ -220,7 +220,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Sabre des Sables</mark></td>
         <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
     </td>
         <td>X</td>
@@ -230,7 +230,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:green;">Fendoir Orc</mark></td>
         <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +5</mark></p>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
         <td>X</td>
@@ -240,7 +240,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:yellow;">Fendoir Orc</mark></td>
         <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +11</mark></p>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
         <td>X</td>
@@ -250,7 +250,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:blue;">Fendoir Orc</mark></td>
         <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +18</mark></p>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
         <td>X</td>
@@ -260,7 +260,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:purple;">Fendoir Orc</mark></td>
         <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +35</mark></p>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
     </td>
         <td>X</td>
@@ -270,7 +270,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Fendoir Orc</mark></td>
         <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
         <td>X</td>
@@ -280,7 +280,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:green;">Épée du Colosse</mark></td>
         <td><mark style="color:green;">Commun</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +7</mark></p>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
      <p><mark style="color:red;">❤️ Vie +14</mark></p>
     </td>
         <td>X</td>
@@ -290,7 +290,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:yellow;">Épée du Colosse</mark></td>
         <td><mark style="color:yellow;">Rare</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +15</mark></p>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
      <p><mark style="color:red;">❤️ Vie +35</mark></p>
     </td>
         <td>X</td>
@@ -300,7 +300,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:blue;">Épée du Colosse</mark></td>
         <td><mark style="color:blue;">Épique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +25</mark></p>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:red;">❤️ Vie +56</mark></p>
     </td>
         <td>X</td>
@@ -310,7 +310,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:purple;">Épée du Colosse</mark></td>
         <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +45</mark></p>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:red;">❤️ Vie +100</mark></p>
     </td>
         <td>X</td>
@@ -320,7 +320,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Épée du Colosse</mark></td>
         <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +80</mark></p>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:red;">❤️ Vie +180</mark></p>
     </td>
         <td>X</td>
@@ -330,7 +330,17 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:yellow;">Épée Légendaire</mark></td>
         <td><mark style="color:yellow;">Jackpot</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:red;">❤️ Vie +140</mark></p>
+    </td>
+        <td>X</td>
+        <td>Box Jackpot</td>
+    </tr>
+    <tr>
+        <td><mark style="color:yellow;">Épée Légendaire Shiny</mark></td>
+        <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:red;">❤️ Vie +140</mark></p>
     </td>
         <td>X</td>
@@ -340,7 +350,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:orange;">Épée Draconique</mark></td>
         <td><mark style="color:orange;">Draconique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +20</mark></p>
+     <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
         <td>X</td>
@@ -350,7 +360,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:blue;">Épée Abyssal</mark></td>
         <td><mark style="color:blue;">Abyssal</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +20</mark></p>
+     <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
         <td>X</td>
@@ -360,7 +370,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:orange;">Épée de Minuit</mark></td>
         <td><mark style="color:orange;">Halloween</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +31</mark></p>
+     <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
         <td>X</td>
@@ -370,7 +380,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:blue;">Épée des Glaces</mark></td>
         <td><mark style="color:blue;">Givrée</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +31</mark></p>
+     <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
         <td>X</td>
@@ -380,7 +390,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Épée de l'Amour</mark></td>
         <td><mark style="color:red;">ST-Valentin</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +36</mark></p>
+     <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:red;">❤️ Vie +91</mark></p>
     </td>
         <td>X</td>
@@ -390,7 +400,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:yellow;">Épée en Chocolat</mark></td>
         <td><mark style="color:yellow;">Pâques</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:red;">❤️ Vie +109</mark></p>
     </td>
         <td>X</td>
@@ -400,11 +410,24 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:blue;">Épée Summer</mark></td>
         <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡 Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></p>
      <p><mark style="color:red;">❤️ Vie +109</mark></p>
     </td>
         <td>X</td>
         <td>Marché Noir</td>
     </tr>
+    <tr>
+    <td><mark style="color:red;">Épée de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Lune de Sang</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+    </td>
+    <td>X</td>
+    <td>
+      <p>▸ Marché Noir</p>
+      <p>▸ Caisse Lune de Sang</p>
+    </td>
+  </tr>
 </table>
