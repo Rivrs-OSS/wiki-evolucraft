@@ -281,7 +281,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
     <td>X</td>
-    <td>Box Jackpot</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Arc légendaire Shiny</mark></td>
@@ -291,7 +291,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
     <td>X</td>
-    <td>Box Jackpot</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
     <td><mark style="color:orange;">Arc Draconique</mark></td>
