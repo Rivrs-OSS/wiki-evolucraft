@@ -43,7 +43,7 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 * ⚙️ [<mark style="color:orange;"><strong>Outils HolyCube</strong></mark>](https://wiki.evolucraft.fr/codex/outils/holycube)
 * 🐲 [<mark style="color:red;"><strong>Outils Draconique édition 2025</strong></mark>](https://wiki.evolucraft.fr/codex/outils/draconique2025)
 * 🐉 [<mark style="color:blue;"><strong>Outils Saphira</strong></mark>](https://wiki.evolucraft.fr/codex/outils/saphira)
-* 💫 [<mark style="color:blue;"><strong>Outils Sompteueux</strong></mark>](https://wiki.evolucraft.fr/codex/outils/sompteueux)
+* 💫 [<mark style="color:blue;"><strong>Outils Sompteueux</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/sompteueux)
 * ⚒️ [<mark style="color:green;"><strong>Autres Outils</strong></mark>](https://wiki.evolucraft.fr/codex/outils/autre)
 
 ## 💠 <mark style="color:green;">Des avantages supplémentaire ?</mark> 😵
