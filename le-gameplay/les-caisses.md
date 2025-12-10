@@ -159,7 +159,7 @@ La <mark style="color:green;">clé</mark> de la Caisse Rubis s'obtient en l'ache
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Dans cette caisse, il n’est pas question de <mark style="color:green;">**clé**</mark> mais de <mark style="color:green;">**jetons**</mark> pour l’ouvrir. Ces <mark style="color:green;">**jetons**</mark> sont obtenables uniquement en achetant des <mark style="color:green;">**clés**</mark> dans le <mark style="color:green;">**`/boutique`**</mark> ! Lorsque vous avez en votre possession <mark style="color:green;">**43 jetons**</mark>, vous pourrez alors obtenir <mark style="color:green;">**3 items**</mark> de la <mark style="color:green;">**caisse Jackpot**</mark>.
+Dans cette caisse, il n’est pas question de <mark style="color:green;">**clé**</mark> mais de <mark style="color:green;">**jetons**</mark> pour l’ouvrir. Ces <mark style="color:green;">**jetons**</mark> sont obtenables uniquement en achetant des <mark style="color:green;">**clés**</mark> dans le <mark style="color:green;">**`/boutique`**</mark> ! Lorsque vous avez en votre possession <mark style="color:green;">**43 jetons**</mark>, vous pourrez alors obtenir <mark style="color:green;">**1 item**</mark> de la <mark style="color:green;">**caisse Jackpot**</mark>.
 
 {% hint style="info" %}
 **REMARQUE 🔍 : Pour voir votre nombre de&#x20;**<mark style="color:green;">**jetons**</mark>**&#x20;en votre possession, faites un clic droit sur la&#x20;**<mark style="color:green;">**box**</mark>**, puis passez votre curseur sur le&#x20;**<mark style="color:green;">**coffre**</mark>**. Une ligne indiquant&#x20;**_**"Vos jetons"**_**&#x20;vous précisera le nombre exact que vous possédez.**

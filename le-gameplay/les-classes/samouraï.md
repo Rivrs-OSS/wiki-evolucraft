@@ -118,23 +118,23 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
     </td>
     <td>Forge</td>
   </tr>
-  <tr>
+    <tr>
     <td><mark style="color:yellow;">Katana légendaire</mark></td>
-    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td><mark style="color:yellow;">Jackpot</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
-    <td>Box Jackpot</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Katana légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Légendaire</mark></td>
+    <td><mark style="color:yellow;">Jackpot</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
-    <td>Box Jackpot</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Katana en Chocolat</mark></td>
@@ -143,17 +143,23 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
      <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
     </td>
-    <td>Marché Noir</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Katana Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +49</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
-    <td>Marché Noir</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Katana de la Lune de Sang</mark></td>
@@ -163,8 +169,9 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
      <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
     </td>
     <td>
-      <p>▸ Marché Noir</p>
-      <p>▸ Caisse Lune de Sang</p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
     </td>
-  </tr>
+  </tr> 
 </table>
+

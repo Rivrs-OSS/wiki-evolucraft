@@ -125,69 +125,84 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     </td>
     <td>Forge</td>
   </tr>
-  <tr>
+ <tr>
     <td><mark style="color:yellow;">Faux légendaire</mark></td>
-    <td><mark style="color:yellow;">Légendaire</mark></td>  
+    <td><mark style="color:yellow;">Jackpot</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
-    <td>Box Jackpot</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Faux légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Légendaire</mark></td>  
+    <td><mark style="color:yellow;">Jackpot</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
-    <td>Box Jackpot</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
     <td><mark style="color:orange;">Faux de Minuit</mark></td>
-    <td><mark style="color:orange;">Halloween</mark></td>  
+    <td><mark style="color:orange;">Halloween</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
-    <td>Marché Noir</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween"><mark style="color:orange;">Caisse Halloween 🎃</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Faux des Glaces</mark></td>
-    <td><mark style="color:blue;">Givrée</mark></td>  
+    <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
-    <td>Marché Noir</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Faux de l'Amour</mark></td>
-    <td><mark style="color:red;">ST-Valentin</mark></td>  
+    <td><mark style="color:red;">ST-Valentin</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +16</mark></p>
     </td>
-    <td>Marché Noir</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin"><mark style="color:red;">Caisse Saint-Valentin 💕</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Faux en Chocolat</mark></td>
-    <td><mark style="color:yellow;">Pâques</mark></td>  
+    <td><mark style="color:yellow;">Pâques</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
     </td>
-    <td>Marché Noir</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Faux Summer</mark></td>
-    <td><mark style="color:blue;">Summer</mark></td>  
+    <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +43</mark></p>
+     <p><mark style="color:red;">🗡️ Force +49</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
-    <td>Marché Noir</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Faux de la Lune de Sang</mark></td>
@@ -197,8 +212,8 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
     </td>
     <td>
-      <p>▸ Marché Noir</p>
-      <p>▸ Caisse Lune de Sang</p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
     </td>
-  </tr>
+  </tr> 
 </table>
