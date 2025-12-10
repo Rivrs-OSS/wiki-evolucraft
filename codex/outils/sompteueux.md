@@ -9,7 +9,7 @@ description: >-
 
 ## 🔹 <mark style="color:yellow;">Son obtention 🤔</mark>
 
-#### Les <mark style="color:yellow;">**outils Sompteueux**</mark> s'obtennaient dans le <mark style="color:red;">**Pass Black Friday de 2025**</mark> durant la <mark style="color:yellow;">**mise à jour Black Friday**</mark>
+#### Les <mark style="color:yellow;">**outils Sompteueux**</mark> s'obtennaient dans le <mark style="color:yellow;">**Pass Black Friday de 2025**</mark> durant la <mark style="color:yellow;">**mise à jour Black Friday**</mark>
 
 {% hint style="warning" %}
 Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
@@ -87,8 +87,8 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p><mark style="color:yellow;"><strong>4 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>  
-    <p>▸ <mark style="color:blue;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
-    <p>▸ <mark style="color:blue;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 1X1.</p>
+    <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
+    <p>▸ <mark style="color:yellow;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 1X1.</p>
    </td>
   </tr>
   <tr>
