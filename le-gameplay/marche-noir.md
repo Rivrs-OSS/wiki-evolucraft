@@ -208,28 +208,28 @@ Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mar
 
 | **Items disponible**                                                                                  | **Prix**              |
 | ----------------------------------------------------------------------------------------------------- | --------------------- |
-| <mark style="color:blue;">**Livre de la Lune de Sang**</mark> *(Armes Invocateur)*                    | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Arc de la Lune de Sang**</mark> *(Armes Archer)*                          | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Dague de la Lune de Sang**</mark> *(Armes Assassin)*                      | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Arc de l'enfer de la Lune de Sang**</mark> *(Armes Chasseur de Phénix)*   | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Poing de la Lune de Sang**</mark> *(Armes Moine)*                         | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Gantelet de la Lune de Sang**</mark> *(Armes Artiste Martial)*            | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Pistolet de la Lune de Sang**</mark> *(Armes Artificier)*                 | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Marteau de la Lune de Sang**</mark> *(Armes Paladin)*                     | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Harpe de la Lune de Sang**</mark> *(Armes Barde)*                         | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Lance Glacée de la Lune de Sang**</mark> *(Armes Chevalier de Glace)*     | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Carte Mystique de la Lune de Sang**</mark> *(Armes Illusioniste)*         | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Épée des Morts de la Lune de Sang**</mark> *(Armes Chevalier de la Mort)* | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Katana de la Lune de Sang**</mark> *(Armes Samoraï)*                      | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Orbe de la Lune de Sang**</mark> *(Armes Élémentaliste)*                  | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Sceptre de la Lune de Sang**</mark> *(Armes Clerc)*                       | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Faux de la Lune de Sang**</mark> *(Armes Faucheur)*                       | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Lance de la Lune de Sang**</mark> *(Armes Guerrier Dragon)*               | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Bâton de la Lune de Sang**</mark> *(Armes Archimage)*                     | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Hache de la Lune de Sang**</mark> *(Armes Barbare)*                       | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Bâton de la Lune de Sang**</mark> *(Armes Mage)*                          | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Épée de la Lune de Sang**</mark> *(Armes Guerrier)*                       | **150 Lunes de Sang** |
-| <mark style="color:blue;">**Totem de la Lune de Sang**</mark> *(Armes Chaman)*                        | **150 Lunes de Sang** |
+| <mark style="color:red;">**Livre de la Lune de Sang**</mark> *(Armes Invocateur)*                    | **150 Lunes de Sang** |
+| <mark style="color:red;">**Arc de la Lune de Sang**</mark> *(Armes Archer)*                          | **150 Lunes de Sang** |
+| <mark style="color:red;">**Dague de la Lune de Sang**</mark> *(Armes Assassin)*                      | **150 Lunes de Sang** |
+| <mark style="color:red;">**Arc de l'enfer de la Lune de Sang**</mark> *(Armes Chasseur de Phénix)*   | **150 Lunes de Sang** |
+| <mark style="color:red;">**Poing de la Lune de Sang**</mark> *(Armes Moine)*                         | **150 Lunes de Sang** |
+| <mark style="color:red;">**Gantelet de la Lune de Sang**</mark> *(Armes Artiste Martial)*            | **150 Lunes de Sang** |
+| <mark style="color:red;">**Pistolet de la Lune de Sang**</mark> *(Armes Artificier)*                 | **150 Lunes de Sang** |
+| <mark style="color:red;">**Marteau de la Lune de Sang**</mark> *(Armes Paladin)*                     | **150 Lunes de Sang** |
+| <mark style="color:red;">**Harpe de la Lune de Sang**</mark> *(Armes Barde)*                         | **150 Lunes de Sang** |
+| <mark style="color:red;">**Lance Glacée de la Lune de Sang**</mark> *(Armes Chevalier de Glace)*     | **150 Lunes de Sang** |
+| <mark style="color:red;">**Carte Mystique de la Lune de Sang**</mark> *(Armes Illusioniste)*         | **150 Lunes de Sang** |
+| <mark style="color:red;">**Épée des Morts de la Lune de Sang**</mark> *(Armes Chevalier de la Mort)* | **150 Lunes de Sang** |
+| <mark style="color:red;">**Katana de la Lune de Sang**</mark> *(Armes Samoraï)*                      | **150 Lunes de Sang** |
+| <mark style="color:red;">**Orbe de la Lune de Sang**</mark> *(Armes Élémentaliste)*                  | **150 Lunes de Sang** |
+| <mark style="color:red;">**Sceptre de la Lune de Sang**</mark> *(Armes Clerc)*                       | **150 Lunes de Sang** |
+| <mark style="color:red;">**Faux de la Lune de Sang**</mark> *(Armes Faucheur)*                       | **150 Lunes de Sang** |
+| <mark style="color:red;">**Lance de la Lune de Sang**</mark> *(Armes Guerrier Dragon)*               | **150 Lunes de Sang** |
+| <mark style="color:red;">**Bâton de la Lune de Sang**</mark> *(Armes Archimage)*                     | **150 Lunes de Sang** |
+| <mark style="color:red;">**Hache de la Lune de Sang**</mark> *(Armes Barbare)*                       | **150 Lunes de Sang** |
+| <mark style="color:red;">**Bâton de la Lune de Sang**</mark> *(Armes Mage)*                          | **150 Lunes de Sang** |
+| <mark style="color:red;">**Épée de la Lune de Sang**</mark> *(Armes Guerrier)*                       | **150 Lunes de Sang** |
+| <mark style="color:red;">**Totem de la Lune de Sang**</mark> *(Armes Chaman)*                        | **150 Lunes de Sang** |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/halloween2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Lunes de Sang</mark></strong></figcaption></figure>
 
