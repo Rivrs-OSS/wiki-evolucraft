@@ -30,7 +30,7 @@ En vous <mark style="color:green;">baladant dans les différents mondes ressourc
 
 ### <mark style="color:green;">• 3️⃣ Les publicités 📣</mark>
 
-Avec la commande <a href="http://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite"><mark style="color:green;">/pub 📢</mark></a>, vous pouvez <mark style="color:green;">activer les notifications de pub pour donjon</mark> lorsque <mark style="color:green;">des joueurs trouvent un portail</mark> et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !
+Avec la commande [<mark style="color:green;">/pub 📢</mark>](http://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite), vous pouvez <mark style="color:green;">activer les notifications de pub pour donjon</mark> lorsque <mark style="color:green;">des joueurs trouvent un portail</mark> et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !
 
 Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre trouvaille d'un <mark style="color:green;">portail de donjon</mark>, vous pouvez inviter des joueurs à éventuellement vous accompagner en effectuant la commande <mark style="color:green;">`/donjon "nom du donjon" "nombre de joueurs" "prix"`</mark>.
 
@@ -69,15 +69,15 @@ De plus, des donjons spécifiques ajoutés lors de mises à jour sur le serveur 
 
 * 🟧[<mark style="color:orange;">Donjon Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique) _(Niveau requis : <mark style="color:orange;">niveau 10</mark>)_
 * 🟦[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal) _(Niveau requis : <mark style="color:blue;">niveau 10</mark>)_
-* 🟧[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/halloween)  _(Niveau requis : <mark style="color:orange;">niveau 20</mark>)_
-* 🟦[<mark style="color:blue;">Donjon Givrée Commun</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15)  _(Niveau requis : <mark style="color:blue;">niveau 15</mark>)_
-* 🟦[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)  _(Niveau requis : <mark style="color:blue;">niveau 40</mark>)_
-* 🟥[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)  _(Niveau requis : <mark style="color:red;">niveau 10</mark>)_
-* 🟥[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour)  _(Niveau requis : <mark style="color:red;">niveau 40</mark>)_
-* 🟫[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin)  _(Niveau requis : <mark style="color:yellow;">niveau 15</mark>)_
-* 🟫[<mark style="color:yellow;">Donjon Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)  _(Niveau requis : <mark style="color:yellow;">niveau 40</mark>)_
-* 🟥[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)  _(Niveau requis : <mark style="color:red;">niveau 15</mark>)_
-* 🟥[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang)  _(Niveau requis : <mark style="color:red;">niveau 45</mark>)_
+* 🟧[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/halloween) _(Niveau requis : <mark style="color:orange;">niveau 20</mark>)_
+* 🟦[<mark style="color:blue;">Donjon Givrée Commun</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15) _(Niveau requis : <mark style="color:blue;">niveau 15</mark>)_
+* 🟦[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40) _(Niveau requis : <mark style="color:blue;">niveau 40</mark>)_
+* 🟥[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour) _(Niveau requis : <mark style="color:red;">niveau 10</mark>)_
+* 🟥[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon) _(Niveau requis : <mark style="color:red;">niveau 40</mark>)_
+* 🟫[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin) _(Niveau requis : <mark style="color:yellow;">niveau 15</mark>)_
+* 🟫[<mark style="color:yellow;">Donjon Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat) _(Niveau requis : <mark style="color:yellow;">niveau 40</mark>)_
+* 🟥[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille) _(Niveau requis : <mark style="color:red;">niveau 15</mark>)_
+* 🟥[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang) _(Niveau requis : <mark style="color:red;">niveau 45</mark>)_
 
 {% hint style="info" %}
 REMARQUE 🔍 : Lorsqu’un <mark style="color:green;">donjon est ajouté ou mis en avant après une mise à jour</mark>, son <mark style="color:green;">taux d’apparition est boosté</mark>. 📈
@@ -86,12 +86,15 @@ REMARQUE 🔍 : Lorsqu’un <mark style="color:green;">donjon est ajouté ou mis
 ## <mark style="color:green;">💠 Comment réaliser un donjon ? 🎮</mark>
 
 ### 🔸 Le départ 🏁
+
 Lorsqu’un membre a trouvé un donjon, il peut alors y téléporter ses amis ou publier une annonce pour inviter d’autres joueurs, en se plaçant <mark style="color:green;">devant le portail de donjon</mark>. Lorsque vous pensez pouvoir y entrer, vous pouvez <mark style="color:green;">entrer dans le portail</mark>. Dès que la première personne est téléportée dans le donjon, une <mark style="color:green;">période de 30 secondes</mark> commence, permettant à tous les joueurs de rejoindre.
 
 ### 🔸 La salle de préparation ⏳
+
 Une fois entrés dans le donjon, les joueurs <mark style="color:green;">patientent le temps du décompte</mark> pour attendre les derniers arrivants. Une fois ce <mark style="color:green;">décompte passé</mark>, les joueurs n’ayant pas eu le temps de rejoindre le donjon <mark style="color:green;">ne pourront plus entrer</mark>.
 
 ### 🔸 Les salles de combat ⚔️
+
 Selon le donjon effectué, plus il demandera <mark style="color:green;">un niveau de classe élevé</mark>, plus le <mark style="color:green;">nombre de salles à franchir augmentera</mark> _(sauf pour certains donjons événementiels)_.
 
 Dans un donjon, vous trouverez plusieurs types de salles :
@@ -105,166 +108,34 @@ REMARQUE 🔍 : Il n’est <mark style="color:green;">pas toujours obligatoire</
 {% endhint %}
 
 ### 🔸 Les récompenses 🎁
+
 Après avoir <mark style="color:green;">vaincu le boss final du donjon</mark>, vous pourrez alors <mark style="color:green;">récupérer des récompenses</mark> si vous avez <mark style="color:green;">survécu</mark>.
 
-Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres</mark> au <mark style="color:green;">fond de la salle</mark>. Il y a <mark style="color:green;">3 coffres de récompenses</mark> _(2 coffres gratuits et le 3e disponible avec le [<mark style="color:green;">Premium 👑</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium))_.
-
-<figure><img src="../../.gitbook/assets/Les_Donjons/ZonesRecompense.png" alt=""><figcaption><p><strong>Aperçu des coffres de <mark style="color:green;">récompenses de donjons</mark></strong></p></figcaption></figure>
+Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres</mark> au <mark style="color:green;">fond de la salle</mark>. Il y a <mark style="color:green;">3 coffres de récompenses</mark> _(2 coffres gratuits et le 3e disponible avec le_ [_<mark style="color:green;">Premium 👑</mark>_](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium)_)_.
 
 ## <mark style="color:green;">💠 Quelques exemples de récompenses... 🧰</mark>
 
-<table data-header-hidden>
-  <thead>
-    <tr>
-      <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><mark style="color:green;"><strong>Commun 🟩</strong></mark></td>
-      <td align="center"><mark style="color:yellow;"><strong>Rare 🟨</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>Épique 🟦</strong></mark></td>
-      <td align="center"><mark style="color:purple;"><strong>Légendaire 🟪</strong></mark></td>
-      <td align="center"><mark style="color:red;"><strong>Mythique 🟥</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">Carte Aléatoire de Classe Commune</mark></td>
-      <td align="center"><mark style="color:yellow;">2 Cartes Aléatoires de Classe Commune</mark></td>
-      <td align="center"><mark style="color:blue;">Carte Aléatoire de Classe Rare</mark></td>
-      <td align="center"><mark style="color:purple;">Carte Aléatoire de Classe Rare</mark></td>
-      <td align="center"><mark style="color:red;">Carte Aléatoire de Classe Épique</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">Parchemin Facile</mark></td>
-      <td align="center"><mark style="color:yellow;">Parchemin Avancé</mark></td>
-      <td align="center"><mark style="color:blue;">Parchemin Difficile</mark></td>
-      <td align="center"><mark style="color:purple;">Carte Aléatoire de Classe Épique</mark></td>
-      <td align="center"><mark style="color:red;">Carte Aléatoire de Classe Légendaire</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">10 000 💲</mark></td>
-      <td align="center"><mark style="color:yellow;">20 000 💲</mark></td>
-      <td align="center"><mark style="color:blue;">50 000 💲</mark></td>
-      <td align="center"><mark style="color:purple;">Parchemin Difficile</mark></td>
-      <td align="center"><mark style="color:red;">Parchemin Expert</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">15 000 💲</mark></td>
-      <td align="center"><mark style="color:yellow;">50 000 💲</mark></td>
-      <td align="center"><mark style="color:blue;">100 000 💲</mark></td>
-      <td align="center"><mark style="color:purple;">Parchemin Expert</mark></td>
-      <td align="center"><mark style="color:red;">Parchemin Impossible</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">25 000 💲</mark></td>
-      <td align="center"><mark style="color:yellow;">100 000 💲</mark></td>
-      <td align="center"><mark style="color:blue;">250 000 💲</mark></td>
-      <td align="center"><mark style="color:purple;">150 000 💲</mark></td>
-      <td align="center"><mark style="color:red;">300 000 💲</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">Cristal de Donjon Commun</mark></td>
-      <td align="center"><mark style="color:yellow;">Cristal de Donjon Rare</mark></td>
-      <td align="center"><mark style="color:blue;">Cristal de Donjon Épique</mark></td>
-      <td align="center"><mark style="color:purple;">300 000 💲</mark></td>
-      <td align="center"><mark style="color:red;">750.000 💲</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">Bonbon à la Pomme</mark></td>
-      <td align="center"><mark style="color:yellow;">2 Bonbons à l’Orange</mark></td>
-      <td align="center"><mark style="color:blue;">2 Bonbons à la Myrtille</mark></td>
-      <td align="center"><mark style="color:purple;">750 000 💲</mark></td>
-      <td align="center"><mark style="color:red;">1 000 000 💲</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">Plume de Fly (10min)</mark></td>
-      <td align="center"><mark style="color:yellow;">Plume de Fly (30min)</mark></td>
-      <td align="center"><mark style="color:blue;">Plume de Phoenix</mark></td>
-      <td align="center"><mark style="color:purple;">Cristal de donjon Légendaire</mark></td>
-      <td align="center"><mark style="color:red;">Cristal de donjon Mythique</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">Plume de Phoenix</mark></td>
-      <td align="center"><mark style="color:yellow;">Plume de Phoenix</mark></td>
-      <td align="center"><mark style="color:blue;">Arme Rare</mark></td>
-      <td align="center"><mark style="color:purple;">2 Bonbons à la Myrtille</mark></td>
-      <td align="center"><mark style="color:red;">2 Bonbons aux raisin</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">Arme Commune</mark></td>
-      <td align="center"><mark style="color:yellow;">Arme Commune</mark></td>
-      <td align="center"><mark style="color:blue;">Arme Épique</mark></td>
-      <td align="center"><mark style="color:purple;">2 Bonbons aux Raisin</mark></td>
-      <td align="center"><mark style="color:red;">Plume de Phoenix</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">Lame de la Machette Aztèque (Musée)</mark></td>
-      <td align="center"><mark style="color:yellow;">Armes Rare</mark></td>
-      <td align="center"><mark style="color:blue;">Pet de Donjon (Boss Uniquement)</mark></td>
-      <td align="center"><mark style="color:purple;">Plume de Phoenix</mark></td>
-      <td align="center"><mark style="color:red;">Items Évolutif Aléatoire</mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;">Socle de la Machette Aztèque</mark></td>
-      <td align="center"><mark style="color:yellow;">Pet de Donjon (Boss Uniquement)</mark></td>
-      <td align="center"><mark style="color:blue;">Partie Gauche de la Pierre de Rosette (Musée)</mark></td>
-      <td align="center"><mark style="color:purple;">Item Évolutif Aléatoire</mark></td>
-      <td align="center"><mark style="color:red;">Pet de Donjon (Boss Uniquement)</mark></td>
-    </tr>
-    <tr>
-      <td align="center">X</td>
-      <td align="center"><mark style="color:yellow;">Socle du Kabuto (Musée)</mark></td>
-      <td align="center"><mark style="color:blue;">Partie Haute de la Pierre de Rosette (Musée)</mark></td>
-      <td align="center"><mark style="color:purple;">Pet de Donjon (Boss Uniquement)</mark></td>
-      <td align="center"><mark style="color:red;">Clé Aléatoire d'événement</mark></td>
-    </tr>
-    <tr>
-      <td align="center">X</td>
-      <td align="center"><mark style="color:yellow;">Jambière Droite du Kabuto (Musée)</mark></td>
-      <td align="center"><mark style="color:blue;">Socle du Soldat D'Argile (Musée)</mark></td>
-      <td align="center"><mark style="color:purple;">Clé Aléatoire d'événement</mark></td>
-      <td align="center"><mark style="color:red;">Pied Droit du T-Rex (Musée)</mark></td>
-    </tr>
-    <tr>
-      <td align="center">X</td>
-      <td align="center"><mark style="color:yellow;">Épaulière Droit du Kabuto (Musée)</mark></td>
-      <td align="center"><mark style="color:blue;">Côté Droit du Soldat D'Argile (Musée)</mark></td>
-      <td align="center"><mark style="color:purple;">Pierre de Téléportation de Donjon Mythique</mark></td>
-      <td align="center"><mark style="color:red;">Pied Gauche du T-Rex (Musée)</mark></td>
-    </tr>
-    <tr>
-      <td align="center">X</td>
-      <td align="center"><mark style="color:yellow;">Bébé Droit de la Louve Capitoline (Musée)</mark></td>
-      <td align="center"><mark style="color:blue;">Côté Gauche du Soldat D'Argile (Musée)</mark></td>
-      <td align="center"><mark style="color:purple;">Jambe Gauche d'Atlas (Musée)</mark></td>
-      <td align="center"><mark style="color:red;">Colonne Vertébrake du T-Rex (Musée)</mark></td>
-    </tr>
-    <tr>
-      <td align="center">X</td>
-      <td align="center"><mark style="color:yellow;">Louve Capitoline (Musée)</mark></td>
-      <td align="center"><mark style="color:blue;">Pot du Vase de Soisons (Musée)</mark></td>
-      <td align="center"><mark style="color:purple;">Bras Gauche d'Atlas (Musée)</mark></td>
-      <td align="center"><mark style="color:red;">Bras Droit du T-Rex (Musée)</mark></td>
-    </tr>
-    <tr>
-      <td align="center">X</td>
-      <td align="center">X</td>
-      <td align="center"><mark style="color:blue;">Socle du Vase de Soisons (Musée)</mark></td>
-      <td align="center"><mark style="color:purple;">Pierre du Bas d'Atlas (Musée)</mark></td>
-      <td align="center"><mark style="color:red;">Bras Gauche du T-Rex (Musée)</mark></td>
-    </tr>
-     <tr>
-      <td align="center">X</td>
-      <td align="center">X</td>
-      <td align="center">X</td>
-      <td align="center"><mark style="color:purple;">Pierre du Haut d'Atlas (Musée)</mark></td>
-      <td align="center"><mark style="color:red;">Main Gauche du T-Rex (Musée)</mark></td>
-    </tr>
-  </tbody>
-</table>
+|            <mark style="color:green;">**Commun 🟩**</mark>            |                <mark style="color:yellow;">**Rare 🟨**</mark>                |                 <mark style="color:blue;">**Épique 🟦**</mark>                 |              <mark style="color:purple;">**Légendaire 🟪**</mark>             | <mark style="color:red;">**Mythique 🟥**</mark>                      |
+| :-------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | -------------------------------------------------------------------- |
+|  <mark style="color:green;">Carte Aléatoire de Classe Commune</mark>  |   <mark style="color:yellow;">2 Cartes Aléatoires de Classe Commune</mark>   |         <mark style="color:blue;">Carte Aléatoire de Classe Rare</mark>        |       <mark style="color:purple;">Carte Aléatoire de Classe Rare</mark>       | <mark style="color:red;">Carte Aléatoire de Classe Épique</mark>     |
+|           <mark style="color:green;">Parchemin Facile</mark>          |              <mark style="color:yellow;">Parchemin Avancé</mark>             |              <mark style="color:blue;">Parchemin Difficile</mark>              |      <mark style="color:purple;">Carte Aléatoire de Classe Épique</mark>      | <mark style="color:red;">Carte Aléatoire de Classe Légendaire</mark> |
+|              <mark style="color:green;">10 000 💲</mark>              |                 <mark style="color:yellow;">20 000 💲</mark>                 |                   <mark style="color:blue;">50 000 💲</mark>                   |             <mark style="color:purple;">Parchemin Difficile</mark>            | <mark style="color:red;">Parchemin Expert</mark>                     |
+|              <mark style="color:green;">15 000 💲</mark>              |                 <mark style="color:yellow;">50 000 💲</mark>                 |                   <mark style="color:blue;">100 000 💲</mark>                  |              <mark style="color:purple;">Parchemin Expert</mark>              | <mark style="color:red;">Parchemin Impossible</mark>                 |
+|              <mark style="color:green;">25 000 💲</mark>              |                 <mark style="color:yellow;">100 000 💲</mark>                |                   <mark style="color:blue;">250 000 💲</mark>                  |                 <mark style="color:purple;">150 000 💲</mark>                 | <mark style="color:red;">300 000 💲</mark>                           |
+|       <mark style="color:green;">Cristal de Donjon Commun</mark>      |           <mark style="color:yellow;">Cristal de Donjon Rare</mark>          |            <mark style="color:blue;">Cristal de Donjon Épique</mark>           |                 <mark style="color:purple;">300 000 💲</mark>                 | <mark style="color:red;">750.000 💲</mark>                           |
+|          <mark style="color:green;">Bonbon à la Pomme</mark>          |            <mark style="color:yellow;">2 Bonbons à l’Orange</mark>           |            <mark style="color:blue;">2 Bonbons à la Myrtille</mark>            |                 <mark style="color:purple;">750 000 💲</mark>                 | <mark style="color:red;">1 000 000 💲</mark>                         |
+|         <mark style="color:green;">Plume de Fly (10min)</mark>        |            <mark style="color:yellow;">Plume de Fly (30min)</mark>           |                <mark style="color:blue;">Plume de Phoenix</mark>               |        <mark style="color:purple;">Cristal de donjon Légendaire</mark>        | <mark style="color:red;">Cristal de donjon Mythique</mark>           |
+|           <mark style="color:green;">Plume de Phoenix</mark>          |              <mark style="color:yellow;">Plume de Phoenix</mark>             |                   <mark style="color:blue;">Arme Rare</mark>                   |           <mark style="color:purple;">2 Bonbons à la Myrtille</mark>          | <mark style="color:red;">2 Bonbons aux raisin</mark>                 |
+|             <mark style="color:green;">Arme Commune</mark>            |                <mark style="color:yellow;">Arme Commune</mark>               |                  <mark style="color:blue;">Arme Épique</mark>                  |            <mark style="color:purple;">2 Bonbons aux Raisin</mark>            | <mark style="color:red;">Plume de Phoenix</mark>                     |
+| <mark style="color:green;">Lame de la Machette Aztèque (Musée)</mark> |                 <mark style="color:yellow;">Armes Rare</mark>                |        <mark style="color:blue;">Pet de Donjon (Boss Uniquement)</mark>        |              <mark style="color:purple;">Plume de Phoenix</mark>              | <mark style="color:red;">Items Évolutif Aléatoire</mark>             |
+|     <mark style="color:green;">Socle de la Machette Aztèque</mark>    |      <mark style="color:yellow;">Pet de Donjon (Boss Uniquement)</mark>      | <mark style="color:blue;">Partie Gauche de la Pierre de Rosette (Musée)</mark> |           <mark style="color:purple;">Item Évolutif Aléatoire</mark>          | <mark style="color:red;">Pet de Donjon (Boss Uniquement)</mark>      |
+|                                   X                                   |          <mark style="color:yellow;">Socle du Kabuto (Musée)</mark>          |  <mark style="color:blue;">Partie Haute de la Pierre de Rosette (Musée)</mark> |       <mark style="color:purple;">Pet de Donjon (Boss Uniquement)</mark>      | <mark style="color:red;">Clé Aléatoire d'événement</mark>            |
+|                                   X                                   |     <mark style="color:yellow;">Jambière Droite du Kabuto (Musée)</mark>     |        <mark style="color:blue;">Socle du Soldat D'Argile (Musée)</mark>       |          <mark style="color:purple;">Clé Aléatoire d'événement</mark>         | <mark style="color:red;">Pied Droit du T-Rex (Musée)</mark>          |
+|                                   X                                   |     <mark style="color:yellow;">Épaulière Droit du Kabuto (Musée)</mark>     |     <mark style="color:blue;">Côté Droit du Soldat D'Argile (Musée)</mark>     | <mark style="color:purple;">Pierre de Téléportation de Donjon Mythique</mark> | <mark style="color:red;">Pied Gauche du T-Rex (Musée)</mark>         |
+|                                   X                                   | <mark style="color:yellow;">Bébé Droit de la Louve Capitoline (Musée)</mark> |     <mark style="color:blue;">Côté Gauche du Soldat D'Argile (Musée)</mark>    |        <mark style="color:purple;">Jambe Gauche d'Atlas (Musée)</mark>        | <mark style="color:red;">Colonne Vertébrake du T-Rex (Musée)</mark>  |
+|                                   X                                   |          <mark style="color:yellow;">Louve Capitoline (Musée)</mark>         |         <mark style="color:blue;">Pot du Vase de Soisons (Musée)</mark>        |         <mark style="color:purple;">Bras Gauche d'Atlas (Musée)</mark>        | <mark style="color:red;">Bras Droit du T-Rex (Musée)</mark>          |
+|                                   X                                   |                                       X                                      |        <mark style="color:blue;">Socle du Vase de Soisons (Musée)</mark>       |        <mark style="color:purple;">Pierre du Bas d'Atlas (Musée)</mark>       | <mark style="color:red;">Bras Gauche du T-Rex (Musée)</mark>         |
+|                                   X                                   |                                       X                                      |                                        X                                       |       <mark style="color:purple;">Pierre du Haut d'Atlas (Musée)</mark>       | <mark style="color:red;">Main Gauche du T-Rex (Musée)</mark>         |
 
 {% hint style="info" %}
 Tous les monstres peuvent lâcher un coffre contenant un cristal de donjons, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
