@@ -449,6 +449,40 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   </tr>
 </table>
 
+## 🍪◦ <mark style="color:red;">Outils Pain d'épice</mark>
+
+### 🔹 <ins>Son obtention</ins>🤔
+
+Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Pain d'Épice</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal).
+
+### 🔹 <ins>Son aperçue</ins>🔍
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
+    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
+    <td align="center"><strong><ins>Effet</ins> ✨</strong></td>    
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:red;"><strong>Marteau en Pain d'épice</strong></mark></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/PainDepice/Marteau.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
+     <p>▸ <mark style="color:red;"><strong>Fortune IV</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:red;"><strong>3 000</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:red;"><strong>Effet Hammer</strong></mark> : Casse les blocks dans une zone de 3X3.</p>
+   </td>
+  </tr>
+  <tr>
+</table>
+
 ## 🤫 Et d'autres nouveaux outils sont à prévoir...
 
 Et voilà, vous connaissez désormais tout les outils du serveur ! À vous de les équiper pour vos meilleurs farms ! 😎
