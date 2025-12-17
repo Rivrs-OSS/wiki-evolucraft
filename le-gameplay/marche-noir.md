@@ -262,7 +262,7 @@ Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mar
 | <mark style="color:red;">**Épée Pain d'épice**</mark> *(Armes Guerrier)*                       | **150 Pains d'épices** |
 | <mark style="color:red;">**Totem Pain d'épice**</mark> *(Armes Chaman)*                        | **150 Pains d'épices** |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/halloween2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du pain d'épice</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/noel2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du pain d'épice</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
