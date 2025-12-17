@@ -342,7 +342,7 @@ Les <mark style="color:green;">pièces d'armures de la Lune de Sang</mark> ne so
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures de Pain d'épice</mark> s'obtiennent dans la [<mark style="color:red;">caisse Pain d'Épice</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures de Pain d'épice</mark> s'obtiennent dans la [<mark style="color:red;">caisse Pain d'Épice</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-dépice) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
