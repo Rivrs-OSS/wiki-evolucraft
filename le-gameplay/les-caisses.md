@@ -541,7 +541,6 @@ La <mark style="color:green;">**Clé de la Caisse Lune de Sang**</mark> s'obtien
 La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtient <mark style="color:green;">en l'achetant</mark> dans le <mark style="color:green;">/boutique</mark> ou via la <mark style="color:green;">**Boutique temporaire**</mark> dans le <mark style="color:green;">/noel</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
-
 <figure><img src="../.gitbook/assets/Les_Caisses/pain_depice.png" alt=""><figcaption></figcaption></figure>
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
