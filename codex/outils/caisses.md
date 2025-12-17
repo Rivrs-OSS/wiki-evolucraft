@@ -453,7 +453,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Pain d'Épice</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal).
+Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Pain d'Épice</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-dépice).
 
 ### 🔹 <ins>Son aperçue</ins>🔍
 
