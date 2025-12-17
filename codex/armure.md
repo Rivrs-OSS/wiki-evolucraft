@@ -320,7 +320,7 @@ Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennen
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | <div><figure><img src="../.gitbook/assets/Codex/Armure/Archeologue/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+16</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
 
-### 🩸 ◦ <mark style="color:yellow;">Armure Lune de Sang</mark>
+### 🩸 ◦ <mark style="color:red;">Armure Lune de Sang</mark>
 
 #### 🔹 Son obtention🤔
 
