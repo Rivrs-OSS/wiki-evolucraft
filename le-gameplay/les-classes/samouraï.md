@@ -173,5 +173,17 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
     </td>
   </tr> 
+  <tr>
+    <td><mark style="color:red;">Katana Pain d'épice</mark></td>
+    <td><mark style="color:red;">Pain d'épice</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +47</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
+    </td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
+    </td>
+  </tr>  
 </table>
 
