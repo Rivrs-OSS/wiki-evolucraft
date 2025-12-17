@@ -534,6 +534,37 @@ La <mark style="color:green;">**Clé de la Caisse Lune de Sang**</mark> s'obtien
 | <mark style="color:red;">**4 Bonbons au Raisin**</mark>                  | **5,55%**                   |
 | <mark style="color:red;">**2 Clés Lune de Sang**</mark>                  | **5,55%**                   |
 
+### 🔸 <mark style="color:red;">Caisse Pain d'Épice 🍪</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtient <mark style="color:green;">en l'achetant</mark> dans le <mark style="color:green;">/boutique</mark> ou via la <mark style="color:green;">**Boutique temporaire**</mark> dans le <mark style="color:green;">/noel</mark>.
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+<figure><img src="../.gitbook/assets/Les_Caisses/pain_depice.png" alt=""><figcaption></figcaption></figure>
+
+| **Récompense**                                                              | **Pourcentage d'obtention** |
+| --------------------------------------------------------------------------- | --------------------------- |
+| <mark style="color:red;">**Casque de Pain d'Épice**</mark>                  | **5,56%**                   |
+| <mark style="color:red;">**Plastron de Pain d'Épice**</mark>                | **5,56%**                   |
+| <mark style="color:red;">**Jambières de Pain d'Épice**</mark>               | **5,56%**                   |
+| <mark style="color:red;">**Bottes de Pain d'Épice**</mark>                  | **5,56%**                   |
+| <mark style="color:red;">**Marteau en Pain d'Épice**</mark>                 | **5,56%**                   |
+| <mark style="color:red;">**Oeufs de familier**</mark>                       | **5,56%**                   |
+| <mark style="color:red;">**Adamantium en pain d'épice**</mark>              | **5,56%**                   |
+| <mark style="color:red;">**Pack de décoration Aléatoire**</mark>            | **5,56%**                   |
+| <mark style="color:red;">**Cosmétique Aléatoire**</mark>                    | **5,56%**                   |
+| <mark style="color:red;">**Armes de Classe Aléatoire**</mark>               | **5,56%**                   |
+| <mark style="color:red;">**Booster Aléatoire de 100% pendant 1H**</mark>    | **5,56%**                   |
+| <mark style="color:red;">**Peluche Aléatoire**</mark>                       | **5,56%**                   |
+| <mark style="color:red;">**Cadeau Pain d'épice**</mark>                     | **5,56%**                   |
+| <mark style="color:red;">**Spawner Aléatoire**</mark>                       | **5,56%**                   |
+| <mark style="color:red;">**4.750.000 💲**</mark>                            | **5,56%**                   |
+| <mark style="color:red;">**Parchemin Aléatoire Noël**</mark>                | **5,56%**                   |
+| <mark style="color:red;">**4 Bonbons au Raisin**</mark>                     | **5,56%**                   |
+| <mark style="color:red;">**2 Clés Pain d'épice**</mark>                     | **5,56%**                   |
+
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
 **Et voilà, vous connaissez désormais toutes les&#x20;**<mark style="color:green;">**caisses**</mark>**&#x20;du serveur ! À vous de jouer avec les dernières ! 😎** _Nous rappelons que jouer à la loterie comporte des risques d’addiction, faites-y attention ! 🤗_
