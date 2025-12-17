@@ -39,6 +39,7 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
   * 💕 [<mark style="color:red;"><strong>Outils Cupidons</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-cupidon)
   * 🍀 [<mark style="color:green;"><strong>Outils du Leprechaun</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-du-leprechaun)
   * 🦴 [<mark style="color:orange;"><strong>Outils de l'Archéologue</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-de-larchéologue)
+  * 🍪 [<mark style="color:orange;"><strong>Outils Pain d'épice</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-pain-dépice)
 * 🐍 [<mark style="color:green;"><strong>Outils du Serpent</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/serpent)
 * ⚙️ [<mark style="color:orange;"><strong>Outils HolyCube</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/holycube)
 * 🐲 [<mark style="color:red;"><strong>Outils Draconique édition 2025</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/draconique2025)
