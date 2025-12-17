@@ -60,7 +60,7 @@ Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous p
 L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark style="color:green;">**outil**</mark> sur lequel il est appliqué la propriété d’être <mark style="color:green;">**incassable**</mark>. Vous n’aurez plus jamais à vous préoccuper de la <mark style="color:green;">**durabilité**</mark> de votre équipement.
 
 ### 🍪 ◦ <mark style="color:green;">Adamantium de Noël </mark>
-<figure align="left"><img src="../../.gitbook/assets/Codex/Outils/Adamantium.png" alt=""><figcaption><p><strong>Pas encore disponible</strong></p></figcaption></figure>
+<figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoël.png" alt=""><figcaption><p><strong>Pas encore disponible</strong></p></figcaption></figure>
 
 L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark style="color:green;">**outil**</mark> sur lequel il est appliqué la propriété d’être <mark style="color:green;">**incassable**</mark>. Vous n’aurez plus jamais à vous préoccuper de la <mark style="color:green;">**durabilité**</mark> de votre équipement.
 
