@@ -233,6 +233,42 @@ Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mar
 
 <figure><img src="../.gitbook/assets/Marche-Noir/halloween2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Lunes de Sang</mark></strong></figcaption></figure>
 
+### 🔸 <mark style="color:red;">Noël 2025 🍪</mark>
+
+*(Temporairement dans le `/noel` via la boutique du marché noir de noël)*
+Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, obtenables dans la **<mark style="color:red;">Boutique Pain d'épice</mark>**
+
+{% hint style="info" %}
+Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong></mark>, ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans le monde <mark style="color:green;"><strong>Pain d’épice</strong></mark>.
+{% endhint %}
+
+| **Items disponible**                                                                           | **Prix**              |
+| ---------------------------------------------------------------------------------------------- | --------------------- |
+| <mark style="color:red;">**Livre Pain d'épice**</mark> *(Armes Invocateur)*                    | **150 Pains d'épices** |
+| <mark style="color:red;">**Arc Pain d'épice**</mark> *(Armes Archer)*                          | **150 Pains d'épices** |
+| <mark style="color:red;">**Dague Pain d'épice**</mark> *(Armes Assassin)*                      | **150 Pains d'épices** |
+| <mark style="color:red;">**Arc de l'enfer Pain d'épice**</mark> *(Armes Chasseur de Phénix)*   | **150 Pains d'épices** |
+| <mark style="color:red;">**Poing Pain d'épice**</mark> *(Armes Artiste Martial)*               | **150 Pains d'épices** |
+| <mark style="color:red;">**Gantelet Pain d'épice**</mark> *(Armes Moine)*                      | **150 Pains d'épices** |
+| <mark style="color:red;">**Pistolet Pain d'épice**</mark> *(Armes Artificier)*                 | **150 Pains d'épices** |
+| <mark style="color:red;">**Marteau Pain d'épice**</mark> *(Armes Paladin)*                     | **150 Pains d'épices** |
+| <mark style="color:red;">**Harpe Pain d'épice**</mark> *(Armes Barde)*                         | **150 Pains d'épices** |
+| <mark style="color:red;">**Lance Glacée Pain d'épice**</mark> *(Armes Chevalier de Glace)*     | **150 Pains d'épices** |
+| <mark style="color:red;">**Carte Mystique Pain d'épice**</mark> *(Armes Illusioniste)*         | **150 Pains d'épices** |
+| <mark style="color:red;">**Épée des Morts Pain d'épice**</mark> *(Armes Chevalier de la Mort)* | **150 Pains d'épices** |
+| <mark style="color:red;">**Katana Pain d'épice**</mark> *(Armes Samoraï)*                      | **150 Pains d'épices** |
+| <mark style="color:red;">**Orbe Pain d'épice**</mark> *(Armes Élémentaliste)*                  | **150 Pains d'épices** |
+| <mark style="color:red;">**Sceptre Pain d'épice**</mark> *(Armes Clerc)*                       | **150 Pains d'épices** |
+| <mark style="color:red;">**Faux Pain d'épice**</mark> *(Armes Faucheur)*                       | **150 Pains d'épices** |
+| <mark style="color:red;">**Lance Pain d'épice**</mark> *(Armes Guerrier Dragon)*               | **150 Pains d'épices** |
+| <mark style="color:red;">**Bâton Pain d'épice**</mark> *(Armes Archimage)*                     | **150 Pains d'épices** |
+| <mark style="color:red;">**Hache Pain d'épice**</mark> *(Armes Barbare)*                       | **150 Pains d'épices** |
+| <mark style="color:red;">**Bâton Pain d'épice**</mark> *(Armes Mage)*                          | **150 Pains d'épices** |
+| <mark style="color:red;">**Épée Pain d'épice**</mark> *(Armes Guerrier)*                       | **150 Pains d'épices** |
+| <mark style="color:red;">**Totem Pain d'épice**</mark> *(Armes Chaman)*                        | **150 Pains d'épices** |
+
+<figure><img src="../.gitbook/assets/Marche-Noir/noel2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du pain d'épice</mark></strong></figcaption></figure>
+
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
 ### 🔸 <mark style="color:blue;">Clé Givrée ❄️</mark>
@@ -263,5 +299,9 @@ Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé
 ### 🔸 <mark style="color:red;">Clé Lune de Sang 🩸</mark>
 La **<mark style="color:red;">Clé Lune de sang</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Lune de Sang 🧛‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**.  
 Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de Lune de Sang</mark>**, disponibles durant **<mark style="color:red;">l'évènement d'Halloween 2025</mark>**.
+
+### 🔸 <mark style="color:red;">Clé Pain d'épice 🍪</mark>
+La **<mark style="color:red;">Clé Pain d'épice</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Pain d'épice 🍪</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**.  
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pain d'épice</mark>**, disponibles durant **<mark style="color:red;">l'évènement de Noël 2025</mark>**.
 
 **Et voilà, vous savez tout sur le marché noir d'Évolucraft, mais attention… ceci doit rester secret 🤫**

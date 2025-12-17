@@ -492,6 +492,19 @@ Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient de plusieurs
 | <mark style="color:red;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
 | <mark style="color:red;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
 
+### 🔸 <mark style="color:red;">Parchemin Pain d'épice 🍪 </mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient dans :
+* **La Caisse [Pain d'épice 🍪](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                              |
+| ------------------------------------------------------------------------------------------- |
+| <strong>Liste des récompenses pas encore disponible</strong>                                |
+
 {% hint style="warning" %}
 Et puisse le sort vous être favorable !
 {% endhint %}
