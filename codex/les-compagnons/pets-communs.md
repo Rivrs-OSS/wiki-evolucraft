@@ -228,5 +228,17 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
      <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Bûcheron 🪚</strong></mark></p>  
     </td>
     <td>* Œuf de famillier (Caisse Lune de Sang 🩸)</td>
+  </tr>  
+  <tr>
+    <td><mark style="color:green;"><strong>Lutin</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Lutin.png" alt=""></figure></td>
+    <td>
+     <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Poisson globe</strong></mark> au /shop</p>
+     <p><mark style="color:green;"><strong>Niv. 5</strong></mark> → <mark style="color:green;"><strong>+ 1.500</strong></mark> 💲/h</p>
+     <p><mark style="color:green;"><strong>Niv. 10</strong></mark> → <mark style="color:green;"><strong>🛡️ Défense</strong></mark> +2</p>
+     <p><mark style="color:green;"><strong>Niv. 15</strong></mark> → <mark style="color:green;"><strong>+ 2.000</strong></mark> 💲/h</p>
+     <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Pêcheur 🎣</strong></mark></p>  
+    </td>
+    <td>* Œuf de famillier (Caisse Pain d'épice 🍪)</td>
   </tr>
 </table>
