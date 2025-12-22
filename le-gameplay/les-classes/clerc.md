@@ -368,7 +368,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td><mark style="color:red;">Lune de Sang</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
