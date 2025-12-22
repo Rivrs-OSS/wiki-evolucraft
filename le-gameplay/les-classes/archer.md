@@ -390,7 +390,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td><mark style="color:red;">Lune de Sang</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
     <td>X</td>
     <td>
@@ -408,7 +408,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>X</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
     </td>
   </tr> 
 </table>
