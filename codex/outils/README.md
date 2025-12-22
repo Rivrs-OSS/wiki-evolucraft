@@ -55,12 +55,20 @@ Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous p
 > <mark style="color:green;"><strong>Ces items d'aventage</strong></mark> ne <mark style="color:green;"><strong>peuvent pas être appliqué</strong></mark> sur les <mark style="color:green;"><strong>différents Sceptres</strong></mark>, <mark style="color:green;"><strong>Baton du Vent</strong></mark> ou encore <mark style="color:green;"><strong>Armures</strong></mark> (Elytre y compris). 
 
 ### 🛡️ ◦ <mark style="color:green;">Adamantium</mark>
-<figure align="left"><img src="../../.gitbook/assets/Codex/Outils/Adamantium.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium</mark></strong></p></figcaption></figure>
-
-L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark style="color:green;">**outil**</mark> sur lequel il est appliqué la propriété d’être <mark style="color:green;">**incassable**</mark>. Vous n’aurez plus jamais à vous préoccuper de la <mark style="color:green;">**durabilité**</mark> de votre équipement.
-
-### 🍪 ◦ <mark style="color:green;">Adamantium de Noël </mark>
-<figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoël.png" alt=""></figure>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
+    <td align="center"><strong><ins>Obtention</ins> 🎁</strong></td>
+  </tr>
+  <tr>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/Adamantium.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium</mark></strong></p></figcaption></figure></td>
+   <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></td>
+  </tr>
+  <tr>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoël.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium de Noël</mark></strong></p></figcaption></figure></td>
+   <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></td>
+  </tr>
+</table>
 
 L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark style="color:green;">**outil**</mark> sur lequel il est appliqué la propriété d’être <mark style="color:green;">**incassable**</mark>. Vous n’aurez plus jamais à vous préoccuper de la <mark style="color:green;">**durabilité**</mark> de votre équipement.
 
