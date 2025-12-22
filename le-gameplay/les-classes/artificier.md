@@ -382,7 +382,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td><mark style="color:red;">Lune de Sang</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
     <td>X</td>
     <td>
