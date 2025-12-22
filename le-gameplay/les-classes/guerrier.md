@@ -443,7 +443,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <td><mark style="color:red;">Lune de Sang</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +24</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
     <td>X</td>
     <td>
