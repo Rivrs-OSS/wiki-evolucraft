@@ -69,7 +69,7 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 * **[Parchemin Facile 🟢](https://wiki.evolucraft.fr/le-gameplay/les-quetes#parchemin-facile)**
 * **Le `/AFK`💤**
 * **Les récompenses des niveau de métiers ⚒️**
-* **Les récompenses de [Donjon Rare 🟨](https://wiki.evolucraft.fr/le-gameplay/les-donjons/rare) ou [Donjon Draconique 🟧](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)**
+* **Les récompenses de [Donjon Rare 🟨](https://wiki.evolucraft.fr/le-gameplay/les-donjons/rare) ou [Donjon Draconique 🐉](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)**
 * **Le [`/rewards` 🕒](https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#le-rewards)**
 * **Les offres du `/boutique` 🛒** *(100 gemmes 💎)*
 
@@ -104,7 +104,7 @@ Le <mark style="color:blue;">Parchemin Difficile</mark> s'obtient de plusieurs f
 * **Parchemin Aléatoire ❔**
 * **[Parchemin Avancé 🟡](https://wiki.evolucraft.fr/le-gameplay/les-quetes#parchemin-avance)**
 * **Les récompenses des niveau de métiers ⚒️**
-* **Les récompenses de [Donjon Épique 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/epique), [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) ou encore [Donjon Draconique 🟧](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)**
+* **Les récompenses de [Donjon Épique 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/epique), [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) ou encore [Donjon Draconique 🐉](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)**
 * **La Caisse [Émeraude ✳️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-emeraude)**
 * **Les offres du `/boutique` 🛒** *(150 gemmes 💎)*
 
@@ -207,7 +207,7 @@ Le <mark style="color:red;">Parchemin Impossible</mark> s'obtient de plusieurs f
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
-* **Les récompenses de [Donjon  Abyssal 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal)**
+* **Les récompenses de [Donjon  Abyssal 🌊](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal)**
 * **La Caisse [Summer 2025 🏖️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
@@ -247,7 +247,7 @@ Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs fa�
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs façon, dont :
-* **Les récompenses de [Donjon Halloween 🟧](https://wiki.evolucraft.fr/le-gameplay/les-donjons/halloween)**
+* **Les récompenses de [Donjon Halloween 🧛](https://wiki.evolucraft.fr/le-gameplay/les-donjons/halloween)**
 * **La Caisse [Halloween 🎃](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
@@ -291,7 +291,7 @@ Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs façon, dont :
-* **Les récompenses de [Donjon Givrée Commun 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15) et [Donjon Givrée Épique 🟦](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)**
+* **Les récompenses de [Donjon Givrée Commun ❄️](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15) et [Donjon Givrée Épique 🌟](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)**
 * **La Caisse [Givrée ❄️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
@@ -333,7 +333,7 @@ Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs faç
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs façon, dont :
-* **Les récompenses de [Donjon Amour 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour) et [Donjon Cupidon 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)**
+* **Les récompenses de [Donjon Amour ❤️](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour) et [Donjon Cupidon 🏹](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)**
 * **La Caisse [St-Valentin 💕](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
@@ -375,7 +375,7 @@ Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs f
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
-* **Les récompenses de [Donjon Terrier du Roi Lapin 🟫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin)**
+* **Les récompenses de [Donjon Terrier du Roi Lapin 🐰](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin)**
 * **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
@@ -415,7 +415,7 @@ Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs f
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
-* **Les récompenses de [Donjon Fabrique du Chocolat 🟫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)**
+* **Les récompenses de [Donjon Fabrique du Chocolat 🍫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)**
 * **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
@@ -457,7 +457,7 @@ Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs f
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 Le <mark style="color:orange;">Parchemin Citrouille</mark> s'obtient de plusieurs façon, dont :
-* **Les récompenses de [Donjon Citrouille 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)**
+* **Les récompenses de [Donjon Citrouille 🎃](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)**
 * **La Caisse [Lune de Sang 🩸](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
@@ -497,7 +497,7 @@ Le <mark style="color:orange;">Parchemin Citrouille</mark> s'obtient de plusieur
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient de plusieurs façon, dont :
-* **Les récompenses de [Donjon Lune de Sang 🟥](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang)**
+* **Les récompenses de [Donjon Lune de Sang 🩸](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang)**
 * **La Caisse [Lune de Sang 🩸](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
