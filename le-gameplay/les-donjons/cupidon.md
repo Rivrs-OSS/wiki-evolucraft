@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le donjon Cupidon
 ---
 
-# 🟥 Cupidon
+# 🏹 Cupidon
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
