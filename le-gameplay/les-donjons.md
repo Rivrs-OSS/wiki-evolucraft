@@ -45,7 +45,7 @@ Lorsque vous avez **<mark style="color:green;">trouvé un donjon</mark>**, dirig
 Un message s’affichera alors, vous permettant de choisir si vous souhaitez faire le donjon **<mark style="color:green;">seul</mark>** ou **<mark style="color:green;">à plusieurs</mark>**.  
 Il vous suffira de cliquer sur l’option souhaitée directement dans le **<mark style="color:green;">chat</mark>**.
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Party/Creation.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/Les_Donjons/Party/Creation.png" alt=""></figure>
 
 L’option **"<mark style="color:orange;">Jouer seul</mark>"** vous téléportera directement dans le **<mark style="color:green;">donjon</mark>**.  
 L’option **"<mark style="color:green;">Créer une party</mark>"** vous permettra de **<mark style="color:green;">créer une party</mark>**.
@@ -57,11 +57,11 @@ Cela permet d’effectuer le donjon **<mark style="color:green;">à plusieurs</m
 
 Le portail sera considéré comme **<mark style="color:green;">réservé</mark>** dès réception du message ci-dessous.
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Party/Reservation.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/Les_Donjons/Party/Reservation.png" alt=""></figure>
 
 {% hint style="info" %}
 Si le portail a déjà été **<mark style="color:green;">réservé</mark>**, le message ci-dessous vous sera affiché.
-<figure><img src="../../.gitbook/assets/Les_Donjons/Party/DejaReserver.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/Les_Donjons/Party/DejaReserver.png" alt=""></figure>
 {% endhint %}
 
 ### 🔸 Formation de votre groupe
@@ -75,7 +75,7 @@ En cas de doute sur votre **<mark style="color:green;">portail</mark>**, consult
 
 Une fois la **<mark style="color:green;">pub envoyée</mark>**, vous recevrez les **<mark style="color:green;">demandes des joueurs</mark>** souhaitant vous accompagner.
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Party/DemandeDeTP.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/Les_Donjons/Party/DemandeDeTP.png" alt=""></figure>
 
 ### 🔸 Démarrer le donjon
 
@@ -85,7 +85,7 @@ Lorsque votre **<mark style="color:green;">groupe est prêt</mark>** et **<mark 
 Pour consulter les **<mark style="color:green;">joueurs présents</mark>**, utilisez  
 **<mark style="color:green;">`/party info`</mark>**, affichant le **<mark style="color:green;">chef de la party</mark>** ainsi que les **<mark style="color:green;">membres</mark>**.
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Party/Info.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/Les_Donjons/Party/Info.png" alt=""></figure>
 
 ## <mark style="color:green;">💠 Comment réaliser un donjon ? 🎮</mark>
 
@@ -113,7 +113,7 @@ Après avoir <mark style="color:green;">vaincu le boss final du donjon</mark>, v
 
 Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres</mark> au <mark style="color:green;">fond de la salle</mark>. Il y a <mark style="color:green;">3 coffres de récompenses</mark> _(2 coffres gratuits et le 3e disponible avec le_ [_<mark style="color:green;">Premium 👑</mark>_](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium)_)_.
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/ZoneRecompense.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/Les_Donjons/ZoneRecompense.png" alt=""></figure>
 
 ## <mark style="color:green;">💠 Quelques exemples de récompenses... 🧰</mark>
 
