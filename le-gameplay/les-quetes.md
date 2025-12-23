@@ -501,9 +501,42 @@ Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient dans :
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
+{% hint style="warning" %}
+Ceci sont bien les récompenses disponible dans ces quêtes, elle ne sont toutes fois pas affiché dans le /quest.
+-L'équipe du wiki
+{% endhint %}
+
 | **Récompense**                                                                              |
 | ------------------------------------------------------------------------------------------- |
-| <strong>Liste des récompenses pas encore disponible</strong>                                |
+| <mark style="color:red;">**1 Pain d'épice**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#noel-2025))*  |
+| <mark style="color:red;">**2 Pains d'épices**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#noel-2025))*  |
+| <mark style="color:red;">**10 Pains d'épices**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#noel-2025))*  |
+| <mark style="color:red;">**1 Clé Pain d'épice**</mark>                                       |
+| <mark style="color:red;">**Spawner à Squelette**</mark>                                      |
+| <mark style="color:red;">**Spawner à Zombie**</mark>                                         |
+| <mark style="color:red;">**Spawner à Creeper**</mark>                                        |
+| <mark style="color:red;">**Spawner à Blaze**</mark>                                          |
+| <mark style="color:red;">**Spawner à Gardien**</mark>                                          | 
+| <mark style="color:red;">**Spawner à Golem de Fer**</mark>                                          |
+| <mark style="color:red;">**Spawner à Golem de Neige**</mark>                                          |
+| <mark style="color:red;">**Spawner à Ours Polaire**</mark>                                          |
+| <mark style="color:red;">**10 Gemmes 💎**</mark>                                              |
+| <mark style="color:red;">**20 Gemmes 💎**</mark>                                              |
+| <mark style="color:red;">**50 Gemmes 💎**</mark>                                             | 
+| <mark style="color:red;">**65 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**125 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**250 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**300 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**350 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**400 000 💲**</mark>                                                 | 
+| <mark style="color:red;">**500 000 💲**</mark>                                                | 
+| <mark style="color:red;">**2 Bonbons à l'Orange**</mark>                                     |
+| <mark style="color:red;">**2 Bonbons à la Myrtille**</mark>                                  |
+| <mark style="color:red;">**2 Bonbons aux Raisins**</mark>                                    |
+| <mark style="color:red;">**2 Bonbons à la Fraise**</mark>                                    |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Rare**</mark>                         |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
+| <mark style="color:red;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
 
 {% hint style="warning" %}
 Et puisse le sort vous être favorable !
