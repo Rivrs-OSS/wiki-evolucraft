@@ -34,64 +34,52 @@ Avec la commande [<mark style="color:green;">/pub 📢</mark>](http://wiki.evolu
 
 Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre trouvaille d'un <mark style="color:green;">portail de donjon</mark>, vous pouvez inviter des joueurs à éventuellement vous accompagner en effectuant la commande <mark style="color:green;">`/donjon "nom du donjon" "nombre de joueurs" "prix"`</mark>.
 
-## <mark style="color:green;">💠 Comment différencier un donjon selon sa rareté ? 🔍</mark>
+## <mark style="color:green;">💠 Comment réaliser une party donjon ? 👥</mark>
 
-Pour reconnaître à quel type appartient le donjon, vous avez <mark style="color:green;">plusieurs indices</mark> visibles dessus. Il y a notamment <mark style="color:green;">la couleur des vitres du portail</mark> mais aussi la <mark style="color:green;">taille du portail</mark> : plus il est grand, plus il demandera un niveau de classe élevé pour le réaliser.
+Les party est une fonctionnalité qui permet à la personne ayant créé le groupe, de pouvoir gérer les joueurs allant dans le donjon avec lui. Fini donc les vols de donjon ou encore les téléportations trop proches !
 
-#### 🔸 Les donjons basiques
+### 🔸 Un donjon trouvé
 
-* 🟩 [<mark style="color:green;">Commun</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/commun) : _(Niveau requis : <mark style="color:green;">niveau 1</mark>)_
-* 🟨 [<mark style="color:yellow;">Rare</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/rare) : _(Niveau requis : <mark style="color:yellow;">niveau 10</mark>)_
-* 🟦 [<mark style="color:blue;">Épique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/epique) : _(Niveau requis : <mark style="color:blue;">niveau 25</mark>)_
-* 🟪 [<mark style="color:purple;">Légendaire</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) : _(Niveau requis : <mark style="color:purple;">niveau 40</mark>)_
-* 🟥 [<mark style="color:red;">Mythique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/mythique) : _(Niveau requis : <mark style="color:red;">niveau 50</mark>)_
+Lorsque vous avez trouver un donjon, il faudra vous dirigez vers le portail afin d'avoir un message comme ci-dessous vous permettant de choisir si vous voulez faire le donjon seul ou à plusieurs. Il vous suffira de cliquer sur la méthode que vous voulez jouer sur le message dans le chat.
+<figure><img src="../../.gitbook/assets/Les_Donjons/Party/Creation.png" alt=""></figure>
 
-{% hint style="info" %}
-REMARQUE 🤓☝ : Plus un donjon demande un niveau élevé, plus il est difficile, mais les récompenses sont également plus importantes !
-{% endhint %}
+L'option "**<mark style="color:orange;">Jouer Seul</mark>**" vous fera téléporter directement dans le donjon.
+L'option "**<mark style="color:green;">Créer une party</mark>**" vous fera créez une party.
 
-Pour rendre votre expérience variée, plusieurs types de biomes de donjons sont présents, modifiant les salles, les monstres ainsi que l'apparence du portail. Vous pourrez y trouver des donjons dans les biomes suivants :
+### 🔸 Réservation du donjon.
 
-* **Forêt** 🌳
-* **Jungle** 🦜
-* **Marais** 🐸
-* **Neige** ❄️
-* **Désert** 🏜️
-* **Messa** 🌵
-* **Savane** 🦏
-* **Nether** 🔥
-
-<figure><img src="../../.gitbook/assets/Les_Donjons/ApercuDonjon.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
-
-#### 🔸 Les donjons événements
-
-De plus, des donjons spécifiques ajoutés lors de mises à jour sur le serveur vous permettent de diversifier l’expérience et d’adopter de nouvelles stratégies !
-
-* 🐉 [<mark style="color:orange;">Donjon Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique) _(Niveau requis : <mark style="color:orange;">niveau 10</mark>)_
-* 🌊 [<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal) _(Niveau requis : <mark style="color:blue;">niveau 10</mark>)_
-* 🧛‍♂️ [<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/halloween) _(Niveau requis : <mark style="color:orange;">niveau 20</mark>)_
-* ❄️ [<mark style="color:blue;">Donjon Givrée Commun</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15) _(Niveau requis : <mark style="color:blue;">niveau 15</mark>)_
-* 🌟 [<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40) _(Niveau requis : <mark style="color:blue;">niveau 40</mark>)_
-* ❤️ [<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour) _(Niveau requis : <mark style="color:red;">niveau 10</mark>)_
-* 🏹 [<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon) _(Niveau requis : <mark style="color:red;">niveau 40</mark>)_
-* 🐰 [<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin) _(Niveau requis : <mark style="color:yellow;">niveau 15</mark>)_
-* 🍫 [<mark style="color:yellow;">Donjon Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat) _(Niveau requis : <mark style="color:yellow;">niveau 40</mark>)_
-* 🎃 [<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille) _(Niveau requis : <mark style="color:red;">niveau 15</mark>)_
-* 🩸 [<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang) _(Niveau requis : <mark style="color:red;">niveau 45</mark>)_
+Une fois la party créer, il vous suffira d'aller au portail une nouvelle fois afin de réserver le portail en question auquel vous voulez faire le donjon à plusieurs et donc éviter un potentiel vol de dernière minute. Le portail sera réservé dès que vous recevrez le message ci-dessous.
+<figure><img src="../../.gitbook/assets/Les_Donjons/Party/Reservation.png" alt=""></figure>
 
 {% hint style="info" %}
-REMARQUE 🔍 : Lorsqu’un <mark style="color:green;">donjon est ajouté ou mis en avant après une mise à jour</mark>, son <mark style="color:green;">taux d’apparition est boosté</mark>. 📈
+Si le portail a déjà été reserver, il vous indiqueras ce message ci-dessous.
+<figure><img src="../../.gitbook/assets/Les_Donjons/Party/DejaReserver.png" alt=""></figure>
 {% endhint %}
+
+### 🔸 Formation de votre groupe
+
+Pour inviter des joueurs dans votre groupe temporaire, il vous suffira d'y faire une pub donjon avec la commande `/donjon [Type de Donjon] [Nombre de joueurs] [Prix d'entrée]`. 
+
+{% hint style="info" %}
+Si vous avez un doute sur votre portail, nous vous conseillons de regardez le codex des différents portails de donjons disponible sur le serveur ou également sur le message de réservation.
+{% endhint %}
+
+Une fois la pub envoyé, vous recevrez alors les joueurs voulant vous accompagnez dans votre donjon.
+
+<figure><img src="../../.gitbook/assets/Les_Donjons/Party/DemandeDeTP.png" alt=""></figure>
+
+### 🔸 Démarrer le donjon
+Si votre groupe est prêt et au complet, vous pouvez alors alors réaliser la commande `/party start` afin que tout les joueurs de la party soit téléporter dans le donjon.
+
+Pour vérifier qui sont les joueurs présents dans la party, vous avez le `/party info` vous donnant la liste du chef de la party ainsi que les membres qui le compose.
+
+<figure><img src="../../.gitbook/assets/Les_Donjons/Party/Info.png" alt=""></figure>
 
 ## <mark style="color:green;">💠 Comment réaliser un donjon ? 🎮</mark>
 
-### 🔸 Le départ 🏁
-
-Lorsqu’un membre a trouvé un donjon, il peut alors y téléporter ses amis ou publier une annonce pour inviter d’autres joueurs, en se plaçant <mark style="color:green;">devant le portail de donjon</mark>. Lorsque vous pensez pouvoir y entrer, vous pouvez <mark style="color:green;">entrer dans le portail</mark>. Dès que la première personne est téléportée dans le donjon, une <mark style="color:green;">période de 30 secondes</mark> commence, permettant à tous les joueurs de rejoindre.
-
 ### 🔸 La salle de préparation ⏳
 
-Une fois entrés dans le donjon, les joueurs <mark style="color:green;">patientent le temps du décompte</mark> pour attendre les derniers arrivants. Une fois ce <mark style="color:green;">décompte passé</mark>, les joueurs n’ayant pas eu le temps de rejoindre le donjon <mark style="color:green;">ne pourront plus entrer</mark>.
+Une fois entrés dans le donjon, les joueurs <mark style="color:green;">patientent le temps du décompte</mark> pour que tout le monde puisse préparer son inventaire. Une fois ce <mark style="color:green;">décompte passé</mark>, la première salle peut alors commencer !
 
 ### 🔸 Les salles de combat ⚔️
 
@@ -112,6 +100,8 @@ REMARQUE 🔍 : Il n’est <mark style="color:green;">pas toujours obligatoire</
 Après avoir <mark style="color:green;">vaincu le boss final du donjon</mark>, vous pourrez alors <mark style="color:green;">récupérer des récompenses</mark> si vous avez <mark style="color:green;">survécu</mark>.
 
 Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres</mark> au <mark style="color:green;">fond de la salle</mark>. Il y a <mark style="color:green;">3 coffres de récompenses</mark> _(2 coffres gratuits et le 3e disponible avec le_ [_<mark style="color:green;">Premium 👑</mark>_](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium)_)_.
+
+<figure><img src="../../.gitbook/assets/Les_Donjons/ZoneRecompense.png" alt=""></figure>
 
 ## <mark style="color:green;">💠 Quelques exemples de récompenses... 🧰</mark>
 
