@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le donjon Givré Commun
 ---
 
-# 🟦 Donjon Givré Commun
+# ❄️ Donjon Givré Commun
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
