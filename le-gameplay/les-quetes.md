@@ -409,7 +409,7 @@ Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs f
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Commune**</mark>                       |
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Rare**</mark>                          |
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Épique**</mark> 
-|
+
 ### 🔸 <mark style="color:yellow;">Parchemin Fabrique du Chocolat 🍫</mark>
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
