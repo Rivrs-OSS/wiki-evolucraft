@@ -22,7 +22,7 @@ En plus de guider vos premiers pas, elles vous permettent de <mark style="color:
 
 ## 💠 <mark style="color:green;">**Parchemin d'Aventure**</mark>
 
-<figure><img src="../.gitbook/assets/Quete/Quete_Reward.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>parchemins disponibles</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Quete/QueteReward.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>parchemins disponibles</strong></mark></p></figcaption></figure>
 
 Chaque <mark style="color:green;">**parchemins**</mark> de <mark style="color:green;">**de diffilcutés différentes**</mark> propose des <mark style="color:green;">**défis différents**</mark> et <mark style="color:green;">**des récompenses**</mark> à la hauteur de vos exploits, visibles dans le <mark style="color:green;">**`/quete`**</mark>, puis en cliquant sur <mark style="color:green;">**parchemins**</mark> et en passant votre curseur sur la quête que vous avez.
 
@@ -370,12 +370,12 @@ Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs f
 | <mark style="color:red;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
 | <mark style="color:red;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
 
-### 🔸 <mark style="color:yellow;">Parchemin Terrier du Roi Lapin & Fabrique du Chocolat 🍫</mark>
+### 🔸 <mark style="color:yellow;">Parchemin Terrier du Roi Lapin 🐰</mark>
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
-* **Les récompenses de [Donjon Terrier du Roi Lapin 🟫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin) ou [Donjon Fabrique du Chocolat 🟫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)**
+* **Les récompenses de [Donjon Terrier du Roi Lapin 🟫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin)**
 * **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
@@ -408,7 +408,49 @@ Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs f
 | <mark style="color:yellow;">**2 Bonbons aux Raisins**</mark>                                     |
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Commune**</mark>                       |
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Rare**</mark>                          |
+| <mark style="color:yellow;">**1 Carte de Classe Aléatoire Épique**</mark> 
+|
+### 🔸 <mark style="color:yellow;">Parchemin Fabrique du Chocolat 🍫</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
+* **Les récompenses de [Donjon Fabrique du Chocolat 🟫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)**
+* **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense**                                                                                |
+| --------------------------------------------------------------------------------------------- |
+| <mark style="color:yellow;">**1 Tablette de Chocolat**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques))* |
+| <mark style="color:yellow;">**2 Tablettes de Chocolat**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques))* |
+| <mark style="color:yellow;">**10 Tablettes de Chocolat**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques))* |
+| <mark style="color:yellow;">**1 Clé Pâques**</mark>                                             |
+| <mark style="color:yellow;">**Spawner à Squelette**</mark>                                       | 
+| <mark style="color:yellow;">**Spawner à Zombie**</mark>                                          |
+| <mark style="color:yellow;">**Spawner à Creeper**</mark>                                         |
+| <mark style="color:yellow;">**Spawner à Blaze**</mark>                                           |
+| <mark style="color:yellow;">**Spawner à Enderman**</mark>                                        |
+| <mark style="color:yellow;">**Spawner à Zombie Momifié**</mark>                                  |
+| <mark style="color:yellow;">**Spawner à Gardien**</mark>                                        |
+| <mark style="color:yellow;">**Spawner à Golem de Fer**</mark>                                   |
+| <mark style="color:yellow;">**10 Gemmes 💎**</mark>                                              |
+| <mark style="color:yellow;">**20 Gemmes 💎**</mark>                                              |
+| <mark style="color:yellow;">**50 Gemmes 💎**</mark>                                             | 
+| <mark style="color:yellow;">**65 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**125 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**250 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**300 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**3500 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**400 000 💲**</mark>                                                 | 
+| <mark style="color:yellow;">**500 000 💲**</mark>                                                | 
+| <mark style="color:yellow;">**2 Bonbons à l'Orange**</mark>                                      |
+| <mark style="color:yellow;">**2 Bonbons à la Myrtille**</mark>                                   |
+| <mark style="color:yellow;">**2 Bonbons aux Raisins**</mark>                                     |
+| <mark style="color:yellow;">**2 Bonbons à la Fraise**</mark>                                      |
+| <mark style="color:yellow;">**1 Carte de Classe Aléatoire Rare**</mark>                          |
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Épique**</mark>                        |
+| <mark style="color:yellow;">**1 Carte de Classe Aléatoire Légendaire**</mark>                       |
 
 ### 🔸 <mark style="color:red;">Parchemin Citrouille 🎃 </mark>
 
