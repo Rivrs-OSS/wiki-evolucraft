@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le donjon Citrouille
 ---
 
-# 🟥 Donjon Citrouilles
+# 🎃 Donjon Citrouilles
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
