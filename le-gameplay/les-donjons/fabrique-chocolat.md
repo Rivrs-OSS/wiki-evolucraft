@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant la Fabrique de chocolat
 ---
 
-# 🟫 Fabrique de Chocolat
+# 🍫 Fabrique de Chocolat
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
