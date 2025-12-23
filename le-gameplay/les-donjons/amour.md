@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le donjon Amour
 ---
 
-# 🟥 Donjon Amour
+# ❤️ Donjon Amour
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
