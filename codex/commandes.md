@@ -58,6 +58,17 @@ Le reste des commandes liées au Ville est disponible dans la section [Les ville
 * <mark style="color:green;">**/tp**</mark> : Téléporte vers un autre joueur ou une destination.
 * <mark style="color:green;">**/afk**</mark> : Téléporte le joueur dans la zone afk du serveur.
 
+### <mark style="color:green;">Donjons</mark>
+* <mark style="color:green;">**/party create**</mark> : Créer un groupe pour un donjon.
+* <mark style="color:green;">**/party invite [joueur]**</mark> : Inviter un joueur dans le groupe.
+* <mark style="color:green;">**/party kick [joueur]**</mark> : Expulser un joueur du groupe.
+* <mark style="color:green;">**/party accept**</mark> : Accepter une invitation de groupe.
+* <mark style="color:green;">**/party deny**</mark> : Refuser une invitation de groupe.
+* <mark style="color:green;">**/party leave**</mark> : Quitter le groupe.
+* <mark style="color:green;">**/party disband**</mark> : Dissoudre le groupe.
+* <mark style="color:green;">**/party start**</mark> : Commencer le donjon avec les personnes du groupe.
+* <mark style="color:green;">**/party info**</mark> : Voir les membres du groupe.
+
 ### <mark style="color:green;">Commerce & Économie</mark>
 
 * <mark style="color:green;">**/shop**</mark> : Téléporte vers les différents marchands du spawn.
