@@ -68,7 +68,7 @@ Après avoir récolté des <mark style="color:green;">cartes de classe</mark>, v
 
 Effectuez la commande <mark style="color:green;">`/classe`</mark>. L'interface ci-dessous s'affichera.
 
-<figure><img src="../.gitbook/assets/Les_Classes/Readme/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>classes</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Classes/Readme/ChoixDesClassesV5.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>classes</strong></mark></p></figcaption></figure>
 
 #### <mark style="color:green;">🔹 Étape 2️⃣</mark>
 
