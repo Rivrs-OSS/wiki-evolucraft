@@ -252,7 +252,7 @@ Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures Lapins</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son aperçue🔍
 
