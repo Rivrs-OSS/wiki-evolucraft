@@ -16,7 +16,7 @@ Mais quels sont les items disponibles...
 
 ### 🔸 <mark style="color:orange;">Draconique 🐉</mark>
 
-Ces items sont achetables avec des <mark style="color:orange;">**Cœurs de Dragon**</mark>, obtenables dans les récompenses du **[<mark style="color:orange;">Donjon Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique)**.
+Ces items sont achetables avec des <mark style="color:orange;">**Cœurs de Dragon**</mark>, obtenables dans les récompenses du **[<mark style="color:orange;">Donjon Draconique</mark>](https://wiki.evolucraft.fr/codex/donjons/draconique) 🐉**.
 
 | **Items disponibles**                                                                | **Prix**                  |
 | ------------------------------------------------------------------------------------ | ------------------------- |
@@ -44,7 +44,7 @@ Ces items sont achetables avec des <mark style="color:orange;">**Cœurs de Drago
 
 ### 🔸 <mark style="color:blue;">Abyssal 🌊</mark>
 
-Ces items sont échangeables contre des <mark style="color:blue;">**Pinces de Crabe**</mark>, que vous pouvez obtenir en récompense du **[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal)** ou dans les récompenses de **<mark style="color:blue;">Quête Abyssal</mark>**.
+Ces items sont échangeables contre des <mark style="color:blue;">**Pinces de Crabe**</mark>, que vous pouvez obtenir en récompense du **[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/codex/donjons/abyssal) 🌊** ou dans les récompenses de **<mark style="color:blue;">Quête Abyssal</mark>**.
 
 | **Items disponible**                                                             | **Prix**                    |
 | -------------------------------------------------------------------------------- | --------------------------- |
@@ -71,7 +71,7 @@ Ces items sont échangeables contre des <mark style="color:blue;">**Pinces de Cr
 
 ### 🔸 <mark style="color:orange;">Halloween 🎃</mark>
 
-Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Scintillantes</mark>**, obtenables dans les récompenses de **[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/halloween)** ou dans les récompenses de **<mark style="color:orange;">Quête Halloween</mark>**.
+Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Scintillantes</mark>**, obtenables dans les récompenses de **[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/codex/donjons/halloween) 🧛** ou dans les récompenses de **<mark style="color:orange;">Quête Halloween</mark>**.
 
 | **Items disponible**                                                                 | **Prix**                           |
 | ------------------------------------------------------------------------------------ | ---------------------------------- |
@@ -97,7 +97,7 @@ Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Sci
 
 ### 🔸 <mark style="color:blue;">Givrée ❄️</mark>
 
-Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</mark>**, obtenables dans les récompenses de **[<mark style="color:blue;">Donjon Givrée Commun</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15)** et **[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)** ou encore dans les récompenses de **<mark style="color:blue;">Quête Givré</mark>**.
+Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</mark>**, obtenables dans les récompenses de **[<mark style="color:blue;">Donjon Givrée Commun</mark>](https://wiki.evolucraft.fr/codex/donjons/givre15) ❄️** et **[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/codex/donjons/givre40) 🌟** ou encore dans les récompenses de **<mark style="color:blue;">Quête Givré</mark>**.
 
 | **Items disponible**                                                                | **Prix**                   |
 | ----------------------------------------------------------------------------------- | -------------------------- |
@@ -121,7 +121,7 @@ Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</m
 
 ### 🔸 <mark style="color:red;">St-Valentin 💕</mark>
 
-Ces items sont achetables avec des **<mark style="color:red;">Auréoles</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/amour)** et **[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)** ou encore dans les récompenses de **<mark style="color:red;">Quête de l'Amour</mark>**.
+Ces items sont achetables avec des **<mark style="color:red;">Auréoles</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/codex/donjons/amour) ❤️** et **[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/codex/donjons/cupidon) 🏹** ou encore dans les récompenses de **<mark style="color:red;">Quête de l'Amour</mark>**.
 
 | **Items disponible**                                                               | **Prix**             |
 | ---------------------------------------------------------------------------------- | -------------------- |
@@ -147,7 +147,7 @@ Ces items sont achetables avec des **<mark style="color:red;">Auréoles</mark>**
 
 ### 🔸 <mark style="color:yellow;">Pâques 🥚</mark>
 
-Ces items sont achetables avec des **<mark style="color:yellow;">Tablettes de Chocolat</mark>**, obtenables dans les récompenses de **[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin)** et **[<mark style="color:yellow;">Donjon Fabrique de Chocolat</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)** ou encore dans les récompebses de **<mark style="color:yellow;">Quête du Terrier du Roi Lapin</mark>**.
+Ces items sont achetables avec des **<mark style="color:yellow;">Tablettes de Chocolat</mark>**, obtenables dans les récompenses de **[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/codex/donjons/roi-lapin) 🐰** et **[<mark style="color:yellow;">Donjon Fabrique de Chocolat</mark>](https://wiki.evolucraft.fr/codex/donjons/fabrique-chocolat) 🍫** ou encore dans les récompenses de **<mark style="color:yellow;">Quête du Terrier du Roi Lapin</mark>**.
 
 | **Items disponible**                                                                       | **Prix**                      |
 | ------------------------------------------------------------------------------------------ | ----------------------------- |
@@ -174,8 +174,7 @@ Ces items sont achetables avec des **<mark style="color:yellow;">Tablettes de Ch
 
 ### 🔸 <mark style="color:blue;">Summer 2025 🏖️</mark>
 
-Ces items étaient achetables avec des **<mark style="color:blue;">Glaces</mark>**, obtenues avec des **<mark style="color:blue;">Soleils</mark>**. Cependant, cette monnaie n'existe plus.  
-Ils ne sont alors disponibles **<mark style="color:blue;">qu’à l’hôtel de vente</mark>**, par les joueurs ayant encore des Glaces.
+Ces items étaient achetables avec des **<mark style="color:blue;">Glaces</mark>**, que vous pouvez obtenir en récompense du **[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/codex/donjons/abyssal) 🌊**.
 
 | **Items disponible**                                                                      | **Prix**       |
 | ----------------------------------------------------------------------------------------- | -------------- |
@@ -204,7 +203,7 @@ Ils ne sont alors disponibles **<mark style="color:blue;">qu’à l’hôtel de 
 
 ### 🔸 <mark style="color:red;">Halloween 2025 🩸</mark>
 
-Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/citrouille)** et **[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/lune-de-sang)** ou encore dans les récompenses des **<mark style="color:red;">Parchemins Citrouilles</mark>** et les **<mark style="color:red;">Parchemins Lunes de Sang</mark>**.
+Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/codex/donjons/citrouille) 🎃** et **[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/codex/donjons/lune-de-sang) 🩸** ou encore dans les récompenses des **<mark style="color:red;">Parchemins Citrouilles</mark>** et les **<mark style="color:red;">Parchemins Lunes de Sang</mark>**.
 
 | **Items disponible**                                                                                  | **Prix**              |
 | ----------------------------------------------------------------------------------------------------- | --------------------- |

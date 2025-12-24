@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le donjon Givré Épique
 ---
 
-# 🟦 Givré Épique
+# 🌟 Givré Épique
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 

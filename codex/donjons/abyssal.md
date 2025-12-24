@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le donjon Abyssal
 ---
 
-# 🟦 Donjon Abyssal
+# 🌊 Donjon Abyssal
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 

@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le Terrier du roi Lapin
 ---
 
-# 🟫 Terrier du Roi Lapin
+# 🐰 Terrier du Roi Lapin
 
 ## 💠 <mark style="color:green;">Caractéristiques 📋</mark>
 

@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le donjon Lune de Sang
 ---
 
-# 🟥 Donjon Lune de Sang
+# 🩸 Donjon Lune de Sang
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 

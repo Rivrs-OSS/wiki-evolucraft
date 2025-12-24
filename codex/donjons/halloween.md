@@ -2,7 +2,7 @@
 description: Retrouvez ici les informations concernant le donjon Halloween
 ---
 
-# 🟧 Donjon Halloween
+# 🧛‍♂️ Donjon Halloween
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
