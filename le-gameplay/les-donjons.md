@@ -34,27 +34,23 @@ Avec la commande [<mark style="color:green;">/pub 📢</mark>](http://wiki.evolu
 
 Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre trouvaille d'un <mark style="color:green;">portail de donjon</mark>, vous pouvez inviter des joueurs à éventuellement vous accompagner en effectuant la commande <mark style="color:green;">`/donjon "nom du donjon" "nombre de joueurs" "prix"`</mark>.
 
-## <mark style="color:green;">💠 Comment réaliser une party donjon ? 👥</mark>
+## <mark style="color:green;">💠 Comment inviter des joueurs dans un donjon ? 👥</mark>
 
-Les **<mark style="color:green;">parties</mark>** sont une **<mark style="color:green;">fonctionnalité</mark>** permettant à la personne ayant **<mark style="color:green;">créé le groupe</mark>** de gérer les **<mark style="color:green;">joueurs entrant dans un donjon</mark>** avec elle.  
+Avec le **<mark style="color:green;">`/party`</mark>**, elle permettra, à la personne ayant **<mark style="color:green;">créé le groupe</mark>**, de gérer les **<mark style="color:green;">joueurs entrant dans un donjon</mark>** avec elle.  
 Fini les **<mark style="color:green;">vols de donjon</mark>** ou les **<mark style="color:green;">téléportations trop proches</mark>** !
 
 ### 🔸 Un donjon trouvé
 
-Lorsque vous avez **<mark style="color:green;">trouvé un donjon</mark>**, dirigez-vous vers le **<mark style="color:green;">portail</mark>**.  
-Un message s’affichera alors, vous permettant de choisir si vous souhaitez faire le donjon **<mark style="color:green;">seul</mark>** ou **<mark style="color:green;">à plusieurs</mark>**.  
-Il vous suffira de cliquer sur l’option souhaitée directement dans le **<mark style="color:green;">chat</mark>**.
+Lorsque vous avez **<mark style="color:green;">trouvé un donjon</mark>**, dirigez-vous vers le **<mark style="color:green;">portail</mark>**. Un message s’affichera alors, vous permettant de choisir si vous souhaitez faire le donjon **<mark style="color:green;">seul</mark>** ou **<mark style="color:green;">à plusieurs</mark>**. Il vous suffira de cliquer sur l’option souhaitée directement dans le **<mark style="color:green;">chat</mark>**.
+
+* L’option **"<mark style="color:orange;">Jouer seul</mark>"** vous téléportera directement dans le **<mark style="color:green;">donjon</mark>**.  
+* L’option **"<mark style="color:green;">Créer une party</mark>"** vous permettra de **<mark style="color:green;">créer une party</mark>**.
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Party/Creation.png" alt=""></figure>
 
-L’option **"<mark style="color:orange;">Jouer seul</mark>"** vous téléportera directement dans le **<mark style="color:green;">donjon</mark>**.  
-L’option **"<mark style="color:green;">Créer une party</mark>"** vous permettra de **<mark style="color:green;">créer une party</mark>**.
-
 ### 🔸 Réservation du donjon
 
-Une fois la **<mark style="color:green;">party créée</mark>**, retournez au **<mark style="color:green;">portail</mark>** afin de le **<mark style="color:green;">réserver</mark>**.  
-Cela permet d’effectuer le donjon **<mark style="color:green;">à plusieurs</mark>** et d’éviter tout **<mark style="color:green;">vol de dernière minute</mark>**.
-
+Une fois la **<mark style="color:green;">party créée</mark>**, retournez au **<mark style="color:green;">portail</mark>** afin de le **<mark style="color:green;">réserver</mark>**. Cela permet d’effectuer le donjon **<mark style="color:green;">à plusieurs</mark>** et d’éviter tout **<mark style="color:green;">vol de dernière minute</mark>**.
 Le portail sera considéré comme **<mark style="color:green;">réservé</mark>** dès réception du message ci-dessous.
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Party/Reservation.png" alt=""></figure>
@@ -79,8 +75,7 @@ Une fois la **<mark style="color:green;">pub envoyée</mark>**, vous recevrez le
 
 ### 🔸 Démarrer le donjon
 
-Lorsque votre **<mark style="color:green;">groupe est prêt</mark>** et **<mark style="color:green;">au complet</mark>**, utilisez la commande  
-**<mark style="color:green;">`/party start`</mark>** ou **<mark style="color:green;">rentrez dans le portail réservé</mark>** afin que **<mark style="color:green;">tous les joueurs</mark>** soient **<mark style="color:green;">téléportés</mark>** dans le donjon.
+Lorsque votre **<mark style="color:green;">groupe est prêt</mark>** et **<mark style="color:green;">au complet</mark>**, utilisez la commande **<mark style="color:green;">`/party start`</mark>** ou **<mark style="color:green;">rentrez dans le portail réservé</mark>** afin que **<mark style="color:green;">tous les joueurs</mark>** soient **<mark style="color:green;">téléportés</mark>** dans le donjon.
 
 Pour consulter les **<mark style="color:green;">joueurs présents</mark>**, utilisez  
 **<mark style="color:green;">`/party info`</mark>**, affichant le **<mark style="color:green;">chef de la party</mark>** ainsi que les **<mark style="color:green;">membres</mark>**.
@@ -90,7 +85,6 @@ Pour consulter les **<mark style="color:green;">joueurs présents</mark>**, util
 {% hint style="info" %}
 Pour plus de gestion dans votre groupe de donjon, nous vous invitons à lire les commandes disponible : [<mark style="color:green;">**Commandes `/party` 👥**</mark>](https://wiki.evolucraft.fr/le-codex/commandes#donjons)).
 {% endhint %}
-
 
 ## <mark style="color:green;">💠 Comment réaliser un donjon ? 🎮</mark>
 
