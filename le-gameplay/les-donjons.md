@@ -70,7 +70,7 @@ Pour inviter des **<mark style="color:green;">joueurs</mark>** dans votre **<mar
 **<mark style="color:green;">`/donjon [Type de donjon] [Nombre de joueurs] [Prix d'entrée]`</mark>**
 
 {% hint style="info" %}
-En cas de doute sur votre **<mark style="color:green;">portail</mark>**, consultez le **[<mark style="color:green;">codex des portails de donjons disponible sur le serveur</mark>](https://wiki.evolucraft.fr/codex/donjons)** ou vérifiez le **<mark style="color:green;">message de réservation</mark>**.
+En cas de doute sur votre **<mark style="color:green;">portail</mark>**, consultez le **[<mark style="color:green;">codex des portails de donjons disponible sur le serveur</mark>](https://wiki.evolucraft.fr/le-codex/donjons)** ou vérifiez le **<mark style="color:green;">message de réservation</mark>**.
 {% endhint %}
 
 Une fois la **<mark style="color:green;">pub envoyée</mark>**, vous recevrez les **<mark style="color:green;">demandes des joueurs</mark>** souhaitant vous accompagner.
@@ -88,7 +88,7 @@ Pour consulter les **<mark style="color:green;">joueurs présents</mark>**, util
 <figure><img src="../.gitbook/assets/Les_Donjons/Party/Info.png" alt=""></figure>
 
 {% hint style="info" %}
-Pour plus de gestion dans votre groupe de donjon, nous vous invitons à lire les commandes disponible : [<mark style="color:green;">**Commandes `/party` 👥**</mark>](https://wiki.evolucraft.fr/codex/commandes#donjons)).
+Pour plus de gestion dans votre groupe de donjon, nous vous invitons à lire les commandes disponible : [<mark style="color:green;">**Commandes `/party` 👥**</mark>](https://wiki.evolucraft.fr/le-codex/commandes#donjons)).
 {% endhint %}
 
 

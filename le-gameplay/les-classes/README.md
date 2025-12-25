@@ -14,7 +14,7 @@ description: Retrouvez ici toutes les informations concernant les classes
 
 **Choisir une <mark style="color:green;">classe</mark>, c’est donc faire évoluer son <mark style="color:green;">personnage</mark>, participer à des <mark style="color:green;">défis exclusifs</mark>, et découvrir une nouvelle <mark style="color:green;">dimension de progression</mark> sur Évolucraft !**
 
-<figure><img src="../../.gitbook/assets/Les_Classes/Readme/ChoixDesClassesV4.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">Classes</mark></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/ChoixDesClassesV5.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">Classes</mark></strong></p></figcaption></figure>
 
 ## <mark style="color:green;">💠 Comment débloquer une classe ? 🕵️‍♂️</mark>
 
