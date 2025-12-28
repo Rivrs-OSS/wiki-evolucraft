@@ -11,19 +11,19 @@ Cette page est là pour vous **<mark style="color:green;">guider pas à pas</mar
 
 ## <mark style="color:green;">**🚩 Créer un pwarp**</mark>
 
-Chaque **<span style="color:green;">joueur</span>** dispose de **<span style="color:green;">2 pwarps</span>** qu’il peut **<span style="color:green;">créer</span>** librement dans une ville où il est présent. Vous avez ainsi la possibilité de les **<span style="color:green;">regrouper</span>** dans une **<span style="color:green;">même ville</span>** afin de centraliser votre activité, ou au contraire de les **<span style="color:green;">disperser</span>** dans **<span style="color:green;">deux villes différentes</span>** pour toucher un public plus large.
+Chaque **<mark style="color:green;">joueur</mark>** dispose de **<mark style="color:green;">2 pwarps</mark>** qu’il peut **<mark style="color:green;">créer</mark>** librement dans une ville où il est présent. Vous avez ainsi la possibilité de les **<mark style="color:green;">regrouper</mark>** dans une **<mark style="color:green;">même ville</mark>** afin de centraliser votre activité, ou au contraire de les **<mark style="color:green;">disperser</mark>** dans **<mark style="color:green;">deux villes différentes</mark>** pour toucher un public plus large.
 
-Pour créer un pwarp, il vous suffira de réaliser la commande **<span style="color:green;">`/pwarp create [nom]`</span>**. Une fois effectuée, pour valider la création, il faudra réaliser à nouveau **<span style="color:green;">la même commande</span>** dans la seconde qui suit.
+Pour créer un pwarp, il vous suffira de réaliser la commande **<mark style="color:green;">`/pwarp create [nom]`</mark>**. Une fois effectuée, pour valider la création, il faudra réaliser à nouveau **<mark style="color:green;">la même commande</mark>** dans la seconde qui suit.
 
-Lorsque vous recevrez ce message, cela confirmera que la **<span style="color:green;">création du pwarp</span>** a bien été effectuée. Les joueurs souhaitant visiter votre ville pourront alors utiliser la commande **<span style="color:green;">`/pwarp [nom du pwarp]`</span>**.  
+Lorsque vous recevrez ce message, cela confirmera que la **<mark style="color:green;">création du pwarp</mark>** a bien été effectuée. Les joueurs souhaitant visiter votre ville pourront alors utiliser la commande **<mark style="color:green;">`/pwarp [nom du pwarp]`</mark>**.  
 *(image de validation du pwarp)*
 
 {% hint style="info" %}
-💡 **REMARQUE :** Pensez à créer votre **<span style="color:green;">pwarp</span>** au plus proche de vos **<span style="color:green;">zones de shop</span>** afin d’éviter que les autres joueurs soient téléportés trop loin ou qu’ils ne puissent pas y accéder facilement.
+💡 **REMARQUE :** Pensez à créer votre **<mark style="color:green;">pwarp</mark>** au plus proche de vos **<mark style="color:green;">zones de shop</mark>** afin d’éviter que les autres joueurs soient téléportés trop loin ou qu’ils ne puissent pas y accéder facilement.
 {% endhint %}
 
-Si vous souhaitez **<span style="color:green;">plus d’informations</span>** sur les **<span style="color:green;">Pwarps</span>**, nous vous conseillons de consulter la **<span style="color:green;">page dédiée</span>** à ce sujet :  
-[**<span style="color:green;">Page sur les Pwarps 🚩</span>**](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-pwarps)
+Si vous souhaitez **<mark style="color:green;">plus d’informations</mark>** sur les **<mark style="color:green;">Pwarps</mark>**, nous vous conseillons de consulter la **<mark style="color:green;">page dédiée</mark>** à ce sujet :  
+[**<mark style="color:green;">Page sur les Pwarps 🚩</mark>**](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-pwarps)
 
 ## <mark style="color:green;">**👜 Les coffres de shops**</mark>
 
