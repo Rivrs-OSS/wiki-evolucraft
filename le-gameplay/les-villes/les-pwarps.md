@@ -12,7 +12,7 @@ Les <mark style="color:green;"><strong>pwarps</strong></mark> sont un <mark styl
 
 Mais alors, comment <mark style="color:green;"><strong>créer</strong></mark> et <mark style="color:green;"><strong>utiliser</strong></mark> un <mark style="color:green;"><strong>pwarp</strong></mark> efficacement ? Découvrons cela ensemble !
 
-<figure><img src="../../.gitbook/assets/Les_Villes/PlayerWarp.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pwarp</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/PlayerWarp.png" alt=""><figcaption><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pwarp</code></strong></mark></p></figcaption></figure>
 
 ## <mark style="color:green;"><strong>🆕 Créer un pwarp</strong></mark>
 
@@ -22,7 +22,7 @@ Pour <mark style="color:green;"><strong>créer un pwarp</strong></mark>, utilise
 
 Une fois la commande effectuée, vous devrez la <mark style="color:green;"><strong>répéter une seconde fois</strong></mark> dans le délai imparti afin de <mark style="color:green;"><strong>confirmer la création</strong></mark>.
 
-*(image de validation du pwarp)*
+<figure><img src="../../.gitbook/assets/Les_Villes/Pwarp/Creation.png" alt=""><figcaption><p><strong>Message de la </strong><mark style="color:green;"><strong>création du pwarp</strong></mark></figcaption></figure>
 
 Lorsque vous recevrez le message de validation, votre <mark style="color:green;"><strong>pwarp sera actif</strong></mark> et <mark style="color:green;"><strong>les joueurs pourront s’y téléporter</strong></mark> via la commande : <mark style="color:green;"><strong>`/pwarp [nom du pwarp]`</strong></mark>
 
@@ -56,7 +56,7 @@ Si vous souhaitez avoir <mark style="color:green;"><strong>la liste complète de
 
 Vous pouvez ajouter une <mark style="color:green;"><strong>description personnalisée</strong></mark> à votre pwarp afin de le <mark style="color:green;"><strong>mettre en valeur</strong></mark> dans le menu <mark style="color:green;"><strong>`/pwarp`</strong></mark> et donner envie aux joueurs de le visiter via la commande <mark style="color:green;"><strong>`/pwarp desc set [Nom du pwarp] [Description]`</strong></mark>.
 
-*(image description pwarp)*
+<figure><img src="../../.gitbook/assets/Les_Villes/Pwarp/Description.png" alt=""><figcaption><mark style="color:green;"><strong>Description d'un pwarp</strong></mark></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:green;"><strong>💡 REMARQUE :</strong></mark> Pour utiliser des <mark style="color:green;"><strong>couleurs personnalisées</strong></mark> dans votre description, vous devez posséder [<mark style="color:green;"><strong>l’abonnement Premium</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium) 👑. Sans celui-ci, la description sera affichée en vert par défaut.
@@ -76,7 +76,7 @@ Pour obtenir des informations sur un pwarp</strong></mark> ou sur ceux gérés p
 
 * Pour connaître <mark style="color:green;"><strong>le propriétaire d’un pwarp</strong></mark>, rien de plus simple qu'un <mark style="color:green;"><strong>`/pwarp info [Nom du pwarp]`</strong></mark>. Vous aurez les informations affichées comme ci-dessous.
 
-*(image info pwarp)*
+<figure><img src="../../.gitbook/assets/Les_Villes/Pwarp/Info.png" alt=""><figcaption><mark style="color:green;"><strong>Info d'un pwarp</strong></mark></figcaption></figure>
 
 * À l'inverse, pour afficher <mark style="color:green;"><strong>la liste des pwarps d’un joueur</strong></mark>, il faudra réaliser la commande <mark style="color:green;"><strong>`/pwarp list [Pseudo]`</strong></mark>.
 
