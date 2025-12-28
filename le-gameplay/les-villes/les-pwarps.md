@@ -12,7 +12,7 @@ Les <mark style="color:green;"><strong>pwarps</strong></mark> sont un <mark styl
 
 Mais alors, comment <mark style="color:green;"><strong>créer</strong></mark> et <mark style="color:green;"><strong>utiliser</strong></mark> un <mark style="color:green;"><strong>pwarp</strong></mark> efficacement ? Découvrons cela ensemble !
 
-<figure><img src="../../.gitbook/assets/Les_Villes/PlayerWarp.png" alt=""><figcaption><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pwarp</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Pwarp/Menu.png" alt=""><figcaption><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pwarp</code></strong></mark></p></figcaption></figure>
 
 ## <mark style="color:green;"><strong>🆕 Créer un pwarp</strong></mark>
 
