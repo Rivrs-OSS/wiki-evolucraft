@@ -95,14 +95,14 @@ Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnalis
 
 ## <mark style="color:green;">💠 Quelques options de personnalisation supplémentaires... ⚙️</mark>
 
-* **Potion d'invisibilité** : rend le <mark style="color:green;">**porte-armure invisible**</mark>, mais uniquement sa structure de base. Les éléments ajoutés dessus (armures, objets, etc.) **restent visibles**.
-* **Poisson-globe (**_**pufferfish**_**)** : change la <mark style="color:green;">**taille de l’armor stand**</mark>. Deux tailles sont disponibles : la taille **standard** et une version **réduite**, équivalente à celle d’un **bébé villageois**.
-* **Dalle de pierre lisse (**_**smooth stone slab**_**)** : permet de <mark style="color:green;">**retirer la plateforme en pierre**</mark> sous l’armor stand, ne laissant visible que la **partie en bois**.
-* **Bloc de sable (**_**sand block**_**)** : ajoute un <mark style="color:green;">**effet de gravité**</mark> à l’armor stand. S’il est suspendu dans les airs, il tombera au sol dès que la gravité sera activée.
-* **Bloc invisible 🚫** : permet de <mark style="color:green;">**désactiver l’interaction avec l’armure**</mark> sur le porte-armure. Les objets restent visibles, mais **ne peuvent plus être récupérés**.
-* **Seau d’eau (**_**water bucket**_**)** : <mark style="color:green;">**réinitialise la position de l’armor stand**</mark>, sans retirer les objets ou armures posés dessus.
-* **Boussole (**_**compass**_**)** : fait <mark style="color:green;">**pivoter l’ensemble du porte-armure**</mark> sur lui-même.
-* **Poche d’encre lumineuse (**_**glow ink sac**_**)** : applique un <mark style="color:green;">**effet de surbrillance blanc**</mark> à l’armor stand, le rendant plus visible dans l’obscurité.
+* **<mark style="color:green;">Potion d'invisibilité</mark>** : rend le <mark style="color:green;">**porte-armure invisible**</mark>, mais uniquement sa structure de base. Les éléments ajoutés dessus (armures, objets, etc.) **restent visibles**.
+* **<mark style="color:green;">Poisson-globe</mark> (**_**pufferfish**_**)** : change la <mark style="color:green;">**taille de l’armor stand**</mark>. Deux tailles sont disponibles : la taille **standard** et une version **réduite**, équivalente à celle d’un **bébé villageois**.
+* **<mark style="color:green;">Dalle de pierre lisse</mark> (**_**smooth stone slab**_**)** : permet de <mark style="color:green;">**retirer la plateforme en pierre**</mark> sous l’armor stand, ne laissant visible que la **partie en bois**.
+* **<mark style="color:green;">Bloc de sable</mark> (**_**sand block**_**)** : ajoute un <mark style="color:green;">**effet de gravité**</mark> à l’armor stand. S’il est suspendu dans les airs, il tombera au sol dès que la gravité sera activée.
+* **<mark style="color:green;">Bloc invisible</mark> 🚫** : permet de <mark style="color:green;">**désactiver l’interaction avec l’armure**</mark> sur le porte-armure. Les objets restent visibles, mais **ne peuvent plus être récupérés**.
+* **<mark style="color:green;">Seau d’eau</mark> (**_**water bucket**_**)** : <mark style="color:green;">**réinitialise la position de l’armor stand**</mark>, sans retirer les objets ou armures posés dessus.
+* **<mark style="color:green;">Boussolle</mark> (**_**compass**_**)** : fait <mark style="color:green;">**pivoter l’ensemble du porte-armure**</mark> sur lui-même.
+* **<mark style="color:green;">Poche d’encre lumineuse</mark> (**_**glow ink sac**_**)** : applique un <mark style="color:green;">**effet de surbrillance blanc**</mark> à l’armor stand, le rendant plus visible dans l’obscurité.
 
 {% hint style="info" %}
 🔎 <mark style="color:green;">**Remarque**</mark> : Si vous désactivez l’effet lumineux, **quittez puis revenez dans la zone** pour que le changement soit visible.
