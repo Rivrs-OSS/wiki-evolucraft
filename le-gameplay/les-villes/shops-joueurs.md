@@ -11,7 +11,7 @@ Cette page est là pour vous **<mark style="color:green;">guider pas à pas</mar
 
 ## <mark style="color:green;">**🚩 Créer un pwarp**</mark>
 
-Chaque **<mark style="color:green;">joueur</mark>** dispose de **<mark style="color:green;">2 pwarps</mark>** qu’il peut **<mark style="color:green;">créer</mark>** librement dans une ville où il est présent. Vous avez ainsi la possibilité de les **<mark style="color:green;">regrouper</mark>** dans une **<mark style="color:green;">même ville</mark>** afin de centraliser votre activité, ou au contraire de les **<mark style="color:green;">disperser</mark>** dans **<mark style="color:green;">deux villes différentes</mark>** pour toucher un public plus large.
+Chaque **<mark style="color:green;">joueur</mark>** dispose de **<mark style="color:green;">2 pwarps</mark>** qu’il peut **<mark style="color:green;">créer librement dans une ville</mark>** où il est présent. Vous avez ainsi la possibilité de les **<mark style="color:green;">regrouper</mark>** dans une **<mark style="color:green;">même ville</mark>** afin de centraliser votre activité, ou au contraire de les **<mark style="color:green;">disperser</mark>** dans **<mark style="color:green;">deux villes différentes</mark>** pour toucher un public plus large.
 
 Pour créer un pwarp, il vous suffira de réaliser la commande **<mark style="color:green;">`/pwarp create [nom]`</mark>**. Une fois effectuée, pour valider la création, il faudra réaliser à nouveau **<mark style="color:green;">la même commande</mark>** dans la seconde qui suit.
 
