@@ -101,7 +101,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 ### <mark style="color:green;">🔹 Les shops de joueurs</mark>
 
-**Nous vous invitons à&#x20;**<mark style="color:green;">**lire la page du wiki**</mark>**&#x20;dédiée :** [<mark style="color:green;">**Les shops de joueurs 🏪**</mark>](https://wiki.evolucraft.fr/les-villes/les-shops-de-joueurs)
+**Nous vous invitons à&#x20;**<mark style="color:green;">**lire la page du wiki**</mark>**&#x20;dédiée :** [<mark style="color:green;">**Les shops de joueurs 🏪**</mark>](https://wiki.evolucraft.fr/les-villes/shops-joueurs)
 
 ### <mark style="color:green;">🔹 Le</mark> <mark style="color:green;"></mark><mark style="color:green;">`/finditem`</mark>
 
