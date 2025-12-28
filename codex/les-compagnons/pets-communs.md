@@ -21,7 +21,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     </td>
     <td>
      <p><mark style="color:green;"><strong>Niveau 1</strong></mark> → <mark style="color:green;"><strong>+ 1.000</strong></mark> 💲/h</p>
-     <p><mark style="color:green;"><strong>Niveau 5</strong></mark> → <mark style="color:green;"><strong>Vitesse 🏃‍♂️</strong></mark> +2</p>
+     <p><mark style="color:green;"><strong>Niveau 5</strong></mark> → <mark style="color:green;"><strong>🏃‍♂️ Vitesse</strong></mark> +2</p>
      <p><mark style="color:green;"><strong>Niveau 10</strong></mark> → <mark style="color:green;"><strong>Vision Nocturne</strong></mark></p>
      <p><mark style="color:green;"><strong>Niveau 15</strong></mark> → <mark style="color:green;"><strong>+ 1.500</strong></mark> 💲/h</p>
      <p><mark style="color:green;"><strong>Niveau 20</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Chasseur 🗡️</strong></mark></p>
@@ -38,11 +38,11 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/DuckShiny.png" alt=""></figure></p>
     </td>
     <td>
-     <p><mark style="color:green;"><strong>Niveau 1</strong></mark> → <mark style="color:green;"><strong>+ 1.000</strong></mark> 💲/h</p>
-     <p><mark style="color:green;"><strong>Niveau 5</strong></mark> → <mark style="color:green;"><strong>Vitesse 🏃‍♂️</strong></mark> +2</p>
-     <p><mark style="color:green;"><strong>Niveau 10</strong></mark> → <mark style="color:green;"><strong>Vision Nocturne</strong></mark></p>
-     <p><mark style="color:green;"><strong>Niveau 15</strong></mark> → <mark style="color:green;"><strong>+ 1.500</strong></mark> 💲/h</p>
-     <p><mark style="color:green;"><strong>Niveau 20</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Chasseur 🗡️</strong></mark></p>  
+     <p><mark style="color:green;"><strong>Niveau 1</strong></mark> → <mark style="color:green;"><strong>Respiration</strong></mark></p>
+     <p><mark style="color:green;"><strong>Niveau 5</strong></mark> → <mark style="color:green;"><strong>+ 1.250</strong></mark> 💲/h</p>
+     <p><mark style="color:green;"><strong>Niveau 10</strong></mark> → <mark style="color:green;"><strong>Grâce du dauphin</strong></mark></p>
+     <p><mark style="color:green;"><strong>Niveau 15</strong></mark> → <mark style="color:green;"><strong>💀 Dégâts Critiques</strong></mark> +1</p>
+     <p><mark style="color:green;"><strong>Niveau 20</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Pêcheur 🎣</strong></mark></p> 
     </td>
     <td>
      <p>* Œuf de familier (Caisse Émeraude ✳️)</p>
