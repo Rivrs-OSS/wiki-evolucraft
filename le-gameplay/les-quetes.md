@@ -135,7 +135,7 @@ Le <mark style="color:blue;">Parchemin Difficile</mark> s'obtient de plusieurs f
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Le <mark style="color:purple;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:purple;">Parchemin Expert</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
 * **[Parchemin Difficile 🔵](https://wiki.evolucraft.fr/le-gameplay/les-quetes#parchemin-difficile)**
 * **Les récompenses des niveau de métiers ⚒️**
@@ -374,7 +374,7 @@ Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs f
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:yellow;">Parchemin Terrier du Roi Lapin</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses du [Donjon Terrier du Roi Lapin 🐰](https://wiki.evolucraft.fr/le-gameplay/les-donjons/roi-lapin)**
 * **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
 
@@ -414,7 +414,7 @@ Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs f
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Le <mark style="color:yellow;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:yellow;">Parchemin Fabrique du Chocolat</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses du [Donjon Fabrique du Chocolat 🍫](https://wiki.evolucraft.fr/le-gameplay/les-donjons/fabrique-chocolat)**
 * **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
 
@@ -538,7 +538,7 @@ Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient de plusieurs
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient dans :
+Le <mark style="color:red;">Parchemin Pain d'épice</mark> s'obtient dans :
 * **La Caisse [Pain d'épice 🍪](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>

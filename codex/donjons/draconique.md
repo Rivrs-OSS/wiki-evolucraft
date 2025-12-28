@@ -27,7 +27,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 
 * <mark style="color:green;"><strong>Dragon vert & Dragon de feu 🧟‍♂️</strong></mark> : **17.5 XP**
 * <mark style="color:green;"><strong>Patate 🧟‍♂️</strong></mark> : **150 XP**
-* <mark style="color:green;"><strong>Albi 🧟‍♂️</strong></mark> : **200 XP**  
+* <mark style="color:green;"><strong>Albi 🧟‍♂️</strong></mark> : **250 XP**  
 * <mark style="color:yellow;"><strong>Drogon 👽</strong></mark> : **500 XP**  
 * <mark style="color:red;"><strong>Saphira 🐉</strong></mark> : **900 XP**
 

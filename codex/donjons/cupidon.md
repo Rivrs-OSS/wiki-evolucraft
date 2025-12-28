@@ -25,9 +25,9 @@ description: Retrouvez ici les informations concernant le donjon Cupidon
 
 Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
-* <mark style="color:green;"><strong>Apprenti, Archer & Chevalier 🧟‍♂️</strong></mark> : **17.5 XP**  
-* <mark style="color:yellow;"><strong>Seraphiel & Uriel 👽</strong></mark> : **450 XP**  
-* <mark style="color:red;"><strong>Cupidon 🐉</strong></mark> : **900 XP**
+* <mark style="color:green;"><strong>Apprenti, Archer & Chevalier 🧟‍♂️</strong></mark> : **50 XP**  
+* <mark style="color:yellow;"><strong>Seraphiel & Uriel 👽</strong></mark> : **5 000 XP**  
+* <mark style="color:red;"><strong>Cupidon 🐉</strong></mark> : **10 000 XP**
 
 ## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
