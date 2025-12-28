@@ -16,7 +16,7 @@ Chaque **<mark style="color:green;">joueur</mark>** dispose de **<mark style="co
 Pour créer un pwarp, il vous suffira de réaliser la commande **<mark style="color:green;">`/pwarp create [nom]`</mark>**. Une fois effectuée, pour valider la création, il faudra réaliser à nouveau **<mark style="color:green;">la même commande</mark>** dans la seconde qui suit.
 
 Lorsque vous recevrez ce message, cela confirmera que la **<mark style="color:green;">création du pwarp</mark>** a bien été effectuée. Les joueurs souhaitant visiter votre ville pourront alors utiliser la commande **<mark style="color:green;">`/pwarp [nom du pwarp]`</mark>**.  
-*(image de validation du pwarp)*
+<figure><img src="../../.gitbook/assets/Les_Villes/Pwarp/Creation.png" alt=""><figcaption><p><strong>Message de la </strong><mark style="color:green;"><strong>création du pwarp</strong></mark></figcaption></figure>
 
 {% hint style="info" %}
 💡 **REMARQUE :** Pensez à créer votre **<mark style="color:green;">pwarp</mark>** au plus proche de vos **<mark style="color:green;">zones de shop</mark>** afin d’éviter que les autres joueurs soient téléportés trop loin ou qu’ils ne puissent pas y accéder facilement.
