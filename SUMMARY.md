@@ -30,7 +30,7 @@
   * [🎭 Les Rôles](le-gameplay/les-villes/les-roles.md)
   * [🗃️ Les Sous-zones](le-gameplay/les-villes/les-sous-zones.md)
   * [🚩 Les Pwarps](le-gameplay/les-villes/les-pwarps.md)
-  * [🛒 Les Shops de Joueurs](le-gameplay/les-villes/shops-de-joueurs.md)
+  * [🛒 Les Shops de Joueurs](le-gameplay/les-villes/shops-joueurs.md)
   * [🏆 Le Classement des Villes](le-gameplay/les-villes/classement-ville.md)
   * [🔝 Les Niveaux de Ville](le-gameplay/les-villes/les-niveaux-de-ville.md)
 * [⚔️ Les Classes](le-gameplay/les-classes/README.md)
