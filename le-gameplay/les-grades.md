@@ -108,7 +108,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 
 ## 💠 <mark style="color:green;">Quels sont les abonnements ? 🥁</mark>
 
-## <mark style="color:yellow;">👑 Abonnement Premium 👑</mark>
+### <mark style="color:yellow;">👑 Abonnement Premium 👑</mark>
 
 <mark style="color:yellow;">**Prix**</mark> : [14,90 €/mois](https://store.evolucraft.fr/category/abonnement) _(Autre offre en pack de 3, 6 ou 12 mois)_ ou **obtenable dans la box vote** _(24 heures)_
 
