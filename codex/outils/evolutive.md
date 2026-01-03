@@ -12,7 +12,7 @@ Les <mark style="color:green;">**items évolutifs**</mark> sont des outils spéc
 
 ## 🔹 <mark style="color:yellow;">Son obtention 🤔</mark>
 
-Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent sois dans les [<mark style="color:green;">enchères 💸</mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#enchere) mais également dans les [<mark style="color:green;">récompenses de donjons</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons#quelques-exemples-de-recompenses) dans les donjons [<mark style="color:green;">Légendaire 🟪</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) ou [<mark style="color:green;">Mythique 🟥</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/mythique).
+Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans les [<mark style="color:green;">enchères 💸</mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#enchere) mais également dans les [<mark style="color:green;">récompenses de donjons</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons#quelques-exemples-de-recompenses) dans les donjons [<mark style="color:green;">Légendaire 🟪</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/legendaire) ou [<mark style="color:green;">Mythique 🟥</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/mythique).
 
 ## 🔹 <mark style="color:yellow;">Leur aperçue 🔍</mark>
 
