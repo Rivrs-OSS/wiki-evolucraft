@@ -129,7 +129,7 @@ description: Retrouvez ici toutes la liste des compagnons légendaire dans le se
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 11.500</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>Monture</strong></mark> (Aérienne)</p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🗡️ Force</strong></mark> +13</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+5%</strong></mark> d'argent sur <mark style="color:purple;"><strong>TOUS les métiers</strong></mark></p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> d'argent sur <mark style="color:purple;"><strong>TOUS les métiers</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Draconique 🐉)</td>
   </tr>
