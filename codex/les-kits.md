@@ -13,7 +13,10 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 ## 💠 <mark style="color:green;">Le /kit bousole 🧭</mark>
 
 * <mark style="color:green;">**1 boussole de navigation du `/menu`**</mark>
-<figure align="left"><img src="../.gitbook/assets/Codex/Kits/bousole.png" alt=""><figcaption></figcaption></figure>
+
+<img src="../.gitbook/assets/Codex/Kits/bousole.png" alt="" style="float: left;">
+<br>
+<!-- <figure align="left"><img src="../.gitbook/assets/Codex/Kits/bousole.png" alt=""><figcaption></figcaption></figure> -->
 
 ## 💠 <mark style="color:green;">Le /kit donjon 🟩</mark>
 
