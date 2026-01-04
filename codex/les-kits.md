@@ -14,13 +14,17 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 
 - <mark style="color:green;">**1 boussole de navigation du `/menu`**</mark>
 
-<figure style="text-align: left;"><img src="../.gitbook/assets/Codex/Kits/bousole.png" alt="" style="display: block;"><figcaption></figcaption></figure>
+<div style="display: flex; justify-content: flex-start;">
+  <img src="../.gitbook/assets/Codex/Kits/bousole.png" alt="">
+</div>
 
 ## 💠 <mark style="color:green;">Le /kit donjon 🟩</mark>
 
 - <mark style="color:green;">**1 pierre de téléportation donjon**</mark>
   
-<figure style="text-align: left;"><img src="../.gitbook/assets/Codex/Kits/donjon.png" alt=""><figcaption></figcaption></figure>
+<div style="display: flex; justify-content: flex-start;">
+  <img src="../.gitbook/assets/Codex/Kits/donjon.png" alt="">
+</div>
 
 ## 💠 <mark style="color:green;">Le /kit bienvenue 👋</mark>
 
@@ -40,7 +44,9 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 - <mark style="color:green;">**1 seau de lave**</mark>
 - <mark style="color:green;">**1 bouclier**</mark>
 
-<figure style="text-align: left;"><img src="../.gitbook/assets/Codex/Kits/bienvenue.png" alt=""><figcaption></figcaption></figure>
+<div style="display: flex; justify-content: flex-start;">
+  <img src="../.gitbook/assets/Codex/Kits/bienvenue.png" alt="">
+</div>
 
 {% hint style="warning" %}
 **Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>**.
@@ -67,7 +73,9 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 - <mark style="color:yellow;">**16 bûches de chêne**</mark>
 - <mark style="color:yellow;">**1 parchemin d’aventure (Rare)**</mark>
 
-<figure style="text-align: left;"><img src="../.gitbook/assets/Codex/Kits/heros.png" alt=""><figcaption></figcaption></figure>
+<div style="display: flex; justify-content: flex-start;">
+  <img src="../.gitbook/assets/Codex/Kits/heros.png" alt="">
+</div>
 
 {% hint style="warning" %}
 **Ce kit n'est obtenable qu'en ayant acheté <mark style="color:green;">un grade dans le `/grades`</mark>**.
@@ -96,7 +104,9 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 - <mark style="color:blue;">**24 bûches de chêne**</mark>
 - <mark style="color:blue;">**1 parchemin d’aventure (Difficile)**</mark>
 
-<figure style="text-align: left;"><img src="../.gitbook/assets/Codex/Kits/elite.png" alt=""><figcaption></figcaption></figure>
+<div style="display: flex; justify-content: flex-start;">
+  <img src="../.gitbook/assets/Codex/Kits/elite.png" alt="">
+</div>
 
 {% hint style="warning" %}
 **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:blue;">Grade Élite</mark> ou plus**.
@@ -126,7 +136,9 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 - <mark style="color:red;">**1 seau d’eau**</mark>
 - <mark style="color:red;">**1 seau de lave**</mark>
 
-<figure style="text-align: left;"><img src="../.gitbook/assets/Codex/Kits/legende.png" alt=""><figcaption></figcaption></figure>
+<div style="display: flex; justify-content: flex-start;">
+  <img src="../.gitbook/assets/Codex/Kits/legende.png" alt="">
+</div>
 
 {% hint style="warning" %}
 **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">Grade Légende</mark>**.
