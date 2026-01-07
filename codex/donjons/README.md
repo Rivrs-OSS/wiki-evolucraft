@@ -2,7 +2,7 @@
 description: Retrouvez ici la liste des donjons présent sur le serveur
 ---
 
-# 🏛️ Les Donjons
+# 🏛️ Les Portails de Donjons
 
 {% embed url="https://www.youtube.com/watch?index=3&list=PL1QLnkRl9WVyR0eGUtFoTo8a9MBJHBFwa&v=NtB-gvzz8mE" %}
 **Tuto : Les Nouveautés MMO/RPG d'Evolucraft**
@@ -14,7 +14,7 @@ Les donjons sont une nouvelle fonctionnalité sur Evolucraft, offrant des aventu
 Nous vous invitons, si besoin, à relire la page de présentation des donjons sur le serveur : **🏛️ [Les Donjons](https://wiki.evolucraft.fr/le-gameplay/les-donjons)**
 {% endhint %}
 
-## <mark style="color:green;">💠 Comment différencier un donjon selon sa rareté ? 🔍</mark>
+## <mark style="color:green;">💠 Comment différencier un portail de donjon selon sa rareté ? 🔍</mark>
 
 Pour reconnaître à quel type appartient le donjon, vous avez <mark style="color:green;">plusieurs indices</mark> visibles dessus. Il y a notamment <mark style="color:green;">la couleur des vitres du portail</mark> mais aussi la <mark style="color:green;">taille du portail</mark> : plus il est grand, plus il demandera un niveau de classe élevé pour le réaliser.
 
