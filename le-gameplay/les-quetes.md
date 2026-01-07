@@ -26,14 +26,16 @@ En plus de guider vos premiers pas, elles vous permettent de <mark style="color:
 
 Chaque <mark style="color:green;">**parchemins**</mark> de <mark style="color:green;">**de diffilcutés différentes**</mark> propose des <mark style="color:green;">**défis différents**</mark> et <mark style="color:green;">**des récompenses**</mark> à la hauteur de vos exploits, visibles dans le <mark style="color:green;">**`/quete`**</mark>, puis en cliquant sur <mark style="color:green;">**parchemins**</mark> et en passant votre curseur sur la quête que vous avez.
 
-Sur le serveurs, il existent <mark style="color:green;">**11 parchemins différents**</mark> :
+Sur le serveurs, il existent <mark style="color:green;">**14 parchemins différents**</mark> :
 
+Avec dans un premier temps <mark style="color:green;">**5 parchemins classiques**</mark>
 * 🟩 [<mark style="color:green;">Parchemin Facile</mark>](https://wiki.evolucraft.fr/codex/parchemin/commun)
 * 🟨 [<mark style="color:yellow;">Parchemin Avancé</mark>](https://wiki.evolucraft.fr/codex/parchemin/rare)
 * 🟦 [<mark style="color:blue;">Parchemin Difficile</mark>](https://wiki.evolucraft.fr/codex/parchemin/epique)
 * 🟪 [<mark style="color:purple;">Parchemin Expert</mark>](https://wiki.evolucraft.fr/codex/parchemin/legendaire)
 * 🟥 [<mark style="color:red;">Parchemin Impossible</mark>](https://wiki.evolucraft.fr/codex/parchemin/mythique)
 
+Mais également  <mark style="color:green;">**9 parchemins issue d'évènement**</mark>
 * 🌊 [<mark style="color:blue;">Parchemin Abyssal</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-abyssal)
 * 🧛‍♂️ [<mark style="color:orange;">Parchemin Halloween</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-halloween)
 * ❄️ [<mark style="color:blue;">Parchemin Givré</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-givre)
