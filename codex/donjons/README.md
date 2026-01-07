@@ -18,7 +18,7 @@ Nous vous invitons, si besoin, à relire la page de présentation des donjons su
 
 Pour reconnaître à quel type appartient le donjon, vous avez <mark style="color:green;">plusieurs indices</mark> visibles dessus. Il y a notamment <mark style="color:green;">la couleur des vitres du portail</mark> mais aussi la <mark style="color:green;">taille du portail</mark> : plus il est grand, plus il demandera un niveau de classe élevé pour le réaliser.
 
-### 🔸 Les donjons basiques
+### 🔸 Les donjons classiques
 
 * 🟩 [<mark style="color:green;">Commun</mark>](https://wiki.evolucraft.fr/codex/donjons/commun) : _(Niveau requis : <mark style="color:green;">niveau 1</mark>)_
 * 🟨 [<mark style="color:yellow;">Rare</mark>](https://wiki.evolucraft.fr/codex/donjons/rare) : _(Niveau requis : <mark style="color:yellow;">niveau 10</mark>)_
