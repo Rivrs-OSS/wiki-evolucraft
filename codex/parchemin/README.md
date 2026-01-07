@@ -1,4 +1,4 @@
-# 💠 <mark style="color:green;">**Parchemin d'Aventure**</mark>
+# 📜 <mark style="color:green;">**Parchemin d'Aventure**</mark>
 
 Chaque <mark style="color:green;">**parchemins**</mark> de <mark style="color:green;">**de diffilcutés différentes**</mark> propose des <mark style="color:green;">**défis différents**</mark> et <mark style="color:green;">**des récompenses**</mark> à la hauteur de vos exploits, visibles dans le <mark style="color:green;">**`/quete`**</mark>, puis en cliquant sur <mark style="color:green;">**parchemins**</mark> et en passant votre curseur sur la quête que vous avez.
 
