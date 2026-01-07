@@ -75,7 +75,7 @@ Une fois la **<mark style="color:green;">pub envoyée</mark>**, vous recevrez le
 
 ### 🔸 Démarrer le donjon
 
-Lorsque votre **<mark style="color:green;">groupe est prêt</mark>** et **<mark style="color:green;">au complet</mark>**, utilisez la commande **<mark style="color:green;">`/party start`</mark>** ou **<mark style="color:green;">rentrez dans le portail réservé</mark>** afin que **<mark style="color:green;">tous les joueurs</mark>** soient **<mark style="color:green;">téléportés</mark>** dans le donjon.
+Lorsque votre **<mark style="color:green;">groupe est prêt</mark>** et **<mark style="color:green;">au complet</mark>**, utilisez la commande **<mark style="color:green;">`/party start`</mark>** afin que **<mark style="color:green;">tous les joueurs</mark>** soient **<mark style="color:green;">téléportés</mark>** dans le donjon.
 
 {% hint style="warning" %}
 Un **<mark style="color:green;">timer de 10 secondes</mark>** se déclenchera avant la téléportation dans le donjon, permettant à tous les joueurs de se préparer.
@@ -86,24 +86,21 @@ Pour consulter les **<mark style="color:green;">joueurs présents</mark>**, util
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Party/Info.png" alt=""></figure>
 
-### 🔸 Nouvelles fonctionnalités de party
+{% hint style="warning" %}
+Une fois que **<mark style="color:green;">le donjon est terminé</mark>** et que vous ne souhaitez plus **<mark style="color:green;">refaire de donjon avec ce groupe</mark>**, il est nécessaire d’effectuer la commande **<mark style="color:green;">`/party leave`</mark>** afin de **<mark style="color:green;">quitter la party</mark>**.
 
-Votre **<mark style="color:green;">party reste désormais persistante</mark>** jusqu'au **<mark style="color:green;">disband</mark>** ou **<mark style="color:green;">restart du serveur</mark>**, ce qui vous permet d'**<mark style="color:green;">enchaîner les donjons</mark>** sans avoir à recréer un groupe à chaque fois !
-
-De nouvelles commandes sont disponibles pour améliorer votre expérience en groupe :
-
-* **<mark style="color:green;">`/party tp`</mark>** : Vous permet de vous **<mark style="color:green;">re-téléporter dans votre donjon</mark>** en cas de crash ou de déconnexion.
-* **<mark style="color:green;">`/party chat`</mark>** : **<mark style="color:green;">Active/Désactive le chat de party</mark>** (toggle). Une fois activé, **<mark style="color:green;">tous vos messages</mark>** seront envoyés uniquement aux **<mark style="color:green;">membres de votre party</mark>**. Refaites la commande pour revenir au chat normal.
-
-{% hint style="info" %}
-Pour plus de gestion dans votre groupe de donjon, nous vous invitons à lire les commandes disponible : [<mark style="color:green;">**Commandes `/party` 👥**</mark>](https://wiki.evolucraft.fr/le-codex/commandes#donjons)).
+Sans cela, vous pourriez être **<mark style="color:green;">téléporté automatiquement</mark>** avec ce groupe si vous restez dans le même monde que les autres joueurs, **<mark style="color:green;">sauf en cas de redémarrage du serveur</mark>** ou de **<mark style="color:green;">disband de la party</mark>**.
 {% endhint %}
 
 ## <mark style="color:green;">💠 Comment réaliser un donjon ? 🎮</mark>
 
 ### 🔸 La salle de préparation ⏳
 
-Une fois entrés dans le donjon, les joueurs <mark style="color:green;">patientent le temps du décompte</mark> pour que tout le monde puisse préparer son inventaire. Une fois ce <mark style="color:green;">décompte passé</mark>, la première salle peut alors commencer !
+Une fois entrés dans le donjon, les joueurs **<mark style="color:green;">patientent durant le décompte</mark>** afin que chacun puisse **<mark style="color:green;">préparer son inventaire</mark>**. Une fois ce **<mark style="color:green;">décompte terminé</mark>**, la première salle du donjon peut alors commencer !
+
+En cas de besoin, il est également possible d’activer le **<mark style="color:green;">chat de donjon</mark>** via la commande **<mark style="color:green;">`/party chat`</mark>**, afin de **<mark style="color:green;">transmettre des informations à vos coéquipiers</mark>** sans encombrer le **<mark style="color:green;">chat général</mark>**.
+
+En cas de **<mark style="color:green;">crash</mark>** ou de **<mark style="color:green;">déconnexion</mark>**, vous avez désormais la possibilité de vous **<mark style="color:green;">re-téléporter dans votre donjon</mark>** grâce à la commande **<mark style="color:green;">`/party tp`</mark>**.
 
 ### 🔸 Les salles de combat ⚔️
 

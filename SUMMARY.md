@@ -74,7 +74,7 @@
 ## 🔍 LE CODEX
 
 * [❔ Les Commandes](codex/commandes.md)
-* [🏛️ Les Donjons](codex/donjons/README.md)
+* [🏛️ Les Portails de Donjons](codex/donjons/README.md)
   * [🟩 Commun](codex/donjons/commun.md)
   * [🟧 Rare](codex/donjons/rare.md)
   * [🟦 Épique](codex/donjons/epique.md)
@@ -91,8 +91,6 @@
   * [🍫 Fabrique de Chocolat](codex/donjons/fabrique-chocolat.md)
   * [🎃 Citrouille](codex/donjons/citrouille.md)
   * [🩸 Lune de Sang](codex/donjons/lune-de-sang.md)
-* [🦺 Les Kits](codex/les-kits.md)
-* [🐾 Les Spawners](codex/spawner.md)
 * [🥼 Les Armures](codex/armure.md)
 * [🛠️ Les Outils](codex/outils/README.md)
   * [🤠 Outils de l'Aventurier](codex/outils/aventurier.md)
@@ -109,6 +107,9 @@
   * [🐉 Outils Saphira](codex/outils/saphira.md)
   * [💫 Outils Sompteueux](codex/outils/sompteueux.md)
   * [⚒️ Autres Outils](codex/outils/autre.md)
+* [📜 Les Parchemins d'Aventure](codex/parchemin/README.md)
+  * [🧧 Les Parchemins Classiques](codex/parchemin/classique.md)
+  * [🌟 Les Parchemins Évènements](codex/parchemin/evenement.md)
 * [🥚 Les Compagnons](codex/les-compagnons/README.md)
   * [🍬 Les Bonbons](codex/les-compagnons/bonbon-tableau.md)
   * [🐸 Compagnon Commun](codex/les-compagnons/pets-communs.md)
@@ -116,3 +117,5 @@
   * [🐟 Compagnon Épique](codex/les-compagnons/pets-epique.md)
   * [👾 Compagnon Légendaire](codex/les-compagnons/pets-legendaire.md)
   * [🦞 Compagnon Mythique](codex/les-compagnons/pets-mythique.md)
+* [🐾 Les Spawners](codex/spawner.md)
+* [🦺 Les Kits](codex/les-kits.md)
