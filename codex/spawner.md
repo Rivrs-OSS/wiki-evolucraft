@@ -11,7 +11,7 @@ Ils sont particulièrement utiles pour la création de <mark style="color:green;
 
 Ces blocs peuvent être placés <mark style="color:green;">**n’importe où**</mark> (dans les zones où vous en avez l’autorisation).\
 Cependant, ils ne sont <mark style="color:green;">**récupérables**</mark> qu’à l’intérieur de votre <mark style="color:green;">**propre ville**</mark>, ou d’une ville où vous disposez des droits nécessaires, et uniquement à l’aide d’une <mark style="color:green;">**pioche enchantée Toucher de Soie**</mark>.\
-Également, vous ne pouvez placer que <mark style="color:green;">**16 spawners par chunk**</mark>.
+Également, vous ne pouvez placer que <mark style="color:green;">**12 spawners par chunk**</mark>.
 
 Il existe <mark style="color:green;">**deux types de spawners**</mark> sur le serveur :
 
