@@ -107,7 +107,7 @@
   * [🐉 Outils Saphira](codex/outils/saphira.md)
   * [💫 Outils Sompteueux](codex/outils/sompteueux.md)
   * [⚒️ Autres Outils](codex/outils/autre.md)
-* [📜 Les Parchemins](codex/parchemin/README.md)
+* [📜 Les Parchemins d'Aventure](codex/parchemin/README.md)
   * [🧧 Les Parchemins Classiques](codex/parchemin/classique.md)
   * [🌟 Les Parchemins Évènements](codex/parchemin/evenement.md)
 * [🥚 Les Compagnons](codex/les-compagnons/README.md)
