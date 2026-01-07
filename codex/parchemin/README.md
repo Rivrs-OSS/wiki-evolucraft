@@ -6,7 +6,7 @@ Chaque <mark style="color:green;">**parchemins**</mark> de <mark style="color:gr
 
 Sur le serveurs, il existent <mark style="color:green;">**14 parchemins différents**</mark> :
 
-### 🔸 <mark style="color:blue;">Parchemin classiques</mark>
+## 🔸 <mark style="color:blue;">Parchemin classiques</mark>
 Avec dans un premier temps <mark style="color:green;">**5 parchemins classiques**</mark>
 - 🟢 [<mark style="color:green;">Parchemin Facile</mark>](https://wiki.evolucraft.fr/codex/parchemin/commun)
 - 🟡 [<mark style="color:yellow;">Parchemin Avancé</mark>](https://wiki.evolucraft.fr/codex/parchemin/rare)
@@ -14,7 +14,7 @@ Avec dans un premier temps <mark style="color:green;">**5 parchemins classiques*
 - 🟣 [<mark style="color:purple;">Parchemin Expert</mark>](https://wiki.evolucraft.fr/codex/parchemin/legendaire)
 - 🔴 [<mark style="color:red;">Parchemin Impossible</mark>](https://wiki.evolucraft.fr/codex/parchemin/mythique)
 
-### 🔸 <mark style="color:blue;">Parchemin évènement</mark>
+## 🔸 <mark style="color:blue;">Parchemin évènement</mark>
 Mais également  <mark style="color:green;">**9 parchemins issue d'évènement**</mark>
 - 🌊 [<mark style="color:blue;">Parchemin Abyssal</mark>](https://wiki.evolucraft.fr/codex/parchemin/evenement#parchemin-abyssal)
 - 🧛‍♂️ [<mark style="color:orange;">Parchemin Halloween</mark>](https://wiki.evolucraft.fr/codex/parchemin/evenement#parchemin-halloween)
