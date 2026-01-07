@@ -96,7 +96,7 @@ Une fois que **<mark style="color:green;">le donjon est terminé</mark>** et que
 
 Une fois entrés dans le donjon, les joueurs <mark style="color:green;">patientent le temps du décompte</mark> pour que tout le monde puisse préparer son inventaire. Une fois ce <mark style="color:green;">décompte passé</mark>, la première salle peut alors commencer !
 
-Également, en cas de besoin, il est possible d'activer le chat de donjons via le **<mark style="color:green;">`/party chat`</mark>** afin de **<mark style="color:green;">transmettre des informations à vos cooéquipier**</mark>**plutôt que de l'envoyer dans le chat générale.
+Également, en cas de besoin, il est possible d'activer le chat de donjons via le **<mark style="color:green;">`/party chat`</mark>** afin de **<mark style="color:green;">transmettre des informations à vos cooéquipier**</mark> plutôt que de l'envoyer dans le chat générale.
 
 En cas de **<mark style="color:green;">crash ou de déconnexion</mark>**, vous avez maintenant la possibilité de vous **<mark style="color:green;">re-téléporter dans votre donjon</mark>** via la commande **<mark style="color:green;">`/party tp`</mark>**.
 
