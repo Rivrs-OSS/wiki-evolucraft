@@ -54,7 +54,7 @@ De plus, des donjons spécifiques ajoutés lors de mises à jour sur le serveur 
 * 🌟 [<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/codex/donjons/givre40) _(Niveau requis : <mark style="color:blue;">niveau 40</mark>)_
 * ❤️ [<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/codex/donjons/amour) _(Niveau requis : <mark style="color:red;">niveau 10</mark>)_
 * 🏹 [<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/codex/donjons/cupidon) _(Niveau requis : <mark style="color:red;">niveau 40</mark>)_
-* 🐰 [<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/codex/donjonss/roi-lapin) _(Niveau requis : <mark style="color:yellow;">niveau 15</mark>)_
+* 🐰 [<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/codex/donjons/roi-lapin) _(Niveau requis : <mark style="color:yellow;">niveau 15</mark>)_
 * 🍫 [<mark style="color:yellow;">Donjon Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/codex/donjons/fabrique-chocolat) _(Niveau requis : <mark style="color:yellow;">niveau 40</mark>)_
 * 🎃 [<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/codex/donjons/citrouille) _(Niveau requis : <mark style="color:red;">niveau 15</mark>)_
 * 🩸 [<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/codex/donjons/lune-de-sang) _(Niveau requis : <mark style="color:red;">niveau 45</mark>)_
