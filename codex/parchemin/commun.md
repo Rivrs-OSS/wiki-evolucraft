@@ -28,4 +28,4 @@ Le <mark style="color:green;">Parchemin Facile</mark> s'obtient de plusieurs fa�
 | <mark style="color:green;">**4 000 💲**</mark>                                                             |
 | <mark style="color:green;">**5 000 💲**</mark>                                                             |
 | <mark style="color:green;">**1 Bonbons à la Pomme**</mark>                                                |
-| [<mark style="color:green;">Parchemin Avancé</mark>](https://wiki.evolucraft.fr/codex/parchemin/rare) 🟡 |
+| [<mark style="color:green;">**Parchemin Avancé**</mark>](https://wiki.evolucraft.fr/codex/parchemin/rare) 🟡 |
