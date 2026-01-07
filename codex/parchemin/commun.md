@@ -1,6 +1,6 @@
-# 🔸 <mark style="color:green;">Parchemin Facile 🟢</mark>
+# 🟢 <mark style="color:green;">Parchemin Facile</mark>
 
-## 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+## 💠 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:green;">Parchemin Facile</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
@@ -9,7 +9,7 @@ Le <mark style="color:green;">Parchemin Facile</mark> s'obtient de plusieurs fa�
 * **Le [`/rewards` 🕒](https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#le-rewards)**
 * **Les offres du `/boutique` 🛒** *(50 gemmes 💎)*
 
-## 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+## 💠 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
