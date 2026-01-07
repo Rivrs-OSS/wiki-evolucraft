@@ -74,7 +74,7 @@
 ## 🔍 LE CODEX
 
 * [❔ Les Commandes](codex/commandes.md)
-* [🏛️ Les Donjons](codex/donjons/README.md)
+* [🏛️ Les Portails de Donjons](codex/donjons/README.md)
   * [🟩 Commun](codex/donjons/commun.md)
   * [🟧 Rare](codex/donjons/rare.md)
   * [🟦 Épique](codex/donjons/epique.md)
