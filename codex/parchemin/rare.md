@@ -32,4 +32,4 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 | <mark style="color:yellow;">**10 000 💲**</mark>                                                              |
 | <mark style="color:yellow;">**1 Bonbons à l'Orange**</mark>                                                  |
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Commune**</mark>                                   |
-| [<mark style="color:blue;">Parchemin Difficile</mark>](https://wiki.evolucraft.fr/codex/parchemin/epique) 🔵 |
+| [<mark style="color:yellow;">Parchemin Difficile</mark>](https://wiki.evolucraft.fr/codex/parchemin/epique) 🔵 |
