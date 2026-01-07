@@ -8,11 +8,11 @@ Sur le serveurs, il existent <mark style="color:green;">**14 parchemins différe
 
 ## 🔸 <mark style="color:blue;">Les parchemins classiques</mark>
 Avec dans un premier temps <mark style="color:green;">**5 parchemins classiques**</mark>
-### - 🟢 [<mark style="color:green;">Parchemin Facile</mark>](https://wiki.evolucraft.fr/codex/parchemin/commun)
-### - 🟡 [<mark style="color:yellow;">Parchemin Avancé</mark>](https://wiki.evolucraft.fr/codex/parchemin/rare)
-### - 🔵 [<mark style="color:blue;">Parchemin Difficile</mark>](https://wiki.evolucraft.fr/codex/parchemin/epique)
-### - 🟣 [<mark style="color:purple;">Parchemin Expert</mark>](https://wiki.evolucraft.fr/codex/parchemin/legendaire)
-### - 🔴 [<mark style="color:red;">Parchemin Impossible</mark>](https://wiki.evolucraft.fr/codex/parchemin/mythique)
+### - 🟢 [<mark style="color:green;">Parchemin Facile</mark>](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-facile)
+### - 🟡 [<mark style="color:yellow;">Parchemin Avancé</mark>](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-avance)
+### - 🔵 [<mark style="color:blue;">Parchemin Difficile</mark>](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-difficile)
+### - 🟣 [<mark style="color:purple;">Parchemin Expert</mark>](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-expert)
+### - 🔴 [<mark style="color:red;">Parchemin Impossible</mark>](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-impossible)
 
 ## 🔸 <mark style="color:blue;">Les parchemins évènements</mark>
 Mais également  <mark style="color:green;">**9 parchemins issue d'évènement**</mark>
