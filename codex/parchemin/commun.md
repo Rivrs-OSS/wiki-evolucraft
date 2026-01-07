@@ -5,7 +5,7 @@
 Le <mark style="color:green;">Parchemin Facile</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
 * **Les récompenses des niveau de métiers ⚒️**
-* **Les récompenses du [Donjon Commun 🟩](https://wiki.evolucraft.fr/le-gameplay/les-donjons/commun)**
+* **Les récompenses du [Donjon Commun 🟩](https://wiki.evolucraft.fr/codex/donjons/commun)**
 * **Le [`/rewards` 🕒](https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#le-rewards)**
 * **Les offres du `/boutique` 🛒** *(50 gemmes 💎)*
 
