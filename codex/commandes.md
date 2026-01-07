@@ -68,6 +68,8 @@ Le reste des commandes liées au Ville est disponible dans la section [Les ville
 * <mark style="color:green;">**/party disband**</mark> : Dissoudre le groupe.
 * <mark style="color:green;">**/party start**</mark> : Commencer le donjon avec les personnes du groupe.
 * <mark style="color:green;">**/party info**</mark> : Voir les membres du groupe.
+* <mark style="color:green;">**/party tp**</mark> : Se re-téléporter dans son donjon en cas de crash ou de déconnexion.
+* <mark style="color:green;">**/party chat**</mark> : Active/Désactive le chat de party (toggle). Une fois activé, tous les messages sont envoyés uniquement aux membres de la party.
 
 ### <mark style="color:green;">Commerce & Économie</mark>
 

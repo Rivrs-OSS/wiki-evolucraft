@@ -223,7 +223,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>💕 Régénération</strong></mark> +4</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+7.5%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Canne à Sucre</strong></mark> au /shop</p>
      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+2,5%</strong></mark> d'argent sur <mark style="color:blue;"><strong>TOUT les métiers</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+2,5%</strong></mark> d'argent sur <mark style="color:blue;"><strong>TOUS les métiers</strong></mark></p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +5</p> 
    </td>
    <td>* Œuf de famillier (Caisse Abyssal 🌊)</td>

@@ -62,7 +62,7 @@ Si le portail a déjà été **<mark style="color:green;">réservé</mark>**, le
 
 ### 🔸 Formation de votre groupe
 
-Pour inviter des **<mark style="color:green;">joueurs</mark>** dans votre **<mark style="color:green;">groupe temporaire</mark>**, publiez une **<mark style="color:green;">pub de donjon</mark>** avec la commande :  
+Pour inviter des **<mark style="color:green;">joueurs</mark>** dans votre **<mark style="color:green;">groupe</mark>**, publiez une **<mark style="color:green;">pub de donjon</mark>** avec la commande :  
 **<mark style="color:green;">`/donjon [Type de donjon] [Nombre de joueurs] [Prix d'entrée]`</mark>**
 
 {% hint style="info" %}
@@ -77,10 +77,23 @@ Une fois la **<mark style="color:green;">pub envoyée</mark>**, vous recevrez le
 
 Lorsque votre **<mark style="color:green;">groupe est prêt</mark>** et **<mark style="color:green;">au complet</mark>**, utilisez la commande **<mark style="color:green;">`/party start`</mark>** ou **<mark style="color:green;">rentrez dans le portail réservé</mark>** afin que **<mark style="color:green;">tous les joueurs</mark>** soient **<mark style="color:green;">téléportés</mark>** dans le donjon.
 
+{% hint style="warning" %}
+Un **<mark style="color:green;">timer de 10 secondes</mark>** se déclenchera avant la téléportation dans le donjon, permettant à tous les joueurs de se préparer.
+{% endhint %}
+
 Pour consulter les **<mark style="color:green;">joueurs présents</mark>**, utilisez  
 **<mark style="color:green;">`/party info`</mark>**, affichant le **<mark style="color:green;">chef de la party</mark>** ainsi que les **<mark style="color:green;">membres</mark>**.
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Party/Info.png" alt=""></figure>
+
+### 🔸 Nouvelles fonctionnalités de party
+
+Votre **<mark style="color:green;">party reste désormais persistante</mark>** jusqu'au **<mark style="color:green;">disband</mark>** ou **<mark style="color:green;">restart du serveur</mark>**, ce qui vous permet d'**<mark style="color:green;">enchaîner les donjons</mark>** sans avoir à recréer un groupe à chaque fois !
+
+De nouvelles commandes sont disponibles pour améliorer votre expérience en groupe :
+
+* **<mark style="color:green;">`/party tp`</mark>** : Vous permet de vous **<mark style="color:green;">re-téléporter dans votre donjon</mark>** en cas de crash ou de déconnexion.
+* **<mark style="color:green;">`/party chat`</mark>** : **<mark style="color:green;">Active/Désactive le chat de party</mark>** (toggle). Une fois activé, **<mark style="color:green;">tous vos messages</mark>** seront envoyés uniquement aux **<mark style="color:green;">membres de votre party</mark>**. Refaites la commande pour revenir au chat normal.
 
 {% hint style="info" %}
 Pour plus de gestion dans votre groupe de donjon, nous vous invitons à lire les commandes disponible : [<mark style="color:green;">**Commandes `/party` 👥**</mark>](https://wiki.evolucraft.fr/le-codex/commandes#donjons)).
