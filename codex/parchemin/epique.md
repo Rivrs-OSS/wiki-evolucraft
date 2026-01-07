@@ -2,7 +2,7 @@
 
 ## 💠 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Le <mark style="color:blue;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:green;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
 * **[Parchemin Avancé 🟡](https://wiki.evolucraft.fr/codex/parchemin/rare)**
 * **Les récompenses des niveau de métiers ⚒️**
@@ -10,7 +10,7 @@ Le <mark style="color:blue;">Parchemin Difficile</mark> s'obtient de plusieurs f
 * **La Caisse [Émeraude ✳️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-emeraude)**
 * **Les offres du `/boutique` 🛒** *(150 gemmes 💎)*
 
-## 💠 <mark style="color:blue;">Ses récompenses 🎰</mark>
+## 💠 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
