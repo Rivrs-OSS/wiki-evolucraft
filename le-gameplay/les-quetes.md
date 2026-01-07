@@ -29,19 +29,19 @@ Chaque <mark style="color:green;">**parchemins**</mark> de <mark style="color:gr
 Sur le serveurs, il existent <mark style="color:green;">**14 parchemins différents**</mark> :
 
 Avec dans un premier temps <mark style="color:green;">**5 parchemins classiques**</mark>
-* 🟩 [<mark style="color:green;">Parchemin Facile</mark>](https://wiki.evolucraft.fr/codex/parchemin/commun)
-* 🟨 [<mark style="color:yellow;">Parchemin Avancé</mark>](https://wiki.evolucraft.fr/codex/parchemin/rare)
-* 🟦 [<mark style="color:blue;">Parchemin Difficile</mark>](https://wiki.evolucraft.fr/codex/parchemin/epique)
-* 🟪 [<mark style="color:purple;">Parchemin Expert</mark>](https://wiki.evolucraft.fr/codex/parchemin/legendaire)
-* 🟥 [<mark style="color:red;">Parchemin Impossible</mark>](https://wiki.evolucraft.fr/codex/parchemin/mythique)
+- 🟩 [<mark style="color:green;">Parchemin Facile</mark>](https://wiki.evolucraft.fr/codex/parchemin/commun)
+- 🟨 [<mark style="color:yellow;">Parchemin Avancé</mark>](https://wiki.evolucraft.fr/codex/parchemin/rare)
+- 🟦 [<mark style="color:blue;">Parchemin Difficile</mark>](https://wiki.evolucraft.fr/codex/parchemin/epique)
+- 🟪 [<mark style="color:purple;">Parchemin Expert</mark>](https://wiki.evolucraft.fr/codex/parchemin/legendaire)
+- 🟥 [<mark style="color:red;">Parchemin Impossible</mark>](https://wiki.evolucraft.fr/codex/parchemin/mythique)
 
 Mais également  <mark style="color:green;">**9 parchemins issue d'évènement**</mark>
-* 🌊 [<mark style="color:blue;">Parchemin Abyssal</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-abyssal)
-* 🧛‍♂️ [<mark style="color:orange;">Parchemin Halloween</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-halloween)
-* ❄️ [<mark style="color:blue;">Parchemin Givré</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-givre)
-* ❤️ [<mark style="color:red;">Parchemin de l'Amour</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-de-lamour)
-* 🐰 [<mark style="color:yellow;">Parchemin Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-terrier-du-roi-lapin)
-* 🍫 [<mark style="color:yellow;">Parchemin Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-fabrique-du-chocolat)
-* 🎃 [<mark style="color:red;">Parchemin Citrouille</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-citrouille)
-* 🩸 [<mark style="color:red;">Parchemin Lune de Sang</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-lune-de-sang)
-* 🍪 [<mark style="color:red;">Parchemin Pain d'Épice</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-pain-depice)
+- 🌊 [<mark style="color:blue;">Parchemin Abyssal</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-abyssal)
+- 🧛‍♂️ [<mark style="color:orange;">Parchemin Halloween</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-halloween)
+- ❄️ [<mark style="color:blue;">Parchemin Givré</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-givre)
+- ❤️ [<mark style="color:red;">Parchemin de l'Amour</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-de-lamour)
+- 🐰 [<mark style="color:yellow;">Parchemin Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-terrier-du-roi-lapin)
+- 🍫 [<mark style="color:yellow;">Parchemin Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-fabrique-du-chocolat)
+- 🎃 [<mark style="color:red;">Parchemin Citrouille</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-citrouille)
+- 🩸 [<mark style="color:red;">Parchemin Lune de Sang</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-lune-de-sang)
+- 🍪 [<mark style="color:red;">Parchemin Pain d'Épice</mark>](https://wiki.evolucraft.fr/codex/parchemin#parchemin-pain-depice)
