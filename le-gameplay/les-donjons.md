@@ -87,18 +87,20 @@ Pour consulter les **<mark style="color:green;">joueurs présents</mark>**, util
 <figure><img src="../.gitbook/assets/Les_Donjons/Party/Info.png" alt=""></figure>
 
 {% hint style="warning" %}
-Une fois que **<mark style="color:green;">le donjon est terminé</mark>** et que vous ne voulez plus **<mark style="color:green;">refaire de donjon avec ce groupe</mark>**, il faudra réaliser la commande **<mark style="color:green;">`/party leave`</mark>** pour pas être téléporter à ce dernier si vous rester dans le monde où le reste du groupe resteront pour des donjons **<mark style="color:green;">sauf en cas de restart du serveur</mark>** ou de **<mark style="color:green;">disband de la party</mark>**.
+Une fois que **<mark style="color:green;">le donjon est terminé</mark>** et que vous ne souhaitez plus **<mark style="color:green;">refaire de donjon avec ce groupe</mark>**, il est nécessaire d’effectuer la commande **<mark style="color:green;">`/party leave`</mark>** afin de **<mark style="color:green;">quitter la party</mark>**.
+
+Sans cela, vous pourriez être **<mark style="color:green;">téléporté automatiquement</mark>** avec ce groupe si vous restez dans le même monde que les autres joueurs, **<mark style="color:green;">sauf en cas de redémarrage du serveur</mark>** ou de **<mark style="color:green;">disband de la party</mark>**.
 {% endhint %}
 
 ## <mark style="color:green;">💠 Comment réaliser un donjon ? 🎮</mark>
 
 ### 🔸 La salle de préparation ⏳
 
-Une fois entrés dans le donjon, les joueurs <mark style="color:green;">patientent le temps du décompte</mark> pour que tout le monde puisse préparer son inventaire. Une fois ce <mark style="color:green;">décompte passé</mark>, la première salle peut alors commencer !
+Une fois entrés dans le donjon, les joueurs **<mark style="color:green;">patientent durant le décompte</mark>** afin que chacun puisse **<mark style="color:green;">préparer son inventaire</mark>**. Une fois ce **<mark style="color:green;">décompte terminé</mark>**, la première salle du donjon peut alors commencer !
 
-Également, en cas de besoin, il est possible d'activer le chat de donjons via le **<mark style="color:green;">`/party chat`</mark>** afin de **<mark style="color:green;">transmettre des informations à vos cooéquipier**</mark> plutôt que de l'envoyer dans le chat générale.
+En cas de besoin, il est également possible d’activer le **<mark style="color:green;">chat de donjon</mark>** via la commande **<mark style="color:green;">`/party chat`</mark>**, afin de **<mark style="color:green;">transmettre des informations à vos coéquipiers</mark>** sans encombrer le **<mark style="color:green;">chat général</mark>**.
 
-En cas de **<mark style="color:green;">crash ou de déconnexion</mark>**, vous avez maintenant la possibilité de vous **<mark style="color:green;">re-téléporter dans votre donjon</mark>** via la commande **<mark style="color:green;">`/party tp`</mark>**.
+En cas de **<mark style="color:green;">crash</mark>** ou de **<mark style="color:green;">déconnexion</mark>**, vous avez désormais la possibilité de vous **<mark style="color:green;">re-téléporter dans votre donjon</mark>** grâce à la commande **<mark style="color:green;">`/party tp`</mark>**.
 
 ### 🔸 Les salles de combat ⚔️
 
