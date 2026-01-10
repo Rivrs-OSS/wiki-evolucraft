@@ -1,18 +1,18 @@
 ---
-description: Retrouvez ici la liste des parchemins issue d'évènement présent sur le serveur
+description: Retrouvez ici la liste des parchemins issue d'évènement présents sur le serveur
 ---
 
 # 🌟 Parchemins évènement
 
 ## 🔸 <mark style="color:blue;">Parchemin Abyssal 🌊</mark>
 
-### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses du [Donjon  Abyssal 🌊](https://wiki.evolucraft.fr/codex/donjons/abyssal)**
 * **La Caisse [Summer 2025 🏖️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer)**
 
-### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
@@ -46,13 +46,13 @@ Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs fa�
 
 ## 🔸 <mark style="color:orange;">Parchemin Halloween 🎃</mark>
 
-### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses du [Donjon Halloween 🧛](https://wiki.evolucraft.fr/codex/donjons/halloween)**
 * **La Caisse [Halloween 🎃](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween)**
 
-### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
@@ -90,13 +90,13 @@ Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs
 
 ## 🔸 <mark style="color:blue;">Parchemin Givré ❄️</mark>
 
-### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses des [Donjon Givrée Commun ❄️](https://wiki.evolucraft.fr/codex/donjons/givre15) et [Donjon Givrée Épique 🌟](https://wiki.evolucraft.fr/codex/donjons/givre40)**
 * **La Caisse [Givrée ❄️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**
 
-### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
@@ -132,13 +132,13 @@ Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs faç
 
 ## 🔸 <mark style="color:red;">Parchemin de l'Amour 💕</mark>
 
-### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses des [Donjon Amour ❤️](https://wiki.evolucraft.fr/codex/donjons/amour) et [Donjon Cupidon 🏹](https://wiki.evolucraft.fr/codex/donjons/cupidon)**
 * **La Caisse [St-Valentin 💕](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin)**
 
-### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
@@ -174,13 +174,13 @@ Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs f
 
 ## 🔸 <mark style="color:yellow;">Parchemin Terrier du Roi Lapin 🐰</mark>
 
-### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:yellow;">Parchemin Terrier du Roi Lapin</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses du [Donjon Terrier du Roi Lapin 🐰](https://wiki.evolucraft.fr/codex/donjons/roi-lapin)**
 * **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
 
-### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
@@ -214,13 +214,13 @@ Le <mark style="color:yellow;">Parchemin Terrier du Roi Lapin</mark> s'obtient d
 
 ## 🔸 <mark style="color:yellow;">Parchemin Fabrique du Chocolat 🍫</mark>
 
-### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:yellow;">Parchemin Fabrique du Chocolat</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses du [Donjon Fabrique du Chocolat 🍫](https://wiki.evolucraft.fr/codex/donjons/fabrique-chocolat)**
 * **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
 
-### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
@@ -256,13 +256,13 @@ Le <mark style="color:yellow;">Parchemin Fabrique du Chocolat</mark> s'obtient d
 
 ## 🔸 <mark style="color:red;">Parchemin Citrouille 🎃 </mark>
 
-### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:orange;">Parchemin Citrouille</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses du [Donjon Citrouille 🎃](https://wiki.evolucraft.fr/codex/donjons/citrouille)**
 * **La Caisse [Lune de Sang 🩸](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**
 
-### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                              |
 | ------------------------------------------------------------------------------------------- |
@@ -296,13 +296,13 @@ Le <mark style="color:orange;">Parchemin Citrouille</mark> s'obtient de plusieur
 
 ## 🔸 <mark style="color:red;">Parchemin Lune de Sang 🩸 </mark>
 
-### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient de plusieurs façon, dont :
 * **Les récompenses du [Donjon Lune de Sang 🩸](https://wiki.evolucraft.fr/codex/donjons/lune-de-sang)**
 * **La Caisse [Lune de Sang 🩸](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**
 
-### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                              |
 | ------------------------------------------------------------------------------------------- |
@@ -338,12 +338,12 @@ Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient de plusieurs
 
 ## 🔸 <mark style="color:red;">Parchemin Pain d'épice 🍪 </mark>
 
-### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:red;">Parchemin Pain d'épice</mark> s'obtient dans :
 * **La Caisse [Pain d'épice 🍪](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**
 
-### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                              |
 | ------------------------------------------------------------------------------------------- |
