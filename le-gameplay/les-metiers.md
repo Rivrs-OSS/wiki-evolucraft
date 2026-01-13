@@ -79,18 +79,40 @@ Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https:
     <td><mark style="color:white;"><strong>Booster de savoir 🟢</strong></mark></td>
     <td><mark style="color:white;"><strong>EXP Métier Aléatoire 🎰</strong></mark></td>
     <td><mark style="color:white;"><strong>Booster de richesse 💸</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>Booster de savoir global 🟡</strong></mark></td>
+    <td><mark style="color:blue;"><strong>Booster de savoir global 🔵</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>Booster de richesse global 🟡</strong></mark></td>
+    <td><mark style="color:blue;"><strong>Booster de richesse global 🔵</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Aperçu de l'item 📸</strong></mark></td>
     <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoir.png" alt="" style="width: 50px;"></td>
     <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/EXPMétier.png" alt="" style="width: 50px;"></td>
     <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesse.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalJaune.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalBleu.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalJaune.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalBleu.png" alt="" style="width: 50px;"></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Description 📝</strong></mark></td>
     <td>Augmente l'<mark style="color:green;">xp métiers</mark> gagnée à chaque action.</td>
     <td>Donne un bonus de <mark style="color:green;">250 xp métiers</mark> aléatoire sur l'un des 6 métiers.</td>
     <td>Augmente l'<mark style="color:green;">argent</mark> gagné par action.</td>
+    <td>Augmente l'<mark style="color:green;">xp métiers</mark> de <mark style="color:yellow;"><strong>20%</strong></mark> pendant <mark style="color:yellow;"><strong>15 minutes</strong></mark>.</td>
+    <td>Augmente l'<mark style="color:green;">argent</mark> gagné de <mark style="color:blue;"><strong>20%</strong></mark> pendant <mark style="color:blue;"><strong>30 minutes</strong></mark>.</td>
+    <td>Augmente l'<mark style="color:green;">xp métiers</mark> de <mark style="color:yellow;"><strong>20%</strong></mark> pendant <mark style="color:yellow;"><strong>15 minutes</strong></mark>.</td>
+    <td>Augmente l'<mark style="color:green;">argent</mark> gagné de <mark style="color:blue;"><strong>20%</strong></mark> pendant <mark style="color:blue;"><strong>30 minutes</strong></mark>.</td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Comment l'obtenir ? 🛒</strong></mark></td>
+    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses"><mark style="color:green;">Caisses</mark></a> et <a href="https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes"><mark style="color:green;">AH</mark></a></td>
+    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses"><mark style="color:green;">Caisses</mark></a> et <a href="https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes"><mark style="color:green;">AH</mark></a></td>
+    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses"><mark style="color:green;">Caisses</mark></a> et <a href="https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes"><mark style="color:green;">AH</mark></a></td>
+    <td><mark style="color:green;">/boutique</mark> et <a href="https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes"><mark style="color:green;">AH</mark></a></td>
+    <td><mark style="color:green;">/boutique</mark> et <a href="https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes"><mark style="color:green;">AH</mark></a></td>
+    <td><mark style="color:green;">/boutique</mark> et <a href="https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes"><mark style="color:green;">AH</mark></a></td>
+    <td><mark style="color:green;">/boutique</mark> et <a href="https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes"><mark style="color:green;">AH</mark></a></td>
   </tr>
 </table>
 
