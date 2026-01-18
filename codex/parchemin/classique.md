@@ -1,8 +1,8 @@
 ---
-description: Retrouvez ici la liste des parchemins issue d'évènement présent sur le serveur
+description: Retrouvez ici la liste des parchemins classiques présents sur le serveur.
 ---
 
-# 🧧 Parchemins CLassique
+# 🧧 Parchemins Classique
 
 ## 🟢 <mark style="color:green;">Parchemin Facile</mark>
 
@@ -74,7 +74,7 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 
 ## 🔵 <mark style="color:blue;">Parchemin Difficile </mark>
 
-### 💠 <mark style="color:blue;">Son obtention 🤔</mark>
+### 💠 <mark style="color:green;">Son obtention 🤔</mark>
 
 Le <mark style="color:green;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
