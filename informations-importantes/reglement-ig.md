@@ -188,7 +188,7 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
-* Le poser-casser afin d'XP les jobs est interdit, sauf pour réaliser les parchemins.
+* Le poser-casser afin d'XP les jobs, farmium ou pour tout autre usage est interdit, sauf pour réaliser les parchemins.
   * Par exemple : il est autorisé de poser des minerais de diamant et de les récupérer avec fortune (sans utiliser cela pour le pass).
   * A contrario, il est interdit de poser une buche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
 
