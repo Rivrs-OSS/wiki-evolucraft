@@ -86,13 +86,13 @@ Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https:
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Aperçu de l'item 📸</strong></mark></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoir.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/EXPMétier.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesse.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalJaune.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalBleu.png" alt="" style="width: 100px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalJaune.png" alt="" style="width: 100px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalBleu.png" alt="" style="width: 100px;"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="../.gitbook/assets/Jobs/BoostSavoir.png" alt="" style="width: 50px; display: block; margin: 0 auto;"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="../.gitbook/assets/Jobs/EXPMétier.png" alt="" style="width: 50px; display: block; margin: 0 auto;"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="../.gitbook/assets/Jobs/BoostRichesse.png" alt="" style="width: 50px; display: block; margin: 0 auto;"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalJaune.png" alt="" style="width: 50px; display: block; margin: 0 auto;"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalBleu.png" alt="" style="width: 100px; display: block; margin: 0 auto;"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalJaune.png" alt="" style="width: 100px; display: block; margin: 0 auto;"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalBleu.png" alt="" style="width: 100px; display: block; margin: 0 auto;"></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Description 📝</strong></mark></td>
