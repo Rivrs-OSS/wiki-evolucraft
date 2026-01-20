@@ -197,7 +197,7 @@ Vous pouvez y accèder à cette zone via le `/codex` si vous l'avez au minimum v
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Draconique s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark>.
+La clé de la Caisse Draconique s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -228,7 +228,7 @@ La clé de la Caisse Draconique s'obtient grâce à <mark style="color:green;">l
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Abyssal s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark>.
+La clé de la Caisse Abyssal s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -259,7 +259,7 @@ La clé de la Caisse Abyssal s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse aux Trésors s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark>.
+La clé de la Caisse aux Trésors s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -290,7 +290,7 @@ La clé de la Caisse aux Trésors s'obtient grâce à <mark style="color:green;"
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Halloween s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark>.
+La clé de la Caisse Halloween s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark>.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -321,7 +321,7 @@ La clé de la Caisse Halloween s'obtient grâce à <mark style="color:green;">la
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-givr%C3%A9e).
+La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-givr%C3%A9e).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -352,7 +352,7 @@ La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-cupidon).
+La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-cupidon).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -383,7 +383,7 @@ La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-l%C3%A9prechaun).
+La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-l%C3%A9prechaun).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -414,7 +414,7 @@ La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-p%C3%A2ques).
+La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-p%C3%A2ques).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -445,7 +445,7 @@ La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-summer).
+La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki-evolucraft/le-gameplay/marche-noir#cl%C3%A9-summer).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -476,7 +476,7 @@ La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la cl
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-antique).
+La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-antique).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -507,7 +507,7 @@ La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient gr�
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <mark style="color:green;">**Clé de la Caisse Lune de Sang**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">9.09%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-lune-de-sang).
+La <mark style="color:green;">**Clé de la Caisse Lune de Sang**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-lune-de-sang).
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -538,7 +538,7 @@ La <mark style="color:green;">**Clé de la Caisse Lune de Sang**</mark> s'obtien
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtient <mark style="color:green;">en l'achetant</mark> dans le <mark style="color:green;">/boutique</mark> ou via la <mark style="color:green;">**Boutique temporaire**</mark> dans le <mark style="color:green;">/noel</mark>.
+La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-pain-depice)
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 <figure><img src="../.gitbook/assets/Les_Caisses/pain_depice.png" alt=""><figcaption></figcaption></figure>
