@@ -14,9 +14,9 @@ Les <mark style="color:green;">gemmes</mark> font partie des <mark style="color:
 Pour découvrir <mark style="color:green;">comment rejoindre un métier</mark>, nous vous invitons à lire cette page : [Rejoindre un métier](https://wiki.evolucraft.fr/le-gameplay/les-metiers#comment-rejoindre-un-metier) 👷‍♂️
 {% endhint %}
 
-À chaque <mark style="color:green;">niveau de métier</mark> compléter, vous pouvez récupérer des <mark style="color:green;">récompenses de palier de métiers</mark> telles que des <mark style="color:green;">gemmes</mark> dans certains paliers, en utilisant la commande <mark style="color:green;">`/jobs claim`</mark>. Celle-ci vous permettra d’obtenir toutes les <mark style="color:green;">récompenses de paliers des métiers</mark> atteints qui n’avaient pas encore été récupérées.
+À chaque <mark style="color:green;">niveau de métier</mark> complété, vous pouvez récupérer des <mark style="color:green;">récompenses de palier de métiers</mark> telles que des <mark style="color:green;">gemmes</mark> dans certains paliers, en utilisant la commande <mark style="color:green;">`/jobs claim`</mark>. Celle-ci vous permettra d’obtenir toutes les <mark style="color:green;">récompenses de paliers des métiers</mark> atteints qui n’avaient pas encore été récupérées.
 
-<figure><img src="../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de métiers</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>paliers de métiers</strong></mark></p></figcaption></figure>
 
 {% hint style="tip" %}
 Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : [<mark style="color:green;">les métiers 👷‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers).
@@ -28,9 +28,9 @@ Nous vous laissons regarder <mark style="color:green;">**ce tutoriel**</mark> po
 
 ### 🔹 [<mark style="color:white;">La caisse de vote</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-vote)🎁
 
-La <mark style="color:green;">caisse de vote</mark> est l'une des astuces les <mark style="color:green;">plus utilisé pour gagner des gemmes</mark> en début de jeu. En effet, l'une de ces récompenses est de cette caisse est <mark style="color:green;">le lot de 10 gemmes</mark>.
+La <mark style="color:green;">caisse de vote</mark> est l'une des astuces les <mark style="color:green;">plus utilisée pour gagner des gemmes</mark> en début de jeu. En effet, l'une des récompenses de cette caisse est <mark style="color:green;">le lot de 10 gemmes</mark>.
 
-### 🔹 Les palliers de vote ? ✅
+### 🔹 Les paliers de vote ? ✅
 
 Vous votez souvent sur le serveur ? Alors profitez des <mark style="color:green;">récompenses de vote hebdomadaires</mark> ! 
 
@@ -75,7 +75,7 @@ Pour encore plus d’avantages, n’hésitez pas à suivre le salon [<mark style
 
 ## 🔶 <mark style="color:green;">Les Parchemins 📜</mark>
 
-Chaque <mark style="color:green;">parchemins</mark> de <mark style="color:green;">de diffilcutés différentes</mark> propose des <mark style="color:green;">défis différents</mark> et <mark style="color:green;">des récompenses</mark> à la hauteur de vos exploits comme <mark style="color:green;">des gemmes 💎</mark> , visibles dans le <mark style="color:green;">`/quete`</mark>, puis en cliquant sur <mark style="color:green;">parchemins</mark> et en passant votre curseur sur la quête que vous avez.
+Chaque <mark style="color:green;">parchemin</mark> de <mark style="color:green;">de difficultés différentes</mark> propose des <mark style="color:green;">défis différents</mark> et <mark style="color:green;">des récompenses</mark> à la hauteur de vos exploits comme <mark style="color:green;">des gemmes 💎</mark> , visibles dans le <mark style="color:green;">`/quete`</mark>, puis en cliquant sur <mark style="color:green;">parchemins</mark> et en passant votre curseur sur la quête que vous avez.
 
 <figure><img src="../.gitbook/assets/Quete/QueteReward.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>parchemins disponibles</strong></mark></p></figcaption></figure>
 
@@ -85,7 +85,7 @@ Pour connaîtres les  <mark style="color:green;">différents parchemins</mark> p
 
 ## 🔶 <mark style="color:green;">Le /Afk 💤</mark>
 
-Le <mark style="color:green;">`/afk`</mark> est un espace où, si vous restez inactif pendant 15 minutes _(pour les joueurs sans grade)_, vous êtes téléporté à cet endroit et un affichage vous indique ce que vous avez gagné en étant à l'intérieur. Pour y <mark style="color:green;">gagner une gemme</mark>, il faudra y <mark style="color:green;">rester afk</mark> pendant <mark style="color:green;">30 minutes</mark>.
+Le <mark style="color:green;">`/afk`</mark> est un espace où, si vous restez inactif pendant 15 minutes _(pour les joueurs sans grade)_, vous êtes téléporté, et un affichage vous indique ce que vous avez gagné en étant à l'intérieur. Pour y <mark style="color:green;">gagner une gemme</mark>, il faudra y <mark style="color:green;">rester afk</mark> pendant <mark style="color:green;">30 minutes</mark>.
 
 <figure><img src="../.gitbook/assets/Menu/Interface_Afk.png" alt=""><figcaption><p><strong>Aperçu de l’interface du </strong><mark style="color:green;"><strong>/afk</strong></mark></p></figcaption></figure>
 

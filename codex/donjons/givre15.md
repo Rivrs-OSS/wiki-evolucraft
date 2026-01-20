@@ -33,7 +33,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 
 |                                                                           |
 |:-------------------------------------------------------------------------:|
-| <mark style="color:blue;"><strong>Parchemin Givrée</strong></mark>           |
+| <mark style="color:blue;"><strong>Parchemin Givré</strong></mark>           |
 | <mark style="color:blue;"><strong>10 000 💲</strong></mark>                |
 | <mark style="color:blue;"><strong>15 000 💲</strong></mark>                |
 | <mark style="color:blue;"><strong>25 000 💲</strong></mark>                |

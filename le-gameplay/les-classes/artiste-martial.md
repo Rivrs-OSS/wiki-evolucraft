@@ -11,7 +11,7 @@ Maîtrisez les techniques de combat agile pour infliger des dégâts rapides et 
 ## 💠 <mark style="color:purple;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -127,7 +127,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">Poing de la sérinité</mark></td>
+    <td><mark style="color:green;">Poing de la sérenité</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡️️ Force +5</mark></p>
@@ -137,7 +137,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Donjon Biome Savane</td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Poing de la sérinité</mark></td>
+    <td><mark style="color:yellow;">Poing de la sérénité</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
@@ -147,7 +147,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Poing de la sérinité</mark></td>
+    <td><mark style="color:blue;">Poing de la sérénité</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
@@ -157,7 +157,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Donjon Biome Savane ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Poing de la sérinité</mark></td>
+    <td><mark style="color:purple;">Poing de la sérénité</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
@@ -167,7 +167,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Poing de la sérinité</mark></td>
+    <td><mark style="color:red;">Poing de la sérénité</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
@@ -319,7 +319,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td>X</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssal 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
     </td>
   </tr>
   <tr>

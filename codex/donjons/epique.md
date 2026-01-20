@@ -65,5 +65,5 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 | <mark style="color:blue;"><strong>Socle du Soldat d'Argile (Musée)</strong></mark>              |
 | <mark style="color:blue;"><strong>Côté Droit du Soldat d'Argile (Musée)</strong></mark>         |
 | <mark style="color:blue;"><strong>Côté Gauche du Soldat d'Argile (Musée)</strong></mark>        |
-| <mark style="color:blue;"><strong>Pot du Vase de Soisons (Musée)</strong></mark>                |
-| <mark style="color:blue;"><strong>Socle du Vase de Soisons (Musée)</strong></mark>              |
+| <mark style="color:blue;"><strong>Pot du Vase de Soissons (Musée)</strong></mark>                |
+| <mark style="color:blue;"><strong>Socle du Vase de Soissons (Musée)</strong></mark>              |

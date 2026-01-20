@@ -1,3 +1,8 @@
+---
+description: Retrouvez ici toutes les informations concernant la classe Samouraï
+---
+
+
 # 🥷 Samouraï
 Guerrier d'honneur et de discipline maître de la lame et du silence, le samouraï fauche ses ennemis avec grâce et précision.
 
@@ -6,7 +11,7 @@ Guerrier d'honneur et de discipline maître de la lame et du silence, le samoura
 ## 💠 <mark style="color:purple;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 

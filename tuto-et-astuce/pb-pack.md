@@ -13,7 +13,7 @@ Lors de votre première connexion, le serveur vous rajoute automatiquement le te
 
 ### <mark style="color:green;">🔸 Étape 2️⃣</mark>
 **Cliquez sur le bouton "Pack de ressources" jusqu'à ce qu'il soit indiqué "Activé" comme dans l'image ci-dessous.**
-3.<span style="align-items:center;"> Tu actives le pack de ressources, puis tu cliques sur **Terminer**.
+3.<span style="align-items:center;"> Activez le pack de ressources, puis cliquez sur **Terminer**.
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Pack/PackEnable.png" alt="" width="600"></figure>
 
 {% hint style="warning" %}

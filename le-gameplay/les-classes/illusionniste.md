@@ -10,7 +10,7 @@ Maître des illusions et de la ruse, trouble les sens et trompe l'ennemi, il fra
 ## 💠 <mark style="color:green;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -24,7 +24,7 @@ Lancez 1 à 3 cartes sur vos ennemis
 
 ### 🔸 <mark style="color:green;">**Niveau 5 : Reine**</mark>
 
-Les cartes tourne autour de vous, étourdissant les ennemis autour.
+Les cartes tournent autour de vous, étourdissant les ennemis autour.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 0s
 * <mark style="color:green;">**Mana**</mark>**:** 0
@@ -46,7 +46,7 @@ Lancez un shuriken miroir qui repousse les ennemis.
 
 Votre shuriken revient vers vous, repoussant les ennemis dans la direction opposée.
 
-Les ennemis touché subissent un saignement
+Les ennemis touché subissent un saignement.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:green;">**Mana**</mark>**:** 125
@@ -62,7 +62,7 @@ Vous vous téléportez vers l'avant. Votre clone miroir se précipite à nouveau
 
 ### 🔸 <mark style="color:green;">**Niveau 30 : Pique miroir**</mark>
 
-Invoquez 2 miroirs sur vos côtés. Chaque miroir déclenche 3 aiguilles miroir
+Invoquez 2 miroirs sur vos côtés. Chaque miroir déclenche 3 aiguilles miroir.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 15s
 * <mark style="color:green;">**Mana**</mark>**:** 150
@@ -72,7 +72,7 @@ Invoquez 2 miroirs sur vos côtés. Chaque miroir déclenche 3 aiguilles miroir
 
 Vous invoquez un portail miroir sous vos pieds, ce qui étourdit les ennemis proches. 
 
-Après un court délai, le portail se téléporte dans la direction où vous regardez emmenant avec lui tout ennemis les ennemis étourdis qui se trouvent à l'intérieur.
+Après un court délai, le portail se téléporte dans la direction où vous regardez emmenant avec lui tous les ennemis étourdis qui se trouvent à l'intérieur.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:green;">**Mana**</mark>**:** 300
@@ -133,7 +133,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Carte Mysthique légendaire</mark></td>
+    <td><mark style="color:yellow;">Carte Mystique légendaire</mark></td>
     <td><mark style="color:yellow;">Jackpot</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
@@ -142,7 +142,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Carte Mysthique légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Carte Mystique légendaire Shiny</mark></td>
     <td><mark style="color:yellow;">Jackpot</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
@@ -151,7 +151,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Carte Mysthique Summer</mark></td>
+    <td><mark style="color:blue;">Carte Mystique Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +49</mark></p>
@@ -164,7 +164,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     </td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Carte Mysthique de la Lune de Sang</mark></td>
+    <td><mark style="color:red;">Carte Mystique de la Lune de Sang</mark></td>
     <td><mark style="color:red;">Lune de Sang</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>

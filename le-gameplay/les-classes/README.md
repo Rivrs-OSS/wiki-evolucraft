@@ -37,7 +37,7 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**22 classes**<
 * [<mark style="color:yellow;">**Assassin 🗡️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/assassin) : Maîtres de l'ombre, spécialisés dans les attaques furtives et les éliminations rapides. _(DPS)_
 * [<mark style="color:yellow;">**Paladin 🛡️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/paladin) : Chevaliers sacrés combattant au nom de la justice, purifiant les forces du malin. _(Tanks)_
 * [<mark style="color:yellow;">**Élémentaliste 🌬️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/elementaliste) : Maîtres des éléments primordiaux, manipulant le feu, le vent, l'eau et la terre. Aussi versatile que puissant. _(DPS)_
-* [<mark style="color:yellow;">**Chevalier des glaces ❄️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-des-glaces) : Chevalier maniant le givre paralysant ses ennemis dans le froid et refroidi leurs ardeur. _(DPS)_
+* [<mark style="color:yellow;">**Chevalier des glaces ❄️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-des-glaces) : Chevalier maniant le givre paralysant ses ennemis dans le froid et refroidissant leurs ardeur. _(DPS)_
 * [<mark style="color:yellow;">**Barbare 🪓**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/barbare) : Barbare au courroux sauvage brisant ses ennemis d'un coup furieux sous sa rage déchaînée. _(Tanks)_
 
 ### 🟦 <mark style="color:blue;">Classes Épiques</mark>
@@ -71,7 +71,7 @@ Après avoir découvert les <mark style="color:green;">classes</mark>, vous hés
 * <mark style="color:red;">**Régénération 💕**</mark> : Permet de régénérer plus vite sa vie.
 * <mark style="color:yellow;">**Mana 🧪**</mark> : Permet d’avoir une plus grande capacité de mana.
 * <mark style="color:blue;">**Vitesse 🏃‍♂️**</mark> : Permet d’être plus rapide.
-* <mark style="color:red;">**Force 🗡️**</mark> : Permet d'augmenter les dégats infligée sur un ennemie.
+* <mark style="color:red;">**Force 🗡️**</mark> : Permet d'augmenter les dégats infligés sur un ennemi.
 * <mark style="color:purple;">**Résistance ⚔️**</mark> : Permet de réduire les dégâts de chute et autres.
 * <mark style="color:orange;">**Dégâts Critiques 💀**</mark> : Permet de faire plus mal en coup critique.
 * <mark style="color:red;">**Chance de Critique 🥊**</mark> : Permet d’augmenter la probabilité de réaliser un coup critique.
@@ -79,7 +79,7 @@ Après avoir découvert les <mark style="color:green;">classes</mark>, vous hés
 * <mark style="color:blue;">**Régénération de Mana ✨**</mark> : Régénère votre Mana plus rapidement.
 
 {% hint style="info" %}
-<mark style="color:green;">REMARQUE 🔍</mark> : La statistique de la régénération de Mana n'apparait pas de base dans le menu des classe étant donné qu'elle est a une valeur de 1 pour toutes les classes.
+<mark style="color:green;">REMARQUE 🔍</mark> : La statistique de la régénération de Mana n'apparait pas de base dans le menu des classes étant donné qu'elle est à une valeur de 1 pour toutes les classes.
 {% endhint %}
 
 ## <mark style="color:green;">💠 Comment augmenter de niveau dans ma classe ? 🆙</mark>

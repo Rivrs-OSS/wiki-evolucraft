@@ -28,7 +28,7 @@ Pour plus d'informations concernant les crafts [<mark style="color:green;">**de 
 
 Laissez libre cours à votre créativité en fabriquant des statues uniques et de différentes raretés : <mark style="color:green;">commun</mark>, <mark style="color:yellow;">rare</mark>, <mark style="color:blue;">épique</mark> et <mark style="color:purple;">légendaire</mark>, prêtes à être vendues chez le tailleur de pierre présent au <mark style="color:green;">**`/spawn`**</mark>. Les statues sont fabriquées à partir de matériaux provenant des donjons et des ressources classiques.
 
-À noter que chaque statues craftées, elles vous procurront des récompenses pour le métier de Forgemage 📖.
+À noter que chaque statue craftée vous procurera des récompenses pour le métier de Forgemage 📖.
 
 <figure><img src="../../.gitbook/assets/Les_Machines/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la Tailleuse de Pierre</strong></p></figcaption></figure>
 

@@ -6,14 +6,14 @@ description: >-
 
 # ❄️ Chevalier des glaces
 
-Chevalier maniant le givre, paralysant ses ennemis dans le froid et refroidi leur ardeur.
+Chevalier maniant le givre, paralysant ses ennemis dans le froid et refroidissant leur ardeur.
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Chevalier_Glace.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Chevalier des glaces</strong></p></figcaption></figure>
 
 ## 💠 <mark style="color:yellow;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 

@@ -11,7 +11,7 @@ L'Archimage est une classe spécialisée dans les attaques à mi-distance. Grâc
 ## 💠 <mark style="color:blue;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -24,7 +24,7 @@ Les dégâts des compétences sont en cours de modification, ne les prennez pas 
 
 ### 🔸 <mark style="color:blue;">**Niveau 5 : Bouclier Mana**</mark>
 
-Vous formez 2 boucliers de mana qui vous donne résistance. Vos boucliers se régénèrent après un certain temps.
+Vous formez 2 boucliers de mana qui vous donnent résistance. Vos boucliers se régénèrent après un certain temps.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** Passif (toujours actif)
 * <mark style="color:blue;">**Mana**</mark>**:** 0
@@ -57,7 +57,7 @@ Ouvrez un portail de vide au sol, invoquant des chaînes de vide qui frappent la
 
 ### 🔸 <mark style="color:blue;">**Niveau 30 : Pluie de Feu**</mark>
 
-Invoquez plusieurs météores tirés vers la surface provoquant des explosions mortelles 
+Invoquez plusieurs météores tirés vers la surface provoquant des explosions mortelles.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:blue;">**Mana**</mark>**:** 150
@@ -65,7 +65,7 @@ Invoquez plusieurs météores tirés vers la surface provoquant des explosions m
 
 ### 🔸 <mark style="color:blue;">**Niveau 40: Choc Arcanique**</mark>
 
-Lévitez dans les airs et formez une zone de destruction où vous invoquez des éclairs de tonnerre qui étourdissent les ennemis. Après un certain temps, vous vous précipitez à la surface et invoquez des éclaires de tonnerre plus gros dans un anneau.
+Lévitez dans les airs et formez une zone de destruction où vous invoquez des éclairs de tonnerre qui étourdissent les ennemis. Après un certain temps, vous vous précipitez à la surface et invoquez des éclairs de tonnerre plus gros dans un anneau.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 35s
 * <mark style="color:blue;">**Mana**</mark>**:** 200

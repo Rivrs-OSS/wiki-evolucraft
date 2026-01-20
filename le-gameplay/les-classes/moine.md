@@ -11,7 +11,7 @@ Maîtrisez les arts martiaux spirituels pour infliger des dégâts rapides et so
 ## 💠 <mark style="color:blue;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -216,7 +216,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">Gant de l'Art Absolue</mark></td>
+    <td><mark style="color:green;">Gant de l'Art Absolu</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +7</mark></p>
@@ -225,7 +225,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>Pack d'arme</td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Gant de l'Art Absolue</mark></td>
+    <td><mark style="color:yellow;">Gant de l'Art Absolu</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +15</mark></p>
@@ -234,7 +234,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Gant de l'Art Absolue</mark></td>
+    <td><mark style="color:blue;">Gant de l'Art Absolu</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +25</mark></p>
@@ -243,7 +243,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Gant de l'Art Absolue</mark></td>
+    <td><mark style="color:purple;">Gant de l'Art Absolu</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
@@ -252,7 +252,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Gant de l'Art Absolue</mark></td>
+    <td><mark style="color:red;">Gant de l'Art Absolu</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +80</mark></p>
@@ -299,7 +299,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssal 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
     </td>
   </tr>
   <tr>

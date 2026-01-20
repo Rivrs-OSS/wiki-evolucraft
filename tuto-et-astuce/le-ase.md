@@ -34,7 +34,7 @@ Pour déplacer votre armor stand à un endroit précis, vous devez :
 
 * <mark style="color:green;">Étape 1️⃣</mark> : Cliquer sur le <mark style="color:green;">rail nommé "position"</mark>.
 * <mark style="color:green;">Étape 2️⃣</mark> : Choisir si vous souhaitez <mark style="color:green;">un gros déplacement</mark> (_terre stérile/coarse dirt_) ou <mark style="color:green;">un petit déplacement</mark> (_grès lisse/smooth sandstone_).
-* <mark style="color:green;">Étape 3️⃣</mark> : Choisir <mark style="color:green;">l'axe que vous voulez déplacer</mark> votre armor stand : <mark style="color:red;">X en rouge</mark>, <mark style="color:green;">Y en vert</mark> et <mark style="color:blue;">Z en bleu</mark>.
+* <mark style="color:green;">Étape 3️⃣</mark> : Choisir <mark style="color:green;">l'axe sur lequel vous voulez déplacer</mark> votre armor stand : <mark style="color:red;">X en rouge</mark>, <mark style="color:green;">Y en vert</mark> et <mark style="color:blue;">Z en bleu</mark>.
 * <mark style="color:green;">Étape 4️⃣</mark> : Puis, avec le silex toujours en main, faites soit :
   * Un <mark style="color:green;">**clic droit**</mark> sur l’armor stand pour un <mark style="color:green;">déplacement</mark> <mark style="color:green;">**dans les coordonnées positives**</mark>.
   * Un <mark style="color:green;">**clic gauche**</mark> pour un <mark style="color:green;">déplacement</mark> <mark style="color:green;">**dans les coordonnées négatives**</mark>.
@@ -70,7 +70,7 @@ Pour modifier la position des différentes parties du porte-armure, la méthode 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Ase/Membre.png" alt=""><figcaption><p><strong>Aperçu des membres et de sa correspondance</strong></p></figcaption></figure>
 
 * <mark style="color:green;">Étape 2️⃣</mark> : Comme pour le déplacement d'un armor stand, sélectionnez la puissance du mouvement entre <mark style="color:green;">un gros déplacement</mark> (_terre stérile/coarse dirt_) ou <mark style="color:green;">un petit déplacement</mark> (_grès lisse/smooth sandstone_).
-* <mark style="color:green;">Étape 3️⃣</mark> : Choisissez <mark style="color:green;">l'axe</mark> dans lequel vous voulez positionner la partie déplacée : <mark style="color:red;">X en rouge</mark>, <mark style="color:green;">Y en vert</mark> et <mark style="color:blue;">Z en bleu</mark>.
+* <mark style="color:green;">Étape 3️⃣</mark> : Choisissez <mark style="color:green;">l'axe</mark> sur lequel vous voulez positionner la partie déplacée : <mark style="color:red;">X en rouge</mark>, <mark style="color:green;">Y en vert</mark> et <mark style="color:blue;">Z en bleu</mark>.
 * <mark style="color:green;">Étape 4️⃣</mark> : Puis, avec le silex toujours en main, faites soit :
   * Un <mark style="color:green;">**clic droit**</mark> sur l’armor stand pour <mark style="color:green;">déplacer</mark> <mark style="color:green;">**dans les coordonnées positives**</mark>.
   * Un <mark style="color:green;">**clic gauche**</mark> pour <mark style="color:green;">déplacer</mark> <mark style="color:green;">**dans les coordonnées négatives**</mark>.
@@ -101,13 +101,13 @@ Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnalis
 * **<mark style="color:green;">Bloc de sable</mark> (**_**sand block**_**)** : ajoute un <mark style="color:green;">**effet de gravité**</mark> à l’armor stand. S’il est suspendu dans les airs, il tombera au sol dès que la gravité sera activée.
 * **<mark style="color:green;">Bloc invisible</mark> 🚫** : permet de <mark style="color:green;">**désactiver l’interaction avec l’armure**</mark> sur le porte-armure. Les objets restent visibles, mais **ne peuvent plus être récupérés**.
 * **<mark style="color:green;">Seau d’eau</mark> (**_**water bucket**_**)** : <mark style="color:green;">**réinitialise la position de l’armor stand**</mark>, sans retirer les objets ou armures posés dessus.
-* **<mark style="color:green;">Boussolle</mark> (**_**compass**_**)** : fait <mark style="color:green;">**pivoter l’ensemble du porte-armure**</mark> sur lui-même.
+* **<mark style="color:green;">Boussole</mark> (**_**compass**_**)** : fait <mark style="color:green;">**pivoter l’ensemble du porte-armure**</mark> sur lui-même.
 * **<mark style="color:green;">Poche d’encre lumineuse</mark> (**_**glow ink sac**_**)** : applique un <mark style="color:green;">**effet de surbrillance blanc**</mark> à l’armor stand, le rendant plus visible dans l’obscurité.
 
 {% hint style="info" %}
 🔎 <mark style="color:green;">**Remarque**</mark> : Si vous désactivez l’effet lumineux, **quittez puis revenez dans la zone** pour que le changement soit visible.
 {% endhint %}
 
-* **Cadre (**_**item frame**_**)** : rend un <mark style="color:green;">**cadre invisible**</mark>, ne laissant apparaître que **l’objet** placé à l’intérieur.
+* **<mark style="color:green;">Cadre</mark> (**_**item frame**_**)** : rend un <mark style="color:green;">**cadre invisible**</mark>, ne laissant apparaître que **l’objet** placé à l’intérieur.
 
-### ✨ Vous êtes prêt à faire des armor stand custom dans toutes votre ville !
+### ✨ Vous êtes prêt à faire des armor stand custom dans toute votre ville !

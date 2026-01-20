@@ -29,7 +29,7 @@ Voici la liste des <mark style="color:green;">métiers disponibles</mark> sur le
 * <mark style="color:green;">**Bûcheron 🪚**</mark> : Abattez des <mark style="color:green;">arbres</mark> et récoltez du <mark style="color:green;">bois</mark> pour l’artisanat et la construction.  
 * <mark style="color:green;">**ForgeMage 📖**</mark> : Maîtrisez la <mark style="color:green;">forge</mark> et l’<mark style="color:green;">enchantement</mark> afin de créer des équipements puissants.  
 
-## 💠 **<mark style="color:green;">Comment savoir son avancée ?</mark> 📊**
+## 💠 **<mark style="color:green;">Comment connaître son avancée ?</mark> 📊**
 
 Pour connaître votre <mark style="color:green;">progression</mark> (ou celle d’un autre joueur) dans les métiers, utilisez la commande :  
 <mark style="color:green;">`/jobs stats [Pseudo]`</mark>.  
@@ -94,7 +94,7 @@ Augmente l’<mark style="color:green;">argent</mark> gagné par action.
 {% endhint %}
 
 ### 🔸 Les compagnons 🐾  
-Les <mark style="color:green;">compagnons</mark> vous proposent, pour certains, à partir d'un certain levels, des <mark style="color:green;">bonus de métiers</mark> (xp ou revenus).  
+Les <mark style="color:green;">compagnons</mark> vous proposent, pour certains, à partir d'un certain level, des <mark style="color:green;">bonus de métiers</mark> (xp ou revenus).  
 Consultez le <mark style="color:green;">`/pokedex`</mark> ou la page dédiée : [<mark style="color:green;">Les Compagnons</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons).  
 
 ### 🔸 L'évènement FARM BOOST 💱  

@@ -61,11 +61,11 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Accès au <mark style="color:blue;">**`/anvil` 🔗**</mark>
 * Accès au <mark style="color:blue;">**`/back` ⏪**</mark>
 * Accès au <mark style="color:blue;">**`/ec` 📮**</mark>
-* Accès au <mark style="color:blue;">**`/xpb [quantité d'xp] [nombre de bouteille]` 🟢**</mark>
+* Accès au <mark style="color:blue;">**`/xpb [quantité d'xp] [nombre de bouteilles]` 🟢**</mark>
 * <mark style="color:blue;">**Temps d'AFK : 35 minutes**</mark> 🕖
 * <mark style="color:blue;">**Avantages du Grade Héros ⚜️**</mark>
 * Bonus à l'achat : <mark style="color:blue;">**1 Clé Rubis 🗝️**</mark>
-* Accès aux <mark style="color:blue;">**aventages du grade précédent ✨**</mark>
+* Accès aux <mark style="color:blue;">**avantages du grade précédent ✨**</mark>
 
 #### **🔸 Son kit : [<mark style="color:blue;">Le kit Élite 💠</mark>](https://wiki.evolucraft.fr/codex/les-kits#le-kit-elite)**
 
@@ -88,7 +88,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * <mark style="color:red;">**Temps d'AFK : 1 heure**</mark> 🕐
 * <mark style="color:red;">**Avantages du Grade Élite 💠**</mark>
 * Bonus à l'achat : <mark style="color:red;">**2 Clés Rubis 🗝️**</mark>
-* Accès aux <mark style="color:red;">**aventages des grades précédents ✨**</mark>
+* Accès aux <mark style="color:red;">**avantages des grades précédents ✨**</mark>
 
 #### **🔸 Son kit : [<mark style="color:red;">Le kit Légende 💞</mark>](https://wiki.evolucraft.fr/codex/les-kits#le-kit-legende)**
 
@@ -103,7 +103,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 **Prix : <mark style="color:yellow;">10 000€ sur la boutique</mark> pendant la version**.
 
 {% hint style="info" %}
-**REMARQUE 🔍 :** Les grades honorifiques ne vous procurent aucun avantage supplémentaire, d'où leur notion honorifique.
+**REMARQUE 🔍 :** Les grades honorifiques ne vous procurent aucun avantage supplémentaire, d'où la notion d'honorifique.
 {% endhint %}
 
 ## 💠 <mark style="color:green;">Quels sont les abonnements ? 🥁</mark>

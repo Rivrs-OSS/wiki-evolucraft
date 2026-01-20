@@ -27,42 +27,42 @@ Ces items sont achetables avec des <mark style="color:orange;">**Cœurs de Drago
 | <mark style="color:orange;">**Plastron du Dragonnier**</mark>                        | **150 Cœurs de Dragon**   |
 | <mark style="color:orange;">**Pantalon du Dragonnier**</mark>                        | **150 Cœurs de Dragon**   |
 | <mark style="color:orange;">**Bottes du Dragonnier**</mark>                          | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Épée Draconique**</mark> *(Armes Guerrier)*            | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Arc Draconique**</mark> *(Armes Archer)*               | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Bâton Draconique**</mark> *(Armes Mage)*               | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Dague Draconique**</mark> *(Armes Assassin)*           | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Marteau Draconique**</mark> *(Armes Paladin)*          | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Orbe Draconique**</mark> *(Armes Élémentaliste)*       | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Totem Draconique**</mark> *(Armes Chaman)*             | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Livre Draconique**</mark> *(Armes Invocateur)*         | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Gantelet Draconique**</mark> *(Armes Artiste Martial)* | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Lance Draconique**</mark> *(Armes Guerrier Dragon)*    | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Sceptre Draconique**</mark> *(Armes Clerc)*            | **150 Cœurs de Dragon**   |
-| <mark style="color:orange;">**Poing Draconique**</mark> *(Armes Moine)*              | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Épée Draconique**</mark> *(Arme Guerrier)*            | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Arc Draconique**</mark> *(Arme Archer)*               | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Bâton Draconique**</mark> *(Arme Mage)*               | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Dague Draconique**</mark> *(Arme Assassin)*           | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Marteau Draconique**</mark> *(Arme Paladin)*          | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Orbe Draconique**</mark> *(Arme Élémentaliste)*       | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Totem Draconique**</mark> *(Arme Chaman)*             | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Livre Draconique**</mark> *(Arme Invocateur)*         | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Gantelet Draconique**</mark> *(Arme Artiste Martial)* | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Lance Draconique**</mark> *(Arme Guerrier Dragon)*    | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Sceptre Draconique**</mark> *(Arme Clerc)*            | **150 Cœurs de Dragon**   |
+| <mark style="color:orange;">**Poing Draconique**</mark> *(Arme Moine)*              | **150 Cœurs de Dragon**   |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/draconique.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Draconique</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:blue;">Abyssal 🌊</mark>
 
-Ces items sont échangeables contre des <mark style="color:blue;">**Pinces de Crabe**</mark>, que vous pouvez obtenir en récompense du **[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/codex/donjons/abyssal) 🌊** ou dans les récompenses de **<mark style="color:blue;">Quête Abyssal</mark>**.
+Ces items sont échangeables contre des <mark style="color:blue;">**Pinces de Crabe**</mark>, que vous pouvez obtenir en récompense du **[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/codex/donjons/abyssal) 🌊** ou dans les récompenses de **<mark style="color:blue;">Quête Abyssale</mark>**.
 
 | **Items disponible**                                                             | **Prix**                    |
 | -------------------------------------------------------------------------------- | --------------------------- |
 | <mark style="color:blue;">**Tag Profondeur**</mark>                              | **200 Pinces de Crabe**     |
-| <mark style="color:blue;">**Épée Abyssale**</mark> *(Armes Guerrier)*            | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Arc Abyssal**</mark> *(Armes Archer)*                | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Bâton Abyssal**</mark> *(Armes Mage)*                | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Dague Abyssale**</mark> *(Armes Assassin)*           | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Harpe Abyssale**</mark> *(Armes Barde)*              | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Pistolet Laser Abyssal**</mark> *(Armes Artificier)* | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Gantelet Abyssal**</mark> *(Armes Artiste Martial)*  | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Lance Abyssale**</mark> *(Armes Guerrier Dragon)*    | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Livre Abyssal**</mark> *(Armes Invocateur)*          | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Marteau Abyssal**</mark> *(Armes Paladin)*           | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Orbe Abyssale**</mark> *(Armes Élémentaliste)*       | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Poing Abyssal**</mark> *(Armes Moine)*               | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Sceptre Abyssal**</mark> *(Armes Clerc)*             | **150 Pinces de Crabe**     |
-| <mark style="color:blue;">**Totem Abyssal**</mark> *(Armes Chaman)*              | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Épée Abyssale**</mark> *(Arme Guerrier)*            | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Arc Abyssal**</mark> *(Arme Archer)*                | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Bâton Abyssal**</mark> *(Arme Mage)*                | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Dague Abyssale**</mark> *(Arme Assassin)*           | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Harpe Abyssale**</mark> *(Arme Barde)*              | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Pistolet Laser Abyssal**</mark> *(Arme Artificier)* | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Gantelet Abyssal**</mark> *(Arme Artiste Martial)*  | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Lance Abyssale**</mark> *(Arme Guerrier Dragon)*    | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Livre Abyssal**</mark> *(Arme Invocateur)*          | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Marteau Abyssal**</mark> *(Arme Paladin)*           | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Orbe Abyssale**</mark> *(Arme Élémentaliste)*       | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Poing Abyssal**</mark> *(Arme Moine)*               | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Sceptre Abyssal**</mark> *(Arme Clerc)*             | **150 Pinces de Crabe**     |
+| <mark style="color:blue;">**Totem Abyssal**</mark> *(Arme Chaman)*              | **150 Pinces de Crabe**     |
 | <mark style="color:blue;">**Lunettes de Surf**</mark> *(Cosmétique)*             | **75 Pinces de Crabe**      |
 | <mark style="color:blue;">**Vagues Estivales**</mark> *(Cosmétique)*             | **75 Pinces de Crabe**      |
 | <mark style="color:blue;">**Planche de Surf**</mark> *(Cosmétique)*              | **75 Pinces de Crabe**      |
@@ -77,47 +77,47 @@ Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Sci
 | ------------------------------------------------------------------------------------ | ---------------------------------- |
 | <mark style="color:orange;">**Tête de Citrouille Diabolique**</mark> *(Cosmétique)*  | **50 Citrouilles Scintillantes**   |
 | <mark style="color:orange;">**Cape de Dracula**</mark> *(Cosmétique)*                | **50 Citrouilles Scintillantes**   |
-| <mark style="color:orange;">**Épée de Minuit**</mark> *(Armes Guerrier)*             | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Arc de Minuit**</mark> *(Armes Archer)*                | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Bâton de Minuit**</mark> *(Armes Mage)*                | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Harpe de Minuit**</mark> *(Armes Barde)*               | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Dague de Minuit**</mark> *(Armes Assassin)*            | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Marteau de Minuit**</mark> *(Armes Paladin)*           | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Orbe de Minuit**</mark> *(Armes Élémentaliste)*        | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Totem de Minuit**</mark> *(Armes Chaman)*              | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Livre de Minuit**</mark> *(Armes Invocateur)*          | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Poing de Minuit**</mark> *(Armes Moine)*               | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Faux de Minuit**</mark> *(Armes Faucheur)*             | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Gantelet de Minuit**</mark> *(Armes Artiste Martial)*  | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Lance de Minuit**</mark> *(Armes Guerrier Dragon)*     | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Sceptre de Minuit**</mark> *(Armes Clerc)*             | **150 Citrouilles Scintillantes**  |
-| <mark style="color:orange;">**Pistolet de Minuit**</mark> *(Armes Artificier)*       | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Épée de Minuit**</mark> *(Arme Guerrier)*             | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Arc de Minuit**</mark> *(Arme Archer)*                | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Bâton de Minuit**</mark> *(Arme Mage)*                | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Harpe de Minuit**</mark> *(Arme Barde)*               | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Dague de Minuit**</mark> *(Arme Assassin)*            | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Marteau de Minuit**</mark> *(Arme Paladin)*           | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Orbe de Minuit**</mark> *(Arme Élémentaliste)*        | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Totem de Minuit**</mark> *(Arme Chaman)*              | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Livre de Minuit**</mark> *(Arme Invocateur)*          | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Poing de Minuit**</mark> *(Arme Moine)*               | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Faux de Minuit**</mark> *(Arme Faucheur)*             | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Gantelet de Minuit**</mark> *(Arme Artiste Martial)*  | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Lance de Minuit**</mark> *(Arme Guerrier Dragon)*     | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Sceptre de Minuit**</mark> *(Arme Clerc)*             | **150 Citrouilles Scintillantes**  |
+| <mark style="color:orange;">**Pistolet de Minuit**</mark> *(Arme Artificier)*       | **150 Citrouilles Scintillantes**  |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/halloween2024.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Halloween</mark></strong></figcaption></figure>
 
-### 🔸 <mark style="color:blue;">Givrée ❄️</mark>
+### 🔸 <mark style="color:blue;">Givré ❄️</mark>
 
-Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</mark>**, obtenables dans les récompenses de **[<mark style="color:blue;">Donjon Givrée Commun</mark>](https://wiki.evolucraft.fr/codex/donjons/givre15) ❄️** et **[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/codex/donjons/givre40) 🌟** ou encore dans les récompenses de **<mark style="color:blue;">Quête Givré</mark>**.
+Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</mark>**, obtenables dans les récompenses de **[<mark style="color:blue;">Donjon Givré Commun</mark>](https://wiki.evolucraft.fr/codex/donjons/givre15) ❄️** et **[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/codex/donjons/givre40) 🌟** ou encore dans les récompenses de **<mark style="color:blue;">Quête Givrée</mark>**.
 
 | **Items disponible**                                                                | **Prix**                   |
 | ----------------------------------------------------------------------------------- | -------------------------- |
-| <mark style="color:blue;">**Épée des Glaces**</mark> *(Armes Guerrier)*             | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Arc des Glaces**</mark> *(Armes Archer)*                | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Bâton des Glaces**</mark> *(Armes Mage)*                | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Harpe des Glaces**</mark> *(Armes Barde)*               | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Dague des Glaces**</mark> *(Armes Assassin)*            | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Marteau des Glaces**</mark> *(Armes Paladin)*           | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Orbe des Glaces**</mark> *(Armes Élémentaliste)*        | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Totem des Glaces**</mark> *(Armes Chaman)*              | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Livre des Glaces**</mark> *(Armes Invocateur)*          | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Poing des Glaces**</mark> *(Armes Moine)*               | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Faux des Glaces**</mark> *(Armes Faucheur)*             | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Gantelet des Glaces**</mark> *(Armes Artiste Martial)*  | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Lance des Glaces**</mark> *(Armes Guerrier Dragon)*     | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Sceptre des Glaces**</mark> *(Armes Clerc)*             | **150 Sucres d'Orges**     |
-| <mark style="color:blue;">**Pistolet Laser des Glaces**</mark> *(Armes Artificier)* | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Épée des Glaces**</mark> *(Arme Guerrier)*             | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Arc des Glaces**</mark> *(Arme Archer)*                | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Bâton des Glaces**</mark> *(Arme Mage)*                | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Harpe des Glaces**</mark> *(Arme Barde)*               | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Dague des Glaces**</mark> *(Arme Assassin)*            | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Marteau des Glaces**</mark> *(Arme Paladin)*           | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Orbe des Glaces**</mark> *(Arme Élémentaliste)*        | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Totem des Glaces**</mark> *(Arme Chaman)*              | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Livre des Glaces**</mark> *(Arme Invocateur)*          | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Poing des Glaces**</mark> *(Arme Moine)*               | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Faux des Glaces**</mark> *(Arme Faucheur)*             | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Gantelet des Glaces**</mark> *(Arme Artiste Martial)*  | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Lance des Glaces**</mark> *(Arme Guerrier Dragon)*     | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Sceptre des Glaces**</mark> *(Arme Clerc)*             | **150 Sucres d'Orges**     |
+| <mark style="color:blue;">**Pistolet Laser des Glaces**</mark> *(Arme Artificier)* | **150 Sucres d'Orges**     |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/givre.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Givrée</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/givre.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Givré</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:red;">St-Valentin 💕</mark>
 
@@ -125,23 +125,23 @@ Ces items sont achetables avec des **<mark style="color:red;">Auréoles</mark>**
 
 | **Items disponible**                                                               | **Prix**             |
 | ---------------------------------------------------------------------------------- | -------------------- |
-| <mark style="color:red;">**Dague de l'Amour**</mark> *(Armes Assassin)*            | **150 Auréoles**     |
-| <mark style="color:red;">**Épée de l'Amour**</mark> *(Armes Guerrier)*             | **150 Auréoles**     |
-| <mark style="color:red;">**Bâton de l'Amour**</mark> *(Armes Mage)*                | **150 Auréoles**     |
-| <mark style="color:red;">**Livre de l'Amour**</mark> *(Armes Invocateur)*          | **150 Auréoles**     |
-| <mark style="color:red;">**Bâton de l'Amour**</mark> *(Armes Archimage)*           | **150 Auréoles**     |
-| <mark style="color:red;">**Orbe de l'Amour**</mark> *(Armes Élémentaliste)*        | **150 Auréoles**     |
-| <mark style="color:red;">**Sceptre de l'Amour**</mark> *(Armes Clerc)*             | **150 Auréoles**     |
-| <mark style="color:red;">**Harpe de l'Amour**</mark> *(Armes Barde)*               | **150 Auréoles**     |
-| <mark style="color:red;">**Totem de l'Amour**</mark> *(Armes Chaman)*              | **150 Auréoles**     |
-| <mark style="color:red;">**Pistolet de l'Amour**</mark> *(Armes Artificier)*       | **150 Auréoles**     |
-| <mark style="color:red;">**Poing de l'Amour**</mark> *(Armes Moine)*               | **150 Auréoles**     |
-| <mark style="color:red;">**Gantelet de l'Amour**</mark> *(Armes Artiste Martial)*  | **150 Auréoles**     |
-| <mark style="color:red;">**Faux de l'Amour**</mark> *(Armes Faucheur)*             | **150 Auréoles**     |
-| <mark style="color:red;">**Marteau de l'Amour**</mark> *(Armes Paladin)*           | **150 Auréoles**     |
-| <mark style="color:red;">**Lance de l'Amour**</mark> *(Armes Guerrier Dragon)*     | **150 Auréoles**     |
-| <mark style="color:red;">**Lance de l'Amour**</mark> *(Armes Chevalier de Glace)*  | **150 Auréoles**     |
-| <mark style="color:red;">**Arc de l'Amour**</mark> *(Armes Archer)*                | **150 Auréoles**     |
+| <mark style="color:red;">**Dague de l'Amour**</mark> *(Arme Assassin)*            | **150 Auréoles**     |
+| <mark style="color:red;">**Épée de l'Amour**</mark> *(Arme Guerrier)*             | **150 Auréoles**     |
+| <mark style="color:red;">**Bâton de l'Amour**</mark> *(Arme Mage)*                | **150 Auréoles**     |
+| <mark style="color:red;">**Livre de l'Amour**</mark> *(Arme Invocateur)*          | **150 Auréoles**     |
+| <mark style="color:red;">**Bâton de l'Amour**</mark> *(Arme Archimage)*           | **150 Auréoles**     |
+| <mark style="color:red;">**Orbe de l'Amour**</mark> *(Arme Élémentaliste)*        | **150 Auréoles**     |
+| <mark style="color:red;">**Sceptre de l'Amour**</mark> *(Arme Clerc)*             | **150 Auréoles**     |
+| <mark style="color:red;">**Harpe de l'Amour**</mark> *(Arme Barde)*               | **150 Auréoles**     |
+| <mark style="color:red;">**Totem de l'Amour**</mark> *(Arme Chaman)*              | **150 Auréoles**     |
+| <mark style="color:red;">**Pistolet de l'Amour**</mark> *(Arme Artificier)*       | **150 Auréoles**     |
+| <mark style="color:red;">**Poing de l'Amour**</mark> *(Arme Moine)*               | **150 Auréoles**     |
+| <mark style="color:red;">**Gantelet de l'Amour**</mark> *(Arme Artiste Martial)*  | **150 Auréoles**     |
+| <mark style="color:red;">**Faux de l'Amour**</mark> *(Arme Faucheur)*             | **150 Auréoles**     |
+| <mark style="color:red;">**Marteau de l'Amour**</mark> *(Arme Paladin)*           | **150 Auréoles**     |
+| <mark style="color:red;">**Lance de l'Amour**</mark> *(Arme Guerrier Dragon)*     | **150 Auréoles**     |
+| <mark style="color:red;">**Lance de l'Amour**</mark> *(Arme Chevalier de Glace)*  | **150 Auréoles**     |
+| <mark style="color:red;">**Arc de l'Amour**</mark> *(Arme Archer)*                | **150 Auréoles**     |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/stvalentin.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir St-Valentin</mark></strong></figcaption></figure>
 
@@ -151,24 +151,24 @@ Ces items sont achetables avec des **<mark style="color:yellow;">Tablettes de Ch
 
 | **Items disponible**                                                                       | **Prix**                      |
 | ------------------------------------------------------------------------------------------ | ----------------------------- |
-| <mark style="color:yellow;">**Livre de Pâques**</mark> *(Armes Invocateur)*                | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Arc de Pâques**</mark> *(Armes Archer)*                      | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Dague de Pâques**</mark> *(Armes Assassin)*                  | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Poing de Pâques**</mark> *(Armes Moine)*                     | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Gantelet de Pâques**</mark> *(Armes Artiste Martial)*        | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Pistolet de Pâques**</mark> *(Armes Artificier)*             | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Marteau de Pâques**</mark> *(Armes Paladin)*                 | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Harpe de Pâques**</mark> *(Armes Barde)*                     | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Lance Glacée de Pâques**</mark> *(Armes Chevalier de Glace)* | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Katana de Pâques**</mark> *(Armes Samoraï)*                  | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Orbe de Pâques**</mark> *(Armes Élémentaliste)*              | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Sceptre de Pâques**</mark> *(Armes Clerc)*                   | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Faux de Pâques**</mark> *(Armes Faucheur)*                   | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Lance de Pâques**</mark> *(Armes Guerrier Dragon)*           | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Bâton de Pâques**</mark> *(Armes Archimage)*                 | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Bâton de Pâques**</mark> *(Armes Mage)*                      | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Épée de Pâques**</mark> *(Armes Guerrier)*                   | **150 Tablettes de Chocolat** |
-| <mark style="color:yellow;">**Totem de Pâques**</mark> *(Armes Chaman)*                    | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Livre de Pâques**</mark> *(Arme Invocateur)*                | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Arc de Pâques**</mark> *(Arme Archer)*                      | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Dague de Pâques**</mark> *(Arme Assassin)*                  | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Poing de Pâques**</mark> *(Arme Moine)*                     | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Gantelet de Pâques**</mark> *(Arme Artiste Martial)*        | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Pistolet de Pâques**</mark> *(Arme Artificier)*             | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Marteau de Pâques**</mark> *(Arme Paladin)*                 | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Harpe de Pâques**</mark> *(Arme Barde)*                     | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Lance Glacée de Pâques**</mark> *(Arme Chevalier de Glace)* | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Katana de Pâques**</mark> *(Arme Samouraï)*                  | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Orbe de Pâques**</mark> *(Arme Élémentaliste)*              | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Sceptre de Pâques**</mark> *(Arme Clerc)*                   | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Faux de Pâques**</mark> *(Arme Faucheur)*                   | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Lance de Pâques**</mark> *(Arme Guerrier Dragon)*           | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Bâton de Pâques**</mark> *(Arme Archimage)*                 | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Bâton de Pâques**</mark> *(Arme Mage)*                      | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Épée de Pâques**</mark> *(Arme Guerrier)*                   | **150 Tablettes de Chocolat** |
+| <mark style="color:yellow;">**Totem de Pâques**</mark> *(Arme Chaman)*                    | **150 Tablettes de Chocolat** |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/paques.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Pâques</mark></strong></figcaption></figure>
 
@@ -178,26 +178,26 @@ Ces items étaient achetables avec des **<mark style="color:blue;">Glaces</mark>
 
 | **Items disponible**                                                                      | **Prix**       |
 | ----------------------------------------------------------------------------------------- | -------------- |
-| <mark style="color:blue;">**Livre Summer**</mark> *(Armes Invocateur)*                    | **150 Glaces** |
-| <mark style="color:blue;">**Arc Summer**</mark> *(Armes Archer)*                          | **150 Glaces** |
-| <mark style="color:blue;">**Dague Summer**</mark> *(Armes Assassin)*                      | **150 Glaces** |
-| <mark style="color:blue;">**Carte Mystique Summer**</mark> *(Armes Illusioniste)*         | **150 Glaces** |
-| <mark style="color:blue;">**Poing Summer**</mark> *(Armes Moine)*                         | **150 Glaces** |
-| <mark style="color:blue;">**Gantelet Summer**</mark> *(Armes Artiste Martial)*            | **150 Glaces** |
-| <mark style="color:blue;">**Pistolet Summer**</mark> *(Armes Artificier)*                 | **150 Glaces** |
-| <mark style="color:blue;">**Marteau Summer**</mark> *(Armes Paladin)*                     | **150 Glaces** |
-| <mark style="color:blue;">**Harpe Summer**</mark> *(Armes Barde)*                         | **150 Glaces** |
-| <mark style="color:blue;">**Lance Glacée Summer**</mark> *(Armes Chevalier de Glace)*     | **150 Glaces** |
-| <mark style="color:blue;">**Katana Summer**</mark> *(Armes Samoraï)*                      | **150 Glaces** |
-| <mark style="color:blue;">**Orbe Summer**</mark> *(Armes Élémentaliste)*                  | **150 Glaces** |
-| <mark style="color:blue;">**Sceptre Summer**</mark> *(Armes Clerc)*                       | **150 Glaces** |
-| <mark style="color:blue;">**Faux Summer**</mark> *(Armes Faucheur)*                       | **150 Glaces** |
-| <mark style="color:blue;">**Lance Summer**</mark> *(Armes Guerrier Dragon)*               | **150 Glaces** |
-| <mark style="color:blue;">**Bâton Summer**</mark> *(Armes Archimage)*                     | **150 Glaces** |
-| <mark style="color:blue;">**Épée des Morts Summer**</mark> *(Armes Chevalier de la Mort)* | **150 Glaces** |
-| <mark style="color:blue;">**Bâton Summer**</mark> *(Armes Mage)*                          | **150 Glaces** |
-| <mark style="color:blue;">**Épée Summer**</mark> *(Armes Guerrier)*                       | **150 Glaces** |
-| <mark style="color:blue;">**Totem Summer**</mark> *(Armes Chaman)*                        | **150 Glaces** |
+| <mark style="color:blue;">**Livre Summer**</mark> *(Arme Invocateur)*                    | **150 Glaces** |
+| <mark style="color:blue;">**Arc Summer**</mark> *(Arme Archer)*                          | **150 Glaces** |
+| <mark style="color:blue;">**Dague Summer**</mark> *(Arme Assassin)*                      | **150 Glaces** |
+| <mark style="color:blue;">**Carte Mystique Summer**</mark> *(Arme Illusionniste)*         | **150 Glaces** |
+| <mark style="color:blue;">**Poing Summer**</mark> *(Arme Moine)*                         | **150 Glaces** |
+| <mark style="color:blue;">**Gantelet Summer**</mark> *(Arme Artiste Martial)*            | **150 Glaces** |
+| <mark style="color:blue;">**Pistolet Summer**</mark> *(Arme Artificier)*                 | **150 Glaces** |
+| <mark style="color:blue;">**Marteau Summer**</mark> *(Arme Paladin)*                     | **150 Glaces** |
+| <mark style="color:blue;">**Harpe Summer**</mark> *(Arme Barde)*                         | **150 Glaces** |
+| <mark style="color:blue;">**Lance Glacée Summer**</mark> *(Arme Chevalier de Glace)*     | **150 Glaces** |
+| <mark style="color:blue;">**Katana Summer**</mark> *(Arme Samouraï)*                      | **150 Glaces** |
+| <mark style="color:blue;">**Orbe Summer**</mark> *(Arme Élémentaliste)*                  | **150 Glaces** |
+| <mark style="color:blue;">**Sceptre Summer**</mark> *(Arme Clerc)*                       | **150 Glaces** |
+| <mark style="color:blue;">**Faux Summer**</mark> *(Arme Faucheur)*                       | **150 Glaces** |
+| <mark style="color:blue;">**Lance Summer**</mark> *(Arme Guerrier Dragon)*               | **150 Glaces** |
+| <mark style="color:blue;">**Bâton Summer**</mark> *(Arme Archimage)*                     | **150 Glaces** |
+| <mark style="color:blue;">**Épée des Morts Summer**</mark> *(Arme Chevalier de la Mort)* | **150 Glaces** |
+| <mark style="color:blue;">**Bâton Summer**</mark> *(Arme Mage)*                          | **150 Glaces** |
+| <mark style="color:blue;">**Épée Summer**</mark> *(Arme Guerrier)*                       | **150 Glaces** |
+| <mark style="color:blue;">**Totem Summer**</mark> *(Arme Chaman)*                        | **150 Glaces** |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/summer2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Summer</mark></strong></figcaption></figure>
 
@@ -207,89 +207,89 @@ Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mar
 
 | **Items disponible**                                                                                  | **Prix**              |
 | ----------------------------------------------------------------------------------------------------- | --------------------- |
-| <mark style="color:red;">**Livre de la Lune de Sang**</mark> *(Armes Invocateur)*                    | **150 Lunes de Sang** |
-| <mark style="color:red;">**Arc de la Lune de Sang**</mark> *(Armes Archer)*                          | **150 Lunes de Sang** |
-| <mark style="color:red;">**Dague de la Lune de Sang**</mark> *(Armes Assassin)*                      | **150 Lunes de Sang** |
-| <mark style="color:red;">**Arc de l'enfer de la Lune de Sang**</mark> *(Armes Chasseur de Phénix)*   | **150 Lunes de Sang** |
-| <mark style="color:red;">**Poing de la Lune de Sang**</mark> *(Armes Moine)*                         | **150 Lunes de Sang** |
-| <mark style="color:red;">**Gantelet de la Lune de Sang**</mark> *(Armes Artiste Martial)*            | **150 Lunes de Sang** |
-| <mark style="color:red;">**Pistolet de la Lune de Sang**</mark> *(Armes Artificier)*                 | **150 Lunes de Sang** |
-| <mark style="color:red;">**Marteau de la Lune de Sang**</mark> *(Armes Paladin)*                     | **150 Lunes de Sang** |
-| <mark style="color:red;">**Harpe de la Lune de Sang**</mark> *(Armes Barde)*                         | **150 Lunes de Sang** |
-| <mark style="color:red;">**Lance Glacée de la Lune de Sang**</mark> *(Armes Chevalier de Glace)*     | **150 Lunes de Sang** |
-| <mark style="color:red;">**Carte Mystique de la Lune de Sang**</mark> *(Armes Illusioniste)*         | **150 Lunes de Sang** |
-| <mark style="color:red;">**Épée des Morts de la Lune de Sang**</mark> *(Armes Chevalier de la Mort)* | **150 Lunes de Sang** |
-| <mark style="color:red;">**Katana de la Lune de Sang**</mark> *(Armes Samoraï)*                      | **150 Lunes de Sang** |
-| <mark style="color:red;">**Orbe de la Lune de Sang**</mark> *(Armes Élémentaliste)*                  | **150 Lunes de Sang** |
-| <mark style="color:red;">**Sceptre de la Lune de Sang**</mark> *(Armes Clerc)*                       | **150 Lunes de Sang** |
-| <mark style="color:red;">**Faux de la Lune de Sang**</mark> *(Armes Faucheur)*                       | **150 Lunes de Sang** |
-| <mark style="color:red;">**Lance de la Lune de Sang**</mark> *(Armes Guerrier Dragon)*               | **150 Lunes de Sang** |
-| <mark style="color:red;">**Bâton de la Lune de Sang**</mark> *(Armes Archimage)*                     | **150 Lunes de Sang** |
-| <mark style="color:red;">**Hache de la Lune de Sang**</mark> *(Armes Barbare)*                       | **150 Lunes de Sang** |
-| <mark style="color:red;">**Bâton de la Lune de Sang**</mark> *(Armes Mage)*                          | **150 Lunes de Sang** |
-| <mark style="color:red;">**Épée de la Lune de Sang**</mark> *(Armes Guerrier)*                       | **150 Lunes de Sang** |
-| <mark style="color:red;">**Totem de la Lune de Sang**</mark> *(Armes Chaman)*                        | **150 Lunes de Sang** |
+| <mark style="color:red;">**Livre de la Lune de Sang**</mark> *(Arme Invocateur)*                    | **150 Lunes de Sang** |
+| <mark style="color:red;">**Arc de la Lune de Sang**</mark> *(Arme Archer)*                          | **150 Lunes de Sang** |
+| <mark style="color:red;">**Dague de la Lune de Sang**</mark> *(Arme Assassin)*                      | **150 Lunes de Sang** |
+| <mark style="color:red;">**Arc de l'enfer de la Lune de Sang**</mark> *(Arme Chasseur de Phénix)*   | **150 Lunes de Sang** |
+| <mark style="color:red;">**Poing de la Lune de Sang**</mark> *(Arme Moine)*                         | **150 Lunes de Sang** |
+| <mark style="color:red;">**Gantelet de la Lune de Sang**</mark> *(Arme Artiste Martial)*            | **150 Lunes de Sang** |
+| <mark style="color:red;">**Pistolet de la Lune de Sang**</mark> *(Arme Artificier)*                 | **150 Lunes de Sang** |
+| <mark style="color:red;">**Marteau de la Lune de Sang**</mark> *(Arme Paladin)*                     | **150 Lunes de Sang** |
+| <mark style="color:red;">**Harpe de la Lune de Sang**</mark> *(Arme Barde)*                         | **150 Lunes de Sang** |
+| <mark style="color:red;">**Lance Glacée de la Lune de Sang**</mark> *(Arme Chevalier de Glace)*     | **150 Lunes de Sang** |
+| <mark style="color:red;">**Carte Mystique de la Lune de Sang**</mark> *(Arme Illusionniste)*         | **150 Lunes de Sang** |
+| <mark style="color:red;">**Épée des Morts de la Lune de Sang**</mark> *(Arme Chevalier de la Mort)* | **150 Lunes de Sang** |
+| <mark style="color:red;">**Katana de la Lune de Sang**</mark> *(Arme Samouraï)*                      | **150 Lunes de Sang** |
+| <mark style="color:red;">**Orbe de la Lune de Sang**</mark> *(Arme Élémentaliste)*                  | **150 Lunes de Sang** |
+| <mark style="color:red;">**Sceptre de la Lune de Sang**</mark> *(Arme Clerc)*                       | **150 Lunes de Sang** |
+| <mark style="color:red;">**Faux de la Lune de Sang**</mark> *(Arme Faucheur)*                       | **150 Lunes de Sang** |
+| <mark style="color:red;">**Lance de la Lune de Sang**</mark> *(Arme Guerrier Dragon)*               | **150 Lunes de Sang** |
+| <mark style="color:red;">**Bâton de la Lune de Sang**</mark> *(Arme Archimage)*                     | **150 Lunes de Sang** |
+| <mark style="color:red;">**Hache de la Lune de Sang**</mark> *(Arme Barbare)*                       | **150 Lunes de Sang** |
+| <mark style="color:red;">**Bâton de la Lune de Sang**</mark> *(Arme Mage)*                          | **150 Lunes de Sang** |
+| <mark style="color:red;">**Épée de la Lune de Sang**</mark> *(Arme Guerrier)*                       | **150 Lunes de Sang** |
+| <mark style="color:red;">**Totem de la Lune de Sang**</mark> *(Arme Chaman)*                        | **150 Lunes de Sang** |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/halloween2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Lunes de Sang</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:red;">Noël 2025 🍪</mark>
 
 *(Temporairement dans le `/noel` via la boutique du marché noir de noël)*
-Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, obtenables dans la **<mark style="color:red;">Boutique Pain d'épice</mark>**
+Ces items sont achetables avec des **<mark style="color:red;">pain d'épices</mark>**, obtenables dans la **<mark style="color:red;">Boutique Pain d'épices</mark>**
 
 {% hint style="info" %}
-Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong></mark>, ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans le monde <mark style="color:green;"><strong>Pain d’épice</strong></mark>.
+Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong></mark>, ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans le monde <mark style="color:green;"><strong>Pain d’épices</strong></mark>.
 {% endhint %}
 
 | **Items disponible**                                                                           | **Prix**              |
 | ---------------------------------------------------------------------------------------------- | --------------------- |
-| <mark style="color:red;">**Livre Pain d'épice**</mark> *(Armes Invocateur)*                    | **150 Pains d'épices** |
-| <mark style="color:red;">**Arc Pain d'épice**</mark> *(Armes Archer)*                          | **150 Pains d'épices** |
-| <mark style="color:red;">**Dague Pain d'épice**</mark> *(Armes Assassin)*                      | **150 Pains d'épices** |
-| <mark style="color:red;">**Arc de l'enfer Pain d'épice**</mark> *(Armes Chasseur de Phénix)*   | **150 Pains d'épices** |
-| <mark style="color:red;">**Poing Pain d'épice**</mark> *(Armes Artiste Martial)*               | **150 Pains d'épices** |
-| <mark style="color:red;">**Gantelet Pain d'épice**</mark> *(Armes Moine)*                      | **150 Pains d'épices** |
-| <mark style="color:red;">**Pistolet Pain d'épice**</mark> *(Armes Artificier)*                 | **150 Pains d'épices** |
-| <mark style="color:red;">**Marteau Pain d'épice**</mark> *(Armes Paladin)*                     | **150 Pains d'épices** |
-| <mark style="color:red;">**Harpe Pain d'épice**</mark> *(Armes Barde)*                         | **150 Pains d'épices** |
-| <mark style="color:red;">**Lance Glacée Pain d'épice**</mark> *(Armes Chevalier de Glace)*     | **150 Pains d'épices** |
-| <mark style="color:red;">**Carte Mystique Pain d'épice**</mark> *(Armes Illusioniste)*         | **150 Pains d'épices** |
-| <mark style="color:red;">**Épée des Morts Pain d'épice**</mark> *(Armes Chevalier de la Mort)* | **150 Pains d'épices** |
-| <mark style="color:red;">**Katana Pain d'épice**</mark> *(Armes Samoraï)*                      | **150 Pains d'épices** |
-| <mark style="color:red;">**Orbe Pain d'épice**</mark> *(Armes Élémentaliste)*                  | **150 Pains d'épices** |
-| <mark style="color:red;">**Sceptre Pain d'épice**</mark> *(Armes Clerc)*                       | **150 Pains d'épices** |
-| <mark style="color:red;">**Faux Pain d'épice**</mark> *(Armes Faucheur)*                       | **150 Pains d'épices** |
-| <mark style="color:red;">**Lance Pain d'épice**</mark> *(Armes Guerrier Dragon)*               | **150 Pains d'épices** |
-| <mark style="color:red;">**Bâton Pain d'épice**</mark> *(Armes Archimage)*                     | **150 Pains d'épices** |
-| <mark style="color:red;">**Hache Pain d'épice**</mark> *(Armes Barbare)*                       | **150 Pains d'épices** |
-| <mark style="color:red;">**Bâton Pain d'épice**</mark> *(Armes Mage)*                          | **150 Pains d'épices** |
-| <mark style="color:red;">**Épée Pain d'épice**</mark> *(Armes Guerrier)*                       | **150 Pains d'épices** |
-| <mark style="color:red;">**Totem Pain d'épice**</mark> *(Armes Chaman)*                        | **150 Pains d'épices** |
+| <mark style="color:red;">**Livre Pain d'épices**</mark> *(Arme Invocateur)*                    | **150 Pains d'épices** |
+| <mark style="color:red;">**Arc Pain d'épices**</mark> *(Arme Archer)*                          | **150 Pains d'épices** |
+| <mark style="color:red;">**Dague Pain d'épices**</mark> *(Arme Assassin)*                      | **150 Pains d'épices** |
+| <mark style="color:red;">**Arc de l'enfer Pain d'épices**</mark> *(Arme Chasseur de Phénix)*   | **150 Pains d'épices** |
+| <mark style="color:red;">**Poing Pain d'épices**</mark> *(Arme Artiste Martial)*               | **150 Pains d'épices** |
+| <mark style="color:red;">**Gantelet Pain d'épices**</mark> *(Arme Moine)*                      | **150 Pains d'épices** |
+| <mark style="color:red;">**Pistolet Pain d'épices**</mark> *(Arme Artificier)*                 | **150 Pains d'épices** |
+| <mark style="color:red;">**Marteau Pain d'épices**</mark> *(Arme Paladin)*                     | **150 Pains d'épices** |
+| <mark style="color:red;">**Harpe Pain d'épices**</mark> *(Arme Barde)*                         | **150 Pains d'épices** |
+| <mark style="color:red;">**Lance Glacée Pain d'épices**</mark> *(Arme Chevalier de Glace)*     | **150 Pains d'épices** |
+| <mark style="color:red;">**Carte Mystique Pain d'épices**</mark> *(Arme Illusionniste)*         | **150 Pains d'épices** |
+| <mark style="color:red;">**Épée des Morts Pain d'épices**</mark> *(Arme Chevalier de la Mort)* | **150 Pains d'épices** |
+| <mark style="color:red;">**Katana Pain d'épices**</mark> *(Arme Samouraï)*                      | **150 Pains d'épices** |
+| <mark style="color:red;">**Orbe Pain d'épices**</mark> *(Arme Élémentaliste)*                  | **150 Pains d'épices** |
+| <mark style="color:red;">**Sceptre Pain d'épices**</mark> *(Arme Clerc)*                       | **150 Pains d'épices** |
+| <mark style="color:red;">**Faux Pain d'épices**</mark> *(Arme Faucheur)*                       | **150 Pains d'épices** |
+| <mark style="color:red;">**Lance Pain d'épices**</mark> *(Arme Guerrier Dragon)*               | **150 Pains d'épices** |
+| <mark style="color:red;">**Bâton Pain d'épices**</mark> *(Arme Archimage)*                     | **150 Pains d'épices** |
+| <mark style="color:red;">**Hache Pain d'épices**</mark> *(Arme Barbare)*                       | **150 Pains d'épices** |
+| <mark style="color:red;">**Bâton Pain d'épices**</mark> *(Arme Mage)*                          | **150 Pains d'épices** |
+| <mark style="color:red;">**Épée Pain d'épices**</mark> *(Arme Guerrier)*                       | **150 Pains d'épices** |
+| <mark style="color:red;">**Totem Pain d'épices**</mark> *(Arme Chaman)*                        | **150 Pains d'épices** |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/noel2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du pain d'épice</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/noel2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du pain d'épices</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
 ### 🔸 <mark style="color:blue;">Clé Givrée ❄️</mark>
 
 La **<mark style="color:blue;">Clé Givrée</mark>** permet d'ouvrir la **[<mark style="color:blue;">Caisse Givrée ❄️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**.  
-Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Givrée</mark>**, disponibles uniquement durant **<mark style="color:blue;">l'évènement Noël 2024</mark>**.
+Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Givrée</mark>**, disponibles uniquement durant **<mark style="color:blue;">l'événement Noël 2024</mark>**.
 
 ### 🔸 <mark style="color:red;">Clé de Cupidon 💕</mark>
 La **<mark style="color:red;">Clé de Cupidon</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse St-Valentin 💕</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin)**.  
-Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Cupidon</mark>**, disponibles durant **<mark style="color:red;">l'évènement St-Valentin 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Cupidon</mark>**, disponibles durant **<mark style="color:red;">l'événement St-Valentin 2025</mark>**.
 
 ### 🔸 <mark style="color:green;">Clé du Léprechaun 🍀</mark>
 La **<mark style="color:green;">Clé du Léprechaun</mark>** permet d'ouvrir la **[<mark style="color:green;">Caisse St-Patrick 🍀</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick)**.  
-Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Leprechaun</mark>**, disponibles durant **<mark style="color:green;">l'évènement St-Patrick 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Leprechaun</mark>**, disponibles durant **<mark style="color:green;">l'événement St-Patrick 2025</mark>**.
 
 ### 🔸 <mark style="color:yellow;">Clé de Pâques 🥚</mark>
 La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**.  
-Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Pâques</mark>**, disponibles durant **<mark style="color:yellow;">l'évènement Pâques 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Pâques</mark>**, disponibles durant **<mark style="color:yellow;">l'événement Pâques 2025</mark>**.
 
 ### 🔸 <mark style="color:blue;">Clé Summer 🏖️</mark>
 La **<mark style="color:blue;">Clé Summer</mark>** permet d'ouvrir la **[<mark style="color:blue;">Caisse Summer 🏖️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer)**.  
-Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Summer</mark>**, disponibles durant **<mark style="color:blue;">l'évènement Summer 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Summer</mark>**, disponibles durant **<mark style="color:blue;">l'événement Summer 2025</mark>**.
 
 ### 🔸 <mark style="color:yellow;">Clé Antique 🦴</mark>
 La **<mark style="color:yellow;">Clé Antique</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Antique 🦴</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique)**.  
@@ -297,10 +297,10 @@ Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé
 
 ### 🔸 <mark style="color:red;">Clé Lune de Sang 🩸</mark>
 La **<mark style="color:red;">Clé Lune de sang</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Lune de Sang 🧛‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**.  
-Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de Lune de Sang</mark>**, disponibles durant **<mark style="color:red;">l'évènement d'Halloween 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de Lune de Sang</mark>**, disponibles durant **<mark style="color:red;">l'événement d'Halloween 2025</mark>**.
 
-### 🔸 <mark style="color:red;">Clé Pain d'épice 🍪</mark>
-La **<mark style="color:red;">Clé Pain d'épice</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Pain d'épice 🍪</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**.  
-Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pain d'épice</mark>**, disponibles durant **<mark style="color:red;">l'évènement de Noël 2025</mark>**.
+### 🔸 <mark style="color:red;">Clé Pain d'épices 🍪</mark>
+La **<mark style="color:red;">Clé Pain d'épice</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Pain d'épices 🍪</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**.  
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pain d'épices</mark>**, disponibles durant **<mark style="color:red;">l'événement de Noël 2025</mark>**.
 
 **Et voilà, vous savez tout sur le marché noir d'Évolucraft, mais attention… ceci doit rester secret 🤫**

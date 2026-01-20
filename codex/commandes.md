@@ -27,7 +27,7 @@ description: >-
 * <mark style="color:green;">**/reglement**</mark> : Donne un lien vers les règles du serveur.
 * <mark style="color:green;">**/ping**</mark> : Vérifie la latence entre le joueur et le serveur.
 * <mark style="color:green;">**/limites**</mark> : Affiche les limites du serveur.
-* <mark style="color:green;">**/cosmetics**</mark> : Permet d’accéder aux différentes cosmétiques présentes sur le serveur.
+* <mark style="color:green;">**/cosmetics**</mark> : Permet d’accéder aux différents cosmétiques présentes sur le serveur.
 
 ### <mark style="color:green;">Ville</mark>
 
@@ -38,7 +38,7 @@ description: >-
 * <mark style="color:green;">**/v invite \[joueur]**</mark> : Permet d’inviter un joueur dans sa ville.
 * <mark style="color:green;">**/v ban \[joueur]**</mark> : Permet de bannir un joueur de sa ville.
 
-Le reste des commandes liées au Ville est disponible dans la section [Les villes](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-villes) du Wiki d’Evolucraft.
+Le reste des commandes liées aux Villes est disponible dans la section [Les villes](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-villes) du Wiki d’Evolucraft.
 
 ### <mark style="color:green;">Monde & Téléportation</mark>
 
@@ -84,7 +84,7 @@ Le reste des commandes liées au Ville est disponible dans la section [Les ville
 * <mark style="color:green;">**/ah**</mark> : Ouvre le marché des joueurs.
 * <mark style="color:green;">**/ah average**</mark> _<mark style="color:green;">**(avec un item en main)**</mark>_ : Permet d'avoir une moyenne concernant le prix de vente de l'item dans votre main.
 * <mark style="color:green;">**/ah sell \[prix] \[quantité]**</mark> : Permet de vendre l'item dans votre main en définissant la quantité et le prix.
-* <mark style="color:green;">**/finditems [Acheter/Vendre] \[item]**</mark> : Liste toutes les boutiques qui achetent ou vendent l'objet souhaité.
+* <mark style="color:green;">**/finditems [Acheter/Vendre] \[item]**</mark> : Liste toutes les boutiques qui achètent ou vendent l'objet souhaité.
 * <mark style="color:green;">**/sell all**</mark> : Permet de vendre tout votre inventaire.
 * <mark style="color:green;">**/sell hand**</mark> : Permet de vendre l'item que vous possédez en main.
 * <mark style="color:green;">**/ah history**</mark> : Permet d'accéder à l'historique de vos ventes et achats.
@@ -94,8 +94,8 @@ Le reste des commandes liées au Ville est disponible dans la section [Les ville
 
 * <mark style="color:green;">**/class**</mark> : Gère la classe du joueur.
 * <mark style="color:green;">**/pass**</mark> : Affiche le menu Pass du serveur.
-* <mark style="color:green;">**/peche**</mark> : Accède aux différentes informations concernant la pêche sur le serveur.
-* <mark style="color:green;">**/peche shop**</mark> : Accède à la boutique de pêche.
+* <mark style="color:green;">**/peche**</mark> : Accès aux différentes informations concernant la pêche sur le serveur.
+* <mark style="color:green;">**/peche shop**</mark> : Accès à la boutique de pêche.
 * <mark style="color:green;">**/classement**</mark> : Affiche les classements des joueurs.
 * <mark style="color:green;">**/quests\_rewards**</mark> : Donne accès aux différentes récompenses présent dans les parchemins.
 * <mark style="color:green;">**/collection**</mark> : Montre les différentes collections du serveur.
@@ -108,7 +108,7 @@ Le reste des commandes liées au Ville est disponible dans la section [Les ville
 * <mark style="color:green;">**/rangs**</mark> : Affiche les différents rangs disponibles.
 * <mark style="color:green;">**/abo**</mark> : Gère les avantages de l'abonnement premium (uniquement pour ceux qui l'ont acheté).
 * <mark style="color:green;">**/jobs**</mark> : Gère les métiers du serveur.
-* <mark style="color:green;">**/rewards**</mark> : Accède aux récompenses journalières.
+* <mark style="color:green;">**/rewards**</mark> : Accès aux récompenses journalières.
 
 ### <mark style="color:green;">Artisanat & Services</mark>
 
@@ -121,7 +121,7 @@ Le reste des commandes liées au Ville est disponible dans la section [Les ville
 * <mark style="color:green;">**/grindstone**</mark> : Ouvre une meule.
 * <mark style="color:green;">**/stonecutter**</mark> : Ouvre une machine de découpe de pierre.
 * <mark style="color:green;">**/smithingtable**</mark> : Ouvre une table de forge.
-* <mark style="color:green;">**/kits**</mark> : Accède aux kits disponibles.
+* <mark style="color:green;">**/kits**</mark> : Accès aux kits disponibles.
 * <mark style="color:green;">**/condense**</mark> : Condense les objets en blocs.
 * <mark style="color:green;">**/ec**</mark> : Permet d'ouvrir l'ender chest.
 * <mark style="color:green;">**/furnace**</mark> : Permet d'ouvrir l'interface d'un four.
@@ -149,10 +149,10 @@ Le reste des commandes liées au Ville est disponible dans la section [Les ville
 * <mark style="color:green;">**/marry kiss**</mark> : Embrasser son partenaire.
 
 ### <mark style="color:green;">Coffre Privé</mark>
-* <mark style="color:green;">**/cadena lock**</mark> : Crée un coffre privé.
-* <mark style="color:green;">**/cadena unclock**</mark> : Supprime le cadena sur un coffre privé.
-* <mark style="color:green;">**/cadena add [nom du joueur]**</mark> : Permet au joueur spécifier d'ouvrir le coffre privé.
-* <mark style="color:green;">**/cadena open**</mark> : Permet de gérer la liste des joueurs qui peuvent ouvrir le coffre privé.
+* <mark style="color:green;">**/cadenas lock**</mark> : Crée un coffre privé.
+* <mark style="color:green;">**/cadenas unclock**</mark> : Supprime le cadenas sur un coffre privé.
+* <mark style="color:green;">**/cadenas add [nom du joueur]**</mark> : Permet au joueur spécifié d'ouvrir le coffre privé.
+* <mark style="color:green;">**/cadenas open**</mark> : Permet de gérer la liste des joueurs qui peuvent ouvrir le coffre privé.
 
 {% hint style="warning" %}
 Toutes les commandes présentes sur le serveur ne sont pas énumérées ici, mais vous pouvez retrouver l'intégralité dans la section correspondante sur le wiki.

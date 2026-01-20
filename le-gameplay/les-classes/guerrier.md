@@ -4,14 +4,14 @@ description: Retrouvez ici toutes les informations concernant la classe Guerrier
 
 # ⚔️ Guerrier
 
-Le Guerrier est une classe robuste, excelle dans le combat rapproché et dispose d'une défense élevée. Avec une variété de compétences, le Guerrier peut infliger de lourds dégâts tout en résistant aux attaques ennemies.
+Le Guerrier est une classe robuste, qui excelle dans le combat rapproché et dispose d'une défense élevée. Avec une variété de compétences, le Guerrier peut infliger de lourds dégâts tout en résistant aux attaques ennemies.
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Guerrier.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Guerrier</strong></p></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -360,7 +360,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     </td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Épée Abyssal</mark></td>
+    <td><mark style="color:blue;">Épée Abyssale</mark></td>
     <td><mark style="color:blue;">Abyssal</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
@@ -369,7 +369,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <td>X</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssal 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
     </td>
   </tr>
   <tr>
