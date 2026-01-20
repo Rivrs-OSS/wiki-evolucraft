@@ -10,7 +10,7 @@ Pour en profiter, il faudra toutefois réunir certains **<mark style="color:gree
 
 Mais quels sont les items disponibles...
 
-<figure><img src="../.gitbook/assets/Marche-Noir/menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les items échangeables 📦</mark>
 
@@ -234,8 +234,7 @@ Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mar
 
 ### 🔸 <mark style="color:red;">Noël 2025 🍪</mark>
 
-*(Temporairement dans le `/noel` via la boutique du marché noir de noël)*
-Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, obtenables dans la **<mark style="color:red;">Boutique Pain d'épice</mark>**
+Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, qui étaient obtenables dans la **<mark style="color:red;">Boutique Pain d'épice</mark>** durant ma mis à jour de **<mark style="color:red;">Noël 2025</mark>**.
 
 {% hint style="info" %}
 Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong></mark>, ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans le monde <mark style="color:green;"><strong>Pain d’épice</strong></mark>.
