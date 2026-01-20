@@ -10,7 +10,7 @@ Pour en profiter, il faudra toutefois réunir certains **<mark style="color:gree
 
 Mais quels sont les items disponibles...
 
-<figure><img src="../.gitbook/assets/Marche-Noir/menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les items échangeables 📦</mark>
 
