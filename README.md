@@ -16,7 +16,7 @@ Plongez dans notre monde créé sur [la version de Minecraft, la 1.21.8](https:/
 
 ## <mark style="color:green;">Lore Général</mark>&#x20;
 
-Bienvenue dans la ville d’Aurora, un lieu plein de mystères et de défis ! Imaginez-vous plongés dans une aventure épique, située 100 ans après les événements de la V3. Aurora est confrontée à une menace inattendue : l'apparition soudaine et mystérieuse de donjons. Ce mystère non résolu plonge la ville dans l'incertitude et le danger.
+Bienvenue dans la ville d’Aurora, un lieu plein de mystères et de défis ! Imaginez-vous plongés dans une aventure épique, située 100 ans après les événements de la V3. Aurora est confrontée à une menace inattendue : l'apparition soudaine et mystérieuse de donjons. Ce mystère non résolu plonge la ville dans l'incertitude et le danger !
 
 C'est là que vous, les joueurs, entrez en jeu ! Vous devrez vous unir et explorer ces donjons, affronter les dangers et découvrir les secrets enfouis dans leurs profondeurs. C'est une mission périlleuse, mais avec de la coopération et du courage, vous pourrez sauver Aurora de cette menace imminente.
 
