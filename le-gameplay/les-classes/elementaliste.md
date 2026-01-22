@@ -87,7 +87,10 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
     </td>   
-    <td>Donjon Biome Neige</td>
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Caverne</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Spectre de Glace</mark></td>
@@ -96,7 +99,12 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
     </td>   
-    <td>Donjon Biome Neige ou Forge</td>
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Caverne</p>
+      <p>Donjon Laboratoire</p>
+      <p>Forge</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Spectre de Glace</mark></td>
@@ -105,7 +113,11 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>   
-    <td>Donjon Biome Neige ou Forge</td>
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Laboratoire</p>
+      <p>Forge</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Spectre de Glace</mark></td>
