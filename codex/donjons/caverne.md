@@ -12,6 +12,27 @@ description: Retrouvez ici les informations concernant le donjon Caverne
 
 ## 💠 <mark style="color:blue;"> Statistiques détaillées 📊</mark>
 
+### 📊 Valeurs unitaires
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type d'ennemi</strong></th>
+    <th><strong>XP par ennemi</strong></th>
+  </tr>
+  <tr>
+    <td>🧟‍♂️ <strong>Mob Normal</strong></td>
+    <td><mark style="color:green;"><strong>26 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>👽 <strong>Mini Boss</strong></td>
+    <td><mark style="color:yellow;"><strong>975 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🐉 <strong>Boss Final</strong></td>
+    <td><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
+  </tr>
+</table>
+
 ### 📋 Structure du donjon
 
 Le donjon est composé de **6 salles aléatoires** (normales ou mini boss) suivies de **1 salle boss finale**.
@@ -92,27 +113,6 @@ La répartition entre salles normales et mini boss est **totalement aléatoire**
     <td>0 mini boss<br><mark style="color:yellow;"><strong>0 XP</strong></mark></td>
     <td>1 boss<br><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
     <td><mark style="color:green;"><strong>9 938 XP</strong></mark></td>
-  </tr>
-</table>
-
-### 📊 Valeurs unitaires
-
-<table border="1" cellspacing="0" cellpadding="8">
-  <tr style="background-color: #e3f2fd;">
-    <th><strong>Type d'ennemi</strong></th>
-    <th><strong>XP par ennemi</strong></th>
-  </tr>
-  <tr>
-    <td>🧟‍♂️ <strong>Mob Normal</strong></td>
-    <td><mark style="color:green;"><strong>26 XP</strong></mark></td>
-  </tr>
-  <tr>
-    <td>👽 <strong>Mini Boss</strong></td>
-    <td><mark style="color:yellow;"><strong>975 XP</strong></mark></td>
-  </tr>
-  <tr>
-    <td>🐉 <strong>Boss Final</strong></td>
-    <td><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
   </tr>
 </table>
 
