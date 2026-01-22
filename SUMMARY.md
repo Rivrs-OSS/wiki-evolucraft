@@ -92,6 +92,7 @@
   * [🎃 Citrouille](codex/donjons/citrouille.md)
   * [🩸 Lune de Sang](codex/donjons/lune-de-sang.md)
   * [⚗️ Laboratoire](codex/donjons/labo.md)
+  * [⛰️ Caverne](codex/donjons/caverne.md)
 * [🥼 Les Armures](codex/armure.md)
 * [🛠️ Les Outils](codex/outils/README.md)
   * [🤠 Outils de l'Aventurier](codex/outils/aventurier.md)
