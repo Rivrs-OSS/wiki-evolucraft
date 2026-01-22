@@ -6,7 +6,7 @@ description: Retrouvez ici les informations concernant le donjon Caverne
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
-👪 Nombre de joueurs accueillis : <mark style="color:green;">**? joueurs**</mark>
+👪 Nombre de joueurs accueillis : <mark style="color:green;">**4 joueurs**</mark>
 📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 15**</mark>
 🕓 Durée du donjon : <mark style="color:green;">**? minutes**</mark>
 
@@ -44,6 +44,7 @@ Lors de ce donjon, vous pouvez obtenir l'XP de classe comme suit :
 | <mark style="color:blue;"><strong>Bonbons Rares (x3)</strong></mark>             |
 | <mark style="color:blue;"><strong>Plume de Fly</strong></mark>                   |
 | <mark style="color:blue;"><strong>Plume de Phoenix</strong></mark>               |
+| <mark style="color:blue;"><strong>Téléporteur hivernal</strong></mark>               |
 | <mark style="color:blue;"><strong>Œuf de Familier Gorille de la Caverne</strong></mark> |
 | <mark style="color:blue;"><strong>Socle du Kabuto (Musée)</strong></mark>        |
 | <mark style="color:blue;"><strong>Jambière Droite du Kabuto (Musée)</strong></mark> |
