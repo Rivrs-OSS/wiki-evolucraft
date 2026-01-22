@@ -14,8 +14,6 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
 
 ### 🔹 Outils en Émeraude
 
-## 🔷 <mark style="color:green;">Son aperçue 🔍</mark>
-
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
@@ -140,8 +138,6 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
 </table>
 
 ### 🔹 Outils en Émeraude Shiny
-
-## 🔷 <mark style="color:green;">Son aperçue 🔍</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
