@@ -158,6 +158,7 @@ Vous pouvez compléter les statues suivantes (consultez votre avancée via le `/
       <p><mark style="color:white;"><strong>Poignée Gauche du Vase de Soissons</strong></mark></p>
     </td>
     <td>
+      <p><mark style="color:white;"><strong>Base du Vase de Soissons</strong></mark></p>
       <p><mark style="color:white;"><strong>Socle du Vase de Soissons</strong></mark></p>
       <p><mark style="color:white;"><strong>Pot du Vase de Soissons</strong></mark></p>
     </td>
