@@ -42,50 +42,77 @@ La répartition entre salles normales et mini boss est **totalement aléatoire**
     <td>1 boss</td>
     <td><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
   </tr>
+  <tr style="background-color: #fff3e0;">
+    <td><strong>⬇️ MINIMUM (6 salles mini boss)</strong></td>
+    <td></td>
+    <td></td>
+    <td><mark style="color:orange;"><strong>9 392 XP</strong></mark></td>
+  </tr>
   <tr style="background-color: #f3e5f5;">
-    <td><strong>📊 TOTAL (Configuration moyenne)</strong></td>
+    <td><strong>📊 MOYENNE (4 normales + 2 mini boss)</strong></td>
     <td></td>
     <td></td>
     <td><mark style="color:purple;"><strong>~9 750 XP</strong></mark></td>
+  </tr>
+  <tr style="background-color: #e8f5e9;">
+    <td><strong>⬆️ MAXIMUM (6 salles normales)</strong></td>
+    <td></td>
+    <td></td>
+    <td><mark style="color:green;"><strong>9 938 XP</strong></mark></td>
   </tr>
 </table>
 
-### ⚔️ Détail des gains d'XP
-
-{% hint style="info" %}
-Valeurs moyennes basées sur une configuration de 4 salles normales + 2 salles mini boss + 1 boss.
-{% endhint %}
+### ⚔️ Détail des gains d'XP par configuration
 
 <table border="1" cellspacing="0" cellpadding="8">
   <tr style="background-color: #e8f5e9;">
+    <th><strong>Configuration</strong></th>
+    <th><strong>Mobs Normaux</strong></th>
+    <th><strong>Mini Boss</strong></th>
+    <th><strong>Boss Final</strong></th>
+    <th><strong>XP Total</strong></th>
+  </tr>
+  <tr style="background-color: #fff3e0;">
+    <td>⬇️ <strong>MINIMUM</strong><br><small>(6 salles mini boss)</small></td>
+    <td>42 mobs<br><mark style="color:green;"><strong>1 092 XP</strong></mark></td>
+    <td>6 mini boss<br><mark style="color:yellow;"><strong>5 850 XP</strong></mark></td>
+    <td>1 boss<br><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
+    <td><mark style="color:orange;"><strong>9 392 XP</strong></mark></td>
+  </tr>
+  <tr style="background-color: #f3e5f5;">
+    <td>📊 <strong>MOYENNE</strong><br><small>(4 normales + 2 mini boss)</small></td>
+    <td>206 mobs<br><mark style="color:green;"><strong>5 356 XP</strong></mark></td>
+    <td>2 mini boss<br><mark style="color:yellow;"><strong>1 950 XP</strong></mark></td>
+    <td>1 boss<br><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
+    <td><mark style="color:purple;"><strong>~9 750 XP</strong></mark></td>
+  </tr>
+  <tr style="background-color: #e8f5e9;">
+    <td>⬆️ <strong>MAXIMUM</strong><br><small>(6 salles normales)</small></td>
+    <td>288 mobs<br><mark style="color:green;"><strong>7 488 XP</strong></mark></td>
+    <td>0 mini boss<br><mark style="color:yellow;"><strong>0 XP</strong></mark></td>
+    <td>1 boss<br><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
+    <td><mark style="color:green;"><strong>9 938 XP</strong></mark></td>
+  </tr>
+</table>
+
+### 📊 Valeurs unitaires
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
     <th><strong>Type d'ennemi</strong></th>
-    <th><strong>XP unitaire</strong></th>
-    <th><strong>Quantité moyenne</strong></th>
-    <th><strong>XP total</strong></th>
+    <th><strong>XP par ennemi</strong></th>
   </tr>
   <tr>
     <td>🧟‍♂️ <strong>Mob Normal</strong></td>
-    <td>26 XP</td>
-    <td>~206 mobs</td>
-    <td><mark style="color:green;"><strong>5 356 XP</strong></mark></td>
+    <td><mark style="color:green;"><strong>26 XP</strong></mark></td>
   </tr>
   <tr>
     <td>👽 <strong>Mini Boss</strong></td>
-    <td>975 XP</td>
-    <td>~2 mini boss</td>
-    <td><mark style="color:yellow;"><strong>1 950 XP</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>975 XP</strong></mark></td>
   </tr>
   <tr>
     <td>🐉 <strong>Boss Final</strong></td>
-    <td>2 450 XP</td>
-    <td>1 boss</td>
     <td><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
-  </tr>
-  <tr style="background-color: #f3e5f5;">
-    <td><strong>💎 TOTAL MOYEN PAR DONJON</strong></td>
-    <td></td>
-    <td></td>
-    <td><mark style="color:purple;"><strong>~9 750 XP</strong></mark></td>
   </tr>
 </table>
 
@@ -104,8 +131,8 @@ Valeurs moyennes basées sur une configuration de 4 salles normales + 2 salles m
 
 |                                                                                     |
 |:-----------------------------------------------------------------------------------:|
-| <mark style="color:blue;"><strong>Cartes Aléatoire de Classe Commune (x2)</strong></mark> |
-| <mark style="color:blue;"><strong>Cartes Aléatoire de Classe Rare</strong></mark> |
+| <mark style="color:blue;"><strong>Cartes Aléatoires de Classe Commune (x2)</strong></mark> |
+| <mark style="color:blue;"><strong>Cartes Aléatoires de Classe Rare</strong></mark> |
 | <mark style="color:blue;"><strong>Parchemin Avancé</strong></mark>               |
 | <mark style="color:blue;"><strong>Parchemin Difficile</strong></mark>            |
 | <mark style="color:blue;"><strong>35 000 💲</strong></mark>                       |
@@ -115,7 +142,7 @@ Valeurs moyennes basées sur une configuration de 4 salles normales + 2 salles m
 | <mark style="color:blue;"><strong>Bonbons Rares (x3)</strong></mark>             |
 | <mark style="color:blue;"><strong>Plume de Fly</strong></mark>                   |
 | <mark style="color:blue;"><strong>Plume de Phoenix</strong></mark>               |
-| <mark style="color:blue;"><strong>Pierre de téléportation de donjon Hivernaux</strong></mark>               |
+| <mark style="color:blue;"><strong>Pierres de téléportation de donjons hivernaux</strong></mark>               |
 | <mark style="color:blue;"><strong>Pet Gorille de la Caverne</strong></mark> |
 | <mark style="color:blue;"><strong>Armes Rare</strong></mark>                                    |
 | <mark style="color:blue;"><strong>Armes Épique</strong></mark>                                  |
