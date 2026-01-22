@@ -1,7 +1,6 @@
 ---
 description: >-
-  Retrouvez ici toutes la liste de tout les Outils Draconique disponible durant
-  le Pass Black Friday 2025 présents sur le serveur.
+  Retrouvez ici toutes la liste de tout les Outils Sompteueux disponible durant le Pass Black Friday 2025 présents sur le serveur.
 ---
 
 # 💫 Outils Sompteueux
