@@ -234,10 +234,10 @@ Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mar
 
 ### 🔸 <mark style="color:red;">Noël 2025 🍪</mark>
 
-Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, qui étaient obtenables dans la **<mark style="color:red;">Boutique Pain d'épice</mark>** durant ma mis à jour de **<mark style="color:red;">Noël 2025</mark>**.
+Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, qui sont obtenables dans le **<mark style="color:red;">Marché noir</mark>** via un échange de **<mark style="color:red;">Sucrerie</mark> obtenable dans les <mark style="color:green;"><strong>donjons Caverne & les donjons Laboratoire</strong></mark>..
 
 {% hint style="info" %}
-Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong></mark>, ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans le monde <mark style="color:green;"><strong>Pain d’épice</strong></mark>.
+Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong></mark>, ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Caverne & donjons Laboratoire</strong></mark>.
 {% endhint %}
 
 | **Items disponible**                                                                           | **Prix**              |
