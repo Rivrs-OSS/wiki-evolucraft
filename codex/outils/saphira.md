@@ -1,23 +1,23 @@
 ---
-description: Retrouvez ici toutes la liste de tout les Outils de Saphira disponible durant le Pass Saphira présents sur le serveur.
+description: Retrouvez ici la liste de tous les Outils de Saphira disponibles durant le Pass Saphira présents sur le serveur.
 ---
 
 # 🐉 Outils de Saphira
 
 ## 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-#### Les <mark style="color:green;">**outils de Saphira**</mark> s'obtennaient dans le <mark style="color:blue;">**Pass Saphira**</mark> durant la <mark style="color:orange;">**mise à jour Draconique 2.0**</mark>
+#### Les <mark style="color:green;">**outils de Saphira**</mark> s'obtenaient dans le <mark style="color:blue;">**Pass Saphira**</mark> durant la <mark style="color:orange;">**mise à jour Draconique 2.0**</mark>
 
 {% hint style="warning" %}
-Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenables uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 {% endhint %}
 
-## 🔹 <mark style="color:blue;">Son aperçue 🔍</mark>
+## 🔹 <mark style="color:blue;">Son aperçu 🔍</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
-    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
     <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
     <td align="center"><strong><ins>Effet</ins> ✨</strong></td>    
   </tr>
@@ -31,7 +31,7 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p>▸ <mark style="color:blue;"><strong>Butin V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>3 500</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:blue;"><strong>3 500</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:blue;"><strong>Effet Dextérité</strong></mark> : Frappe 15% plus vite.</p>
@@ -44,10 +44,10 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Hache.png" alt=""></figure></p>
    </td>
    <td>
-     <p>▸ <mark style="color:blue;"><strong>Efficaciter VI</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Efficacité VI</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>3 500</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:blue;"><strong>3 500</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:blue;"><strong>Effet Boost</strong></mark> : +2.5% d'EXP Bûcheron.</p>
@@ -62,7 +62,7 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>7 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:blue;"><strong>7 000</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:blue;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
@@ -80,7 +80,7 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p>▸ <mark style="color:blue;"><strong>Appât IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>1 250</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:blue;"><strong>1 250</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:blue;"><strong>Effet Boost</strong></mark> : +2.5% d'EXP Pêcheur.</p>
@@ -93,10 +93,10 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité VII</strong></mark></p>
-     <p>▸ <mark style="color:blue;"><strong>Toucher de Soi</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Toucher de Soie</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:blue;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
@@ -111,10 +111,10 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>  
-     <p>▸ <mark style="color:blue;"><strong>Effet Hammer</strong></mark> : Casse les blocks dans une zone de 3X3.</p>
+     <p>▸ <mark style="color:blue;"><strong>Effet Hammer</strong></mark> : Casse les blocs dans une zone de 3X3.</p>
      <p>▸ <mark style="color:blue;"><strong>Effet Boost</strong></mark> : +2.5% d'EXP Mineur.</p>   
    </td>
   </tr>

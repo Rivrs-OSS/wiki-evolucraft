@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes la liste des compagnons communs dans le serveur.
+description: Retrouvez ici toute la liste des compagnons communs dans le serveur.
 ---
 
 # 🐸 Compagnon Commun
@@ -112,7 +112,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+ 2.000</strong></mark> 💲/h</p>
      <p><mark style="color:green;"><strong>Niv. 5</strong></mark> → <mark style="color:green;"><strong>+25%</strong></mark> sur la vente de <mark style="color:green;"><strong>Chair putréfiées</strong></mark> au /shop</p>
-     <p><mark style="color:green;"><strong>Niv. 10</strong></mark> → <mark style="color:green;"><strong>+10%</strong></mark> de chance <mark style="color:green;"><strong>d'enflammer les ennemies</strong></mark></p>
+     <p><mark style="color:green;"><strong>Niv. 10</strong></mark> → <mark style="color:green;"><strong>+10%</strong></mark> de chance <mark style="color:green;"><strong>d'enflammer les ennemis</strong></mark></p>
      <p><mark style="color:green;"><strong>Niv. 15</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Mineur ⛏️</strong></mark></p>
      <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>Célérité 1</strong></mark></p>
     </td>
@@ -125,7 +125,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td><mark style="color:green;"><strong>Potato</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Potato.png" alt=""></figure></td>
     <td>
-     <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+10%</strong></mark> sur la vente de <mark style="color:green;"><strong>Bettrave</strong></mark> chez Jimmy</p>
+     <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+10%</strong></mark> sur la vente de <mark style="color:green;"><strong>Betterave</strong></mark> chez Jimmy</p>
      <p><mark style="color:green;"><strong>Niv. 5</strong></mark> → <mark style="color:green;"><strong>+ 1.000</strong></mark> 💲/h</p>
      <p><mark style="color:green;"><strong>Niv. 10</strong></mark> → <mark style="color:green;"><strong>Monture</strong></mark> (Terrestre)</p>
      <p><mark style="color:green;"><strong>Niv. 15</strong></mark> → <mark style="color:green;"><strong>🧪 Mana</strong></mark> +15</p>
@@ -221,7 +221,7 @@ description: Retrouvez ici toutes la liste des compagnons communs dans le serveu
     <td><mark style="color:green;"><strong>Gardien</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Gardien.png" alt=""></figure></td>
     <td>
-     <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Chêne pale</strong></mark> au /shop</p>
+     <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+5%</strong></mark> sur la vente de <mark style="color:green;"><strong>Chêne pâle</strong></mark> au /shop</p>
      <p><mark style="color:green;"><strong>Niv. 5</strong></mark> → <mark style="color:green;"><strong>+ 1.000</strong></mark> 💲/h</p>
      <p><mark style="color:green;"><strong>Niv. 10</strong></mark> → <mark style="color:green;"><strong>🥊 Chance de Critique</strong></mark> +1</p>
      <p><mark style="color:green;"><strong>Niv. 15</strong></mark> → <mark style="color:green;"><strong>+ 1.750</strong></mark> 💲/h</p>

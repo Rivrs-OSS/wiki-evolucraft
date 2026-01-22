@@ -46,7 +46,7 @@ Lancez un shuriken miroir qui repousse les ennemis.
 
 Votre shuriken revient vers vous, repoussant les ennemis dans la direction opposée.
 
-Les ennemis touché subissent un saignement.
+Les ennemis touchés subissent un saignement.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:green;">**Mana**</mark>**:** 125

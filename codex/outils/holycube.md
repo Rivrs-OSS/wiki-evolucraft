@@ -1,23 +1,23 @@
 ---
-description: Retrouvez ici toutes la liste de tout les Outils HolyCube présents sur le serveur.
+description: Retrouvez ici la liste de tous les Outils HolyCube présents sur le serveur.
 ---
 
 # 🚂 Outils HolyCube
 
 ## 🔷 <mark style="color:orange;">Son obtention 🤔</mark>
 
-#### Les <mark style="color:green;">**outils HolyCube**</mark> s'obtennaient avec le <mark style="color:green;">**`/holycube`**</mark> durant le <mark style="color:green;">**partenariat entre HolyCube et Évolucraft**</mark>
+#### Les <mark style="color:green;">**outils HolyCube**</mark> s'obtenaient avec le <mark style="color:green;">**`/holycube`**</mark> durant le <mark style="color:green;">**partenariat entre HolyCube et Évolucraft**</mark>
 
 {% hint style="warning" %}
-Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenables uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 {% endhint %}
 
-## 🔷 <mark style="color:orange;">Son aperçue 🔍</mark>
+## 🔷 <mark style="color:orange;">Son aperçu 🔍</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
-    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
     <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
   </tr>
   <tr>
@@ -27,11 +27,11 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Tranchant V</strong></mark></p>
-     <p>▸ <mark style="color:orange;"><strong>Affliage III</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Affilage III</strong></mark></p>
      <p>▸ <mark style="color:orange;"><strong>Aura de Feu II</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilité</strong></mark></p>
    </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
      <p>▸ <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilité</strong></mark></p>
    </td>
   </tr>  
   <tr>
@@ -57,7 +57,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
      <p>▸ <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilité</strong></mark></p>
    </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
      <p>▸ <mark style="color:orange;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilité</strong></mark></p>
    </td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
      <p>▸ <mark style="color:orange;"><strong>Appât III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>750</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>750</strong></mark> de <mark style="color:orange;"><strong>Durabilité</strong></mark></p>
    </td>
   </tr>  
   <tr>
@@ -92,11 +92,11 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
      <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Pelle.png" alt=""></figure></p>
    </td>
    <td>
-     <p>▸ <mark style="color:orange;"><strong>Efficaciter V</strong></mark></p>
-     <p>▸ <mark style="color:orange;"><strong>Toucher de Soi</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:orange;"><strong>Toucher de Soie</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:orange;"><strong>2 000</strong></mark> de <mark style="color:orange;"><strong>Durabilité</strong></mark></p>
    </td>
   </tr>
 </table>

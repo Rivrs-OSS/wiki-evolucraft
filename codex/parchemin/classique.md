@@ -1,8 +1,8 @@
 ---
-description: Retrouvez ici la liste des parchemins issue d'évènement présent sur le serveur
+description: Retrouvez ici la liste des parchemins classiques présents sur le serveur
 ---
 
-# 🧧 Parchemins CLassique
+# 🧧 Parchemins Classiques
 
 ## 🟢 <mark style="color:green;">Parchemin Facile</mark>
 
@@ -19,10 +19,10 @@ Le <mark style="color:green;">Parchemin Facile</mark> s'obtient de plusieurs fa�
 
 | **Récompense**                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
-| <mark style="color:green;">**8 Blocks de Fer**</mark>                                                     | 
-| <mark style="color:green;">**4 Blocks de Lapis-Lazuli**</mark>                                            | 
-| <mark style="color:green;">**1 Block de Diamant**</mark>                                                  | 
-| <mark style="color:green;">**1 Block d'Obsidienne Pleureuse**</mark>                                      | 
+| <mark style="color:green;">**8 Blocs de Fer**</mark>                                                     | 
+| <mark style="color:green;">**4 Blocs de Lapis-Lazuli**</mark>                                            | 
+| <mark style="color:green;">**1 Bloc de Diamant**</mark>                                                  | 
+| <mark style="color:green;">**1 Bloc d'Obsidienne Pleureuse**</mark>                                      | 
 | <mark style="color:green;">**Spawner à Lapin**</mark>                                                     | 
 | <mark style="color:green;">**Spawner à Poule**</mark>                                                     | 
 | <mark style="color:green;">**Spawner à Mouton**</mark>                                                    | 
@@ -45,7 +45,7 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 * **[Parchemin Facile 🟢](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-facile)**
 * **Le /AFK💤**
 * **Les récompenses des niveau de métiers ⚒️**
-* **Les récompenses des [Donjon Rare 🟨](https://wiki.evolucraft.fr/codex/donjons/rare) et [Donjon Draconique 🐉](https://wiki.evolucraft.fr/codex/donjons/draconique)**
+* **Les récompenses des [Donjons Rares 🟨](https://wiki.evolucraft.fr/codex/donjons/rare) et [Donjons Draconiques 🐉](https://wiki.evolucraft.fr/codex/donjons/draconique)**
 * **Le [/rewards 🕒](https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#le-rewards)**
 * **Les offres du /boutique 🛒** *(100 gemmes 💎)*
 
@@ -53,8 +53,8 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 
 | **Récompense**                                                                                               |
 | ------------------------------------------------------------------------------------------------------------ |
-| <mark style="color:yellow;">**4 Blocks de Diamant**</mark>                                                   |
-| <mark style="color:yellow;">**1 Lingots de Netherite**</mark>                                                |
+| <mark style="color:yellow;">**4 Bloks de Diamant**</mark>                                                   |
+| <mark style="color:yellow;">**1 Lingot de Netherite**</mark>                                                |
 | <mark style="color:yellow;">**2 têtes de Wither Squelette**</mark>                                           | 
 | <mark style="color:yellow;">**2 Carapaces de Shulker**</mark>                                                | 
 | <mark style="color:yellow;">**Spawner à Vache**</mark>                                                       | 
@@ -79,8 +79,8 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 Le <mark style="color:green;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
 * **[Parchemin Avancé 🟡](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-avance)**
-* **Les récompenses des niveau de métiers ⚒️**
-* **Les récompenses des [Donjon Épique 🟦](https://wiki.evolucraft.fr/codex/donjons/epique), [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/codex/donjons/legendaire) et [Donjon Draconique 🐉](https://wiki.evolucraft.fr/codex/donjons/draconique)**
+* **Les récompenses des niveaux de métiers ⚒️**
+* **Les récompenses des [Donjons Épiques 🟦](https://wiki.evolucraft.fr/codex/donjons/epique), [Donjons Légendaires 🟪](https://wiki.evolucraft.fr/codex/donjons/legendaire) et [Donjons Draconiques 🐉](https://wiki.evolucraft.fr/codex/donjons/draconique)**
 * **La Caisse [Émeraude ✳️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-emeraude)**
 * **Les offres du /boutique 🛒** *(150 gemmes 💎)*
 
@@ -88,7 +88,7 @@ Le <mark style="color:green;">Parchemin Difficile</mark> s'obtient de plusieurs 
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**8 Blocks de Diamant**</mark>                                      |
+| <mark style="color:blue;">**8 Blocs de Diamant**</mark>                                      |
 | <mark style="color:blue;">**4 Lingots de Netherite**</mark>                                   |
 | <mark style="color:blue;">**3 Étoiles du nether**</mark>                                      | 
 | <mark style="color:blue;">**3 Éponges**</mark>                                                | 
@@ -114,8 +114,8 @@ Le <mark style="color:green;">Parchemin Difficile</mark> s'obtient de plusieurs 
 Le <mark style="color:purple;">Parchemin Expert</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
 * **[Parchemin Difficile 🔵](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-epique)**
-* **Les récompenses des niveau de métiers ⚒️**
-* **Les récompenses des [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/codex/donjons/legendaire) et [Donjon Mythique 🟥](https://wiki.evolucraft.fr/codex/donjons/mythique)**
+* **Les récompenses des niveaux de métiers ⚒️**
+* **Les récompenses des [Donjons Légendaires 🟪](https://wiki.evolucraft.fr/codex/donjons/legendaire) et [Donjons Mythiques 🟥](https://wiki.evolucraft.fr/codex/donjons/mythique)**
 * **La Caisse [Rubis 🔻](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-rubis)**
 * **Les offres du /boutique 🛒** *(200 gemmes 💎)*
 
@@ -123,12 +123,12 @@ Le <mark style="color:purple;">Parchemin Expert</mark> s'obtient de plusieurs fa
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:purple;">**1 Block de Netherite**</mark>                                   |
-| <mark style="color:purple;">**2 Blocks d'Émeraude**</mark>                                    |
+| <mark style="color:purple;">**1 Bloc de Netherite**</mark>                                   |
+| <mark style="color:purple;">**2 Blocs d'Émeraude**</mark>                                    |
 | <mark style="color:purple;">**1 Pomme dorée Enchantée**</mark>                                |
 | <mark style="color:purple;">**1 Totem d'immortalité**</mark>                                  | 
 | <mark style="color:purple;">**1 Coeur de la Mer**</mark>                                      | 
-| <mark style="color:purple;">**Spawner à Araigné Venimeuse**</mark>                            | 
+| <mark style="color:purple;">**Spawner à Araignée Venimeuse**</mark>                            | 
 | <mark style="color:purple;">**Spawner à Blaze**</mark>                                        | 
 | <mark style="color:purple;">**Spawner à Enderman**</mark>                                     | 
 | <mark style="color:purple;">**Spawner à Piglin Zombifié**</mark>                              |
@@ -153,7 +153,7 @@ Le <mark style="color:red;">Parchemin Impossible</mark> s'obtient de plusieurs f
 * **Les récompenses de [Donjon Mythique 🟥](https://wiki.evolucraft.fr/codex/donjons/mythique)**
 * **Les Caisses :**
   * **[Draconique 🐉](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique)**
-  * **[Abyssal 🌊](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal)**
+  * **[Abyssale 🌊](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal)**
   * **[Trésors 🏴‍☠️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors)**
   * **[St-Patrick 🍀](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick)** *(avec 2 parchemins)*
 * **Les offres du /boutique 🛒** *(300 gemmes 💎)*
@@ -162,7 +162,7 @@ Le <mark style="color:red;">Parchemin Impossible</mark> s'obtient de plusieurs f
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:red;">**8 Blocks d'Émeraude**</mark>                                       |
+| <mark style="color:red;">**8 Blocs d'Émeraude**</mark>                                       |
 | <mark style="color:red;">**2 Pommes dorées Enchantées**</mark>                                |
 | <mark style="color:red;">**Spawner à Gardien**</mark>                                         | 
 | <mark style="color:red;">**Spawner à Golem de Fer**</mark>                                    | 

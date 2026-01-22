@@ -1,10 +1,10 @@
 ---
-description: Retrouvez ici toutes la liste des compagnons légendaire dans le serveur.
+description: Retrouvez ici toute la liste des compagnons légendaires dans le serveur.
 ---
 
 # 👾 Compagnon Légendaire
 
-## 💠 La liste des compagnons LÉGENDAIRE
+## 💠 La liste des compagnons LÉGENDAIRES
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -113,7 +113,7 @@ description: Retrouvez ici toutes la liste des compagnons légendaire dans le se
     <td><mark style="color:purple;"><strong>Woody</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Woody.png" alt=""></figure></td>
     <td>
-      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> sur la vente de <mark style="color:purple;"><strong>TOUTES types de Bûches</strong></mark> au /shop</p>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> sur la vente de <mark style="color:purple;"><strong>TOUS types de Bûches</strong></mark> au /shop</p>
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +6</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'argent sur le <mark style="color:purple;"><strong>Bûcheron 🪚</strong></mark></p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 1.000</strong></mark> 💲/h</p>
@@ -143,7 +143,7 @@ description: Retrouvez ici toutes la liste des compagnons légendaire dans le se
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+5% de dégats</strong></mark> sur les <mark style="color:purple;"><strong>monstres des Donjons Abyssaux</strong></mark></p>
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 7.500</strong></mark> 💲/h</p>  
     </td>
-    <td>* Œuf de famillier (Caisse Abyssal 🌊)</td>
+    <td>* Œuf de famillier (Caisse Abyssale 🌊)</td>
   </tr>
   <tr>
     <td><mark style="color:purple;"><strong>Dracula</strong></mark></td>
@@ -197,7 +197,7 @@ description: Retrouvez ici toutes la liste des compagnons légendaire dans le se
     <td><mark style="color:purple;"><strong>Père Noël</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/PereNoel.png" alt=""></figure></td>
     <td>
-      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+20%</strong></mark> sur la vente d'<mark style="color:purple;"><strong>oeuil d'araignée</strong></mark> au /shop</p>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+20%</strong></mark> sur la vente d'<mark style="color:purple;"><strong>oeil d'araignée</strong></mark> au /shop</p>
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 10.500</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +9</p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 12.000</strong></mark> 💲/h</p>

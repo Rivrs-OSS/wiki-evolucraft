@@ -10,7 +10,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la commande correspondante.
 {% endhint %}
 
-## 💠 <mark style="color:green;">Le /kit bousole 🧭</mark>
+## 💠 <mark style="color:green;">Le /kit boussole 🧭</mark>
 
 - <mark style="color:green;">**1 boussole de navigation du `/menu`**</mark>
 
@@ -43,7 +43,7 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 <img src="../.gitbook/assets/Codex/Kits/bienvenue.png" alt="" style="text-align: left;">
 
 {% hint style="warning" %}
-**Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rangs Débutant</mark>**.
+**Ce kit n'est obtenable qu'à partir du <mark style="color:green;">rang Débutant</mark>**.
 {% endhint %}
 
 ## 💠 <mark style="color:yellow;">Le /kit Héros ⚜️</mark>
