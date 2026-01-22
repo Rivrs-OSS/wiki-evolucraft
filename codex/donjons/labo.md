@@ -33,28 +33,28 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
-| <mark style="color:orange;"><strong>Cartes Aléatoire de Classe Rare</strong></mark>  |
-| <mark style="color:orange;"><strong>Carte Aléatoire de Classe Épique</strong></mark> |
-| <mark style="color:orange;"><strong>Parchemin Difficile</strong></mark>              |
-| <mark style="color:orange;"><strong>Parchemin Expert</strong></mark>                 |
-| <mark style="color:orange;"><strong>100 000 💲</strong></mark>                       |
-| <mark style="color:orange;"><strong>150 000 💲</strong></mark>                       |
-| <mark style="color:orange;"><strong>450 000 💲</strong></mark>                       |
-| <mark style="color:orange;"><strong>Cristal de donjon Épique</strong></mark>         |
-| <mark style="color:orange;"><strong>2 Cristaux de donjon Épique</strong></mark>      |
-| <mark style="color:orange;"><strong>2 Citrouilles Scintillantes</strong></mark>      |
-| <mark style="color:orange;"><strong>3 Bonbons à la Myrtille</strong></mark>          |
-| <mark style="color:orange;"><strong>Plume de Phénix</strong></mark>                  |
-| <mark style="color:orange;"><strong>Pierre de téléportation de donjon Hivernaux</strong></mark>   |
-| <mark style="color:orange;"><strong>Pet Méca-Gorille du Labo</strong></mark>                      |
-| <mark style="color:orange;"><strong>Armes Rare</strong></mark>                                    |
-| <mark style="color:orange;"><strong>Armes Épique</strong></mark>                                  |
-| <mark style="color:orange;"><strong>Partie Gauche de la Pierre de Rosette (Musée)</strong></mark> |
-| <mark style="color:orange;"><strong>Partie Haute de la Pierre de Rosette (Musée)</strong></mark>  |
-| <mark style="color:orange;"><strong>Socle du Soldat d'Argile (Musée)</strong></mark>              |
-| <mark style="color:orange;"><strong>Coté Droit du Soldat d'Argile (Musée)</strong></mark>         |
-| <mark style="color:orange;"><strong>Coté Gauche du Soldat d'Argile (Musée)</strong></mark>        |
-| <mark style="color:orange;"><strong>Base du Vase de Soisons(Musée)</strong></mark>                |
-| <mark style="color:orange;"><strong>Socle du Vase de Soisons(Musée)</strong></mark>               |
+| <mark style="color:blue;"><strong>Cartes Aléatoire de Classe Rare</strong></mark>  |
+| <mark style="color:blue;"><strong>Carte Aléatoire de Classe Épique</strong></mark> |
+| <mark style="color:blue;"><strong>Parchemin Difficile</strong></mark>              |
+| <mark style="color:blue;"><strong>Parchemin Expert</strong></mark>                 |
+| <mark style="color:blue;"><strong>100 000 💲</strong></mark>                       |
+| <mark style="color:blue;"><strong>150 000 💲</strong></mark>                       |
+| <mark style="color:blue;"><strong>450 000 💲</strong></mark>                       |
+| <mark style="color:blue;"><strong>Cristal de donjon Épique</strong></mark>         |
+| <mark style="color:blue;"><strong>2 Cristaux de donjon Épique</strong></mark>      |
+| <mark style="color:blue;"><strong>2 Citrouilles Scintillantes</strong></mark>      |
+| <mark style="color:blue;"><strong>3 Bonbons à la Myrtille</strong></mark>          |
+| <mark style="color:blue;"><strong>Plume de Phénix</strong></mark>                  |
+| <mark style="color:blue;"><strong>Pierre de téléportation de donjon Hivernaux</strong></mark>   |
+| <mark style="color:blue;"><strong>Pet Méca-Gorille du Labo</strong></mark>                      |
+| <mark style="color:blue;"><strong>Armes Rare</strong></mark>                                    |
+| <mark style="color:blue;"><strong>Armes Épique</strong></mark>                                  |
+| <mark style="color:blue;"><strong>Partie Gauche de la Pierre de Rosette (Musée)</strong></mark> |
+| <mark style="color:blue;"><strong>Partie Haute de la Pierre de Rosette (Musée)</strong></mark>  |
+| <mark style="color:blue;"><strong>Socle du Soldat d'Argile (Musée)</strong></mark>              |
+| <mark style="color:blue;"><strong>Coté Droit du Soldat d'Argile (Musée)</strong></mark>         |
+| <mark style="color:blue;"><strong>Coté Gauche du Soldat d'Argile (Musée)</strong></mark>        |
+| <mark style="color:blue;"><strong>Base du Vase de Soisons (Musée)</strong></mark>                |
+| <mark style="color:blue;"><strong>Socle du Vase de Soisons (Musée)</strong></mark>               |
 
 
