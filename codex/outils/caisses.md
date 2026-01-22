@@ -194,7 +194,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   </tr>
 </table>
 
-## 💕◦ <mark style="color:red;">Outils Cupidon</mark>
+## 👼◦ <mark style="color:red;">Outils Cupidon</mark>
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
