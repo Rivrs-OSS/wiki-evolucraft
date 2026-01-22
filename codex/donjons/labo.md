@@ -6,7 +6,7 @@ description: Retrouvez ici les informations concernant le donjon Laboratoire Gla
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
-👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à X joueurs**</mark>  
+👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 4 joueurs**</mark>  
 📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 30**</mark>  
 🕓 Durée du donjon : <mark style="color:green;">**10 minutes**</mark>  
 
