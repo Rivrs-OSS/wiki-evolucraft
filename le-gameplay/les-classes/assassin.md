@@ -180,7 +180,10 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Biome Neige</td>
+        <td>
+         <p>Donjon Biome Neige</p>
+         <p>Donjon Caverne</p>
+        </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Dague Polaire</mark></td>
@@ -189,7 +192,12 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-    <td>Donjon Biome Neige ou Forge</td>
+        <td>
+         <p>Donjon Biome Neige</p>
+         <p>Donjon Caverne</p>
+         <p>Donjon Laboratoire</p>
+         <p>Forge</p>
+        </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Dague Polaire</mark></td>
@@ -198,7 +206,11 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
-    <td>Donjon Biome Neige ou Forge</td>
+      <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Laboratoire</p>
+      <p>Forge</p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Dague Polaire</mark></td>
