@@ -43,9 +43,9 @@ La répartition entre salles normales et mini boss est **totalement aléatoire**
     <td><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
   </tr>
   <tr style="background-color: #f3e5f5;">
-    <td></td>
-    <td></td>
     <td><strong>📊 TOTAL (Configuration moyenne)</strong></td>
+    <td></td>
+    <td></td>
     <td><mark style="color:purple;"><strong>~9 750 XP</strong></mark></td>
   </tr>
 </table>
@@ -82,9 +82,9 @@ Valeurs moyennes basées sur une configuration de 4 salles normales + 2 salles m
     <td><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
   </tr>
   <tr style="background-color: #f3e5f5;">
-    <td></td>
-    <td></td>
     <td><strong>💎 TOTAL MOYEN PAR DONJON</strong></td>
+    <td></td>
+    <td></td>
     <td><mark style="color:purple;"><strong>~9 750 XP</strong></mark></td>
   </tr>
 </table>
