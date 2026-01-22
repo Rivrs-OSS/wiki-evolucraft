@@ -1,14 +1,14 @@
 ---
-description: Retrouvez ici les informations concernant le donjon Laboratoire
+description: Retrouvez ici les informations concernant le donjon Laboratoire Glaciale
 ---
 
-# ⚗️ Donjon Laboratoire
+# ⚗️ Donjon Laboratoire Glaciale
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
 👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à X joueurs**</mark>  
 📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 30**</mark>  
-🕓 Durée du donjon : <mark style="color:green;">**XX minutes**</mark>  
+🕓 Durée du donjon : <mark style="color:green;">**10 minutes**</mark>  
 
 ## 💠 <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
 
@@ -25,9 +25,9 @@ description: Retrouvez ici les informations concernant le donjon Laboratoire
 
 Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
 
-* <mark style="color:green;"><strong>Mob normal 🧟‍♂️</strong></mark> : **?? XP**  
-* <mark style="color:yellow;"><strong>Mini boss 👽</strong></mark> : **?? XP**  
-* <mark style="color:red;"><strong>Boss 🐉</strong></mark> : **?? XP**
+* <mark style="color:green;"><strong>Mob normal 🧟‍♂️</strong></mark> : **42 XP**  
+* <mark style="color:yellow;"><strong>Mini boss 👽</strong></mark> : **2 800 XP**  
+* <mark style="color:red;"><strong>Boss 🐉</strong></mark> : **6 500 XP**
 
 ## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
