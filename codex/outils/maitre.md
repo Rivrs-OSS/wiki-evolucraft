@@ -24,7 +24,7 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Épée du Maître Chasseur</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Tranchant VI</strong></mark></p>
@@ -40,7 +40,7 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Pioche sompteueusedu Maître Mineur</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité VII</strong></mark></p>
@@ -56,7 +56,7 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Hache du Maître Bûcheron</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité VII</strong></mark></p>
@@ -71,7 +71,7 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Houe du Maître Fermier</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
@@ -87,7 +87,7 @@ Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les 
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Canne à Pêche du Maître Pêcheur</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Chance de la Mer IV</strong></mark></p>
