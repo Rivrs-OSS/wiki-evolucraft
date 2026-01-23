@@ -39,7 +39,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pioche de l'Amour</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Amour/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Amour/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
@@ -52,7 +52,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Hache de l'Amour</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Amour/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Amour/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
@@ -64,7 +64,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Houe de l'Amour</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Amour/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Amour/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité V</strong></mark></p>
@@ -77,7 +77,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Canne à pêche de l'Amour</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Amour/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Amour/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Chance de la Mer IV</strong></mark></p>
@@ -90,7 +90,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pelle de l'Amour</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Amour/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Amour/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficaciter VI</strong></mark></p>
