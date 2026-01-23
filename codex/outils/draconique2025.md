@@ -26,7 +26,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Épée Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Draconique2025/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Tranchant V</strong></mark></p>
@@ -45,7 +45,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pioche Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Draconique2025/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
@@ -61,7 +61,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Hache Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Draconique2025/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
@@ -76,7 +76,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Houe Draconique</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Draconique2025/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité V</strong></mark></p>
@@ -93,7 +93,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Canne à Pêche sompteueuse</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Draconique2025/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Chance de la Mer IV</strong></mark></p>
@@ -109,7 +109,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pelle sompteueuse</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Draconique2025/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Draconique2025/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficaciter VI</strong></mark></p>
