@@ -23,20 +23,20 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 ### ⛲ ◦ <mark style="color:green;">Arroseur automatique</mark>
 
-🔹 L'<mark style="color:green;">arroseur automatique</mark> s'obtient dans la [<mark style="color:yellow;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors) ou dans la <mark style="color:green;">boutique du</mark> <mark style="color:green;"></mark><mark style="color:green;">`/newworld`</mark> pour <mark style="color:green;">20 000 Viandes de poissons</mark>.
+🔹 L'<mark style="color:green;">arroseur automatique</mark> s'obtient dans la <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors"><mark style="color:yellow;">caisse aux Trésors</mark></a> ou dans la <mark style="color:green;">boutique du `/newworld`</mark> pour <mark style="color:green;">20 000 Viandes de poissons</mark>.
 
 <table border="1" cellspacing="0" cellpadding="6">
   <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/Arroseur.png" alt=""></figure></td>
-  <td>L’<mark style="color:green;">arroseur automatique</mark> vous permet, uniquement pour les <mark style="color:green;">plantes issues du</mark> [<mark style="color:green;">**/newworld**</mark>](https://wiki.evolucraft.fr/le-gameplay/mondes#le-new-world), d’arroser automatiquement la <mark style="color:green;">terre en pot</mark> sur une zone de <mark style="color:green;">3x3</mark>. Grâce à lui, vos <mark style="color:green;">plantes pousseront plus facilement</mark> sans avoir besoin d’une intervention manuelle.</td>
+  <td>L’<mark style="color:green;">arroseur automatique</mark> vous permet, uniquement pour <mark style="color:green;">les plantes</mark> issues du <a href="https://wiki.evolucraft.fr/le-gameplay/mondes#le-new-world"><mark style="color:green;"><strong>/newworld</strong></mark></a>, d’arroser automatiquement la <mark style="color:green;">terre en pot</mark> sur une zone de <mark style="color:green;">3x3</mark>. Grâce à lui, vos <mark style="color:green;">plantes pousseront plus facilement</mark> sans avoir besoin d’une intervention manuelle.</td>
 </table>
 
 ### 🌱 ◦ <mark style="color:green;">Terre en pot</mark>
 
-🔹 La <mark style="color:green;">terre en pot</mark> s'obtient dans la [<mark style="color:yellow;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors) en lot de 32, ou dans la <mark style="color:green;">boutique du</mark> <mark style="color:green;"></mark><mark style="color:green;">`/newworld`</mark> pour <mark style="color:green;">en lot de 4, pour 2 500 Viandes de poissons</mark>.
+🔹 La <mark style="color:green;">terre en pot</mark> s'obtient dans la [<mark style="color:yellow;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors) en lot de 32, ou dans la <mark style="color:green;">boutique du `/newworld`</mark> pour <mark style="color:green;">en lot de 4, pour 2 500 Viandes de poissons</mark>.
 
 <table border="1" cellspacing="0" cellpadding="6">
   <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/TerreEnPot.png" alt=""></figure></td>
-  <td>La <mark style="color:green;">terre en pot</mark> vous permet de faire pousser uniquement le <mark style="color:green;">maïs</mark> et les <mark style="color:green;">tomates</mark>, issus du [<mark style="color:green;">**/newworld**</mark>](https://wiki.evolucraft.fr/le-gameplay/mondes#le-new-world). Elle sert donc à créer un <mark style="color:green;">champ spécial</mark> dédié à ces plantes uniques.</td>
+  <td>La <mark style="color:green;">terre en pot</mark> vous permet de faire pousser uniquement le <mark style="color:green;">maïs</mark> et les <mark style="color:green;">tomates</mark>, issus du <a href="https://wiki.evolucraft.fr/le-gameplay/mondes#le-new-world"><mark style="color:green;"><strong>/newworld</strong></mark></a>. Elle sert donc à créer un <mark style="color:green;">champ spécial</mark> dédié à ces plantes uniques.</td>
 </table>
 
 ### 🪄 ◦ <mark style="color:green;">Sceptre du bâtisseur</mark>
