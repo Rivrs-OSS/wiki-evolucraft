@@ -45,7 +45,7 @@ Les <mark style="color:green;">outils de l'Aventurier</mark> s'obtiennent dans l
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Pioche de l'Aventurier</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Aventurier/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Aventurier/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
@@ -61,7 +61,7 @@ Les <mark style="color:green;">outils de l'Aventurier</mark> s'obtiennent dans l
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Hache de l'Aventurier</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Aventurier/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Aventurier/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
@@ -76,7 +76,7 @@ Les <mark style="color:green;">outils de l'Aventurier</mark> s'obtiennent dans l
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Houe de l'Aventurier</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Aventurier/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Aventurier/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
@@ -93,7 +93,7 @@ Les <mark style="color:green;">outils de l'Aventurier</mark> s'obtiennent dans l
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Canne à Pêche de l'Aventurier</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Aventurier/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Aventurier/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Chance de la Mer IV</strong></mark></p>
