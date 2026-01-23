@@ -52,7 +52,23 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
    <td align="center">
      <p><mark style="color:green;"><strong>350</strong></mark> 💎</p>
    </td>
-  </tr>  
+  </tr>
+    <tr>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>Pioche de l'Émérite</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Pioche.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:blue;"><strong>Efficaciter V</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Fortune III</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td align="center"> 
+     <p><mark style="color:green;"><strong>600</strong></mark> 💎</p>
+   </td>
+  </tr>
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Hache de l'Émérite</strong></mark></p>
@@ -101,20 +117,4 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
      <p><mark style="color:green;"><strong>350</strong></mark> 💎</p>
    </td>
   </tr> 
-  <tr>
-   <td align="center">
-     <p><mark style="color:blue;"><strong>Pioche de l'Émérite</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Pioche.png" alt=""></figure></p>
-   </td>
-   <td>
-     <p>▸ <mark style="color:blue;"><strong>Efficaciter V</strong></mark></p>
-     <p>▸ <mark style="color:blue;"><strong>Fortune III</strong></mark></p>
-   </td>
-   <td align="center">
-     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
-   </td>
-   <td align="center"> 
-     <p><mark style="color:green;"><strong>600</strong></mark> 💎</p>
-   </td>
-  </tr>
 </table>
