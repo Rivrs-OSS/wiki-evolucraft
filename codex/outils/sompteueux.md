@@ -26,7 +26,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Épée sompteueuse</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Sompteueux/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Sompteueux/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant V</strong></mark></p>
@@ -45,7 +45,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pioche sompteueuse</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Sompteueux/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Sompteueux/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
@@ -61,7 +61,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Hache sompteueuse</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Sompteueux/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Sompteueux/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
@@ -76,7 +76,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Houe sompteueuse</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Sompteueux/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Sompteueux/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité V</strong></mark></p>
@@ -93,7 +93,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Canne à Pêche sompteueuse</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Sompteueux/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Sompteueux/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Chance de la Mer IV</strong></mark></p>
@@ -109,7 +109,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pelle sompteueuse</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Sompteueux/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Sompteueux/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficaciter VI</strong></mark></p>
