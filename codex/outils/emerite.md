@@ -20,7 +20,7 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Épée de l'Émérite</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emerite/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Tranchant V</strong></mark></p>
@@ -38,7 +38,7 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Arc de l'Émérite</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emerite/Arc.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Arc.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Puissance IV</strong></mark></p>
@@ -56,7 +56,7 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Hache de l'Émérite</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emerite/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficaciter V</strong></mark></p>
@@ -73,7 +73,7 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Houe de l'Émérite</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emerite/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Fortune V</strong></mark></p>
@@ -88,7 +88,7 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Pelle de l'Émérite</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emerite/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficaciter V</strong></mark></p>
@@ -104,7 +104,7 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Pioche de l'Émérite</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emerite/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficaciter V</strong></mark></p>
