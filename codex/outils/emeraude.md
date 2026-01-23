@@ -148,7 +148,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Épée en Émeraude</strong></mark></p>
+     <p><mark style="color:green;"><strong>Épée en Émeraude Shiny</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Epee.png" alt=""></figure></p>
    </td>
    <td>
@@ -167,7 +167,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Pioche en Émeraude</strong></mark></p>
+     <p><mark style="color:green;"><strong>Pioche en Émeraude Shiny</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Pioche.png" alt=""></figure></p>
    </td>
    <td>
@@ -183,7 +183,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   </tr>  
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Hache en Émeraude</strong></mark></p>
+     <p><mark style="color:green;"><strong>Hache en Émeraude Shiny</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Hache.png" alt=""></figure></p>
    </td>
    <td>
@@ -198,7 +198,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Houe en Émeraude</strong></mark></p>
+     <p><mark style="color:green;"><strong>Houe en Émeraude Shiny</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Houe.png" alt=""></figure></p>
    </td>
    <td>
@@ -215,7 +215,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Canne à Pêche en Émeraude</strong></mark></p>
+     <p><mark style="color:green;"><strong>Canne à Pêche en Émeraude Shiny</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
@@ -231,7 +231,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   </tr>  
   <tr>
    <td align="center">
-     <p><mark style="color:green;"><strong>Pelle en Émeraude</strong></mark></p>
+     <p><mark style="color:green;"><strong>Pelle en Émeraude Shiny</strong></mark></p>
      <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Pelle.png" alt=""></figure></p>
    </td>
    <td>
