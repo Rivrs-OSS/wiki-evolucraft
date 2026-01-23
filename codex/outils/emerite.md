@@ -75,12 +75,12 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
      <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Hache.png" alt=""></figure></p>
    </td>
    <td>
-     <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Efficaciter V</strong></mark></p>
      <p>▸ <mark style="color:blue;"><strong>Fortune IV</strong></mark></p>
      <p>▸ <mark style="color:blue;"><strong>Tranchant VII</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td align="center"> 
      <p><mark style="color:green;"><strong>350</strong></mark> 💎</p>
@@ -95,7 +95,7 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
      <p>▸ <mark style="color:blue;"><strong>Fortune V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td align="center"> 
      <p><mark style="color:green;"><strong>450</strong></mark> 💎</p>
@@ -107,11 +107,11 @@ Les <mark style="color:green;">outils Émérite</mark> s'obtiennent dans le <mar
      <p><figure><img src="../../.gitbook/assets/Codex/Outils/Emerite/Pelle.png" alt=""></figure></p>
    </td>
    <td>
-     <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Efficaciter V</strong></mark></p>
      <p>▸ <mark style="color:blue;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td align="center"> 
      <p><mark style="color:green;"><strong>350</strong></mark> 💎</p>
