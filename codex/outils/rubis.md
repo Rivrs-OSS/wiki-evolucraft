@@ -24,7 +24,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Épée en Rubis</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Tranchant VI</strong></mark></p>
@@ -40,7 +40,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pioche en Rubis</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Rubis/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VII</strong></mark></p>
@@ -56,7 +56,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Hache en Rubis</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Rubis/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VII</strong></mark></p>
@@ -71,7 +71,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Houe en Rubis</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Rubis/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité V</strong></mark></p>
@@ -87,7 +87,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Canne à Pêche en Rubis</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Rubis/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Chance de la Mer IV</strong></mark></p>
@@ -103,7 +103,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pelle en Rubis</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Rubis/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficaciter VII</strong></mark></p>
@@ -119,7 +119,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Marteau en Rubis</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Rubis/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficaciter V</strong></mark></p>
@@ -145,7 +145,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Épée en Rubis Shiny</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/RubisShiny/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/RubisShiny/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Tranchant VI</strong></mark></p>
@@ -161,7 +161,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pioche en Rubis Shiny</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/RubisShiny/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/RubisShiny/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VII</strong></mark></p>
@@ -177,7 +177,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Hache en Rubis Shiny</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/RubisShiny/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/RubisShiny/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VII</strong></mark></p>
@@ -192,7 +192,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Houe en Rubis Shiny</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/RubisShiny/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/RubisShiny/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité V</strong></mark></p>
@@ -208,7 +208,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Canne à Pêche en Rubis Shiny</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/RubisShiny/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/RubisShiny/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Chance de la Mer IV</strong></mark></p>
@@ -224,7 +224,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pelle en Rubis Shiny</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/RubisShiny/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/RubisShiny/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficaciter VII</strong></mark></p>
@@ -240,7 +240,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Marteau en Rubis Shiny</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/RubisShiny/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/RubisShiny/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficaciter V</strong></mark></p>
