@@ -26,7 +26,7 @@ Les <mark style="color:green;">outils abyssaux</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Houe Abyssal</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Abyssal/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Abyssal/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Solidité I</strong></mark></p>
@@ -59,7 +59,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Épée du Conquistador</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Conquistador/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Conquistador/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant V</strong></mark></p>
@@ -79,7 +79,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pioche du Conquistador</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Conquistador/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Conquistador/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité V</strong></mark></p>
@@ -96,7 +96,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Hache du Conquistador</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Conquistador/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Conquistador/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VII</strong></mark></p>
@@ -112,7 +112,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Houe du Conquistador</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Conquistador/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Conquistador/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
@@ -129,7 +129,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Canne à Pêche du Conquistador</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Conquistador/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Conquistador/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Chance de la mer V</strong></mark></p>
@@ -162,7 +162,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Pioche des Glaces</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Glaces/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Glace/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité VI</strong></mark></p>
@@ -179,7 +179,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Hache des Glaces</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Glaces/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Glace/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
@@ -194,7 +194,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   </tr>
 </table>
 
-## 💕◦ <mark style="color:red;">Outils Cupidon</mark>
+## 👼◦ <mark style="color:red;">Outils Cupidon</mark>
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
@@ -212,7 +212,7 @@ Les <mark style="color:green;">outils cupidons</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Épée du Cupidon</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Cupidon/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Tranchant V</strong></mark></p>
@@ -232,7 +232,7 @@ Les <mark style="color:green;">outils cupidons</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Marteau du Cupidon</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Cupidon/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité V</strong></mark></p>
@@ -267,7 +267,7 @@ Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Épée du Leprechaun</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Leprechaun/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Leprechaun/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
@@ -287,7 +287,7 @@ Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Houe du Leprechaun</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Leprechaun/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Leprechaun/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
@@ -305,7 +305,7 @@ Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Baton du Vent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Leprechaun/BatonDuVent.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Leprechaun/BatonDuVent.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Solidité I</strong></mark></p>
@@ -337,7 +337,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Épée de l'Archéologue</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Archeologue/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Tranchant V</strong></mark></p>
@@ -356,7 +356,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Pioche de l'Archéologue</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Archeologue/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Efficacité VI</strong></mark></p>
@@ -372,7 +372,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Hache de l'Archéologue</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Archeologue/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Efficacité VII</strong></mark></p>
@@ -387,7 +387,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Houe de l'Archéologue</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Archeologue/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Efficacité VI</strong></mark></p>
@@ -404,7 +404,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Canne à Pêchede l'Archéologue</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Archeologue/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Chance de la mer V</strong></mark></p>
@@ -420,7 +420,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Pelle de l'Archéoloque</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Archeologue/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Efficacité VII</strong></mark></p>
@@ -435,7 +435,7 @@ Les <mark style="color:green;">outils de l'archéologues</mark> s'obtiennent dan
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Multi-tools de l'Archéologue</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Archeologue/MultiTools.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Archeologue/MultiTools.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
@@ -467,7 +467,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Marteau en Pain d'épice</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/PainDepice/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/PainDepice/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
