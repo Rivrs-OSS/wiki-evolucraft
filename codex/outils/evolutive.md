@@ -28,7 +28,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Épée évolutive level 1</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee1.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee/Epee1.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant II</strong></mark></p>
@@ -44,7 +44,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Épée évolutive level 2</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee2.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee/Epee2.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant III</strong></mark></p>
@@ -61,7 +61,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Épée évolutive level 3</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee3.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee/Epee3.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant IV</strong></mark></p>
@@ -80,7 +80,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Épée évolutive level 4</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee4.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee/Epee4.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant V</strong></mark></p>
@@ -99,7 +99,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Épée évolutive level 5</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee5.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Epee/Epee5.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant VI</strong></mark></p>
@@ -129,7 +129,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pioche évolutive level 1</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche1.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche/Pioche1.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
@@ -144,7 +144,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pioche évolutive level 2</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche2.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche/Pioche2.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité IV</strong></mark></p>
@@ -160,7 +160,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pioche évolutive level 3</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche3.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche/Pioche3.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité V</strong></mark></p>
@@ -175,7 +175,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pioche évolutive level 4</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche4.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche/Pioche4.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
@@ -191,7 +191,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pioche évolutive level 5</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche5.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pioche/Pioche5.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VII</strong></mark></p>
@@ -219,7 +219,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Hache évolutive level 1</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache1.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache/Hache1.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
@@ -234,7 +234,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Hache évolutive level 2</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache2.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache/Hache2.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité IV</strong></mark></p>
@@ -250,7 +250,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Hache évolutive level 3</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache3.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache/Hache3.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité V</strong></mark></p>
@@ -265,7 +265,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Hache évolutive level 4</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache4.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache/Hache4.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VII</strong></mark></p>
@@ -281,7 +281,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Hache évolutive level 5</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache5.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache/Hache5.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VII</strong></mark></p>
@@ -308,7 +308,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Houe évolutive level 1</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe1.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe/Houe1.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Fortune I</strong></mark></p>
@@ -323,7 +323,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Houe évolutive level 2</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe2.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe/Houe2.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Fortune II</strong></mark></p>
@@ -337,7 +337,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Houe évolutive level 3</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe3.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe/Houe3.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité V</strong></mark></p>
@@ -352,7 +352,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Houe évolutive level 4</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe4.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe/Houe4.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
@@ -369,7 +369,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Houe évolutive level 5</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe5.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Houe/Houe5.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VII</strong></mark></p>
@@ -397,7 +397,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Canne à pêche évolutive level 1</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/CanneAPeche1.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Canne A Peche/CanneAPeche1.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Chance de la mer II</strong></mark></p>
@@ -413,7 +413,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Canne à pêche level 2</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/CanneAPeche2.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Canne A Peche/CanneAPeche2.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Chance de la mer III</strong></mark></p>
@@ -429,7 +429,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Canne à pêche évolutive level 3</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/CanneAPeche3.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Canne A Peche/CanneAPeche3.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Chance de la mer VI</strong></mark></p>
@@ -445,7 +445,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Canne à pêche évolutive level 4</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/CanneAPeche4.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Canne A Peche/CanneAPeche4.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Chance de la mer V</strong></mark></p>
@@ -462,7 +462,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Canne à pêche évolutive level 5</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/CanneAPeche5.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Canne A Peche/CanneAPeche5.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Chance de la mer VI</strong></mark></p>
@@ -490,7 +490,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pelle évolutive level 1</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle1.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle/Pelle1.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
@@ -505,7 +505,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pelle évolutive level 2</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle2.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle/Pelle2.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
@@ -521,7 +521,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pelle évolutive level 3</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle3.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle/Pelle3.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité V</strong></mark></p>
@@ -536,7 +536,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pelle évolutive level 4</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle4.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle/Pelle4.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
@@ -553,7 +553,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pelle évolutive level 5</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle5.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Pelle/Pelle5.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VII</strong></mark></p>
