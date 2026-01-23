@@ -35,7 +35,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fléau des arthropodes I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**5 000 Mobs tuées**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Mobs tuées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -52,7 +52,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Affliage I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**25 000 Mobs tuées**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Mobs tuées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -71,7 +71,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Butin III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**100 000 Mobs tuées**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Mobs tuées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -90,7 +90,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Butin IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**500 000 Mobs tuées**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Mobs tuées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tappe 5% plus vite</p>
@@ -135,7 +135,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**5 000 Blocks cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Blocks cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -151,7 +151,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**25 000 Blocks cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Blocks cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -167,7 +167,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune II</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**100 000 Blocks cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Blocks cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -182,7 +182,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**500 000 Blocks cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Blocks cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -225,7 +225,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**5 000 Bûches cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Bûches cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -241,7 +241,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**25 000 Bûches cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Bûches cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -257,7 +257,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune II</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**100 000 Bûches cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Bûches cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -272,7 +272,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**500 000 Bûches cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Bûches cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -314,7 +314,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**5 000 Cultures cassées**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Cultures cassées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -329,7 +329,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune II</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**25 000 Cultures cassées**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Cultures cassées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -344,7 +344,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**100 000 Cultures cassées**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Cultures cassées</strong></mark></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone 1X1.</p>
@@ -359,7 +359,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**500 000 Cultures cassées**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Cultures cassées</strong></mark></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les cultures cassées.</p>
@@ -404,7 +404,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Appât II</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**350 Poissons pêchés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>350 Poissons pêchés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -420,10 +420,10 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Appât III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**1 000 Poissons pêchés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>1 000 Poissons pêchés</strong></mark></p>
    </td>
    <td>
-     <p>▸ <mark style="color:yellow;">**Effet Pêche**</mark> : Vous avez 5% de chance de doubler votre pêche.</p>
+     <p>▸ <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 5% de chance de doubler votre pêche.</p>
    </td>
   </tr>
   <tr>
@@ -436,10 +436,10 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Appât IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**2 500 Poissons pêchés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>2 500 Poissons pêchés</strong></mark></p>
    </td>
    <td>
-     <p>▸ <mark style="color:yellow;">**Effet Pêche**</mark> : Vous avez 10% de chance de doubler votre pêche.</p>
+     <p>▸ <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 10% de chance de doubler votre pêche.</p>
    </td>
   </tr>
   <tr>
@@ -452,10 +452,10 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Appât V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**5 000 Poissons pêchés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Poissons pêchés</strong></mark></p>
    </td>
    <td>
-     <p>▸ <mark style="color:yellow;">**Effet Pêche**</mark> : Vous avez 15% de chance de doubler votre pêche.</p>
+     <p>▸ <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 15% de chance de doubler votre pêche.</p>
    </td>
    </td>
   </tr>
@@ -473,7 +473,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p><mark style="color:yellow;"><strong>1 750</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>▸ <mark style="color:yellow;">**Effet Pêche**</mark> : Vous avez 25% de chance de doubler votre pêche.</p>
+     <p>▸ <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 25% de chance de doubler votre pêche.</p>
    </td>
   </tr>
 </table>
@@ -496,7 +496,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**5 000 Blocks cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Blocks cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -512,7 +512,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**25 000 Blocks cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Blocks cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -528,7 +528,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**100 000 Blocks cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Blocks cassés</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -543,7 +543,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent sois dans l
      <p>▸ <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;">**Objectif**</mark> de <mark style="color:yellow;">**500 000 Blocks cassés**</mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Blocks cassés</strong></mark></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les blocs cassées.</p>
