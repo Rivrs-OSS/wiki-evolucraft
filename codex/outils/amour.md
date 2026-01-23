@@ -23,7 +23,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Épée de l'Amour</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Amour/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Amour/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Tranchant V</strong></mark></p>
