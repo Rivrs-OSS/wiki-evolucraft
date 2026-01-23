@@ -162,7 +162,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Pioche des Glaces</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Glaces/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Glace/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité VI</strong></mark></p>
@@ -179,7 +179,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Hache des Glaces</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Glaces/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Glace/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
@@ -212,7 +212,7 @@ Les <mark style="color:green;">outils cupidons</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Épée du Cupidon</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Cupidon/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Tranchant V</strong></mark></p>
@@ -232,7 +232,7 @@ Les <mark style="color:green;">outils cupidons</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Marteau du Cupidon</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Cupidon/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité V</strong></mark></p>
