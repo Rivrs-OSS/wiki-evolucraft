@@ -74,7 +74,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Houe en Émeraude</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Sompteueux/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
