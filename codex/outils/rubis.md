@@ -34,7 +34,7 @@ Les <mark style="color:green;">outils en Rubis</mark> s'obtiennent dans la [<mar
      <p><mark style="color:red;"><strong>3 500</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p><strong><mark style="color:red;">Effet Dextérité</mark></strong> : Tappe 15% plus vite</p>
+     <p>▸ <strong><mark style="color:red;">Effet Dextérité</mark></strong> : Tappe 15% plus vite</p>
    </td>
   </tr>
   <tr>
