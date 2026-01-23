@@ -149,7 +149,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Épée en Émeraude</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
@@ -168,7 +168,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Pioche en Émeraude</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
@@ -184,7 +184,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Hache en Émeraude</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
@@ -199,7 +199,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Houe en Émeraude</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Sompteueux/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
@@ -216,7 +216,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Canne à Pêche en Émeraude</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Chance de la Mer IV</strong></mark></p>
@@ -232,7 +232,7 @@ Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Pelle en Émeraude</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Emeraude/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../.gitbook/assets/Codex/Outils/EmeraudeShiny/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficaciter VI</strong></mark></p>
