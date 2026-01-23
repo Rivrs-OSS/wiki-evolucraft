@@ -26,7 +26,7 @@ Les <mark style="color:green;">outils de l'Aventurier</mark> s'obtiennent dans l
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Épée de l'Aventurier</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Aventurier/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Aventurier/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
