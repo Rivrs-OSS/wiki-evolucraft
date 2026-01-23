@@ -47,7 +47,7 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 * **[Parchemin Facile 🟢](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-facile)**
 * **Le /AFK💤**
 * **Les récompenses des niveau de métiers ⚒️**
-* **Les récompenses des [Donjons Rares 🟨](https://wiki.evolucraft.fr/codex/donjons/rare) et [Donjons Draconiques 🐉](https://wiki.evolucraft.fr/codex/donjons/draconique)**
+* **Les récompenses des [Donjon Rare 🟨](https://wiki.evolucraft.fr/codex/donjons/rare), [Donjon Draconique 🐉](https://wiki.evolucraft.fr/codex/donjons/draconique) et [Donjon Caverne Glaciale ⛰️](https://wiki.evolucraft.fr/codex/donjons/caverne)**
 * **Le [/rewards 🕒](https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#le-rewards)**
 * **Les offres du /boutique 🛒** *(100 gemmes 💎)*
 
@@ -81,8 +81,8 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 Le <mark style="color:green;">Parchemin Difficile</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
 * **[Parchemin Avancé 🟡](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-avance)**
-* **Les récompenses des niveaux de métiers ⚒️**
-* **Les récompenses des [Donjons Épiques 🟦](https://wiki.evolucraft.fr/codex/donjons/epique), [Donjons Légendaires 🟪](https://wiki.evolucraft.fr/codex/donjons/legendaire) et [Donjons Draconiques 🐉](https://wiki.evolucraft.fr/codex/donjons/draconique)**
+* **Les récompenses des niveau de métiers ⚒️**
+* **Les récompenses des [Donjon Épique 🟦](https://wiki.evolucraft.fr/codex/donjons/epique), [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/codex/donjons/legendaire), [Donjon Draconique 🐉](https://wiki.evolucraft.fr/codex/donjons/draconique), [Donjon Caverne Glaciale ⛰️](https://wiki.evolucraft.fr/codex/donjons/caverne) et [Donjon Laboratoire Glaciale ⚗️](https://wiki.evolucraft.fr/codex/donjons/labo)**
 * **La Caisse [Émeraude ✳️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-emeraude)**
 * **Les offres du /boutique 🛒** *(150 gemmes 💎)*
 
@@ -116,8 +116,8 @@ Le <mark style="color:green;">Parchemin Difficile</mark> s'obtient de plusieurs 
 Le <mark style="color:purple;">Parchemin Expert</mark> s'obtient de plusieurs façon, dont :
 * **Parchemin Aléatoire ❔**
 * **[Parchemin Difficile 🔵](https://wiki.evolucraft.fr/codex/parchemin/classique#parchemin-epique)**
-* **Les récompenses des niveaux de métiers ⚒️**
-* **Les récompenses des [Donjons Légendaires 🟪](https://wiki.evolucraft.fr/codex/donjons/legendaire) et [Donjons Mythiques 🟥](https://wiki.evolucraft.fr/codex/donjons/mythique)**
+* **Les récompenses des niveau de métiers ⚒️**
+* **Les récompenses des [Donjon Légendaire 🟪](https://wiki.evolucraft.fr/codex/donjons/legendaire), [Donjon Mythique 🟥](https://wiki.evolucraft.fr/codex/donjons/mythique) et [Donjon Laboratoire Glaciale ⚗️](https://wiki.evolucraft.fr/codex/donjons/labo)**
 * **La Caisse [Rubis 🔻](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-rubis)**
 * **Les offres du /boutique 🛒** *(200 gemmes 💎)*
 

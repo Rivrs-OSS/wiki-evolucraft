@@ -24,7 +24,7 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Épée de Saphira</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Saphira/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Tranchant VI</strong></mark></p>
@@ -41,7 +41,7 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Hache de Saphira</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Saphira/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité VI</strong></mark></p>
@@ -56,7 +56,7 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Houe de Saphira</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Saphira/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
@@ -73,7 +73,7 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Canne à pêche de Saphira</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Saphira/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Chance de la Mer IV</strong></mark></p>
@@ -89,7 +89,7 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Pelle de Saphira</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Saphira/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité VII</strong></mark></p>
@@ -105,7 +105,7 @@ Le pass Saphira <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Marteau de Saphira</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Rubis/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Saphira/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
