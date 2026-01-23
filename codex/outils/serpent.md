@@ -26,7 +26,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Dague du Serpent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Dague.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/Dague.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
@@ -42,7 +42,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Lance du Serpent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Lance.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/Lance.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
@@ -61,7 +61,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Arc du Serpent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Arc.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/Arc.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Puissance VII</strong></mark></p>
@@ -79,7 +79,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Pioche du Serpent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
@@ -95,7 +95,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Hache du Serpent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité VII</strong></mark></p>
@@ -110,7 +110,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Houe du Serpent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
@@ -127,7 +127,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Canne à Pêche du Serpent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Chance de la Mer V</strong></mark></p>
@@ -143,7 +143,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Pelle du Serpent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficaciter VII</strong></mark></p>
@@ -159,7 +159,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Marteau du Serpent</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Serpent/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
