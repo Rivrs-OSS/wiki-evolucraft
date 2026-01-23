@@ -21,7 +21,7 @@ L' <mark style="color:green;">épée et le marteau Cupidon</mark> s'obtiennent d
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Épée du Cupidon</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Cupidon/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Tranchant V</strong></mark></p>
@@ -41,7 +41,7 @@ L' <mark style="color:green;">épée et le marteau Cupidon</mark> s'obtiennent d
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Marteau du Cupidon</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Cupidon/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité V</strong></mark></p>
@@ -78,7 +78,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pioche de Cupidon</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Cupidon/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
@@ -94,7 +94,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Hache de Cupidon</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Cupidon/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
@@ -109,7 +109,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Houe de Cupidon</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Cupidon/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité V</strong></mark></p>
@@ -127,7 +127,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Canne à Pêche de Cupidon</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Cupidon/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Chance de la Mer IV</strong></mark></p>
@@ -143,7 +143,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Pelle de Cupidon</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Cupidon/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Cupidon/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficaciter VI</strong></mark></p>
