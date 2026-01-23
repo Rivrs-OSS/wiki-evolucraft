@@ -23,7 +23,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Holy-Sword</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/HolyCube/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Tranchant V</strong></mark></p>
@@ -37,7 +37,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Holy-Pickaxe</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/HolyCube/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
@@ -50,7 +50,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Holy-Axe</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/HolyCube/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
@@ -63,7 +63,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Holy-Hoe</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/HolyCube/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Efficacité V</strong></mark></p>
@@ -76,7 +76,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Holy-Fishing Rod</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/HolyCube/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Chance de la Mer III</strong></mark></p>
@@ -89,7 +89,7 @@ Cette commande <mark style="color:green;">**n'est plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:orange;"><strong>Holy-Shovel</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/HolyCube/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/HolyCube/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:orange;"><strong>Efficaciter V</strong></mark></p>
