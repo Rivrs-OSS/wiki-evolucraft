@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici toutes la liste de tout les Outils de Maître présents sur le
+  Retrouvez ici la liste de tous les Outils de Maître présents sur le
   serveur.
 ---
 
@@ -10,7 +10,7 @@ description: >-
 
 Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les [<mark style="color:green;">**paliers de métiers**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers#progression) en les récupérant avec la commande <mark style="color:green;">**`/jobs claim`**</mark>.
 
-## 🔷 <mark style="color:blue;">Son aperçue 🔍</mark>
+## 🔷 <mark style="color:blue;">Son aperçu 🔍</mark>
 
 ### 🔹 Outils de Métiers
 

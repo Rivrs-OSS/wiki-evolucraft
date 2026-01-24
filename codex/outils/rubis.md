@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici toutes la liste de tout les Outils en Rubis présents sur le
+  Retrouvez icila liste de tous les Outils en Rubis présents sur le
   serveur.
 ---
 

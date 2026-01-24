@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici toutes la liste de tout les Outils non catégorisés présents sur
+  Retrouvez ici toute la liste des Outils non catégorisés présents sur
   le serveur.
 ---
 
@@ -10,7 +10,7 @@ description: >-
 
 Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légèrement différent : contrairement aux <mark style="color:green;">**outils classiques**</mark> destinés à faciliter la progression dans vos métiers, ceux-ci agissent davantage comme des <mark style="color:green;">**accessoires pratiques**</mark>. Ils sont conçus pour vous aider dans vos <mark style="color:green;">**constructions**</mark> ou lors de vos <mark style="color:green;">**recherches**</mark>.
 
-## 💠 <mark style="color:green;">Les des autre outils</mark>
+## 💠 <mark style="color:green;">Les autres outils</mark>
 
 ### 🪣 ◦ <mark style="color:green;">Seau d'eau infini</mark>
 

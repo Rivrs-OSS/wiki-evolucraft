@@ -4,14 +4,14 @@ description: Retrouvez ici toutes les informations concernant la classe Guerrier
 
 # 🐲 Guerrier Dragon
 
-aîtrisez la puissance draconique pour dominer le champ de bataille, infligeant des dégâts impressionnants tout en renforçant votre défense et vos compétences spéciales.
+Maîtrisez la puissance draconique pour dominer le champ de bataille, infligeant des dégâts impressionnants tout en renforçant votre défense et vos compétences spéciales.
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Guerrier_Dragon.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Guerrier Dragon</strong></p></figcaption></figure>
 
 ## 💠 <mark style="color:purple;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -311,7 +311,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssal 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
     </td>
   </tr>
   <tr>

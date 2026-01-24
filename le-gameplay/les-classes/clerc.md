@@ -11,7 +11,7 @@ Maîtrisez les arts sacrés pour soutenir vos alliés et infliger des dégâts d
 ## 💠 <mark style="color:purple;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -299,7 +299,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssal 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
     </td>
   </tr>
   <tr>

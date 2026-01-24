@@ -28,11 +28,11 @@ Le <mark style="color:green;">`/rewards`</mark> vous permet de <mark style="colo
 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
 
-Lorsque vous atteignez le dernier palier, une <mark style="color:green;">carte aléatoire commune</mark> vous sera donnée.
+Lorsque vous atteindrez le dernier palier, une <mark style="color:green;">carte aléatoire commune</mark> vous sera donnée.
 
 **◻️&#x20;**<mark style="color:blue;">**Le**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`/afk`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**💤**</mark>
 
-Le <mark style="color:green;">`/afk`</mark> est un espace où, si vous restez inactif pendant 15 minutes _(pour les joueurs sans grade)_, vous êtes téléporté à cet endroit et un affichage vous indique ce que vous avez gagné en étant à l'intérieur.
+Le <mark style="color:green;">`/afk`</mark> est un espace où, si vous restez inactif pendant 15 minutes _(pour les joueurs sans grade)_, vous êtes téléporté, et un affichage vous indique ce que vous avez gagné en étant à l'intérieur.
 
 Pour y <mark style="color:green;">gagner une carte de classe aléatoire</mark>, il faudra y <mark style="color:green;">rester afk</mark> pendant <mark style="color:green;">12H</mark>.
 
@@ -81,7 +81,7 @@ Cliquez sur le bouton <mark style="color:green;">"Choisir"</mark> pour sélectio
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Classe/Choisir.png" alt=""><figcaption><p><strong>Aperçu de l’interface de la </strong><mark style="color:green;"><strong>Classe Samouraï</strong></mark></p></figcaption></figure>
 
 {% hint style="warning" %}
-**🚨&#x20;**<mark style="color:green;">**IMPORTANT**</mark>**&#x20;🚨 : Vous devez choisir une classe où vous avez au minimum une&#x20;**<mark style="color:green;">**carte déposée**</mark>**&#x20;dans le menu.** Pour vérifier si vous avez déposé des cartes dans une classe, cliquez sur la classe voulue puis passez votre souris sur le bouton "Choisir". Il vous indiquera si vous avez des cartes de cette classe déposées.
+**🚨&#x20;**<mark style="color:green;">**IMPORTANT**</mark>**&#x20;🚨 : Vous devez choisir une classe pour laquelle vous avez au minimum une&#x20;**<mark style="color:green;">**carte déposée**</mark>**&#x20;dans le menu.** Pour vérifier si vous avez déposé des cartes dans une classe, cliquez sur la classe voulue puis passez votre souris sur le bouton "Choisir". Il vous indiquera si vous avez des cartes de cette classe déposées.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Classe/NombreCarte.png" alt=""><figcaption><p><strong>Indication du </strong><mark style="color:green;"><strong>nombre de cartes</strong></mark></p></figcaption></figure>

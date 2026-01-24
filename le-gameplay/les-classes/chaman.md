@@ -11,7 +11,7 @@ Manipulez la lumière et les éléments pour soigner, attaquer et soutenir vos a
 ## 💠 <mark style="color:blue;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -302,7 +302,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssal 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
     </td>
   </tr>
   <tr>

@@ -3,23 +3,23 @@ description: >-
   Retrouvez ici toutes la liste de tout les Outils Sompteueux disponible durant le Pass Black Friday 2025 présents sur le serveur.
 ---
 
-# 💫 Outils Sompteueux
+# 💫 Outils Somptueux
 <!--- Oui il y a une faute de frappe dans la catégorie de l'item --->
 
 ## 🔹 <mark style="color:yellow;">Son obtention 🤔</mark>
 
-#### Les <mark style="color:yellow;">**outils Sompteueux**</mark> s'obtennaient dans le <mark style="color:yellow;">**Pass Black Friday de 2025**</mark> durant la <mark style="color:yellow;">**mise à jour Black Friday**</mark>
+#### Les <mark style="color:yellow;">**outils Somptueux**</mark> s'obtenaient dans le <mark style="color:yellow;">**Pass Black Friday de 2025**</mark> durant la <mark style="color:yellow;">**mise à jour Black Friday**</mark>
 
 {% hint style="warning" %}
-Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenables uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 {% endhint %}
 
-## 🔷 <mark style="color:yellow;">Son aperçue 🔍</mark>
+## 🔷 <mark style="color:yellow;">Son aperçu 🔍</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
-    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
     <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
     <td align="center"><strong><ins>Effet</ins> ✨</strong></td> 
   </tr>
@@ -32,11 +32,11 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant V</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Châtiment VI</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Fléau des arthropodes VI</strong></mark></p>
-     <p>▸ <mark style="color:yellow;"><strong>Affliage III</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Affilage III</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Butin III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>2 500</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>2 500</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -52,7 +52,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p>▸ <mark style="color:yellow;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>2 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>2 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -67,7 +67,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>2 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>2 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -83,7 +83,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p>▸ <mark style="color:yellow;"><strong>Fortune IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>4 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>4 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>  
     <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
@@ -100,7 +100,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p>▸ <mark style="color:yellow;"><strong>Appât IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>750</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>750</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -112,11 +112,11 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
      <p><figure><img src="../../.gitbook/assets/Codex/Outils/Sompteueux/Pelle.png" alt=""></figure></p>
    </td>
    <td>
-     <p>▸ <mark style="color:yellow;"><strong>Efficaciter VI</strong></mark></p>
-     <p>▸ <mark style="color:yellow;"><strong>Toucher de Soi</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Toucher de Soie</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>2 500</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>2 500</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>

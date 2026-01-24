@@ -12,7 +12,7 @@ Les donjons sont une nouvelle fonctionnalité sur Evolucraft, offrant des aventu
 
 ## <mark style="color:green;">💠 Où trouver un donjon ? 📍</mark>
 
-Les donjons apparaissent <mark style="color:green;">aléatoirement</mark> dans le <mark style="color:green;">monde ressource</mark> et <mark style="color:green;">le nether</mark>, avec au minimum <mark style="color:green;">un type de donjon par monde ressource</mark>, qu'il s'agisse de donjons basiques ou de donjons événements.
+Les donjons apparaissent <mark style="color:green;">aléatoirement</mark> dans le <mark style="color:green;">monde ressource</mark> et <mark style="color:green;">le nether</mark>, avec au minimum <mark style="color:green;">un type de donjon par monde ressource</mark>, qu'il s'agisse de donjons basiques ou de donjons événementiels.
 
 ## <mark style="color:green;">💠 Comment trouver un donjon ? 🔍</mark>
 
@@ -36,7 +36,7 @@ Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre
 
 ## <mark style="color:green;">💠 Comment inviter des joueurs dans un donjon ? 👥</mark>
 
-Avec le **<mark style="color:green;">`/party`</mark>**, elle permettra, à la personne ayant **<mark style="color:green;">créé le groupe</mark>**, de gérer les **<mark style="color:green;">joueurs entrant dans un donjon</mark>** avec elle.  
+Avec le **<mark style="color:green;">`/party`</mark>**, qui permettra, à la personne ayant **<mark style="color:green;">créé le groupe</mark>**, de gérer les **<mark style="color:green;">joueurs entrant dans un donjon</mark>** avec elle.  
 Fini les **<mark style="color:green;">vols de donjon</mark>** ou les **<mark style="color:green;">téléportations trop proches</mark>** !
 
 ### 🔸 Un donjon trouvé
@@ -149,5 +149,5 @@ Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres<
 |                                   X                                   |                                       X                                      |                                        X                                       |       <mark style="color:purple;">Pierre du Haut d'Atlas (Musée)</mark>       | <mark style="color:red;">Main Gauche du T-Rex (Musée)</mark>         |
 
 {% hint style="info" %}
-Tous les monstres peuvent lâcher un coffre contenant un cristal de donjons, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
+Tous les monstres peuvent lâcher un coffre contenant un cristal de donjon, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
 {% endhint %}

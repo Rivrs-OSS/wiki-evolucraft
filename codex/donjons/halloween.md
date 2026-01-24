@@ -33,7 +33,7 @@ Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :
 
 |                                                                                     |
 |:-----------------------------------------------------------------------------------:|
-| <mark style="color:orange;"><strong>Cartes Aléatoire de Classe Rare</strong></mark> |
+| <mark style="color:orange;"><strong>Cartes Aléatoires de Classe Rare</strong></mark> |
 | <mark style="color:orange;"><strong>Parchemin Halloween</strong></mark>             |
 | <mark style="color:orange;"><strong>50 000 💲</strong></mark>                       |
 | <mark style="color:orange;"><strong>100 000 💲</strong></mark>                      |

@@ -11,7 +11,7 @@ L'Archer est une classe spécialisée dans les attaques à distance, utilisant d
 ## 💠 <mark style="color:green;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -134,7 +134,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
     </td>
-    <td>"5% d'infliger poison à l'ennemi"</td>
+    <td>"5% de chance d'infliger poison à l'ennemi"</td>
     <td>Donjon Biome Jungle</td>
   </tr>
   <tr>
@@ -143,7 +143,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
     </td>
-    <td>"10% d'infliger poison à l'ennemi"</td>
+    <td>"10% de chance  d'infliger poison à l'ennemi"</td>
     <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
     </td>
-    <td>"15% d'infliger poison à l'ennemi"</td>
+    <td>"15% de chance  d'infliger poison à l'ennemi"</td>
     <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
     </td>
-    <td>"20% d'infliger poison à l'ennemi"</td>
+    <td>"20% de chance  d'infliger poison à l'ennemi"</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -170,7 +170,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
     </td>
-    <td>"25% d'infliger poison à l'ennemi"</td>
+    <td>"25% de chance  d'infliger poison à l'ennemi"</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -316,7 +316,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>X</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssal 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
     </td>
   </tr>
   <tr>

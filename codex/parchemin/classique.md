@@ -1,8 +1,10 @@
 ---
-description: Retrouvez ici la liste des parchemins classiques présents sur le serveur.
+
+description: Retrouvez ici la liste des parchemins classiques présents sur le serveur
 ---
 
-# 🧧 Parchemins Classique
+# 🧧 Parchemins Classiques
+
 
 ## 🟢 <mark style="color:green;">Parchemin Facile</mark>
 
@@ -19,10 +21,10 @@ Le <mark style="color:green;">Parchemin Facile</mark> s'obtient de plusieurs fa�
 
 | **Récompense**                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
-| <mark style="color:green;">**8 Blocks de Fer**</mark>                                                     | 
-| <mark style="color:green;">**4 Blocks de Lapis-Lazuli**</mark>                                            | 
-| <mark style="color:green;">**1 Block de Diamant**</mark>                                                  | 
-| <mark style="color:green;">**1 Block d'Obsidienne Pleureuse**</mark>                                      | 
+| <mark style="color:green;">**8 Blocs de Fer**</mark>                                                     | 
+| <mark style="color:green;">**4 Blocs de Lapis-Lazuli**</mark>                                            | 
+| <mark style="color:green;">**1 Bloc de Diamant**</mark>                                                  | 
+| <mark style="color:green;">**1 Bloc d'Obsidienne Pleureuse**</mark>                                      | 
 | <mark style="color:green;">**Spawner à Lapin**</mark>                                                     | 
 | <mark style="color:green;">**Spawner à Poule**</mark>                                                     | 
 | <mark style="color:green;">**Spawner à Mouton**</mark>                                                    | 
@@ -53,8 +55,8 @@ Le <mark style="color:yellow;">Parchemin Avancé</mark> s'obtient de plusieurs f
 
 | **Récompense**                                                                                               |
 | ------------------------------------------------------------------------------------------------------------ |
-| <mark style="color:yellow;">**4 Blocks de Diamant**</mark>                                                   |
-| <mark style="color:yellow;">**1 Lingots de Netherite**</mark>                                                |
+| <mark style="color:yellow;">**4 Bloks de Diamant**</mark>                                                   |
+| <mark style="color:yellow;">**1 Lingot de Netherite**</mark>                                                |
 | <mark style="color:yellow;">**2 têtes de Wither Squelette**</mark>                                           | 
 | <mark style="color:yellow;">**2 Carapaces de Shulker**</mark>                                                | 
 | <mark style="color:yellow;">**Spawner à Vache**</mark>                                                       | 
@@ -88,7 +90,7 @@ Le <mark style="color:green;">Parchemin Difficile</mark> s'obtient de plusieurs 
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**8 Blocks de Diamant**</mark>                                      |
+| <mark style="color:blue;">**8 Blocs de Diamant**</mark>                                      |
 | <mark style="color:blue;">**4 Lingots de Netherite**</mark>                                   |
 | <mark style="color:blue;">**3 Étoiles du nether**</mark>                                      | 
 | <mark style="color:blue;">**3 Éponges**</mark>                                                | 
@@ -123,12 +125,12 @@ Le <mark style="color:purple;">Parchemin Expert</mark> s'obtient de plusieurs fa
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:purple;">**1 Block de Netherite**</mark>                                   |
-| <mark style="color:purple;">**2 Blocks d'Émeraude**</mark>                                    |
+| <mark style="color:purple;">**1 Bloc de Netherite**</mark>                                   |
+| <mark style="color:purple;">**2 Blocs d'Émeraude**</mark>                                    |
 | <mark style="color:purple;">**1 Pomme dorée Enchantée**</mark>                                |
 | <mark style="color:purple;">**1 Totem d'immortalité**</mark>                                  | 
 | <mark style="color:purple;">**1 Coeur de la Mer**</mark>                                      | 
-| <mark style="color:purple;">**Spawner à Araigné Venimeuse**</mark>                            | 
+| <mark style="color:purple;">**Spawner à Araignée Venimeuse**</mark>                            | 
 | <mark style="color:purple;">**Spawner à Blaze**</mark>                                        | 
 | <mark style="color:purple;">**Spawner à Enderman**</mark>                                     | 
 | <mark style="color:purple;">**Spawner à Piglin Zombifié**</mark>                              |
@@ -153,7 +155,7 @@ Le <mark style="color:red;">Parchemin Impossible</mark> s'obtient de plusieurs f
 * **Les récompenses de [Donjon Mythique 🟥](https://wiki.evolucraft.fr/codex/donjons/mythique)**
 * **Les Caisses :**
   * **[Draconique 🐉](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique)**
-  * **[Abyssal 🌊](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal)**
+  * **[Abyssale 🌊](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal)**
   * **[Trésors 🏴‍☠️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors)**
   * **[St-Patrick 🍀](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick)** *(avec 2 parchemins)*
 * **Les offres du /boutique 🛒** *(300 gemmes 💎)*
@@ -162,7 +164,7 @@ Le <mark style="color:red;">Parchemin Impossible</mark> s'obtient de plusieurs f
 
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
-| <mark style="color:red;">**8 Blocks d'Émeraude**</mark>                                       |
+| <mark style="color:red;">**8 Blocs d'Émeraude**</mark>                                       |
 | <mark style="color:red;">**2 Pommes dorées Enchantées**</mark>                                |
 | <mark style="color:red;">**Spawner à Gardien**</mark>                                         | 
 | <mark style="color:red;">**Spawner à Golem de Fer**</mark>                                    | 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici toutes la liste de tout les Outils disponible durant le Pass
+  Retrouvez ici la liste de tous les Outils disponibles durant le Pass
   Serpent présents sur le serveur.
 ---
 
@@ -8,13 +8,13 @@ description: >-
 
 ## 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-#### Les <mark style="color:green;">**outils du Serpent**</mark> s'obtennaient dans le <mark style="color:green;">**Pass Serpent**</mark> durant la <mark style="color:green;">**mise à jour Serpent**</mark>
+#### Les <mark style="color:green;">**outils du Serpent**</mark> s'obtenaient dans le <mark style="color:green;">**Pass Serpent**</mark> durant la <mark style="color:green;">**mise à jour Serpent**</mark>
 
 {% hint style="warning" %}
-Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenable uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les items sont donc obtenables uniquement à <mark style="color:green;">l'achat entre joueurs</mark> ou dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 {% endhint %}
 
-## 🔹 <mark style="color:green;">Son aperçue 🔍</mark>
+## 🔹 <mark style="color:green;">Son aperçu 🔍</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>

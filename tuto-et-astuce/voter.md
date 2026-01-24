@@ -3,7 +3,7 @@ description: Retrouvez ici le tuto pour savoir comment voter pour le serveur !
 ---
 # 📩 Comment voter sur le serveur ?
 
-Voter pour le serveur vous permets de contribuer au serveur en plus de votre présence sur le serveur, tout en remportants des récompenses 🎁 ! 
+Voter pour le serveur vous permet de contribuer au serveur en plus de votre présence sur le serveur, tout en remportant des récompenses 🎁 ! 
 
 ## 💠 Quels sont les étapes pour voter ? ✅
 

@@ -68,7 +68,7 @@ Si au contraire, vous souhaitez <mark style="color:green;"><strong>supprimer la 
 
 Si vous souhaitez transférer la <mark style="color:green;"><strong>propriété</strong></mark> de votre pwarp à un autre joueur, il faudra réaliser la commande : <mark style="color:green;"><strong>`/pwarp setowner [Nom du pwarp] [Pseudo du joueur]`</strong></mark>
 
-Le <mark style="color:green;"><strong>joueur devra ensuite accepter</strong></mark> avec le <mark style="color:green;"><strong>`/pwarp setowner accept [Nom du pwarp]`</strong></mark>. Ou de <mark style="color:green;"><strong>refuser avec le <mark style="color:green;"><strong>`/pwarp setowner cancel [Nom du pwarp]`</strong></mark>.
+Le <mark style="color:green;"><strong>joueur devra ensuite accepter</strong></mark> avec le <mark style="color:green;"><strong>`/pwarp setowner accept [Nom du pwarp]`</strong></mark>. Ou sera libre de <mark style="color:green;"><strong>refuser avec le <mark style="color:green;"><strong>`/pwarp setowner cancel [Nom du pwarp]`</strong></mark>.
 
 ## <mark style="color:green;"><strong>📔 Informations sur les pwarps</strong></mark>
 

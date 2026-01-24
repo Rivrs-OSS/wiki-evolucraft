@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici toutes la liste de tout les Outils en Émeraude présents sur le
+  Retrouvez ici la liste de tous les Outils en Émeraude présents sur le
   serveur.
 ---
 
@@ -10,7 +10,7 @@ description: >-
 
 Les <mark style="color:green;">outils en Émeraude</mark> s'obtiennent dans la [<mark style="color:green;">caisse Émeraude</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-emeraude).
 
-## 🔷 <mark style="color:green;">Son aperçue 🔍</mark>
+## 🔷 <mark style="color:green;">Son aperçu 🔍</mark>
 
 ### 🔹 Outils en Émeraude
 

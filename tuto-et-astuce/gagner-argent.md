@@ -22,15 +22,15 @@ Puis, il vous suffira de cliquer sur "<mark style="color:green;">Action rémuné
 
 <figure><img src="../.gitbook/assets/Jobs/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>menu du jobs Mineur</strong></mark></p></figcaption></figure>
 
-Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action</mark> (casser, tuer, pêcher, etc.) avec les <mark style="color:green;">actions possibles</mark> et <mark style="color:green;">leur gain associé</mark> (Argent et XP métier)
+Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action</mark> (casser, tuer, pêcher, etc.) avec les <mark style="color:green;">actions possibles</mark> et <mark style="color:green;">leur gain associé</mark> (Argent et XP métier).
 
 <figure><img src="../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>actions rémunérées du mineur</strong></mark></p></figcaption></figure>
 
 ### 🔹 Les paliers de métiers ✅
 
-Également, à chaque <mark style="color:green;">niveau de métier</mark> compléter, vous pouvez récupérer des <mark style="color:green;">récompenses de palier de métiers</mark> telles que de <mark style="color:green;">l’argent</mark>, en utilisant la commande <mark style="color:green;">`/jobs claim`</mark>. Celle-ci vous permettra d’obtenir toutes les <mark style="color:green;">récompenses de paliers des métiers</mark> atteints qui n’avaient pas encore été récupérées.
+Également, à chaque <mark style="color:green;">niveau de métier</mark> complété, vous pouvez récupérer des <mark style="color:green;">récompenses de palier de métiers</mark> telles que de <mark style="color:green;">l’argent</mark>, en utilisant la commande <mark style="color:green;">`/jobs claim`</mark>. Celle-ci vous permettra d’obtenir toutes les <mark style="color:green;">récompenses de paliers des métiers</mark> atteints qui n’avaient pas encore été récupérées.
 
-<figure><img src="../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de métiers</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>paliers de métiers</strong></mark></p></figcaption></figure>
 
 {% hint style="tip" %}
 Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : [<mark style="color:green;">les métiers 👷‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers).
@@ -46,14 +46,14 @@ Les <mark style="color:green;">clés de vote</mark> font partie des marchés pr�
 
 **Vous pouvez dès maintenant choisir de les ouvrir à la box au spawn 🧰 ou de les vendre au /ah 🛒**
 
-### 🔹 Les palliers de vote ? ✅
+### 🔹 Les paliers de vote ? ✅
 
 Vous votez souvent sur le serveur ? Alors profitez des <mark style="color:green;">récompenses de vote hebdomadaires</mark> ! 
 
-Si vous souhaitez <mark style="color:green;">jouer le classement des votes</mark>, sachez qu’il est possible de débloquer des <mark style="color:green;">récompensse</mark> de votes <mark style="color:green;">chaque semaine</mark>.
+Si vous souhaitez <mark style="color:green;">jouer le classement des votes</mark>, sachez qu’il est possible de débloquer des <mark style="color:green;">récompenses</mark> de votes <mark style="color:green;">chaque semaine</mark>.
 C'est à dire qu'en votant <mark style="color:green;">60 fois</mark> durant la semaine, vous pourrez récupérer jusqu'à <mark style="color:green;">160 000 💲 de money</mark> !
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/PalierVote.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de votes</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/PalierVote.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>paliers de votes</strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">Les donjons 🏛️</mark>
 

@@ -11,7 +11,7 @@ L'Assassin est un maître de l'art de la furtivité et du combat rapproché. Uti
 ## 💠 <mark style="color:yellow;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -25,7 +25,7 @@ Effectuez une attaque tranchante avec votre lame.
 
 ### 🔸 <mark style="color:yellow;">**Niveau 5 : Lame Sanglante**</mark>
 
-Vos attaques ont 15% de chances de faire saigner la cible.
+Vos attaques ont 15% de chance de faire saigner la cible.
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>: 1s
 * <mark style="color:yellow;">**Mana**</mark>: 0
@@ -306,7 +306,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     </td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Dague Abyssal</mark></td>
+    <td><mark style="color:blue;">Dague Abyssale</mark></td>
     <td><mark style="color:blue;">Abyssal</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
@@ -314,7 +314,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssal 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
     </td>
   </tr>
   <tr>

@@ -61,13 +61,13 @@ Pour améliorer un compagnon et débloquer de nouveaux <mark style="color:green;
 
 ### 🔸 Étape 1 :
 
-En prenant en compte que votre pet est déjà équiper, faites un cliquez gauche sur votre compagnon pour le mettre en mode **ACTIF**. Cette manipulation le fera apparaitre à coté de vous.
+En prenant en compte que votre pet est déjà équipé, faites un clic gauche sur votre compagnon pour le mettre en mode **ACTIF**. Cette manipulation le fera apparaitre à côté de vous.
 
 <figure><img src="../../.gitbook/assets/Les_Compagnons/Actif.png" alt=""><figcaption><p><strong>Compagnon en mode </strong><mark style="color:green;"><strong>ACTIF</strong></mark></p></figcaption></figure>
 
 ### 🔸 Étape 2 :
 
-Donnez lui [<mark style="color:green;">des bonbons 🍬</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/bonbon-tableau) en faisant un clique droit sur votre compagnon.
+Donnez-lui [<mark style="color:green;">des bonbons 🍬</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/bonbon-tableau) en faisant un clic droit sur votre compagnon.
 
 Pour plus d'informations sur les bonbons, nous vous invitons à consulter la page concernant [<mark style="color:green;">Les Bonbons 🍬</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/bonbon-tableau)
 

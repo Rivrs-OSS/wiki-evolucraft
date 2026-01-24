@@ -4,11 +4,11 @@ description: Retrouvez ici toutes les informations concernant l'archéologie
 
 # 🦴 L'Archéologie
 
-L'<mark style="color:green;">**archéologie**</mark> est une mise à jour vous permettant de découvrir, à l'aide de vos outils, des <mark style="color:green;">**œuvres d'art antiques**</mark> décomposées et d'essayer de les restituer pour récupérer des <mark style="color:green;">**bonus de statistiques**</mark> pour vos classes.
+L'<mark style="color:green;">**archéologie**</mark> est une mise à jour vous permettant de découvrir, à l'aide de vos outils, des <mark style="color:green;">**œuvres d'art antiques**</mark> décomposées et d'essayer de les reconstituer pour récupérer des <mark style="color:green;">**bonus de statistiques**</mark> pour vos classes.
 
 ## 💠 Comment trouver des <mark style="color:green;">**œuvres d'art antiques**</mark> ? 🔍
 
-Pour trouver des <mark style="color:green;">**œuvres d'art antiques enfouies**</mark>, il y a deux possibilité suivant l'oeuvre d'art rechercher :
+Pour trouver des <mark style="color:green;">**œuvres d'art antiques enfouies**</mark>, il y a deux possibilités suivant l'oeuvre d'art recherchée :
 
 ### 🔷 Les <mark style="color:green;">**blocs suspects**</mark> ⁉
 

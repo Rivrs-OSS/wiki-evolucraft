@@ -162,14 +162,14 @@ description: Retrouvez ici toutes les informations concernant la forge
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
-    <td><mark style="color:yellow;"><strong>2 dorade</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 dorades</strong></mark></td>
     <td><strong>X</strong></td>
   </tr>
   <tr>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
-    <td><mark style="color:yellow;"><strong>2 doré jaune</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 dorés jaunes</strong></mark></td>
     <td><strong>X</strong></td>
   </tr>
   <tr>
@@ -309,7 +309,8 @@ description: Retrouvez ici toutes les informations concernant la forge
     <td><strong>320 cacaos</strong></td>
     <td><strong>64 débris antiques</strong></td>
     <td><strong>448 bâtons de Blaze</strong></td>
-    <td><mark style="color:purple;"><strong>2 blobfish</strong></mark></td>
+    <td><mark style="color:purple;"><strong>2 blobfishes
+    </strong></mark></td>
     <td><strong>128 bûches d'acacia</strong></td>
   </tr>
   <tr>

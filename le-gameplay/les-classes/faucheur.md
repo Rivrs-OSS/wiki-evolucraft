@@ -11,7 +11,7 @@ Fusion d'une discipline millénaire et d'une dévotion inflexible à la mort, le
 ## 💠 <mark style="color:blue;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 

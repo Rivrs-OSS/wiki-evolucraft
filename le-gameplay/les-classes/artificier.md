@@ -11,7 +11,7 @@ L'artificier est un ingénieur de génie qui maîtrise les technologies futurist
 ## 💠 <mark style="color:purple;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
@@ -33,7 +33,7 @@ Régénère automatiquement votre bouclier à la fin du temps de recharge si vot
 
 ### 🔸 <mark style="color:purple;">**Niveau 10 : Lance-flammes**</mark>
 
-Émettez un courant de flammes à courte portée qui brûle les ennemis. Une fois lancé, la compétence reste active jusqu'à ce que vous la désactiviez.
+Émettez un courant de flammes à courte portée qui brûle les ennemis. Une fois lancée, la compétence reste active jusqu'à ce que vous la désactiviez.
 
 * <mark style="color:purple;">**Temps de recharge**</mark>**:** 2s
 * <mark style="color:purple;">**Mana**</mark>**:** 5
@@ -190,7 +190,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">Pisolet racineux</mark></td>
+    <td><mark style="color:green;">Pistolet racineux</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
@@ -200,7 +200,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>Donjon Biome Jungle</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Pisolet racineux</mark></td>
+    <td><mark style="color:orange;">Pistolet racineux</mark></td>
     <td><mark style="color:orange;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
@@ -210,7 +210,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Pisolet racineux</mark></td>
+    <td><mark style="color:blue;">Pistolet racineux</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
@@ -220,7 +220,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Pisolet racineux</mark></td>
+    <td><mark style="color:purple;">Pistolet racineux</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡️️ Force +35</mark></p>
@@ -230,7 +230,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Pisolet racineux</mark></td>
+    <td><mark style="color:red;">Pistolet racineux</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
@@ -320,7 +320,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>X</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssal 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
     </td>
   </tr>
   <tr>

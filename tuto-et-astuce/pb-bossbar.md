@@ -1,12 +1,12 @@
 ---
-description: Retrouvez ici le tuto pour savoir comment ne plus avoir les barre violette sur votre écran.
+description: Retrouvez ici le tuto pour savoir comment ne plus avoir les barres violettes sur votre écran.
 ---
 
 # ♒ Problème Barres de boss
 
 ## <mark style="color:green;">💠 Comment enlever les barres violettes sur mon écran ?</mark>
 
-Si tu as ces barres, c'est que tu dois jouer sous launcher Lunar Client, Badlion, Feather ou autre que celui de base. Il se peut que des **barres violettes** s'affichent sur ton écran comme ci-dessous lors de ta première connexion 🤨.  
+Si vous avez ces barres, c'est que vous devez jouer sous launcher Lunar Client, Badlion, Feather ou autre que celui de base. Il se peut que des **barres violettes** s'affichent sur votre écran comme ci-dessous lors de votre première connexion 🤨.  
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Bossbar/BarreViolette.png" alt=""></figure>
 
 Pour les enlever sur **Lunar Client 🌙**, voici les étapes à suivre (la manipulation reste similaire sur les autres launchers cités plus haut) :
@@ -27,4 +27,4 @@ Pour les enlever sur **Lunar Client 🌙**, voici les étapes à suivre (la mani
 **Enfin, sélectionnez la modification de l'HUD, et cliquez sur votre bossbar afin de la positionner __tout en haut et au milieu de votre jeu__ comme sur l'image ci-dessous.**
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Bossbar/BarrePlacement.png" alt="" width="600"></figure>
 
-**Et voilà, vous n'aurez plus les bossbars de visible pour votre plus grand bonheur ! 🥳**
+**Et voilà, vous n'aurez plus les bossbars visibles pour votre plus grand bonheur ! 🥳**
