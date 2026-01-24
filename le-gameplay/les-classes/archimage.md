@@ -81,7 +81,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <th>Obtention</th>
   </tr>
   <tr>
-    <td><mark style="color:green;">Spectre des Arcanes</mark></td>
+    <td><mark style="color:green;">Sceptre des Arcanes</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡️️ Force +7</mark></p>
@@ -90,7 +90,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td>Pack d'arme</td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Spectre des Arcanes</mark></td>
+    <td><mark style="color:yellow;">Sceptre des Arcanes</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡️️ Force +15</mark></p>
@@ -99,7 +99,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Spectre des Arcanes</mark></td>
+    <td><mark style="color:blue;">Sceptre des Arcanes</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️️ Force +25</mark></p>
@@ -108,7 +108,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Spectre des Arcanes</mark></td>
+    <td><mark style="color:purple;">Sceptre des Arcanes</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡️️ Force +45</mark></p>
@@ -117,7 +117,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Spectre des Arcanes</mark></td>
+    <td><mark style="color:red;">Sceptre des Arcanes</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️️ Force +80</mark></p>

@@ -20,13 +20,9 @@ Il permet de débloquer, pour les meilleurs joueurs, des <mark style="color:gree
 Deux moyens principaux permettent de gagner du <mark style="color:green;">**Farmium 🔱**</mark> :
 
 ### 🔷 Les actions de métiers aléatoires 🛠️
-Chaque jour, à partir de minuit (heure française), vous recevez <mark style="color:green;">**2 actions de métiers**</mark> permettant de gagner du Farmium. Les actions concerneront toujours des <mark style="color:green;">**métiers différents**</mark> afin de diversifier votre farm.
 
-{% hint style="info" %}
-**REMARQUE 🔍** : Les <mark style="color:green;">**deux actions de métiers**</mark> sont tirées de façon <mark style="color:green;">**aléatoire**</mark>, mais le système empêche qu’elles soient issues du <mark style="color:green;">**même métier deux fois de suite**</mark>. 
+Chaque jour, à partir de minuit (heure française), vous recevez <mark style="color:green;">**2 actions de métiers**</mark> sont tirées de façon <mark style="color:green;">**aléatoire**</mark> permettant de gagner du Farmium. Les actions concernera toujours des <mark style="color:green;">**deux actions différentes différentes**</mark> mais peuvent être <mark style="color:green;">**sur le même action du métier**</mark>.
 
-Cependant, il peut toujours conserver une des actions déjà présente mais dans une limite d'<mark style="color:green;">**une seule action ou action du même métier au maximum**</mark>.
-{% endhint %}
 
 Pour connaître les items du jour, il vous suffit de faire la commande <mark style="color:green;">**`/pass`**</mark>, puis cliquez sur **Objectifs**.
 

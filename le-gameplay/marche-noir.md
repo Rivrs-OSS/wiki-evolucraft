@@ -10,7 +10,7 @@ Pour en profiter, il faudra toutefois réunir certains **<mark style="color:gree
 
 Mais quels sont les items disponibles...
 
-<figure><img src="../.gitbook/assets/Marche-Noir/menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Menu.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les items échangeables 📦</mark>
 
@@ -40,7 +40,7 @@ Ces items sont achetables avec des <mark style="color:orange;">**Cœurs de Drago
 | <mark style="color:orange;">**Sceptre Draconique**</mark> *(Arme Clerc)*            | **150 Cœurs de Dragon**   |
 | <mark style="color:orange;">**Poing Draconique**</mark> *(Arme Moine)*              | **150 Cœurs de Dragon**   |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/draconique.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Draconique</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Draconique/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Draconique</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:blue;">Abyssal 🌊</mark>
 
@@ -67,7 +67,7 @@ Ces items sont échangeables contre des <mark style="color:blue;">**Pinces de Cr
 | <mark style="color:blue;">**Vagues Estivales**</mark> *(Cosmétique)*             | **75 Pinces de Crabe**      |
 | <mark style="color:blue;">**Planche de Surf**</mark> *(Cosmétique)*              | **75 Pinces de Crabe**      |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/abyssal.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Abyssal</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Abyssal/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Abyssal</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:orange;">Halloween 🎃</mark>
 
@@ -93,7 +93,7 @@ Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Sci
 | <mark style="color:orange;">**Sceptre de Minuit**</mark> *(Arme Clerc)*             | **150 Citrouilles Scintillantes**  |
 | <mark style="color:orange;">**Pistolet de Minuit**</mark> *(Arme Artificier)*       | **150 Citrouilles Scintillantes**  |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/halloween2024.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Halloween</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Halloween2024/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Halloween</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:blue;">Givré ❄️</mark>
 
@@ -143,7 +143,7 @@ Ces items sont achetables avec des **<mark style="color:red;">Auréoles</mark>**
 | <mark style="color:red;">**Lance de l'Amour**</mark> *(Arme Chevalier de Glace)*  | **150 Auréoles**     |
 | <mark style="color:red;">**Arc de l'Amour**</mark> *(Arme Archer)*                | **150 Auréoles**     |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/stvalentin.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir St-Valentin</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Amour/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir St-Valentin</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:yellow;">Pâques 🥚</mark>
 
@@ -170,7 +170,7 @@ Ces items sont achetables avec des **<mark style="color:yellow;">Tablettes de Ch
 | <mark style="color:yellow;">**Épée de Pâques**</mark> *(Arme Guerrier)*                   | **150 Tablettes de Chocolat** |
 | <mark style="color:yellow;">**Totem de Pâques**</mark> *(Arme Chaman)*                    | **150 Tablettes de Chocolat** |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/paques.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Pâques</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Paques/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Pâques</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:blue;">Summer 2025 🏖️</mark>
 
@@ -199,7 +199,7 @@ Ces items étaient achetables avec des **<mark style="color:blue;">Glaces</mark>
 | <mark style="color:blue;">**Épée Summer**</mark> *(Arme Guerrier)*                       | **150 Glaces** |
 | <mark style="color:blue;">**Totem Summer**</mark> *(Arme Chaman)*                        | **150 Glaces** |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/summer2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Summer</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Summer2025/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Summer</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:red;">Halloween 2025 🩸</mark>
 
@@ -230,15 +230,16 @@ Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mar
 | <mark style="color:red;">**Épée de la Lune de Sang**</mark> *(Arme Guerrier)*                       | **150 Lunes de Sang** |
 | <mark style="color:red;">**Totem de la Lune de Sang**</mark> *(Arme Chaman)*                        | **150 Lunes de Sang** |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/halloween2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Lunes de Sang</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Lune de Sang/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Lunes de Sang</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:red;">Noël 2025 🍪</mark>
 
-*(Temporairement dans le `/noel` via la boutique du marché noir de noël)*
-Ces items sont achetables avec des **<mark style="color:red;">pain d'épices</mark>**, obtenables dans la **<mark style="color:red;">Boutique Pain d'épices</mark>**
+Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, qui sont obtenables dans le **<mark style="color:red;">Marché noir</mark>** via un échange de **<mark style="color:red;">Sucrerie</mark> obtenable dans les <mark style="color:green;"><strong>donjons Caverne & les donjons Laboratoire</strong></mark>..
+
+<img src="../.gitbook/assets/Marche-Noir/PainD'épice/Trade.png" alt="" style="text-align: left;">
 
 {% hint style="info" %}
-Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong></mark>, ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans le monde <mark style="color:green;"><strong>Pain d’épices</strong></mark>.
+Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong></mark>, ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Caverne & donjons Laboratoire</strong></mark>.
 {% endhint %}
 
 | **Items disponible**                                                                           | **Prix**              |
@@ -266,7 +267,9 @@ Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong>
 | <mark style="color:red;">**Épée Pain d'épices**</mark> *(Arme Guerrier)*                       | **150 Pains d'épices** |
 | <mark style="color:red;">**Totem Pain d'épices**</mark> *(Arme Chaman)*                        | **150 Pains d'épices** |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/noel2025.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du pain d'épices</mark></strong></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Marche-Noir/PainD'épice/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du pain d'épice</mark></strong></figcaption></figure>
+
 
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 

@@ -58,6 +58,7 @@ De plus, des donjons spécifiques ajoutés lors de mises à jour sur le serveur 
 * 🍫 [<mark style="color:yellow;">Donjon Fabrique de Chocolat</mark>](https://wiki.evolucraft.fr/codex/donjons/fabrique-chocolat) _(Niveau requis : <mark style="color:yellow;">niveau 40</mark>)_
 * 🎃 [<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/codex/donjons/citrouille) _(Niveau requis : <mark style="color:red;">niveau 15</mark>)_
 * 🩸 [<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/codex/donjons/lune-de-sang) _(Niveau requis : <mark style="color:red;">niveau 45</mark>)_
+* ⚗️ [<mark style="color:blue;">Donjon Laboratoire</mark>](https://wiki.evolucraft.fr/codex/donjons/labo) _(Niveau requis : <mark style="color:blue;">niveau 30</mark>)_
 
 {% hint style="info" %}
 REMARQUE 🔍 : Lorsqu’un <mark style="color:green;">donjon est ajouté ou mis en avant après une mise à jour</mark>, son <mark style="color:green;">taux d’apparition est boosté</mark>. 📈

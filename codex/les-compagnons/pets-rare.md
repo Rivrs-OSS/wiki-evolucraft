@@ -178,18 +178,6 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
     <td>* Œuf de famillier (Caisse Saint Valentin 💕)</td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;"><strong>Serpent Cristallin</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/SerpentCristallin.png" alt=""></figure></td>
-    <td>
-      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+10%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Baies</strong></mark> au /shop</p>
-      <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>❤️ Vie</strong></mark> +6</p>
-      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Aérienne)</p>
-      <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 4.500</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>ForgeMage 📖</strong></mark></p>    
-    </td>
-    <td>* Œuf de famillier (Caisse Saint Valentin 💕)</td>
-  </tr>
-  <tr>
     <td><mark style="color:yellow;"><strong>Bilbon Sacquet</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/BilbonSacquet.png" alt=""></figure></td>
     <td>

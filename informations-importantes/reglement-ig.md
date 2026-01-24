@@ -78,7 +78,7 @@ En cas de départ volontaire d’une ville, il est obligatoire de prévenir le c
 
 Si un joueur est banni de sa ville par le maire, ce dernier a l’obligation de lui restituer ses effets personnels immédiatement.
 
-Toute copies de farms/constructions présentes dans la ville est strictement interdite sans l’accord explicite du maire de celle-ci et ce même si vous prévoyez de quitter la ville.
+Toute copie de farms/constructions présentes dans la ville est strictement interdite sans l’accord explicite du maire de celle-ci et ce même si vous prévoyez de quitter la ville.
 
 {% hint style="info" %}
 Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif sera sanctionné et la victime remboursée.
@@ -101,7 +101,7 @@ Cette liste n'est pas exhaustive.
 {% endhint %}
 
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
-* Monter de manière abussif vos items évolutif est interdit. Exemple : Ferme à neige pour la pelle évolutif.
+* Monter de manière abussive vos items évolutifs est interdit. Exemple : Ferme à neige pour la pelle évolutive.
 
 {% hint style="warning" %}
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
@@ -111,7 +111,7 @@ Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket
   * Vous n'avez le droit **d'être maire que d'une seule ville** (_L'accès à d'autres villes (grâce aux /rangs) vous permet de rejoindre celle d'un ami, par exemple, en plus de la vôtre_)
   * Il est interdit de créer des villes dans le seul but de récupérer des coffres, de piller des structures, etc.
   * Il est recommandé de ne pas dégrader le paysage par des fermes sans aménagement urbain (ferme à mob en pierre, grands champs sans esthétisme, etc.). Cette règle s’applique aussi pour les bâtiments imposants en l’air, qui ne relèvent pas d’une construction de ville.
-  * Toute ville peut **être unclaim si tout les joueurs de cette dernière ont au minimum 30 jours d'inactivité**.
+  * Toute ville peut **être unclaim si tous les joueurs de cette dernière ont au minimum 30 jours d'inactivité**.
 
 {% hint style="warning" %}
 Si ces règles ne sont pas respectées, nous vous contacterons et nous vous laisserons un délai pour que vous puissiez modifier ou retirer votre structure. Une fois ce délai expiré, la structure sera détruite.
@@ -188,7 +188,7 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
-* Le poser-casser afin d'XP les jobs est interdit, sauf pour réaliser les parchemins.
+* Le poser-casser afin d'XP les jobs, farmium ou pour tout autre usage est interdit, sauf pour réaliser les parchemins.
   * Par exemple : il est autorisé de poser des minerais de diamant et de les récupérer avec fortune (sans utiliser cela pour le pass).
   * A contrario, il est interdit de poser une buche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
 

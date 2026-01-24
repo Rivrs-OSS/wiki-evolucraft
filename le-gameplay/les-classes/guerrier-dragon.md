@@ -176,8 +176,11 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>
      <p><mark style="color:red;">🗡️️ Force +5</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +3</mark></p>
-    </td>
-    <td>Donjon Biome Neige</td>
+    </td>   
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Caverne</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Lance Glaciale</mark></td>
@@ -185,8 +188,13 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>
      <p><mark style="color:red;">🗡️️ Force +11</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +6</mark></p>
-    </td>
-    <td>Donjon Biome Neige ou Forge</td>
+    </td>   
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Caverne</p>
+      <p>Donjon Laboratoire</p>
+      <p>Forge</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Lance Glaciale</mark></td>
@@ -194,8 +202,12 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>
      <p><mark style="color:red;">🗡️️ Force +18</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +9</mark></p>
-    </td>
-    <td>Donjon Biome Neige ou Forge</td>
+    </td>   
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Laboratoire</p>
+      <p>Forge</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Lance Glaciale</mark></td>

@@ -176,8 +176,11 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>
      <p><mark style="color:red;">❤️ Vie +10</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
-    </td>
-    <td>Donjon Biome Neige</td>
+    </td>   
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Caverne</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Gant gelé</mark></td>
@@ -185,8 +188,13 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>
      <p><mark style="color:red;">❤️ Vie +25</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
-    </td>
-    <td>Donjon Biome Neige ou Forge</td>
+    </td>   
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Caverne</p>
+      <p>Donjon Laboratoire</p>
+      <p>Forge</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Gant gelé</mark></td>
@@ -194,8 +202,12 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>
      <p><mark style="color:red;">❤️ Vie +40</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
-    </td>
-    <td>Donjon Biome Neige ou Forge</td>
+    </td>   
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Laboratoire</p>
+      <p>Forge</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Gant gelé</mark></td>

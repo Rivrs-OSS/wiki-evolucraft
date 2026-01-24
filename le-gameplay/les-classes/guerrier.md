@@ -88,7 +88,10 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
     </td>
         <td>"+1% de chance de doubler les dégât"</td>
-        <td>Donjon Biome Neige</td>
+        <td>
+         <p>Donjon Biome Neige</p>
+         <p>Donjon Caverne</p>
+        </td>
     </tr>
     <tr>
         <td><mark style="color:yellow;">Tranche Givre</mark></td>
@@ -97,7 +100,12 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
     </td>
         <td>"+2% de chance de doubler les dégât"</td>
-        <td>Donjon Biome Neige ou Forge</td>
+        <td>
+         <p>Donjon Biome Neige</p>
+         <p>Donjon Caverne</p>
+         <p>Donjon Laboratoire</p>
+         <p>Forge</p>
+        </td>
     </tr>
     <tr>
         <td><mark style="color:blue;">Tranche Givre</mark></td>
@@ -106,7 +114,11 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
     </td>
         <td>"+2% de chance de doubler les dégât"</td>
-        <td>Donjon Biome Neige ou Forge</td>
+        <td>
+         <p>Donjon Biome Neige</p>
+         <p>Donjon Laboratoire</p>
+         <p>Forge</p>
+        </td>
     </tr>
     <tr>
         <td><mark style="color:purple;">Tranche Givre</mark></td>

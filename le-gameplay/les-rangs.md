@@ -39,6 +39,7 @@ Déposez vos items dans la liste des <mark style="color:green;">**prérequis**</
 
 ### 🔸 Étape 5
 Une fois tous les <mark style="color:green;">**prérequis validés**</mark> (items, argent, XP vanilla, métiers), le <mark style="color:green;">**cadenas**</mark> s’ouvrira et vous pourrez ensuite cliquer dessus pour <mark style="color:green;">**valider votre rang**</mark> et le déverrouiller.  
+ 
 <figure><img src="../.gitbook/assets/Rang/ValidationRangs.png" alt=""><figcaption><p><strong><code>Montre la possibilité de </code></strong><mark style="color:green;"><strong><code>dévérouiller un rang</code></strong></mark></p></figcaption></figure>
 
 **Et voilà, vous venez de passer un rang ! Recommencez pour continuer à progresser.**

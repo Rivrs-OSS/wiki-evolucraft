@@ -87,8 +87,11 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
     </td>
-    <td><mark style="color:orange;">+2% de chance de doubler les dégâts</mark></td>
-    <td>Donjon Biome Neige</td>
+    <td><mark style="color:orange;">+2% de chance de doubler les dégâts</mark></td> 
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Caverne</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Pistolet du blizzard</mark></td>
@@ -96,8 +99,13 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
     </td>
-    <td><mark style="color:orange;">+3% de chance de doubler les dégâts</mark></td>
-    <td>Donjon Biome Neige ou Forge</td>
+    <td><mark style="color:orange;">+3% de chance de doubler les dégâts</mark></td> 
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Caverne</p>
+      <p>Donjon Laboratoire</p>
+      <p>Forge</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Pistolet du blizzard</mark></td>
@@ -106,7 +114,11 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
     </td>
     <td><mark style="color:orange;">+4% de chance de doubler les dégâts</mark></td>
-    <td>Donjon Biome Neige ou Forge</td>
+     <td>
+      <p>Donjon Biome Neige</p>
+      <p>Donjon Laboratoire</p>
+      <p>Forge</p>
+     </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Pistolet du blizzard</mark></td>
