@@ -91,6 +91,7 @@
   * [🍫 Fabrique de Chocolat](codex/donjons/fabrique-chocolat.md)
   * [🎃 Citrouille](codex/donjons/citrouille.md)
   * [🩸 Lune de Sang](codex/donjons/lune-de-sang.md)
+  * [⛰️ Caverne](codex/donjons/caverne.md)
   * [⚗️ Laboratoire](codex/donjons/labo.md)
 * [🥼 Les Armures](codex/armure.md)
 * [🛠️ Les Outils](codex/outils/README.md)
