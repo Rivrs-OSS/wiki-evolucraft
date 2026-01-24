@@ -6,7 +6,7 @@ description: Retrouvez ici les informations concernant le donjon Caverne
 
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
-👪 Nombre de joueurs accueillis : <mark style="color:green;">**4 joueurs**</mark>  
+👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 4 joueurs**</mark>  
 📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 15**</mark>  
 🕓 Durée du donjon : <mark style="color:green;">**10 minutes**</mark>  
 
