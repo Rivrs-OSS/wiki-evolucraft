@@ -63,27 +63,7 @@ La répartition entre salles normales et mini boss est **totalement aléatoire**
     <td>1 boss</td>
     <td><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
   </tr>
-  <tr style="background-color: #fff3e0;">
-    <td><strong>⬇️ MINIMUM (6 salles mini boss)</strong></td>
-    <td></td>
-    <td></td>
-    <td><mark style="color:orange;"><strong>9 392 XP</strong></mark></td>
-  </tr>
-  <tr style="background-color: #f3e5f5;">
-    <td><strong>📊 MOYENNE (4 normales + 2 mini boss)</strong></td>
-    <td></td>
-    <td></td>
-    <td><mark style="color:purple;"><strong>~9 750 XP</strong></mark></td>
-  </tr>
-  <tr style="background-color: #e8f5e9;">
-    <td><strong>⬆️ MAXIMUM (6 salles normales)</strong></td>
-    <td></td>
-    <td></td>
-    <td><mark style="color:green;"><strong>9 938 XP</strong></mark></td>
-  </tr>
 </table>
-
-### ⚔️ Détail des gains d'XP par configuration
 
 <table border="1" cellspacing="0" cellpadding="8">
   <tr style="background-color: #e8f5e9;">
