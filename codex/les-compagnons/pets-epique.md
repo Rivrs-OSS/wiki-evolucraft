@@ -206,7 +206,7 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
   </tr>
    <tr>
    <td><mark style="color:blue;"><strong>Gorille des cavernes</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Gorille-des-cavernes.png"alt="" style="width: 100px;"></figure></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Gorille-des-cavernes.png"alt="" style="width: 500px;"></figure></td>
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+2.500</strong></mark>💲/h</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+10 /
