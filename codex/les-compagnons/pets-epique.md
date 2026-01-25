@@ -204,6 +204,20 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
    </td>
    <td>* Loot de boss 🐉(Donjons Givrés)</td>
   </tr>
+   <tr>
+   <td><mark style="color:blue;"><strong>Gorille des cavernes</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Gorille-des-cavernes.png"alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+2.500</strong></mark>💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+10 /
+     <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+5</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;">+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Mineur⛏️<strong></mark></p>  
+    <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+15 /
+     <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+10</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.500</strong></mark>💲/h</p>
+   </td>
+   <td>* Loot de boss + coffre de récompense🐉(donjons cavernes)</td>
+  </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Drogon</strong></mark></td>
    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Drogon.png" alt=""></figure></td>
@@ -230,7 +244,7 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Ça</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/ça.png" alt=""></figure></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Ça.png" alt=""></figure></td>
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>Vision Nocturne</strong></mark></p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+200%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Gâteau</strong></mark> au /shop</p>

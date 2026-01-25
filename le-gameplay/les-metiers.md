@@ -86,13 +86,13 @@ Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https:
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Aperçu de l'item 📸</strong></mark></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/Savoir.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/EXPMétier.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/Richesse.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/SavoirGlobalJaune.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/SavoirGlobalBleu.png" alt="" style="width: 100px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/RichesseGlobalJaune.png" alt="" style="width: 100px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/RichesseGlobalBleu.png" alt="" style="width: 100px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoir.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/EXPMétier.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesse.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalJaune.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalBleu.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalJaune.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalBleu.png" alt="" style="width: 50px;"></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Description 📝</strong></mark></td>
