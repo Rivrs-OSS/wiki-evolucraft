@@ -206,7 +206,7 @@ description: Retrouvez ici toutes la liste des compagnons légendaire dans le se
     <td>* Œuf de famillier (Caisse Pain d'épice 🍪)</td>
   </tr><tr>
     <td><mark style="color:purple;"><strong>Gorille du Laboratoire</strong></mark></td>
-  <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Gorille du laboratoire.png" alt=""></figure></td>
+  <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Gorille-du-laboratoire.png" alt=""></figure></td>
     <td>
       <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+ 5.000</strong></mark> 💲/h</p>
        <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +10/<mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark>+10</p>
