@@ -197,12 +197,23 @@ description: Retrouvez ici toutes la liste des compagnons légendaire dans le se
     <td><mark style="color:purple;"><strong>Père Noël</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/PereNoel.png" alt=""></figure></td>
     <td>
-      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+20%</strong></mark> sur la vente d'<mark style="color:purple;"><strong>oeuil d'araignée</strong></mark> au /shop</p>
+       <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+20%</strong></mark> sur la vente d'<mark style="color:purple;"><strong>oeuil d'araignée</strong></mark> au /shop</p>
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 10.500</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +9</p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 12.000</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>Chasseur 🗡️</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Pain d'épice 🍪)</td>
+  </tr><tr>
+    <td><mark style="color:purple;"><strong>Gorille du Laboratoire</strong></mark></td>
+  <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Gorille du laboratoire.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+ 5.000</strong></mark> 💲/h</p>
+       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +10/<mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark>+10</p>
+       <p><mark style="color:purple;"><strong>Niveau 10</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>ForgeMage 📖</strong></mark></p>
+       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +20/<mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark>+20</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 10.000</strong></mark> 💲/h</p>
+    </td>
+    <td>* Loot de boss + coffre de récompense🐉(donjons Laboratoire Glacial )</td>
   </tr>
 </table>
