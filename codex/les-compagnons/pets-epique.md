@@ -211,7 +211,7 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+2.500</strong></mark>💲/h</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+10 /
      <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+5</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;">+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Mineur⛏️<strong></mark></p>  
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <strong><mark style="color:blue;">+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Mineur⛏️<strong></mark></p>  
     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+15 /
      <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+10</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.500</strong></mark>💲/h</p>
