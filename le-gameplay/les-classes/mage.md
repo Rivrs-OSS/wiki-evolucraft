@@ -85,7 +85,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <th>Obtention</th>
   </tr>
   <tr>
-    <td><mark style="color:green;">Spectre d'Orc</mark></td>
+    <td><mark style="color:green;">Sceptre d'Orc</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
@@ -94,7 +94,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <td>Donjon Biome Messa</td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Spectre d'Orc</mark></td>
+    <td><mark style="color:yellow;">Sceptre d'Orc</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
@@ -103,7 +103,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Spectre d'Orc</mark></td>
+    <td><mark style="color:blue;">Sceptre d'Orc</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
@@ -112,7 +112,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <td>Donjon Biome Messa ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Spectre d'Orc</mark></td>
+    <td><mark style="color:purple;">Sceptre d'Orc</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
@@ -121,7 +121,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Spectre d'Orc</mark></td>
+    <td><mark style="color:red;">Sceptre d'Orc</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
