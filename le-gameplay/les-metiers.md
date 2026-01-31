@@ -90,9 +90,9 @@ Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https:
     <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/EXPMétier.png" alt="" style="width: 50px;"></td>
     <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/Richesse.png" alt="" style="width: 50px;"></td>
     <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/SavoirGlobalJaune.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/SavoirGlobalBleu.png" alt="" style="width: 100px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/RichesseGlobalJaune.png" alt="" style="width: 100px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/RichesseGlobalBleu.png" alt="" style="width: 100px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/SavoirGlobalBleu.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/RichesseGlobalJaune.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/RichesseGlobalBleu.png" alt="" style="width: 50px;"></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Description 📝</strong></mark></td>
