@@ -392,7 +392,7 @@ description: Retrouvez ici toutes les informations concernant la forge
 | <mark style="color:purple;">**Cristaux légendaires**</mark>          | **4**                                    |
 | <mark style="color:purple;">**Corne du golem**</mark>                | **4**                                    |
 | <mark style="color:purple;">**Bâton brisé de la sorcière**</mark>    | **4**                                    |
-| <mark style="color:purple;">**Braise de chaudron**</mark>            | **4**                                    |
+| <mark style="color:purple;">**Braise de chaudron**</mark>            | **1**                                    |
 
 ### <mark style="color:red;">🔴・Armes Mythiques</mark>
 

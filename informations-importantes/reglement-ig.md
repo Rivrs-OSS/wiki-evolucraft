@@ -68,7 +68,7 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
 * Il est interdit de dévoiler dans le chat public les informations liées aux quêtes (position de NPC, réponse à une énigme, etc).
 * Tout contournement d'achat unique sur la boutique est interdit (ex: donner 500 gemmes à son ami pour qu'il achète un item unique en boutique et le récupérer).
 * Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
-* Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagné ou les récompenses liées à leur mort.
+* Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagnée ou les récompenses liées à leur mort.
 * Le serveur ne prend pas en charge les contrats ou accords entre joueurs : ceux-ci se font à vos risques et périls. ⇒ Si un item a commencé à être payé, le montant total de ce dernier doit être honoré.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
@@ -89,7 +89,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * Il est interdit de voler des farms aux autres joueurs sans leur accord.
-* La vente d’items en jeu contre l’argent réel est interdite.
+* La vente d’items en jeu contre de l’argent réel est interdite.
 * Il est interdit d'utiliser une machine à pêche.
 * La vente de cosmétiques (issus d'un use bug), d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de têtes de minerais, de têtes du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
 * La création de casino est interdite.
@@ -101,7 +101,7 @@ Cette liste n'est pas exhaustive.
 {% endhint %}
 
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
-* Monter de manière abussive vos items évolutifs est interdit. Exemple : Ferme à neige pour la pelle évolutive.
+* Monter de manière abusive vos items évolutifs est interdit. Exemple : Ferme à neige pour la pelle évolutive.
 
 {% hint style="warning" %}
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
@@ -168,7 +168,7 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 ### <mark style="color:green;">Article G : L'AFK & Inactivité</mark>
 
 * L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.
-* Il est interdit de contourner l'anti-AFK de quelconque manière (macro, mods, etc...), sous peine de sanctions.
+* Il est interdit de contourner l'anti-AFK de quelconque manière (macro, mods, etc.), sous peine de sanctions.
 * L'AFK de manière indéfinie est autorisé uniquement dans le /afk
 
 {% hint style="warning" %}
