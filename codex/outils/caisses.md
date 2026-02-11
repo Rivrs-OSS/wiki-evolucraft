@@ -411,7 +411,7 @@ Les <mark style="color:green;">outils de l'Archéologue</mark> s'obtiennent dans
      <p>▸ <mark style="color:orange;"><strong>Appât V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:orange;"><strong>1 500</strong></mark> de <mark style="color:red;"><strong>Durabilité</strong></mark></p>
+     <p><mark style="color:orange;"><strong>1 500</strong></mark> de <mark style="color:orange;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>  
      <p>▸ <mark style="color:orange;"><strong>Effet Pêche</strong></mark> : Vous avez 15% de chance de doubler votre pêche.</p>
@@ -467,7 +467,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:red;"><strong>Marteau en Pain d'épice</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/PainDepice/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/PainDepice/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:red;"><strong>Efficacité VI</strong></mark></p>
