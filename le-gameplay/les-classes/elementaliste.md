@@ -81,7 +81,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <th>Obtention</th>
   </tr>
   <tr>
-    <td><mark style="color:green;">Spectre de Glace</mark></td>
+    <td><mark style="color:green;">Sceptre de Glace</mark></td>
     <td><mark style="color:green;">Commun</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
@@ -93,7 +93,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      </td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Spectre de Glace</mark></td>
+    <td><mark style="color:yellow;">Sceptre de Glace</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
@@ -107,7 +107,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      </td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Spectre de Glace</mark></td>
+    <td><mark style="color:blue;">Sceptre de Glace</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
@@ -120,7 +120,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      </td>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Spectre de Glace</mark></td>
+    <td><mark style="color:purple;">Sceptre de Glace</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
@@ -129,7 +129,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Spectre de Glace</mark></td>
+    <td><mark style="color:red;">Sceptre de Glace</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
@@ -138,7 +138,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">Spectre de Feu</mark></td>
+    <td><mark style="color:green;">Sceptre de Feu</mark></td>
     <td><mark style="color:green;">Commun</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
@@ -147,7 +147,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Donjon Biome Désert</td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Spectre de Feu</mark></td>
+    <td><mark style="color:yellow;">Sceptre de Feu</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
@@ -156,7 +156,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Donjon Biome Désert ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Spectre de Feu</mark></td>
+    <td><mark style="color:blue;">Sceptre de Feu</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
@@ -165,7 +165,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Donjon Biome Désert ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Spectre de Feu</mark></td>
+    <td><mark style="color:purple;">Sceptre de Feu</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
@@ -174,7 +174,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Spectre de Feu</mark></td>
+    <td><mark style="color:red;">Sceptre de Feu</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
@@ -183,7 +183,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:green;">Spectre de la Nature</mark></td>
+    <td><mark style="color:green;">Sceptre de la Nature</mark></td>
     <td><mark style="color:green;">Commun</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
@@ -192,7 +192,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Donjon Biome Jungle</td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Spectre de la Nature</mark></td>
+    <td><mark style="color:yellow;">Sceptre de la Nature</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
@@ -201,7 +201,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:blue;">Spectre de la Nature</mark></td>
+    <td><mark style="color:blue;">Sceptre de la Nature</mark></td>
     <td><mark style="color:blue;">Épique</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
@@ -210,7 +210,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Donjon Biome Jungle ou Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Spectre de la Nature</mark></td>
+    <td><mark style="color:purple;">Sceptre de la Nature</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
@@ -219,7 +219,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
     <td>Forge</td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Spectre de la Nature</mark></td>
+    <td><mark style="color:red;">Sceptre de la Nature</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>  
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
