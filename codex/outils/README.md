@@ -67,7 +67,7 @@ Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous p
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></td>
   </tr>
   <tr>
-   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoël.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium de Noël</mark></strong></p></figcaption></figure></td>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoel.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium de Noël</mark></strong></p></figcaption></figure></td>
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></td>
   </tr>
 </table>
