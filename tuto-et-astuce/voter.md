@@ -16,13 +16,13 @@ Voter pour le serveur vous permet de contribuer au serveur en plus de votre pré
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/SiteVote.png" alt=""><figcaption><p><strong>Aperçu de l'onglet <mark style="color:green;">vote du site</mark></strong></p></figcaption></figure>
 
 ### <mark style="color:green;">🔹 Étape 3️⃣</mark>
-**Vous devrez ensuite <mark style="color:green;">cliquer sur Site 1 ou Site 2</mark>. Cela vous amènera vers un autre site ; suivez les instructions demandées, il vous faudra probablement <mark style="color:green;">remplir un captcha</mark> (avec image ou texte selon la demande) puis <mark style="color:green;">cliquer sur "Je Vote Maintenant"</mark>. 
+**Vous devrez ensuite <mark style="color:green;">cliquer sur Site 1 ou Site 2</mark>. Cela vous amènera vers un autre site ; suivez les instructions demandées, il vous faudra probablement <mark style="color:green;">remplir un captcha</mark> (avec image ou texte selon la demande) puis <mark style="color:green;">cliquer sur "Je Vote Maintenant"</mark>.**
 
-Après avoir voté, il est impératif de <mark style="color:green;">revenir sur le site d'Évolucraft</mark> afin que le vote soit validé (Le vote sera considéré comme validé lorsque le temps du prochain vote commencera à s'afficher ; sinon, refaites le vote ou rafraîchissez la page internet).**
+**Après avoir voté, il est impératif de <mark style="color:green;">revenir sur le site d'Évolucraft</mark> afin que le vote soit validé (Le vote sera considéré comme validé lorsque le temps du prochain vote commencera à s'afficher ; sinon, refaites le vote ou rafraîchissez la page internet).**
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/Site1.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Site 1</mark></strong></p></figcaption></figure>
 
 ### <mark style="color:green;">🔹 Étape 4️⃣</mark>
-Lorsque <mark style="color:green;">vous serez en jeu</mark>, il vous suffira de <mark style="color:green;">faire la commande `/vote`</mark>, puis de <mark style="color:green;">cliquer sur le bouton "Récupérer"</mark> afin de <mark style="color:green;">récupérer vos clés de votes</mark>.
+**Lorsque <mark style="color:green;">vous serez en jeu</mark>, il vous suffira de <mark style="color:green;">faire la commande `/vote`</mark>, puis de <mark style="color:green;">cliquer sur le bouton "Récupérer"</mark> afin de <mark style="color:green;">récupérer vos clés de votes</mark>.**
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/Menu.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">/vote</mark></strong></p></figcaption></figure>
 
 {% hint style="warning" %}
