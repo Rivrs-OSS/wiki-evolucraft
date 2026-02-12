@@ -58,7 +58,7 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**22 classes**<
 * [<mark style="color:purple;">**Chasseur de Phénix 💥**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chasseur-de-phenix) : Maîtes des flammes éternelles, le Chasseur de Phénix puise sa force dans la renaissance et le feu sacré. _(DPS)_
 
 ### 🟥 <mark style="color:red;">Classe Mythique</mark>
-* [<mark style="color:red;">**Chevalier de la mort ☠️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-de-la-mort) : Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur. _(DPS)_
+* [<mark style="color:red;">**Chevalier de la mort ☠️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-de-la-mort) : Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur. _(Tanks)_
 
 ## <mark style="color:green;">💠 Que signifient les avantages statistiques ? 👨‍🔬</mark>
 
