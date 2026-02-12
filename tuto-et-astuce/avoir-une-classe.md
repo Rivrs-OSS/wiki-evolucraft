@@ -38,6 +38,16 @@ Pour y <mark style="color:green;">gagner une carte de classe aléatoire</mark>, 
 
 <figure><img src="../.gitbook/assets/Menu/Interface_Afk.png" alt=""><figcaption><p><strong>Aperçu de l’interface du </strong><mark style="color:green;"><strong>/afk</strong></mark></p></figcaption></figure>
 
+**◻️&#x20;**<mark style="color:blue;">**Le /boutique**</mark>
+
+Dans le <mark style="color:green;">/boutique</mark>, sur la page de présentation, il y a <mark style="color:green;">deux lots de cartes d’une classe déjà donnée</mark> disponibles gratuitement :  
+l’un accessible à <mark style="color:green;">tous les joueurs</mark>,  
+et l’autre réservé aux joueurs ayant le <mark style="color:green;">Premium 👑</mark>.
+
+Ces cartes sont <mark style="color:green;">achetables une seule fois par joueur</mark> et <mark style="color:green;">se renouvellent tous les jours à minuit</mark>.
+
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Classe/Boutique.png" alt=""><figcaption><p><strong>Aperçu de l’interface du </strong><mark style="color:green;"><strong>/boutique</strong></mark></p></figcaption></figure>
+
 #### <mark style="color:green;">🔹 Étape 2️⃣</mark>
 
 Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>, prenez-la dans votre main et faites un <mark style="color:green;">clic droit</mark> avec. Des cartes de la même classe seront alors révélées. Selon la <mark style="color:green;">rareté</mark> de la carte, elle peut offrir un nombre différent de cartes :
