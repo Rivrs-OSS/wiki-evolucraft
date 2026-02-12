@@ -22,7 +22,7 @@ Après avoir voté, il est impératif de <mark style="color:green;">revenir sur 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/Site1.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Site 1</mark></strong></p></figcaption></figure>
 
 ### <mark style="color:green;">🔹 Étape 4️⃣</mark>
-Lorsque <mark style="color:green;">vous serez en jeu</mark>, il vous suffit de <mark style="color:green;">réaliser la commande `/vote`</mark>, puis de cliquez sur <mark style="color:green;">"Récupérer"</mark> afin de récupérer vos votes.
+Lorsque <mark style="color:green;">vous serez en jeu</mark>, il vous suffira de <mark style="color:green;">faire la commande `/vote`</mark>, puis de <mark style="color:green;">cliquer sur le bouton "Récupérer"</mark> afin de <mark style="color:green;">récupérer vos clés de votes</mark>.
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/Menu.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">/vote</mark></strong></p></figcaption></figure>
 
 {% hint style="warning" %}
