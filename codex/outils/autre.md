@@ -12,6 +12,18 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 ## 💠 <mark style="color:green;">Les autres outils</mark>
 
+### 🪣 ◦ <mark style="color:green;">Grappin</mark>
+
+🔹 Le <mark style="color:green;">Grappin</mark> s'obtient dans les [<mark style="color:orange;">enchères</mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#encheres).
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <td>
+    <p><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/Grappin.png" alt=""><figcaption></figcaption></figure></p>
+  </td>
+  <td><mark style="color:green;"><strong>500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></td>
+  <td>Ce <mark style="color:green;">grappin</mark> vous permet de <mark style="color:green;">vous déplacer</mark> comme un <mark style="color:green;">arc tridimensionnel</mark>, plus rapidement, mais avec une <mark style="color:green;">durabilité limitée</mark>. Il est également pratique pour accompagner les <mark style="color:green;">élytres</mark> lors de la <mark style="color:green;">recherche de portails de donjons</mark> !</td>
+</table>
+
 ### 🪣 ◦ <mark style="color:green;">Seau d'eau infini</mark>
 
 🔹 Le <mark style="color:green;">seau d'eau infini</mark> s'obtient dans la [<mark style="color:orange;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique).
@@ -83,9 +95,6 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 🔹 Le <mark style="color:green;">coeur du démon</mark> s'obtient dans la [<mark style="color:yellow;">caisse Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang).
 
 <table border="1" cellspacing="0" cellpadding="6">
-  <td>
-    <p><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/CoeurDuDémon.png" alt=""><figcaption></figcaption></figure></p>
-    <p>Aperçue de l'item bientôt présente</p>
-  </td>
+  <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/CoeurDuDémon.png" alt=""></figure></td>
   <td>Ce <mark style="color:green;">cœur du démon</mark> vous permet, en le mangeant, de restaurer votre <mark style="color:green;">barre de faim</mark> et ainsi de bénéficier d’une <mark style="color:green;">source de nourriture illimitée</mark>.</td>
 </table>

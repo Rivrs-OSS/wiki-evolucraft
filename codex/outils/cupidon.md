@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici toutes la liste de tout les Outils Cupidon (hors caisse Saint-Valentin) disponible sur le serveur.
+  Retrouvez ici toutes la liste de tout les Outils Cupidon disponible sur le serveur.
 ---
 
 # 👼 Outils Cupidon

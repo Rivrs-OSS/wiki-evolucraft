@@ -92,7 +92,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   </tr>
   <tr>
    <td align="center">
-     <p><mark style="color:red;"><strong>Canne à Pêche sompteueuse</strong></mark></p>
+     <p><mark style="color:red;"><strong>Canne à Pêche Draconique</strong></mark></p>
      <p><figure><img src="../../.gitbook/assets/Codex/Outils/Draconique2025/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
@@ -108,7 +108,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   </tr>  
   <tr>
    <td align="center">
-     <p><mark style="color:red;"><strong>Pelle sompteueuse</strong></mark></p>
+     <p><mark style="color:red;"><strong>Pelle Draconique</strong></mark></p>
      <p><figure><img src="../../.gitbook/assets/Codex/Outils/Draconique2025/Pelle.png" alt=""></figure></p>
    </td>
    <td>

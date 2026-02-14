@@ -40,10 +40,13 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
   * 🍀 [<mark style="color:green;"><strong>Outils du Leprechaun</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-du-leprechaun)
   * 🦴 [<mark style="color:orange;"><strong>Outils de l'Archéologue</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-de-larchéologue)
   * 🍪 [<mark style="color:red;"><strong>Outils Pain d'épice</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-pain-dépice)
+* 🧊 [<mark style="color:blue;"><strong>Outils des Glaces</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/glaces)
 * 🐍 [<mark style="color:green;"><strong>Outils du Serpent</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/serpent)
-* 💕 [<mark style="color:green;"><strong>Outils de l'Amour</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/amour)
-* 👼 [<mark style="color:green;"><strong>Outils du Cupidon</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/cupidon)
+* 💕 [<mark style="color:red;"><strong>Outils de l'Amour</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/amour)
+* 👼 [<mark style="color:red;"><strong>Outils du Cupidon</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/cupidon)
+* 🍀 [<mark style="color:green;"><strong>Outils du Leprechaun</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/leprechaun)
 * ⚙️ [<mark style="color:orange;"><strong>Outils HolyCube</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/holycube)
+* 🥚 [<mark style="color:yellow;"><strong>Outils de Pâques</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/paques2025)
 * 🐲 [<mark style="color:red;"><strong>Outils Draconique édition 2025</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/draconique2025)
 * 🐉 [<mark style="color:blue;"><strong>Outils Saphira</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/saphira)
 * 💫 [<mark style="color:blue;"><strong>Outils Sompteueux</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/sompteueux)
@@ -67,7 +70,7 @@ Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous p
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></td>
   </tr>
   <tr>
-   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoël.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium de Noël</mark></strong></p></figcaption></figure></td>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoel.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium de Noël</mark></strong></p></figcaption></figure></td>
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></td>
   </tr>
 </table>
