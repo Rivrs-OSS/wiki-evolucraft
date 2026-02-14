@@ -216,4 +216,28 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
     </td>
     <td>* Loot de boss + coffre de récompense🐉(donjons Laboratoire Glacial )</td>
   </tr>
+  <tr>
+    <td><mark style="color:purple;"><strong>Crapaud Charmant</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Crapaud-Charmant.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> sur la vente <mark style="color:purple;"><strong>d'objets de la mer</strong></mark> au /shop</p>
+      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +35</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'EXP <mark style="color:purple;"><strong>Pêcheur 🎣</strong></mark></p>
+      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🛡️ Défense</strong></mark> +12</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 10.500</strong></mark> 💲/h</p>
+    </td>
+    <td>* Œuf de famillier (Caisse Saint Valentin 💕)</td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;"><strong>Ours en Peluche</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Ours-en-Peluche.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> sur la vente <mark style="color:purple;"><strong>des laines</strong></mark> au /shop</p>
+      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>🧪 Mana</strong></mark> +170</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>Monture</strong></mark> (Aérienne)</p>
+      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>💕 Régénération</strong></mark> +5</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> d'EXP sur <mark style="color:purple;"><strong>TOUS les métiers</strong></mark></p>
+    </td>
+    <td>* Œuf de famillier (Caisse Saint Valentin 💕)</td>
+  </tr>
 </table>
