@@ -116,7 +116,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
      <p><mark style="color:blue;"><strong>750</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p><strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
+     <p><strong><mark style="color:blue;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
    </td>
   </tr>
 </table>
