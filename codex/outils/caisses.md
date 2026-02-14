@@ -162,7 +162,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Pioche des Glaces</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Glace/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Glace/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité VI</strong></mark></p>
@@ -179,7 +179,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Hache des Glaces</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Glace/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Glace/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
@@ -267,7 +267,7 @@ Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Épée du Leprechaun</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Leprechaun/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Leprechaun/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
@@ -287,7 +287,7 @@ Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Houe du Leprechaun</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Leprechaun/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Leprechaun/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
@@ -305,7 +305,7 @@ Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la 
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Baton du Vent</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Leprechaun/BatonDuVent.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Leprechaun/BatonDuVent.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Solidité I</strong></mark></p>
