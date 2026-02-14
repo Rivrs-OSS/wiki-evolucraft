@@ -175,7 +175,7 @@ Vous avez déjà terminé le <mark style="color:green;">tutoriel de démarrage</
 | **Objectif** | Vous devez ouvrir le menu des métiers et en choisir un. |
 | **Commande** | <mark style="color:green;">`/jobs`</mark> |
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Rappel_Tutoriel/chapitre2_etape4.png" alt=""><figcaption><p><strong>Aperçu du menu des </strong><mark style="color:green;"><strong>métiers</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jobs/InterfaceJobs.png" alt=""><figcaption><p><strong>Aperçu du menu des </strong><mark style="color:green;"><strong>métiers</strong></mark></p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:green;">ASTUCE</mark> : Pour plus d'informations sur les métiers, consultez la page dédiée : [Les Métiers](../le-gameplay/les-metiers.md)
