@@ -20,7 +20,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Pioche des Glaces</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Glace/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Glace/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité VI</strong></mark></p>
@@ -37,7 +37,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Hache des Glaces</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Glace/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Glace/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
@@ -72,7 +72,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Épée des Glaces</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Glace/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Glace/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Tranchant VI</strong></mark></p>
@@ -89,7 +89,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Houe des Glaces</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Glace/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Glace/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
@@ -106,7 +106,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:blue;"><strong>Canne à Pêche des Glaces</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Glace/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Glace/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:blue;"><strong>Chance de la Mer IV</strong></mark></p>
