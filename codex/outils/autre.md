@@ -19,7 +19,6 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 <table border="1" cellspacing="0" cellpadding="6">
   <td>
     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/Grappin.png" alt=""><figcaption></figcaption></figure></p>
-    <p>Aperçue de l'item bientôt présente</p>
   </td>
   <td><mark style="color:green;"><strong>500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></td>
   <td>Ce <mark style="color:green;">grappin</mark> vous permet de <mark style="color:green;">vous déplacer</mark> comme un <mark style="color:green;">arc tridimensionnel</mark>, plus rapidement, mais avec une <mark style="color:green;">durabilité limitée</mark>. Il est également pratique pour accompagner les <mark style="color:green;">élytres</mark> lors de la <mark style="color:green;">recherche de portails de donjons</mark> !</td>
