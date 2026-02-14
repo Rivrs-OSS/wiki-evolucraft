@@ -117,4 +117,18 @@ description: Retrouvez ici toute la liste des compagnons mythiques dans le serve
       <p> * Œuf de famillier (Caisse Lune de Sang 🩸)</p>
     </td>
   </tr>
+  <tr>
+    <td align="center"><mark style="color:red;"><strong>Renard Cupidon</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/Renard-Cupidon.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:red;"><strong>Niv. 1</strong></mark> → <mark style="color:red;"><strong>+ 13.500</strong></mark> 💲/h</p>
+      <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>🗡️ Force</strong></mark> +25</p>
+      <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>Monture</strong></mark> (Aérienne)</p>
+      <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>+10%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUS les métiers</strong></mark></p>
+      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+ 16.500</strong></mark> 💲/h</p>
+    </td>
+    <td>
+      <p>* Œuf de famillier (Caisse Saint Valentin 💕)</p>
+    </td>
+  </tr>
 </table>
