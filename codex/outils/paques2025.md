@@ -25,7 +25,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Épée de Pâques</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Paques2025/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Paques2025/Epee.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant V</strong></mark></p>
@@ -42,7 +42,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Pioche de Pâques</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Paques2025/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Paques2025/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
@@ -58,7 +58,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Hache de Pâques</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Paques2025/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Paques2025/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
@@ -73,7 +73,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Houe de Pâques</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Paques2025/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Paques2025/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
@@ -90,7 +90,7 @@ Le pass Draconique <mark style="color:green;">**n'est plus disponible**</mark>. 
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Canne à Pêche de Pâques</strong></mark></p>
-     <p><figure><img src="../.gitbook/assets/Codex/Outils/Paques2025/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Paques2025/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Chance de la Mer IV</strong></mark></p>
