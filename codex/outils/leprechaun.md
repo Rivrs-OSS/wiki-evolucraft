@@ -109,7 +109,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Hache du Leprechaun</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Leprechaun/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Leprechaun/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
