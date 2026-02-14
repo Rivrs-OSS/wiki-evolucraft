@@ -53,7 +53,7 @@ Vous avez déjà terminé le <mark style="color:green;">tutoriel de démarrage</
 | **Objectif** | Vous devez ouvrir le menu de l'hôtel des ventes. |
 | **Commande** | <mark style="color:green;">`/ah`</mark> |
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Rappel_Tutoriel/chapitre1_etape4.png" alt=""><figcaption><p><strong>Aperçu de l'</strong><mark style="color:green;"><strong>hôtel des ventes</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le_Commerce/Interface_Ah.png" alt=""><figcaption><p><strong>Aperçu de l'</strong><mark style="color:green;"><strong>hôtel des ventes</strong></mark></p></figcaption></figure>
 
 ---
 
@@ -65,7 +65,7 @@ Vous avez déjà terminé le <mark style="color:green;">tutoriel de démarrage</
 | **Objectif** | Vous devez ouvrir le menu des rangs F2W. |
 | **Commande** | <mark style="color:green;">`/rang`</mark> |
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Rappel_Tutoriel/chapitre1_etape5.png" alt=""><figcaption><p><strong>Aperçu du menu des </strong><mark style="color:green;"><strong>rangs F2W</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Rang/InterfaceRang.png" alt=""><figcaption><p><strong>Aperçu du menu des </strong><mark style="color:green;"><strong>rangs F2W</strong></mark></p></figcaption></figure>
 
 ---
 
@@ -112,7 +112,7 @@ Vous avez déjà terminé le <mark style="color:green;">tutoriel de démarrage</
 | **Objectif** | Vous devez sélectionner votre première classe. |
 | **Commande** | <mark style="color:green;">`/classe`</mark> |
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Rappel_Tutoriel/chapitre1_etape9.png" alt=""><figcaption><p><strong>Aperçu du menu des </strong><mark style="color:green;"><strong>classes</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Classes/Readme/ChoixDesClassesV5.png" alt=""><figcaption><p><strong>Aperçu du menu des </strong><mark style="color:green;"><strong>classes</strong></mark></p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:green;">ASTUCE</mark> : Pour plus d'informations sur les classes, consultez la page dédiée : [Avoir une classe](avoir-une-classe.md)

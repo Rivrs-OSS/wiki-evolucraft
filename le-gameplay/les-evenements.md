@@ -6,6 +6,30 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 **Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement. Voici donc la liste des événements présents actuellement sur le serveur.**
 
+***
+
+## 💘 Événement Temporaire
+
+### <mark style="color:red;">💠 Chasse à l'Amour 💕</mark>
+
+**⏰ Tous les jours à 17h00 et 22h00** _(11H AM / 4H PM GMT-4🍁)_
+
+Retrouvez les <mark style="color:red;">**Cœurs Cachés**</mark> dans le <mark style="color:red;">**Spawn**</mark> pour marquer des points !
+
+🏆 **Récompenses :**
+
+* **🥇・1er** → <mark style="color:red;">**1 Pet aléatoire (Nouveau)**</mark> + <mark style="color:red;">**300 000$**</mark>
+* **🥈・2e** → <mark style="color:red;">**1 Pierre de Téléportation Saint Valentin**</mark> + <mark style="color:red;">**200 000$**</mark>
+* **🥉・3e** → <mark style="color:red;">**150 💎**</mark> + <mark style="color:red;">**100 000$**</mark>
+
+{% hint style="warning" %}
+Cet événement est **temporaire** et sera retiré à la fin de la période de la Saint-Valentin.
+{% endhint %}
+
+***
+
+## 🔄 Événements Récurrents
+
 ### <mark style="color:green;">💠 Farm Boost 💱</mark>
 
 **⏰ Tous les jours à 18h15** _(12H15 AM GMT-4🍁)_
