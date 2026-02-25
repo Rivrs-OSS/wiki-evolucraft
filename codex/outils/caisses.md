@@ -483,7 +483,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
 </table>
 
-## 🎑 Outils du Serpent
+## 🎑 Outils de Jade
 
 ## 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
