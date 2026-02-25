@@ -550,7 +550,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Houe de Jade</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Serpent/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Jade/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
