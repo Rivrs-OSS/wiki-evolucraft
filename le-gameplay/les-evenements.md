@@ -8,22 +8,44 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 ***
 
-## 💘 Événement Temporaire
+## 🐉 Événement Temporaire
 
-### <mark style="color:red;">💠 Chasse à l'Amour 💕</mark>
+### <mark style="color:green;">💠 Nouvel An Lunaire 🐉</mark>
 
-**⏰ Tous les jours à 17h00 et 22h00** _(11H AM / 4H PM GMT-4🍁)_
+Un tout nouvel événement festif est arrivé sur le serveur ! Parlez au <mark style="color:green;">**nouveau PNJ au Spawn**</mark> pour accéder au <mark style="color:green;">**Monde Lunaire**</mark>, un monde spécial où vous devrez affronter des monstres pour collecter des <mark style="color:green;">**Fragments de Jade 🟢**</mark>. Ces jades vous permettront d'acheter des objets exclusifs dans la <mark style="color:green;">**boutique de l'événement**</mark> !
 
-Retrouvez les <mark style="color:red;">**Cœurs Cachés**</mark> dans le <mark style="color:red;">**Spawn**</mark> pour marquer des points !
+***
 
-🏆 **Récompenses :**
+#### 🌊 Vagues Lunaires
 
-* **🥇・1er** → <mark style="color:red;">**1 Pet aléatoire (Nouveau)**</mark> + <mark style="color:red;">**300 000$**</mark>
-* **🥈・2e** → <mark style="color:red;">**1 Pierre de Téléportation Saint Valentin**</mark> + <mark style="color:red;">**200 000$**</mark>
-* **🥉・3e** → <mark style="color:red;">**150 💎**</mark> + <mark style="color:red;">**100 000$**</mark>
+**⏰ Tous les jours à 9h, 12h, 15h, 18h, 21h et 00h**
+
+Les <mark style="color:green;">**Vagues Lunaires**</mark> sont des événements de combat intense composés de <mark style="color:green;">**5 vagues de monstres**</mark> suivies d'un <mark style="color:green;">**Boss final**</mark>. Éliminez un maximum d'ennemis pour accumuler des <mark style="color:green;">**Fragments de Jade**</mark> et tenter de décrocher une place sur le <mark style="color:green;">**podium**</mark> !
+
+{% hint style="info" %}
+Le Boss a une chance de dropper un **Pet** exclusif !
+{% endhint %}
+
+🏆 **Récompenses de Serveur** _(Spawn 1, 2 et 3 — classement intra-spawn)_ :
+
+* **🥇・1er** → <mark style="color:green;">**1 000 Jade**</mark>
+* **🥈・2e** → <mark style="color:green;">**600 Jade**</mark>
+* **🥉・3e** → <mark style="color:green;">**350 Jade**</mark>
+* **Tous les participants** → <mark style="color:green;">**100 Jade**</mark>
+
+🌍 **Récompenses Globales** _(Top 3 des joueurs ayant infligé le plus de dégâts toutes spawns confondues)_ :
+
+* **🥇・1er** → <mark style="color:green;">**10 000 Jade**</mark>
+* **🥈・2e** → <mark style="color:green;">**5 000 Jade**</mark>
+* **🥉・3e** → <mark style="color:green;">**2 500 Jade**</mark>
+* **Tous les participants** → <mark style="color:green;">**500 Jade**</mark>
+
+{% hint style="success" %}
+Récupérez vos récompenses du Top 3 Global avec la commande **`/atlaslunarfestival claim`**
+{% endhint %}
 
 {% hint style="warning" %}
-Cet événement est **temporaire** et sera retiré à la fin de la période de la Saint-Valentin.
+Cet événement est **temporaire** et sera retiré à la fin de la période du Nouvel An Lunaire.
 {% endhint %}
 
 ***
