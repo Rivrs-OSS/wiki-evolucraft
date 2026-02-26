@@ -22,6 +22,10 @@ Un tout nouvel événement festif est arrivé sur le serveur ! Parlez au <mark s
 
 Les <mark style="color:green;">**Vagues Lunaires**</mark> sont des événements de combat intense composés de <mark style="color:green;">**5 vagues de monstres**</mark> suivies d'un <mark style="color:green;">**Boss final**</mark>. Éliminez un maximum d'ennemis pour accumuler des <mark style="color:green;">**Fragments de Jade**</mark> et tenter de décrocher une place sur le <mark style="color:green;">**podium**</mark> !
 
+{% hint style="warning" %}
+⚠️ **Important :** Seuls les mobs ayant l'effet **Glowing** comptabilisent des points pour le classement de l'événement !
+{% endhint %}
+
 {% hint style="info" %}
 Le Boss a une chance de dropper un **Pet** exclusif !
 {% endhint %}
