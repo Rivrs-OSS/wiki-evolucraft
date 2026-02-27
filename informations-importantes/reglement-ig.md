@@ -132,7 +132,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 ### <mark style="color:green;">Article D : Les mods autorisés</mark>
 
 * **Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :**
-  * Optifine, Minimap, ReplayMod (Uniquement pour Record)
+  * Optifine, Minimap
   * ReplayMod, Flashback (Uniquement pour Record).
   * Badlion / Lunar / Labymod.
     * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
@@ -179,9 +179,9 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
   * Lorsque vous prévoyez une absence prolongée de plus d’un mois, merci de nous en informer en plaçant une pancarte au spawn de votre ville et en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
   * Au bout d’un mois d’inactivité de tous les joueurs d’une ville et/ou sous certaines conditions, nous nous réservons le droit d’unclaim la ville. Un joueur proche de cette ville peut également demander l’unclaim en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
   * Vous pouvez désormais récupérer le lead d’une ville sous les conditions suivantes :
-    * Le maire est totalement inactif depuis 60 jours.
-    * Le maire ne répond pas sur Discord et/ou est totalement injoignable.
-    * Seul un maire adjoint peut faire la demande pour récupérer la ville.
+    * **Le maire est totalement inactif depuis 60 jours**.
+    * **Le maire ne répond pas sur Discord et/ou est totalement injoignable**.
+    * **Seul un membre de la ville peut faire la demande pour récupérer la ville**.
 
 ### <mark style="color:green;">Article H : Triche et usebugs</mark>
 
