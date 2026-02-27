@@ -55,7 +55,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>▸ <strong><mark style="color:red;">Effet Dextérité</mark></strong> : Tappe 15% plus vite</p>
+     <p>▸ <strong><mark style="color:green;">Effet Dextérité</mark></strong> : Tappe 15% plus vite</p>
    </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p>▸ <mark style="color:green;"><strong>Infinité</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
