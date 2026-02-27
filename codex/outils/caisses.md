@@ -501,7 +501,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Sabre de Dao</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Jade/Sabre.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Epée.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
@@ -519,7 +519,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Pioche de Jade</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Jadet/Pioche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Pioche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
@@ -535,7 +535,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Hache de Jade</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Jade/Hache.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Hache.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité VII</strong></mark></p>
@@ -550,7 +550,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Houe de Jade</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Jade/Houe.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Houe.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
@@ -567,7 +567,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Canne à Pêche de Jade</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Jade/CanneAPeche.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/CanneAPeche.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Chance de la Mer V</strong></mark></p>
@@ -583,7 +583,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Pelle de Jade</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Jade/Pelle.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Pelle.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficaciter VII</strong></mark></p>
@@ -599,7 +599,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:green;"><strong>Marteau de Jade</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Jade/Marteau.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Marteau.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
