@@ -483,6 +483,137 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
   <tr>
 </table>
 
+## 🎑 Outils de Jade
+
+## 🔹 <mark style="color:green;">Son obtention 🤔</mark>
+
+#### Les <mark style="color:green;">**outils de Jade**</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Lunaire</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire).
+
+## 🔹 <mark style="color:green;">Son aperçu 🔍</mark>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
+    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
+    <td align="center"><strong><ins>Effet</ins> ✨</strong></td> 
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:green;"><strong>Sabre de Dao</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Epée.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Tranchant V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Châtiment VI</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Affilage V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Butin V</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Effet Dextérité</strong></mark> : Frappe 15% plus vite.</p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:green;"><strong>Pioche de Jade</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Pioche.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Efficacité VI</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Fortune IX</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:green;"><strong>3 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p><strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
+   </td>
+  </tr>  
+  <tr>
+   <td align="center">
+     <p><mark style="color:green;"><strong>Hache de Jade</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Hache.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Efficacité VII</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Effet Bûcheron</strong></mark> : Coupe un petit arbre en entier en y cassant juste une bûche.</p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:green;"><strong>Houe de Jade</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Houe.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Fortune V</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:green;"><strong>8 000</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>  
+    <p>▸ <mark style="color:green;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
+    <p>▸ <mark style="color:green;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 3X3.</p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:green;"><strong>Canne à Pêche de Jade</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/CanneAPeche.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Chance de la Mer V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Appât V</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:green;"><strong>1 250</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Effet Pêche</strong></mark> : Vous avez 10% de chance de doubler votre pêche.</p>
+   </td>
+  </tr>  
+  <tr>
+   <td align="center">
+     <p><mark style="color:green;"><strong>Pelle de Jade</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Pelle.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Efficaciter VII</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Toucher de Soi</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:green;"><strong>4 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p><strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:green;"><strong>Marteau de Jade</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Jade/Marteau.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Efficacité V</strong></mark></p>
+     <p>▸ <mark style="color:green;"><strong>Fortune III</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:green;"><strong>4 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:green;"><strong>Effet Hammer</strong></mark> : Casse les blocs dans une zone de 3X3.</p>
+   </td>
+  </tr>
+</table>
+
 ## 🤫 Et d'autres nouveaux outils sont à prévoir...
 
 Et voilà, vous connaissez désormais tout les outils du serveur ! À vous de les équiper pour vos meilleurs farms ! 😎
