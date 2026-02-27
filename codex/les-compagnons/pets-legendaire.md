@@ -257,7 +257,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Bébé Dragon Oriental.png" alt=""></figure></td>
    <td>
         <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> d'EXP <mark style="color:purple;"><strong>ForgeMage 📖</strong></mark></p>
-    <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>✨ Régénération de Mana</strong></mark> +1</mark> et <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +3</p>
+    <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>✨ Régénération de Mana</strong></mark> +3</mark> et <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +3</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong> 🪂 Chute Lente </strong></mark> (Permanent) </p>
      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> sur la vente de <mark style="color:purple;"><strong>Loots</strong></mark> au /shop</p>
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 7.500</strong></mark> 💲/h</p> 
