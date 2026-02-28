@@ -214,7 +214,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
        <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +20/<mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark>+20</p>
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 10.000</strong></mark> 💲/h</p>
     </td>
-    <td>* Loot de boss + coffre de récompense🐉(donjons Laboratoire Glacial )</td>
+    <td>* Loot de boss + coffre de récompense (donjons Laboratoire Glacial )</td>
   </tr>
   <tr>
     <td><mark style="color:purple;"><strong>Crapaud Charmant</strong></mark></td>
@@ -239,5 +239,29 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> d'EXP sur <mark style="color:purple;"><strong>TOUS les métiers</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Saint Valentin 💕)</td>
+  </tr>
+  <tr>
+   <td><mark style="color:purple;"><strong>Panda Roux</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Panda Roux.png" alt=""></figure></td>
+   <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> sur la vente de <mark style="color:purple;"><strong>Bambou et Cannes a sucres</strong></mark> au /shop</p>
+     <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +50</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'EXP <mark style="color:purple;"><strong>Fermier 🌾</strong></mark></p>
+     <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>Stockage</strong></mark> double coffre</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 10.500</strong></mark> 💲/h</p> 
+   </td>
+   <td>* Œuf de famillier (caisse lunaire)</td>
+  </tr>
+<tr>
+   <td><mark style="color:purple;"><strong>Bébé Dragon Oriental</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Bébé Dragon Oriental.png" alt=""></figure></td>
+   <td>
+        <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> d'EXP <mark style="color:purple;"><strong>ForgeMage 📖</strong></mark></p>
+    <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>✨ Régénération de Mana</strong></mark> +3</mark> et <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +3</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong> 🪂 Chute Lente </strong></mark> (Permanent) </p>
+     <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> sur la vente de <mark style="color:purple;"><strong>Loots</strong></mark> au /shop</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 7.500</strong></mark> 💲/h</p> 
+   </td>
+   <td>* Œuf de famillier (caisse lunaire)</td>
   </tr>
 </table>
