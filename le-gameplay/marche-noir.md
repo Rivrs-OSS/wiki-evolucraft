@@ -234,16 +234,16 @@ Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mar
 
 ### 🔸 <mark style="color:red;">Noël 2025 🍪</mark>
 
-Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, qui sont obtenables dans le **<mark style="color:red;">Marché noir</mark>** via un échange de **<mark style="color:red;">Sucrerie</mark> obtenable dans les <mark style="color:green;"><strong>donjons Caverne & les donjons Laboratoire</strong></mark>..
+Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, qui sont obtenables dans le **<mark style="color:red;">Marché noir</mark>** via un échange de **<mark style="color:red;">Sucrerie</mark>** obtenable dans les <mark style="color:green;"><strong>donjons Caverne & les donjons Laboratoire</strong></mark>..
 
 <img src="../.gitbook/assets/Marche-Noir/PainD'épice/Trade.png" alt="" style="text-align: left;">
 
 {% hint style="info" %}
-Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong></mark>, ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Caverne & donjons Laboratoire</strong></mark>.
+Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Caverne & donjons Laboratoire</strong></mark>.
 {% endhint %}
 
-| **Items disponible**                                                                           | **Prix**              |
-| ---------------------------------------------------------------------------------------------- | --------------------- |
+| **Items disponible**                                                                           | **Prix**               |
+| ---------------------------------------------------------------------------------------------- | ---------------------- |
 | <mark style="color:red;">**Livre Pain d'épices**</mark> *(Arme Invocateur)*                    | **150 Pains d'épices** |
 | <mark style="color:red;">**Arc Pain d'épices**</mark> *(Arme Archer)*                          | **150 Pains d'épices** |
 | <mark style="color:red;">**Dague Pain d'épices**</mark> *(Arme Assassin)*                      | **150 Pains d'épices** |
@@ -254,9 +254,9 @@ Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong>
 | <mark style="color:red;">**Marteau Pain d'épices**</mark> *(Arme Paladin)*                     | **150 Pains d'épices** |
 | <mark style="color:red;">**Harpe Pain d'épices**</mark> *(Arme Barde)*                         | **150 Pains d'épices** |
 | <mark style="color:red;">**Lance Glacée Pain d'épices**</mark> *(Arme Chevalier de Glace)*     | **150 Pains d'épices** |
-| <mark style="color:red;">**Carte Mystique Pain d'épices**</mark> *(Arme Illusionniste)*         | **150 Pains d'épices** |
+| <mark style="color:red;">**Carte Mystique Pain d'épices**</mark> *(Arme Illusionniste)*        | **150 Pains d'épices** |
 | <mark style="color:red;">**Épée des Morts Pain d'épices**</mark> *(Arme Chevalier de la Mort)* | **150 Pains d'épices** |
-| <mark style="color:red;">**Katana Pain d'épices**</mark> *(Arme Samouraï)*                      | **150 Pains d'épices** |
+| <mark style="color:red;">**Katana Pain d'épices**</mark> *(Arme Samouraï)*                     | **150 Pains d'épices** |
 | <mark style="color:red;">**Orbe Pain d'épices**</mark> *(Arme Élémentaliste)*                  | **150 Pains d'épices** |
 | <mark style="color:red;">**Sceptre Pain d'épices**</mark> *(Arme Clerc)*                       | **150 Pains d'épices** |
 | <mark style="color:red;">**Faux Pain d'épices**</mark> *(Arme Faucheur)*                       | **150 Pains d'épices** |
@@ -267,9 +267,42 @@ Durant la <mark style="color:green;"><strong>mise à jour de Noël 2025</strong>
 | <mark style="color:red;">**Épée Pain d'épices**</mark> *(Arme Guerrier)*                       | **150 Pains d'épices** |
 | <mark style="color:red;">**Totem Pain d'épices**</mark> *(Arme Chaman)*                        | **150 Pains d'épices** |
 
+<figure><img src="../.gitbook/assets/Marche-Noir/PainD'épice/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Lunes de Sang</mark></strong></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Marche-Noir/PainD'épice/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du pain d'épice</mark></strong></figcaption></figure>
+### 🔸 <mark style="color:red;">Nouvel An Lunaire 🎑</mark>
 
+Ces items sont achetables avec des **<mark style="color:red;">Pierre de Jade</mark>**, qui sont obtenables dans la **<mark style="color:red;">boutique temporaire du `/nouvelan`</mark>** via un échange de **<mark style="color:red;">Fragments de pierre de Jade</mark>** obtenable dans le [<mark style="color:green;"><strong>**Monde Lunaire**</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#nouvel-an-lunaire).
+
+{% hint style="info" %}
+Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>effet d'Aura de Feu 🔥</strong></mark> pendant <mark style="color:green;"><strong>4 secondes, sur les mobs touchés</strong></mark>.
+{% endhint %}
+
+| **Items disponible**                                                                           | **Prix**                |
+| ---------------------------------------------------------------------------------------------- | ----------------------- |
+| <mark style="color:red;">**Livre de Jade**</mark> *(Arme Invocateur)*                          | **150 Pierres de Jade** |
+| <mark style="color:red;">**Arc de Jade**</mark> *(Arme Archer)*                                | **150 Pierres de Jade** |
+| <mark style="color:red;">**Dague de Jade**</mark> *(Arme Assassin)*                            | **150 Pierres de Jade** |
+| <mark style="color:red;">**Arc de l'enfer de Jade**</mark> *(Arme Chasseur de Phénix)*         | **150 Pierres de Jade** |
+| <mark style="color:red;">**Poing de Jade**</mark> *(Arme Artiste Martial)*                     | **150 Pierres de Jade** |
+| <mark style="color:red;">**Gantelet de Jade**</mark> *(Arme Moine)*                            | **150 Pierres de Jade** |
+| <mark style="color:red;">**Pistolet de Jade**</mark> *(Arme Artificier)*                       | **150 Pierres de Jade** |
+| <mark style="color:red;">**Marteau de Jade**</mark> *(Arme Paladin)*                           | **150 Pierres de Jade** |
+| <mark style="color:red;">**Harpe de Jade**</mark> *(Arme Barde)*                               | **150 Pierres de Jade** |
+| <mark style="color:red;">**Lance Glacée de Jade**</mark> *(Arme Chevalier de Glace)*           | **150 Pierres de Jade** |
+| <mark style="color:red;">**Carte Mystique de Jade**</mark> *(Arme Illusionniste)*              | **150 Pierres de Jade** |
+| <mark style="color:red;">**Épée des Morts de Jade**</mark> *(Arme Chevalier de la Mort)*       | **150 Pierres de Jade** |
+| <mark style="color:red;">**Katana de Jade**</mark> *(Arme Samouraï)*                           | **150 Pierres de Jade** |
+| <mark style="color:red;">**Orbe de Jade**</mark> *(Arme Élémentaliste)*                        | **150 Pierres de Jade** |
+| <mark style="color:red;">**Sceptre de Jade**</mark> *(Arme Clerc)*                             | **150 Pierres de Jade** |
+| <mark style="color:red;">**Faux de Jade**</mark> *(Arme Faucheur)*                             | **150 Pierres de Jade** |
+| <mark style="color:red;">**Lance de Jade**</mark> *(Arme Guerrier Dragon)*                     | **150 Pierres de Jade** |
+| <mark style="color:red;">**Bâton de Jade**</mark> *(Arme Archimage)*                           | **150 Pierres de Jade** |
+| <mark style="color:red;">**Hache de Jade**</mark> *(Arme Barbare)*                             | **150 Pierres de Jade** |
+| <mark style="color:red;">**Bâton de Jade**</mark> *(Arme Mage)*                                | **150 Pierres de Jade** |
+| <mark style="color:red;">**Épée de Jade**</mark> *(Arme Guerrier)*                             | **150 Pierres de Jade** |
+| <mark style="color:red;">**Totem de Jade**</mark> *(Arme Chaman)*                              | **150 Pierres de Jade** |
+
+<figure><img src="../.gitbook/assets/Marche-Noir/Lunaire/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du Nouvel An Lunaire</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
@@ -305,5 +338,9 @@ Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de
 ### 🔸 <mark style="color:red;">Clé Pain d'épices 🍪</mark>
 La **<mark style="color:red;">Clé Pain d'épice</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Pain d'épices 🍪</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**.  
 Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pain d'épices</mark>**, disponibles durant **<mark style="color:red;">l'événement de Noël 2025</mark>**.
+
+### 🔸 <mark style="color:green;">Clé Lunaire 🎑</mark>
+La **<mark style="color:green;">Clé Lunaire</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Lunaire 🎑</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire)**.  
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Lunaire</mark>**, disponibles dans la **<mark style="color:red;">boutique temporaire du`/nouvelan`</mark>** avec **<mark style="color:red;">l'événement de Nouvel an Lunaire</mark>**.
 
 **Et voilà, vous savez tout sur le marché noir d'Évolucraft, mais attention… ceci doit rester secret 🤫**

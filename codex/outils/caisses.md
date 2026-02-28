@@ -487,7 +487,7 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
 
 ## 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-#### Les <mark style="color:green;">**outils de Jade**</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Lunaire</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire).
+#### Les <mark style="color:green;">**outils de Jade**</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Lunaire</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire) ou à <mark style="color:green;">l'achat dans la boutique temporaire du `/nouvelan`</mark>.
 
 ## 🔹 <mark style="color:green;">Son aperçu 🔍</mark>
 
