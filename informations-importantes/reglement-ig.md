@@ -35,7 +35,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
 * Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
-* Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon...) ne doit apparaître **qu’une seule fois** dans le menu des pubs et doit obligatoirement être réalisée via la commande **`/pub`**. Vous ne pourrez la republier **qu’après expiration de l’ancienne**. Dans le cas contraire, elle sera **supprimée par un membre compétent du staff**.
+* Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon (hors portails où vous n'avez pas le level/que vous ne voulez pas réaliser),...) ne doit apparaître **qu’une seule fois** dans le menu des pubs et doit obligatoirement être réalisée via la commande **`/pub`**. Vous ne pourrez la republier **qu’après expiration de l’ancienne**. Dans le cas contraire, elle sera **supprimée par un membre compétent du staff**.
 
 {% hint style="info" %}
 Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
@@ -86,6 +86,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 
 ### <mark style="color:green;">Article B : Les actions interdites</mark>
 
+* Grief/Détruire volontairement dans une ville est interdit que vous soyez membre de la ville ou simple visiteur (ne pas replanter des champs publics, envoyer des oeufs de poulets dans la ville,...). Cependant il est conseillé d'y avoir une zone remarquable de votre ville où votre règlement y est indiquer.
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * Il est interdit de voler des farms aux autres joueurs sans leur accord.
