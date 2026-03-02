@@ -327,7 +327,7 @@ La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/givrée.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/givree.png" alt=""><figcaption></figcaption></figure>
 
 | **Récompense**                                                    | **Pourcentage d'obtention** |
 | ----------------------------------------------------------------- | --------------------------- |
