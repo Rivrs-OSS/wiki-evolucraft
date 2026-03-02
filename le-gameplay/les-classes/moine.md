@@ -277,7 +277,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:yellow;">Jackpot</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+     <p><mark style="color:red;">❤️ Vie +140</mark></p>
     </td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
@@ -286,7 +286,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:yellow;">Jackpot</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+     <p><mark style="color:red;">❤️ Vie +140</mark></p>
     </td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
@@ -295,7 +295,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:orange;">Draconique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +10</mark></p>
+     <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
@@ -307,7 +307,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:blue;">Abyssal</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +5</mark></p>
+     <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
@@ -319,7 +319,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:orange;">Halloween</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
+     <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
@@ -331,7 +331,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:blue;">Givrée</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
+     <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
@@ -343,7 +343,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:red;">ST-Valentin</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +36</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +16</mark></p>
+     <p><mark style="color:red;">❤️ Vie +91</mark></p>
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
@@ -355,7 +355,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:yellow;">Pâques</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +43</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
+     <p><mark style="color:red;">❤️ Vie +109</mark></p>
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
@@ -367,7 +367,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +49</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
+     <p><mark style="color:red;">❤️ Vie +109</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td>
@@ -380,7 +380,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:red;">Lune de Sang</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
+     <p><mark style="color:red;">❤️ Vie +112</mark></p>
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
@@ -392,7 +392,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:red;">Pain d'épice</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
+     <p><mark style="color:red;">❤️ Vie +115</mark></p>
     </td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
