@@ -411,4 +411,17 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
     </td>
   </tr> 
+  <tr>
+    <td><mark style="color:green;">Livre de Jade</mark></td>
+    <td><mark style="color:green;">Nouvel An Lunaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +51</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +8</mark></td></p>
+    </td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#nouvel-an-lunaire"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire"><mark style="color:green;">Caisse Lunaire 🎑</mark></a></p>
+    </td>
+  </tr>  
 </table>
