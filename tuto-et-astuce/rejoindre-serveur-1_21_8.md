@@ -37,4 +37,21 @@ description: Retrouvez ici la solution pour rejoindre le serveur !
 **Rejoignez le serveur en faisant un double clic sur le serveur, puis une fois arrivé dans le lobby, faites un clic droit avec la boussole en main pour ensuite cliquer sur le bloc vert comme ci-dessous.**
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/RejoindreServeur/choix_monde.png" alt="" width="600"></figure>
 
+## 💠 Problème de connexion au serveur
+
+Lorsque vous essayez de vous connecter et que vous tombez sur cette page après plusieurs **<mark style="color:green;"><strong>minutes d'attente</strong></mark>**, comme ci-dessous, voici une petite astuce pour résoudre votre **<mark style="color:green;"><strong>problème de connexion</strong></mark>** et rejoindre notre **<mark style="color:green;"><strong>serveur</strong></mark>** 🤩
+
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/RejoindreServeur/1.21.8/echec_connexion.png" alt="" width="600"></figure>
+
+### <mark style="color:green;">🔸 Étape 1️⃣</mark>
+Cliquez sur **<mark style="color:green;"><strong>"Retourner sur la liste des serveurs"</strong></mark>**, puis **<mark style="color:green;"><strong>double-cliquez sur le serveur</strong></mark>** afin de tenter de le rejoindre à nouveau.
+
+### <mark style="color:green;">🔸 Étape 2️⃣</mark>
+S’il affiche le message **<mark style="color:green;"><strong>"Chiffrement en cours"</strong></mark>** (**<mark style="color:green;"><strong>"Encrypting"</strong></mark>** si vous avez le jeu en anglais) durant le chargement, comme ci-dessous, cliquez directement sur **<mark style="color:green;"><strong>"Annuler"</strong></mark>**.
+
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/RejoindreServeur/1.21.8/bug_connexion.png" alt="" width="600"></figure>
+
+### <mark style="color:green;">🔸 Étape 3️⃣</mark>
+Répétez l’opération jusqu’à ce que le message **<mark style="color:green;"><strong>"Entrée dans le monde"</strong></mark>** s’affiche.
+
 **Vous pouvez dès à présent commencer votre aventure sur Évolucraft ! 🥳**
