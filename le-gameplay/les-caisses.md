@@ -543,7 +543,7 @@ La <mark style="color:green;">**Clé de la Caisse Lune de Sang**</mark> s'obtien
 La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-pain-depice)
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
-<figure><img src="../.gitbook/assets/Les_Caisses/pain_depice.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/paindepice.png" alt=""><figcaption></figcaption></figure>
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | --------------------------------------------------------------------------- | --------------------------- |
