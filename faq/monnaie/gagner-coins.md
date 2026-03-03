@@ -2,9 +2,11 @@
 description: Retrouvez ici le tuto pour savoir comment se créer une petite richesse en début de partie.
 ---
 
-# 💸 Gagner de l'argent
+# 💸 Money
 
-L'argent sur ce serveur est indispensable pour monter ses rangs, faire évoluer sa ville ou encore acheter des services ou des items aux joueurs. Mais en tant que nouveau joueur, quels sont les moyens d'avoir une petite base d'argent pour subvenir à ses besoins ? Alors voici quelques astuces pour se faire de l'argent rapidement, sans mendier !
+La **<mark style="color:green;"><strong>Money ($)</strong></mark>** est la **<mark style="color:green;"><strong>monnaie la plus importante du serveur</strong></mark>**. Ils vous servent notamment à **<mark style="color:green;"><strong>monter vos rangs</strong></mark>**, **<mark style="color:green;"><strong>faire évoluer votre ville</strong></mark>** ou encore **<mark style="color:green;"><strong>acheter des services et des items aux joueurs</strong></mark>**.
+
+Mais en tant que **<mark style="color:green;"><strong>nouveau joueur</strong></mark>**, quels sont les moyens d’obtenir une **<mark style="color:green;"><strong>petite base d’argent</strong></mark>** pour subvenir à vos besoins ? Voici donc quelques **<mark style="color:green;"><strong>astuces pour gagner de l’argent rapidement</strong></mark>**, sans mendier ! 💰
 
 ## 🔶 <mark style="color:green;">Les Métiers 👷‍♂️</mark>
 
