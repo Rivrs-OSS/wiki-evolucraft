@@ -103,7 +103,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 **Nous vous invitons à&#x20;**<mark style="color:green;">**lire la page du wiki**</mark>**&#x20;dédiée :** [<mark style="color:green;">**Les shops de joueurs 🏪**</mark>](https://wiki.evolucraft.fr/les-villes/shops-joueurs)
 
-<figure><img src="../../.gitbook/assets/Les_Villes/Shops/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/finditem</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Shops/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu d'un </strong><mark style="color:green;"><strong>coffre de vente</strong></mark></p></figcaption></figure>
 
 ### <mark style="color:green;">🔹 Le</mark> <mark style="color:green;"></mark><mark style="color:green;">`/finditem`</mark>
 
@@ -111,7 +111,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 **Afin de&#x20;**<mark style="color:green;">**vendre un item à un coffre de rachat**</mark>**, il vous suffit de&#x20;**<mark style="color:green;">**faire la commande**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/finditem vendre [id de l'item/premier mot de l'item custom]`**</mark>**, puis il vous donnera&#x20;**<mark style="color:green;">**la liste de tous les joueurs rachetant cet item**</mark>**. À vous de&#x20;**<mark style="color:green;">**sélectionner le racheteur**</mark>**&#x20;en cliquant sur l’item en question.**
 
-<figure><img src="../../.gitbook/assets/Les_Villes/Shops/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/finditem</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Shops/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong><code>/finditem</code></strong></mark></p></figcaption></figure>
 
 {% hint style="info" %}
 **REMARQUE 🔍 : Les items sont triés du plus cher au moins cher 📉**.
