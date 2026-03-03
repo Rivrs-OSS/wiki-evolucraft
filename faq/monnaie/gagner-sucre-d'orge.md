@@ -21,8 +21,7 @@ Pour voir combien vous en possédez, il vous suffit de **<mark style="color:gree
 Ces sucre d'orge s'obtiennent dans **<mark style="color:green;"><strong>les donjons givrées communs</strong></mark> et <mark style="color:green;"><strong>les donjons givrées épique</strong></mark>**.  
 {% endhint %}
 
-
-### 🔷 <mark style="color:blue;">Les <mark style="color:green;"><strong>Donjons Cavernes Glaciales</strong></mark> et <mark style="color:green;"><strong>Donjons Laboratoire Glacial</strong></mark> 🏛️</mark>
+### 🔷 <mark style="color:blue;">Les Donjons Cavernes Glaciales et Donjons Laboratoire Glacial 🏛️</mark>
 
 Lorsque les joueurs **<mark style="color:green;"><strong>tuent des monstres</strong></mark>** dans ces **<mark style="color:green;"><strong>donjons</strong></mark>**, que ce soit dans les **<mark style="color:green;"><strong>Cavernes Glaciales</strong></mark>** ou dans le **<mark style="color:green;"><strong>Laboratoire Glacial</strong></mark>**, ils obtiennent automatiquement des **<mark style="color:green;"><strong>sucres d'orge 🍭</strong></mark>** en fonction du type de mob vaincu, comme indiqué dans le tableau ci-dessous :
 
