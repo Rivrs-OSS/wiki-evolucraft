@@ -66,7 +66,7 @@ Ils ne sont plus utilisables après le mois où ils ont été obtenus et devienn
 Par conséquent, ils sont **<mark style="color:green;"><strong>interdits à la vente ❌</strong></mark>**.
 {% endhint %}
 
-Une fois l’**<mark style="color:green;"><strong>étoile craftée</strong></mark>**, il vous suffit de faire un **<mark style="color:green;"><strong>clic droit</strong></mark>** avec l’étoile en main, après avoir bien sélectionné votre ville via la commande **<mark style="color:green;"><strong>`/v select`</strong></mark>**, afin de **<mark style="color:green;"><strong>comptabiliser les points</strong></mark>** dans le classement des villes.
+Une fois l’**<mark style="color:green;"><strong>étoile craftée</strong></mark>**, il vous suffit de faire un **<mark style="color:green;"><strong>clic droit</strong></mark>** avec l’étoile en main, après avoir bien sélectionné votre ville via la commande **<mark style="color:green;"><strong>`/v select`</strong></mark>**, afin de **<mark style="color:green;"><strong>comptabiliser les points dans le classement des villes</strong></mark>**.
 
 Pour plus d’informations sur le **<mark style="color:green;"><strong>classement des villes</strong></mark>**, consultez également cette page :  
 [🏆 Le Classement des Villes](https://wiki.evolucraft.fr/le-gameplay/les-villes/classement-ville#comment-voir-son-classement)
