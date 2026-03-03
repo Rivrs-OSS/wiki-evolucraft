@@ -44,7 +44,9 @@ Lorsque vous essayez de vous connecter et que vous tombez sur cette page après 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/RejoindreServeur/1.21.8/echec_connexion.png" alt="" width="600"></figure>
 
 ### <mark style="color:green;">🔸 Étape 1️⃣</mark>
-Cliquez sur **<mark style="color:green;"><strong>"Retourner sur la liste des serveurs"</strong></mark>**, puis **<mark style="color:green;"><strong>double-cliquez sur le serveur</strong></mark>** afin de tenter de le rejoindre à nouveau.
+Cliquez sur **<mark style="color:green;"><strong>"Retourner sur la liste des serveurs"</strong></mark>**. Ensuite, **<mark style="color:green;"><strong>cliquez sur "Actualiser"</strong></mark>** puis **<mark style="color:green;"><strong>double-cliquez sur le serveur</strong></mark>** afin de tenter de le rejoindre à nouveau.
+
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/RejoindreServeur/1.21.8/bug_actualisation.png" alt="" width="600"></figure>
 
 ### <mark style="color:green;">🔸 Étape 2️⃣</mark>
 S’il affiche le message **<mark style="color:green;"><strong>"Chiffrement en cours"</strong></mark>** (**<mark style="color:green;"><strong>"Encrypting"</strong></mark>** si vous avez le jeu en anglais) durant le chargement, comme ci-dessous, cliquez directement sur **<mark style="color:green;"><strong>"Annuler"</strong></mark>**.
