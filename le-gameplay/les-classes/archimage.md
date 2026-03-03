@@ -74,11 +74,12 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
 ## 💠 <mark style="color:blue;">Armes</mark>
 
 <table>
-  <tr>
-    <th>Armes</th>
-    <th>Rareté</th>
-    <th>Stat</th>
-    <th>Obtention</th>
+<tr>
+    <th>Nom de l'Armes 🏷️</th>
+    <th>Rareté/Collection 🌟</th>
+    <th>Statistiques 📊</th>
+    <th>Effets ✨</th>
+    <th>Obtentions 📌</th>
   </tr>
   <tr>
     <td><mark style="color:green;">Sceptre des Arcanes</mark></td>
