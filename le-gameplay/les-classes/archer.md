@@ -412,7 +412,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     </td>
   </tr> 
   <tr>
-    <td><mark style="color:green;">Livre de Jade</mark></td>
+    <td><mark style="color:green;">Arc de Jade</mark></td>
     <td><mark style="color:green;">Nouvel An Lunaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +51</mark></p>
