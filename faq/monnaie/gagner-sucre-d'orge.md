@@ -16,7 +16,11 @@ Pour voir combien vous en possédez, il vous suffit de **<mark style="color:gree
 
 <figure><img src="../.gitbook/assets/Marche-Noir/PainD'épice/Trade.png" alt="" style="text-align: left;"></figure>
 
-## 💠 <mark style="color:green;">Comment en obtenir ? 🤗</mark>
+{% hint style="warning" %}
+**⚠️ Attention ‼ :** Les **<mark style="color:green;"><strong>sucres d'orge</strong></mark>** n'est **<mark style="color:green;"><strong>PAS la même monnaie d'échange</strong></mark>** avec la boutique du marché noir **<mark style="color:green;"><strong>Givrée</strong></mark>**.  
+Ces sucre d'orge s'obtiennent dans **<mark style="color:green;"><strong>les donjons givrées communs</strong></mark> et <mark style="color:green;"><strong>les donjons givrées épique</strong></mark>**.  
+{% endhint %}
+
 
 ### 🔷 <mark style="color:blue;">Les <mark style="color:green;"><strong>Donjons Cavernes Glaciales</strong></mark> et <mark style="color:green;"><strong>Donjons Laboratoire Glacial</strong></mark> 🏛️</mark>
 
