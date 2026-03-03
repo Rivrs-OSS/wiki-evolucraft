@@ -77,11 +77,12 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
 ## 💠 <mark style="color:yellow;">Armes</mark>
 
 <table>
-  <tr>
-    <th>Armes</th>
-    <th>Rareté</th>
-    <th>Stat</th>
-    <th>Obtention</th>
+<tr>
+    <th>Nom de l'Armes 🏷️</th>
+    <th>Rareté/Collection 🌟</th>
+    <th>Statistiques 📊</th>
+    <th>Effets ✨</th>
+    <th>Obtentions 📌</th>
   </tr>
   <tr>
     <td><mark style="color:green;">Croc de Fenrir</mark></td>
