@@ -56,7 +56,7 @@ Passez votre curseur sur le bouton **<mark style="color:green;"><strong>"Aide"</
 ## 💠 <mark style="color:green;">Comment crafter l'étoile ? 🌟</mark>
 
 Pour **<mark style="color:green;"><strong>crafter l’étoile</strong></mark>**, vous aurez besoin d’un **<mark style="color:green;"><strong>fragment de chaque métier</strong></mark>** :  
-**<mark style="color:green;"><strong>Mineur</strong></mark>**, **<mark style="color:green;"><strong>Chasseur</strong></mark>**, **<mark style="color:green;"><strong>Pêcheur</strong></mark>**, **<mark style="color:green;"><strong>Bûcheron</strong></mark>** et **<mark style="color:green;"><strong>Fermier</strong></mark>**, puis de les placer comme indiqué sur l’image ci-dessous :
+**<mark style="color:green;"><strong>Mineur ⛏️</strong></mark>**, **<mark style="color:green;"><strong>Chasseur 🗡️</strong></mark>**, **<mark style="color:green;"><strong>Pêcheur 🎣</strong></mark>**, **<mark style="color:green;"><strong>Bûcheron 🪚</strong></mark>** et **<mark style="color:green;"><strong>Fermier 🌾</strong></mark>**, puis de les placer comme indiqué sur l’image ci-dessous :
 
 <figure><img src="../.gitbook/assets/Les_Villes/Classement/CraftEtoile.png" alt=""><figcaption>Craft d'une Étoile</figcaption></figure>
 
