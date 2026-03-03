@@ -74,11 +74,12 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
 ## 💠 <mark style="color:purple;">Armes</mark>
 
 <table>
-  <tr>
-    <th>Armes</th>
-    <th>Rareté</th>
-    <th>Stat</th>
-    <th>Obtention</th>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
     <td><mark style="color:green;">Lame du Komodo</mark></td>
