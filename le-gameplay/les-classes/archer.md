@@ -77,11 +77,11 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
 
 <table>
 <tr>
-    <th>Armes</th>
-    <th>Rareté</th>
-    <th>Stat</th>
-    <th>Effet</th>
-    <th>Obtention</th>
+    <th>Nom de l'Armes 🏷️</th>
+    <th>Rareté/Collection 🌟</th>
+    <th>Statistiques 📊</th>
+    <th>Effets ✨</th>
+    <th>Obtentions 📌</th>
   </tr>
   <tr>
     <td><mark style="color:green;">Arc Sylvanique</mark></td>
