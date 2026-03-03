@@ -51,7 +51,7 @@ Passez votre curseur sur le bouton **<mark style="color:green;"><strong>"Aide"</
 <figure><img src="../.gitbook/assets/Les_Villes/Classement/InfoItems.png" alt=""><figcaption>Informations des actions de métiers donnant le fragment</figcaption></figure>
 
 {% hint style="warning" %}
-**⚠️ Attention ! Les <mark style="color:green;"><strong>items indiqués changent chaque 1er du mois</strong></mark>**.
+**⚠️ Attention ! Les <mark style="color:green;"><strong>items a récolté changent chaque 1er du mois</strong></mark>**.
 {% endhint %}
 
 ## 💠 <mark style="color:green;">Comment crafter l'étoile ? 🌟</mark>
