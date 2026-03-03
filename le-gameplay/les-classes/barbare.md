@@ -76,11 +76,12 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
 ## 💠 <mark style="color:yellow;">Armes</mark>
 
 <table>
-  <tr>
-    <th>Armes</th>
-    <th>Rareté</th>
-    <th>Statistique</th>
-    <th>Obtention</th>
+<tr>
+    <th>Nom de l'Armes 🏷️</th>
+    <th>Rareté/Collection 🌟</th>
+    <th>Statistiques 📊</th>
+    <th>Effets ✨</th>
+    <th>Obtentions 📌</th>
   </tr>
   <tr>
     <td><mark style="color:red;">Hache de la Lune de Sang</mark></td>
