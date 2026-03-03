@@ -16,21 +16,21 @@ Pour découvrir <mark style="color:green;">comment rejoindre un métier</mark>, 
 
 Pour savoir quelles <mark style="color:green;">actions vous font gagner de l'argent</mark> (ainsi que de l'xp métier), il vous suffit d'abord de faire <mark style="color:green;">`/jobs`</mark> puis de <mark style="color:green;">sélectionner le métier</mark> que vous avez rejoint.
 
-<figure><img src="../.gitbook/assets/Jobs/InterfaceJobs.png" alt=""><figcaption><p><strong>Aperçu du "</strong><mark style="color:green;"><strong>`/jobs`</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Jobs/InterfaceJobs.png" alt=""><figcaption><p><strong>Aperçu du "</strong><mark style="color:green;"><strong>`/jobs`</strong></mark></p></figcaption></figure>
 
 Puis, il vous suffira de cliquer sur "<mark style="color:green;">Action rémunérée</mark>" représentée par <mark style="color:green;">une feuille de papier</mark>.
 
-<figure><img src="../.gitbook/assets/Jobs/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>menu du jobs Mineur</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Jobs/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>menu du jobs Mineur</strong></mark></p></figcaption></figure>
 
 Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action</mark> (casser, tuer, pêcher, etc.) avec les <mark style="color:green;">actions possibles</mark> et <mark style="color:green;">leur gain associé</mark> (Argent et XP métier).
 
-<figure><img src="../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>actions rémunérées du mineur</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>actions rémunérées du mineur</strong></mark></p></figcaption></figure>
 
 ### 🔹 Les paliers de métiers ✅
 
 Également, à chaque <mark style="color:green;">niveau de métier</mark> complété, vous pouvez récupérer des <mark style="color:green;">récompenses de palier de métiers</mark> telles que de <mark style="color:green;">l’argent</mark>, en utilisant la commande <mark style="color:green;">`/jobs claim`</mark>. Celle-ci vous permettra d’obtenir toutes les <mark style="color:green;">récompenses de paliers des métiers</mark> atteints qui n’avaient pas encore été récupérées.
 
-<figure><img src="../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>paliers de métiers</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>paliers de métiers</strong></mark></p></figcaption></figure>
 
 {% hint style="tip" %}
 Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : [<mark style="color:green;">les métiers 👷‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers).
@@ -53,7 +53,7 @@ Vous votez souvent sur le serveur ? Alors profitez des <mark style="color:green;
 Si vous souhaitez <mark style="color:green;">jouer le classement des votes</mark>, sachez qu’il est possible de débloquer des <mark style="color:green;">récompenses</mark> de votes <mark style="color:green;">chaque semaine</mark>.
 C'est à dire qu'en votant <mark style="color:green;">60 fois</mark> durant la semaine, vous pourrez récupérer jusqu'à <mark style="color:green;">160 000 💲 de money</mark> !
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/PalierVote.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>paliers de votes</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Vote/PalierVote.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>paliers de votes</strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">Les donjons 🏛️</mark>
 
@@ -81,7 +81,7 @@ C'est à dire qu'en votant <mark style="color:green;">60 fois</mark> durant la s
 
 **Pour&#x20;**<mark style="color:green;">**tenter de participer à ces donjons**</mark>**, il vous suffit de&#x20;**<mark style="color:green;">**cliquer dans le chat**</mark>**&#x20;sur la ligne "**<mark style="color:green;">**Envoyer une demande de téléportation"**</mark>**&#x20;pour que le joueur ayant trouvé le donjon puisse&#x20;**<mark style="color:green;">**vous téléporter**</mark>**.**
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/DemandeDeTPDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une </strong><mark style="color:green;"><strong>pub de donjon</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Argent/DemandeDeTPDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une </strong><mark style="color:green;"><strong>pub de donjon</strong></mark></p></figcaption></figure>
 
 Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjons et sa réalisation : [<mark style="color:green;">**Les Donjons 🏛️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons)
 
@@ -93,7 +93,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 **Vous permet de&#x20;**<mark style="color:green;">**vendre des items ou d’acheter des items**</mark>**&#x20;dans une interface connectée à tous les mondes.**
 
-<figure><img src="../.gitbook/assets/Le_Commerce/Interface_Ah.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>hôtel de vente</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Le_Commerce/Interface_Ah.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>hôtel de vente</strong></mark></p></figcaption></figure>
 
 **Pour&#x20;**<mark style="color:green;">**mettre un item en vente**</mark>**, il faudra effectuer la commande&#x20;**<mark style="color:green;">**`/ah sell [prix] [quantité]`**</mark>**&#x20;tout en tenant l’item en main.**
 
@@ -109,7 +109,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 **Afin de&#x20;**<mark style="color:green;">**vendre un item à un coffre de rachat**</mark>**, il vous suffit de&#x20;**<mark style="color:green;">**faire la commande**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/finditem vendre [id de l'item/premier mot de l'item custom]`**</mark>**, puis il vous donnera&#x20;**<mark style="color:green;">**la liste de tous les joueurs rachetant cet item**</mark>**. À vous de&#x20;**<mark style="color:green;">**sélectionner le racheteur**</mark>**&#x20;en cliquant sur l’item en question.**
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/finditem</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/finditem</strong></mark></p></figcaption></figure>
 
 {% hint style="info" %}
 **REMARQUE 🔍 : Les items sont triés du plus cher au moins cher 📉**.
@@ -119,7 +119,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 **Le&#x20;**<mark style="color:green;">**`/rewards`**</mark>**&#x20;vous permet de&#x20;**<mark style="color:green;">**gagner des récompenses**</mark>**&#x20;chaque jour avec un reset à minuit&#x20;**_**(heure française)**_**&#x20;selon votre temps de jeu.&#x20;**<mark style="color:green;">**Une notification sur votre écran**</mark>**&#x20;vous informe lorsqu’un cadeau est débloqué. Vous pouvez y&#x20;**<mark style="color:green;">**recevoir des quêtes**</mark>**,&#x20;**<mark style="color:green;">**divers blocs et items**</mark>**,&#x20;**<mark style="color:green;">**une carte aléatoire commune**</mark>**&#x20;mais surtout&#x20;**<mark style="color:green;">**de l’argent**</mark>**&#x20;!**
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">Les Évènements 🎪</mark>
 
@@ -130,6 +130,6 @@ Ces évènements sont une excellente occasion de <mark style="color:green;">gagn
 Pour plus d’informations sur les <mark style="color:green;">Évènements</mark>, nous vous invitons à lire cette page : [Évènements 🎪](https://wiki.evolucraft.fr/le-gameplay/les-evenements#des-evenements-de-lequipe-danimation).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
 
 **Vous avez toutes les infos pour savoir comment gagner de l’argent facilement 🤑 ! À vous de trouver la meilleure technique ou d’en découvrir une nouvelle 😏**
