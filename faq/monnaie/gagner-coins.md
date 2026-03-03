@@ -81,7 +81,7 @@ C'est à dire qu'en votant <mark style="color:green;">60 fois</mark> durant la s
 
 **Pour&#x20;**<mark style="color:green;">**tenter de participer à ces donjons**</mark>**, il vous suffit de&#x20;**<mark style="color:green;">**cliquer dans le chat**</mark>**&#x20;sur la ligne "**<mark style="color:green;">**Envoyer une demande de téléportation"**</mark>**&#x20;pour que le joueur ayant trouvé le donjon puisse&#x20;**<mark style="color:green;">**vous téléporter**</mark>**.**
 
-<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Argent/DemandeDeTPDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une </strong><mark style="color:green;"><strong>pub de donjon</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/DemandeDeTPDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une </strong><mark style="color:green;"><strong>pub de donjon</strong></mark></p></figcaption></figure>
 
 Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjons et sa réalisation : [<mark style="color:green;">**Les Donjons 🏛️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons)
 
@@ -109,7 +109,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 **Afin de&#x20;**<mark style="color:green;">**vendre un item à un coffre de rachat**</mark>**, il vous suffit de&#x20;**<mark style="color:green;">**faire la commande**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/finditem vendre [id de l'item/premier mot de l'item custom]`**</mark>**, puis il vous donnera&#x20;**<mark style="color:green;">**la liste de tous les joueurs rachetant cet item**</mark>**. À vous de&#x20;**<mark style="color:green;">**sélectionner le racheteur**</mark>**&#x20;en cliquant sur l’item en question.**
 
-<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/finditem</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Shops/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/finditem</strong></mark></p></figcaption></figure>
 
 {% hint style="info" %}
 **REMARQUE 🔍 : Les items sont triés du plus cher au moins cher 📉**.
@@ -119,7 +119,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 **Le&#x20;**<mark style="color:green;">**`/rewards`**</mark>**&#x20;vous permet de&#x20;**<mark style="color:green;">**gagner des récompenses**</mark>**&#x20;chaque jour avec un reset à minuit&#x20;**_**(heure française)**_**&#x20;selon votre temps de jeu.&#x20;**<mark style="color:green;">**Une notification sur votre écran**</mark>**&#x20;vous informe lorsqu’un cadeau est débloqué. Vous pouvez y&#x20;**<mark style="color:green;">**recevoir des quêtes**</mark>**,&#x20;**<mark style="color:green;">**divers blocs et items**</mark>**,&#x20;**<mark style="color:green;">**une carte aléatoire commune**</mark>**&#x20;mais surtout&#x20;**<mark style="color:green;">**de l’argent**</mark>**&#x20;!**
 
-<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Monnaie/Coins/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">Les Évènements 🎪</mark>
 
