@@ -12,11 +12,11 @@ Appuyez sur votre touche "Echap" sur votre clavier afin d'être sur votre menu d
 
 ### <mark style="color:green;">🔸 Étape 2️⃣</mark>
 **Cliquez sur le bouton "Options"** pour aller dans les options du jeu comme sur l'image ci-dessous.
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Interface/Menue.png" alt="" width="600"></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Interface/Menu.png" alt="" width="600"></figure>
 
 ### <mark style="color:green;">🔸 Étape 3️⃣</mark>
 **Cliquez sur le bouton "Graphisme"** comme iniduquer ci-dessous pour paramétrer tout ce qui touchera au graphisme du jeu.
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Interface/Option.png" alt="" width="600"></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Interface/Options.png" alt="" width="600"></figure>
 
 ### <mark style="color:green;">🔸 Étape 4️⃣</mark>
 **Cliquez sur le bouton "Taille de l'interface"** jusqu'à qu'il vous met l'interface en taille deux comme sur l'image dessous, celà vous permetrra de réduire toutes les interfaces (y compris votre inventaire et la barre d'action).
