@@ -74,12 +74,12 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
 ## 💠 <mark style="color:purple;">Armes</mark>
 
 <table>
- <tr>
-    <th>Nom de l'Armes 🏷️</th>
-    <th>Rareté/Collection 🌟</th>
-    <th>Statistiques 📊</th>
-    <th>Effets ✨</th>
-    <th>Obtentions 📌</th>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
     <td><mark style="color:green;">Pistolet du blizzard</mark></td>
