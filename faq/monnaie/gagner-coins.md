@@ -16,7 +16,7 @@ Pour découvrir <mark style="color:green;">comment rejoindre un métier</mark>, 
 
 Pour savoir quelles <mark style="color:green;">actions vous font gagner de l'argent</mark> (ainsi que de l'xp métier), il vous suffit d'abord de faire <mark style="color:green;">`/jobs`</mark> puis de <mark style="color:green;">sélectionner le métier</mark> que vous avez rejoint.
 
-<figure><img src="../../.gitbook/assets/Jobs/InterfaceJobs.png" alt=""><figcaption><p><strong>Aperçu du "</strong><mark style="color:green;"><strong>`/jobs`</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Jobs/InterfaceJobs.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/jobs</code></strong></mark></p></figcaption></figure>
 
 Puis, il vous suffira de cliquer sur "<mark style="color:green;">Action rémunérée</mark>" représentée par <mark style="color:green;">une feuille de papier</mark>.
 
