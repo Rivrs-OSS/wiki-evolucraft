@@ -191,5 +191,19 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
     </td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Bâton de Jade</mark></td>
+    <td><mark style="color:green;">Nouvel An Lunaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +51</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +13</mark></p>
+     <p><mark style="color:yellow;">🧪 Mana +50</mark></p>
+    </td>
+    <td><mark style="color:green;">Aura de Feu 🔥</mark> ▸ Enflamme la cible pendant 4 secondes</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#nouvel-an-lunaire"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire"><mark style="color:green;">Caisse Lunaire 🎑</mark></a></p>
+    </td>
   </tr> 
 </table>
