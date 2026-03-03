@@ -28,8 +28,7 @@ Les **<mark style="color:green;"><strong>fragments d'étoiles de métiers</stron
 Ces **<mark style="color:green;"><strong>étoiles</strong></mark>** servent ensuite au **<mark style="color:green;"><strong>classement des villes</strong></mark>** en ajoutant **<mark style="color:green;"><strong>100 points par étoile fabriquée</strong></mark>**.
 
 {% hint style="info" %}
-Si vous souhaitez plus d'informations sur le **<mark style="color:green;"><strong>classement des villes</strong></mark>**, nous vous renvoyons vers cette page du wiki :  
-[🏆 Le Classement des Villes](https://wiki.evolucraft.fr/le-gameplay/les-villes/classement-ville)
+Si vous souhaitez plus d'informations sur le **<mark style="color:green;"><strong>classement des villes</strong></mark>**, nous vous renvoyons vers cette page du wiki : [🏆 Le Classement des Villes](https://wiki.evolucraft.fr/le-gameplay/les-villes/classement-ville)
 {% endhint %}
 
 ## 💠 <mark style="color:green;">Comment les obtenir ? 🤨</mark>
@@ -70,7 +69,8 @@ Par conséquent, ils sont **<mark style="color:green;"><strong>interdits à la v
 
 Une fois l’**<mark style="color:green;"><strong>étoile craftée</strong></mark>**, il vous suffit de faire un **<mark style="color:green;"><strong>clic droit</strong></mark>** avec l’étoile en main, après avoir bien sélectionné votre ville via la commande **<mark style="color:green;"><strong>`/v select`</strong></mark>**, afin de **<mark style="color:green;"><strong>comptabiliser les points dans le classement des villes</strong></mark>**.
 
-Pour plus d’informations sur le **<mark style="color:green;"><strong>classement des villes</strong></mark>**, consultez également cette page :  
-[🏆 Le Classement des Villes](https://wiki.evolucraft.fr/le-gameplay/les-villes/classement-ville#comment-voir-son-classement)
+{% hint style="info" %}
+Pour plus d’informations sur le **<mark style="color:green;"><strong>classement des villes</strong></mark>**, consultez également cette page : [🏆 Le Classement des Villes](https://wiki.evolucraft.fr/le-gameplay/les-villes/classement-ville#comment-voir-son-classement)
+{% endhint %}
 
 Vous savez désormais tout sur l’**<mark style="color:green;"><strong>utilité des fragments d'étoiles</strong></mark>** ! ⭐
