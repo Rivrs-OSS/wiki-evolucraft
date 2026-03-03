@@ -74,13 +74,13 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
 ## 💠 <mark style="color:green;">Armes</mark>
 
 <table>
-    <tr>
-    <th>Armes</th>
-    <th>Rareté</th>
-    <th>Stat</th>
-    <th>Effet</th>
-    <th>Obtention</th>
-    </tr>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
+  </tr>
     <tr>
         <td><mark style="color:green;">Tranche Givre</mark></td>
         <td><mark style="color:green;">Commun</mark></td>
