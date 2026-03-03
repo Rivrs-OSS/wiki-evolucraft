@@ -4,32 +4,35 @@ description: Retrouvez ici les informations pour savoir comment récupérer des 
 
 # 🪙 Gagner des jetons
 
-## 💠 <mark style="color:green;">A quoi servent-ils et comment voir combien en avons-nous ? 🤨</mark>
+## 💠 <mark style="color:green;">À quoi servent-ils et comment voir combien nous en avons ? 🤨</mark>
 
-Les jetons 🪙 vous permettent d'ouvrir la [caisse Jackpot](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot) contre 43 jetons pour obtenir un item dans cette caisse.
+Les **<mark style="color:green;"><strong>jetons 🪙</strong></mark>** vous permettent d’ouvrir la **<mark style="color:green;"><strong>Caisse Jackpot</strong></mark>** contre **<mark style="color:green;"><strong>43 jetons</strong></mark>** afin d’obtenir un **<mark style="color:green;"><strong>item</strong></mark>** présent dans cette caisse.
 
-Pour voir combien vous-en possedez, il vous suffit de clique droit sur la caisse, puis de passer votre souris sur le coffre comme sur l'image ci-dessous.
+Pour voir combien vous en possédez, il vous suffit de faire un **<mark style="color:green;"><strong>clic droit sur la caisse</strong></mark>**, puis de **<mark style="color:green;"><strong>passer votre souris sur le coffre</strong></mark>** comme indiqué sur l’image ci-dessous.
 
 <figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Monnaie/Jetons/NombreJetons.png" alt=""><figcaption><p><strong>Aperçu de l’interface de la </strong><mark style="color:green;"><strong>Caisse Jackpot</strong></mark></p></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Comment en obtenir ? 🤗</mark>
 
-### 🔷 <mark style="color:blue;">Le <code>/boutique</code> 🏬</mark>
+### 🔷 <mark style="color:blue;">Le <mark style="color:green;"><strong><code>/boutique</code></strong></mark> 🏬</mark>
 
-Lorsque vous acheter des clés dans le `/boutique`, que ça sois des clés de caisse permananente ou bien des caisses évènements, vous obtenez automatiquement des jetons à l'achat suivant l'offre proposée. Il n'est possible d'en obtenir que via des clés achetés.
+Lorsque vous **<mark style="color:green;"><strong>achetez des clés</strong></mark>** dans le **<mark style="color:green;"><strong><code>/boutique</code></strong></mark>**, que ce soit des **<mark style="color:green;"><strong>clés de caisse permanente</strong></mark>** ou des **<mark style="color:green;"><strong>caisses évènementielles</strong></mark>**, vous obtenez automatiquement des **<mark style="color:green;"><strong>jetons 🪙</strong></mark>** en fonction de l’offre proposée.
 
-<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Monnaie/Jetons/Clés.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/boutique</code></mark>, via la <mark style="color:green;">catégorie clé</strong></mark></p></figcaption></figure>
+Il est uniquement possible d’en obtenir via des **<mark style="color:green;"><strong>clés achetées</strong></mark>**.
+
+<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Monnaie/Jetons/Clés.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/boutique</code></strong></mark><strong>, via la </strong><mark style="color:green;"><strong>catégorie clé</strong></mark></p></figcaption></figure>
 
 ### 🔷 <mark style="color:blue;">Les Évènements 🎪</mark>
 
-Dans certains <mark style="color:green;">évènements organisés par le staff</mark>, il est possible de <mark style="color:green;">remporter des jetons 🪙</mark> en fonction du <mark style="color:green;">type d’évènement</mark> et de la <mark style="color:green;">manière dont il est réalisé</mark>.
+Dans certains **<mark style="color:green;"><strong>évènements organisés par le staff</strong></mark>**, il est possible de **<mark style="color:green;"><strong>remporter des jetons 🪙</strong></mark>** en fonction du **<mark style="color:green;"><strong>type d’évènement</strong></mark>** et de la **<mark style="color:green;"><strong>manière dont il est réalisé</strong></mark>**.
 
-Ces évènements sont une excellente occasion de <mark style="color:green;">gagner des récompenses exclusives</mark> tout en <mark style="color:green;">vous amusant avec la communauté</mark>, alors n’hésitez pas à y participer pour tenter votre chance ! 🍀
+Ces évènements sont une excellente occasion de **<mark style="color:green;"><strong>gagner des récompenses exclusives</strong></mark>** tout en **<mark style="color:green;"><strong>vous amusant avec la communauté</strong></mark>**. N’hésitez donc pas à y participer pour tenter votre chance ! 🍀
 
 {% hint style="info" %}
-Pour plus d’informations sur les <mark style="color:green;">Évènements</mark>, nous vous invitons à lire cette page : [Évènements 🎪](https://wiki.evolucraft.fr/le-gameplay/les-evenements#des-evenements-de-lequipe-danimation).
+Pour plus d’informations sur les **<mark style="color:green;"><strong>Évènements</strong></mark>**, nous vous invitons à consulter cette page :  
+[<mark style="color:green;"><strong>Évènements 🎪</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#des-evenements-de-lequipe-danimation).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
 
-**Vous avez toutes les infos pour savoir l'utilité des jetons ! À vous d'en avoir le plus possible pour obtenir des items légendaire 😏**
+Vous avez désormais toutes les informations pour comprendre l’**<mark style="color:green;"><strong>utilité des jetons</strong></mark>** pour en obtenir le plus possible afin de décrocher des **<mark style="color:green;"><strong>items légendaires</strong></mark>** 😏
