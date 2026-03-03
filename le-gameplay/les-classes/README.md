@@ -18,7 +18,7 @@ description: Retrouvez ici toutes les informations concernant les classes
 
 ## <mark style="color:green;">💠 Comment débloquer une classe ? 🕵️‍♂️</mark>
 
-Nous vous invitons à lire cette page du wiki expliquant le <mark style="color:green;">processus</mark> pour rejoindre une <mark style="color:green;">classe</mark> : <a href="https://wiki.evolucraft.fr/tuto-et-astuce/avoir-une-classe"><mark style="color:green;">**Avoir une classe 🧙‍♀️**</mark></a>
+Nous vous invitons à lire cette page du wiki expliquant le <mark style="color:green;">processus</mark> pour rejoindre une <mark style="color:green;">classe</mark> : <a href="https://wiki.evolucraft.fr/faq/avoir-une-classe"><mark style="color:green;">**Avoir une classe 🧙‍♀️**</mark></a>
 
 ## <mark style="color:green;">💠 Quelles sont les classes disponibles sur le serveur ? 🧐</mark>
 
