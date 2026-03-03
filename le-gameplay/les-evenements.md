@@ -14,7 +14,7 @@ Un tout nouvel événement festif est arrivé sur le serveur ! Parlez au <mark s
 
 #### 🌊 Vagues Lunaires
 
-**⏰ Tous les jours à 9h, 12h, 15h, 18h, 21h et 00h**
+**⏰ Tous les jours à <mark style="color:green;">9h</mark>, <mark style="color:green;">12h</mark>, <mark style="color:green;">15h</mark>, <mark style="color:green;">18h</mark>, <mark style="color:green;">21h</mark> et <mark style="color:green;">00h</mark>** _(3H, 6H, 9H, 12H AM ainsi que 3H, 6H PM GMT-4🍁)_
 
 Les <mark style="color:green;">**Vagues Lunaires**</mark> sont des événements de combat intense composés de <mark style="color:green;">**5 vagues de monstres**</mark> suivies d'un <mark style="color:green;">**Boss final**</mark>. Éliminez un maximum d'ennemis pour accumuler des <mark style="color:green;">**Fragments de Jade**</mark> et tenter de décrocher une place sur le <mark style="color:green;">**podium**</mark> !
 
