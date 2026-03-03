@@ -34,7 +34,7 @@ Avec la commande [<mark style="color:green;">/pub 📢</mark>](http://wiki.evolu
 
 <figure><img src="../.gitbook/assets/Les_Donjons/DemandeDeTPDonjon.png" alt=""></figure>
 
-Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre trouvaille d'un <mark style="color:green;">portail de donjon</mark>, vous pouvez inviter des joueurs à éventuellement vous accompagner en effectuant la commande <mark style="color:green;">`/donjon "nom du donjon" "nombre de joueurs" "prix"`</mark>.
+Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre trouvaille d'un <mark style="color:green;">portail de donjon</mark>, vous pouvez inviter des joueurs à éventuellement vous accompagner en effectuant la commande <mark style="color:green;">`/donjon "rareté du donjon" "nombre de joueurs" "prix"`</mark>.
 
 ## <mark style="color:green;">💠 Comment inviter des joueurs dans un donjon ? 👥</mark>
 
