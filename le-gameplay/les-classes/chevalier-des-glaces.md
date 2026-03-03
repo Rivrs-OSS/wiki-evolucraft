@@ -79,11 +79,12 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
 ## 💠 <mark style="color:yellow;">Armes</mark>
 
 <table>
-  <tr>
-    <th>Armes</th>
-    <th>Rareté</th>
-    <th>Stat</th>
-    <th>Obtention</th>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
     <td><mark style="color:green;">Lance de frigg</mark></td>
