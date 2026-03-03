@@ -566,7 +566,7 @@ La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtie
 | <mark style="color:red;">**4 Bonbons au Raisin**</mark>                     | **5,56%**                   |
 | <mark style="color:red;">**2 Clés Pain d'épice**</mark>                     | **5,56%**                   |
 
-### 🔸 <mark style="color:red;">Caisse Pain d'Épice 🍪</mark>
+### 🔸 <mark style="color:red;">Caisse Lunaire 🎑</mark>
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
