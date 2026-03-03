@@ -40,10 +40,10 @@ Il existe **<mark style="color:green;"><strong>4 types de flocons</strong></mark
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td><mark style="color:green;"><strong>Aperçu de l'item 📸</strong></mark></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Commune.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Rare.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Epique.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Legendaire.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Commune.png" alt="" style="width: 50px;"><figcaption>Le rendue de cette image arrivera prochainement</figcaption></figure></td>
+    <td style="text-align: center;"><figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Rare.png" alt="" style="width: 50px;"><figcaption>Le rendue de cette image arrivera prochainement</figcaption></figure></td>
+    <td style="text-align: center;"><figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Epique.png" alt="" style="width: 50px;"><figcaption>Le rendue de cette image arrivera prochainement</figcaption></figure></td>
+    <td style="text-align: center;"><figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Legendaire.png" alt="" style="width: 50px;"><figcaption>Le rendue de cette image arrivera prochainement</figcaption></figure></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Nombre de sucres d'orge 🍭</strong></mark></td>
