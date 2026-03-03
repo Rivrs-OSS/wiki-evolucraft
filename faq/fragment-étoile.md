@@ -27,8 +27,10 @@ Les **<mark style="color:green;"><strong>fragments d'étoiles de métiers</stron
 
 Ces **<mark style="color:green;"><strong>étoiles</strong></mark>** servent ensuite au **<mark style="color:green;"><strong>classement des villes</strong></mark>** en ajoutant **<mark style="color:green;"><strong>100 points par étoile fabriquée</strong></mark>**.
 
+{% hint style="info" %}
 Si vous souhaitez plus d'informations sur le **<mark style="color:green;"><strong>classement des villes</strong></mark>**, nous vous renvoyons vers cette page du wiki :  
 [🏆 Le Classement des Villes](https://wiki.evolucraft.fr/le-gameplay/les-villes/classement-ville)
+{% endhint %}
 
 ## 💠 <mark style="color:green;">Comment les obtenir ? 🤨</mark>
 
@@ -49,8 +51,8 @@ Passez votre curseur sur le bouton **<mark style="color:green;"><strong>"Aide"</
 
 <figure><img src="../.gitbook/assets/Les_Villes/Classement/InfoItems.png" alt=""><figcaption>Informations des actions de métiers donnant le fragment</figcaption></figure>
 
-{% hint style="info" %}
-**REMARQUE 🔍 :** Les **<mark style="color:green;"><strong>items indiqués changent chaque 1er du mois</strong></mark>**.
+{% hint style="warning" %}
+**⚠️ Attention ! Les <mark style="color:green;"><strong>items indiqués changent chaque 1er du mois</strong></mark>**.
 {% endhint %}
 
 ## 💠 <mark style="color:green;">Comment crafter l'étoile ? 🌟</mark>
