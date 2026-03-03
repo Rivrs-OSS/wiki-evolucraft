@@ -103,6 +103,8 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 **Nous vous invitons à&#x20;**<mark style="color:green;">**lire la page du wiki**</mark>**&#x20;dédiée :** [<mark style="color:green;">**Les shops de joueurs 🏪**</mark>](https://wiki.evolucraft.fr/les-villes/shops-joueurs)
 
+<figure><img src="../../.gitbook/assets/Les_Villes/Shops/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/finditem</strong></mark></p></figcaption></figure>
+
 ### <mark style="color:green;">🔹 Le</mark> <mark style="color:green;"></mark><mark style="color:green;">`/finditem`</mark>
 
 **Le&#x20;**<mark style="color:green;">**`/finditem`**</mark>**&#x20;vous permet de&#x20;**<mark style="color:green;">**chercher un item**</mark>**&#x20;parmi&#x20;**<mark style="color:green;">**les coffres de vente/achat des joueurs**</mark>**&#x20;sur le serveur.**
