@@ -32,6 +32,8 @@ En vous <mark style="color:green;">baladant dans les différents mondes ressourc
 
 Avec la commande [<mark style="color:green;">/pub 📢</mark>](http://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite), vous pouvez <mark style="color:green;">activer les notifications de pub pour donjon</mark> lorsque <mark style="color:green;">des joueurs trouvent un portail</mark> et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !
 
+<figure><img src="../.gitbook/assets/Les_Donjons/DemandeDeTPDonjon.png" alt=""></figure>
+
 Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre trouvaille d'un <mark style="color:green;">portail de donjon</mark>, vous pouvez inviter des joueurs à éventuellement vous accompagner en effectuant la commande <mark style="color:green;">`/donjon "nom du donjon" "nombre de joueurs" "prix"`</mark>.
 
 ## <mark style="color:green;">💠 Comment inviter des joueurs dans un donjon ? 👥</mark>
