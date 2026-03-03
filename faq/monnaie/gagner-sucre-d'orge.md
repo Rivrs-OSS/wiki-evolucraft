@@ -10,11 +10,11 @@ Les **<mark style="color:green;"><strong>sucres d'orge 🍭</strong></mark>** vo
 
 Les **<mark style="color:green;"><strong>pains d'épice</strong></mark>** servent ensuite à acheter des **<mark style="color:green;"><strong>armes de classe</strong></mark>** issues du **<mark style="color:green;"><strong>Marché Pain d'épice</strong></mark>** (contre **<mark style="color:green;"><strong>150 pains d'épice</strong></mark>**) ou encore une **<mark style="color:green;"><strong>clé Pain d'épice</strong></mark>** (contre **<mark style="color:green;"><strong>200 pains d'épice</strong></mark>**).
 
-<figure><img src="../.gitbook/assets/Marche-Noir/PainD'épice/Armes.png" alt=""><figcaption><strong>Menu du <mark style="color:green;">Marché Noir des Pains d'épice</mark></strong></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Marche-Noir/PainD'épice/Armes.png" alt=""><figcaption><strong>Menu du <mark style="color:green;">Marché Noir des Pains d'épice</mark></strong></figcaption></figure>
 
 Pour voir combien vous en possédez, il vous suffit de **<mark style="color:green;"><strong>passer votre curseur sur les pains d'épice dans la boutique</strong></mark>**, comme indiqué sur l’image ci-dessous.
 
-<figure><img src="../.gitbook/assets/Marche-Noir/PainD'épice/Trade.png" alt="" style="text-align: left;"></figure>
+<figure><img src="../../.gitbook/assets/Marche-Noir/PainD'épice/Trade.png" alt="" style="text-align: left;"></figure>
 
 {% hint style="warning" %}
 **⚠️ Attention ‼ :** Les **<mark style="color:green;"><strong>sucres d'orge</strong></mark>** n'est **<mark style="color:green;"><strong>PAS la même monnaie d'échange</strong></mark>** avec la boutique du marché noir **<mark style="color:green;"><strong>Givrée</strong></mark>**.  
