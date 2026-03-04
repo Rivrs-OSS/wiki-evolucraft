@@ -347,6 +347,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
+    <td><mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssales</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
@@ -383,6 +384,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:red;">❤️ Vie +91</mark></p>
     </td>
+    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">amour</mark> et <mark style="color:red;">cupidon</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin"><mark style="color:red;">Caisse Saint-Valentin 💕</mark></a></p>
@@ -395,6 +397,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:red;">❤️ Vie +109</mark></p>
     </td>
+    <td><mark style="color:yellow;">+5% de dégâts</mark> dans les donjons <mark style="color:yellow;">terriers du lapins</mark> et <mark style="color:yellow;">fabrique du chocolat</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
@@ -432,6 +435,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
      <p><mark style="color:red;">❤️ Vie +115</mark></p>
     </td>
+    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
