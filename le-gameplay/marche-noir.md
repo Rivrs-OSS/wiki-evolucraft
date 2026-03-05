@@ -282,7 +282,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 <figure><img src="../.gitbook/assets/Marche-Noir/PainD'épice/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Pains d'épice</mark></strong></figcaption></figure>
 
-### 🔸 <mark style="color:red;">Nouvel An Lunaire 🎑</mark>
+### 🔸 <mark style="color:green;">Nouvel An Lunaire 🎑</mark>
 
 Ces items sont achetables avec des **<mark style="color:green;">Pierre de Jade</mark>**, qui sont obtenables dans la **<mark style="color:green;">boutique temporaire du `/nouvelan`</mark>** via un échange de **<mark style="color:green;">Fragments de pierre de Jade</mark>** obtenable dans le [<mark style="color:green;"><strong>**Monde Lunaire**</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#nouvel-an-lunaire).
 
