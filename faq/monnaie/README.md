@@ -19,7 +19,7 @@ Voici quelques **<mark style="color:green;"><strong>astuces pour gagner de l’a
 
 {% hint style="info" %}
 Nous vous invitons à consulter cette page du wiki :  
-[**<mark style="color:green;"><strong>Comment gagner de la Money 💸</strong></mark>**](https://wiki.evolucraft.fr/faq/monnaie/gagner-argent)
+[**<mark style="color:green;"><strong>Comment gagner de la Money 💸</strong></mark>**](https://wiki.evolucraft.fr/foire-aux-questions/monnaie/gagner-coins)
 {% endhint %}
 
 ## 💠 **<mark style="color:green;"><strong>Les Gemmes 💎</strong></mark>**
