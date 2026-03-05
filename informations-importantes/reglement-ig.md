@@ -217,7 +217,15 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 Nous vous conseillons fortement d’appuyer vos demandes de remboursement par une preuve vidéo, des screens ou autres pour garantir de meilleurs délais.
 {% endhint %}
 
-### <mark style="color:green;">Article K : La boutique</mark>
+### <mark style="color:green;">Article K : Les versions</mark>
+
+Nous sommes actuellement sur la version 4 d'Évolucraft, mais il est possible que le serveur évolue et doive effectuer un changement de version, dans notre cas, vers une V5.
+
+Cela fera l’objet d’une annonce quelques semaines à l’avance afin de prévenir que la boutique sera fermée le temps du passage à la nouvelle version. Également, le staff se réserve le droit de rembourser, jusqu’à une certaine période avant l’annonce, les packs de gemmes achetés afin de les transférer vers la prochaine version.
+
+Lors de l’ouverture d’une nouvelle version, tous les joueurs, sans exception, repartent de zéro. Cela signifie que tous les rangs, les grades (à l’exception des grades Éternel, Éternel + et des grades de créateur de contenu), les villes, l’argent virtuel, ainsi que les ressources et items que vous avez farmés ou obtenus durant la version précédente sont supprimés.
+
+### <mark style="color:green;">Article L : La boutique</mark>
 
 * Tous les achats effectués sur la boutique sont considérés comme définitifs et ne peuvent donner lieu à aucun remboursement, sauf exception prévue expressément dans nos Conditions Générales de Vente (CGV)
 * Conformément à l’article L221-28 du Code de la Consommation, vous reconnaissez et acceptez de renoncer à votre droit de rétractation dès la validation de votre commande, la prestation de service étant exécutée immédiatement.
@@ -227,5 +235,5 @@ En vous connectant sur nos plateformes, nous considérons que vous avez lu et ac
 
 Toute sanction sera donnée à l'entière appréciation du staff.
 
-Si vous souhaitez contester une quelconque sanction, merci de [**créer un ticket**](https://discord.com/channels/699670538737418343/709491272385298532) sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
+Si vous souhaitez contester une quelconque sanction, merci de [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532) sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
 Créer un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
