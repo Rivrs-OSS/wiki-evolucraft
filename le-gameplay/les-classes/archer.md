@@ -137,7 +137,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
     </td>
-    <td><mark style="color:red;">Coup double 💥</mark> ▸ <mark style="color:red;">4%</mark> de chance de <mark style="color:red;">doubler les dégât</mark></td>
+    <td><mark style="color:red;">Coup double 💥</mark> ▸ <mark style="color:red;">5%</mark> de chance de <mark style="color:red;">doubler les dégât</mark></td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
@@ -333,7 +333,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
@@ -343,7 +343,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
@@ -353,7 +353,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +10</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique"><mark style="color:orange;">Caisse Draconique 🐉</mark></a></p>
@@ -379,7 +379,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween"><mark style="color:orange;">Caisse Halloween 🎃</mark></a></p>
@@ -392,7 +392,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
@@ -432,7 +432,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
@@ -445,7 +445,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
