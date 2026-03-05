@@ -95,6 +95,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:red;">🗡️️ Force +7</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Pack d'arme</td>
   </tr>
   <tr>
@@ -104,6 +105,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:red;">🗡️️ Force +15</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
@@ -113,6 +115,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:red;">🗡️️️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
@@ -122,6 +125,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -131,6 +135,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -140,6 +145,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
@@ -149,6 +155,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
@@ -159,6 +166,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
@@ -171,6 +179,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
