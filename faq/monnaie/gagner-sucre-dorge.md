@@ -70,6 +70,4 @@ Il existe **<mark style="color:green;"><strong>4 types de flocons</strong></mark
   </tr>
 </table>
 
-<figure><img src="../../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
-
 Vous avez désormais toutes les informations pour comprendre l’**<mark style="color:green;"><strong>utilité des sucres d'orge</strong></mark>**. À vous maintenant d’en obtenir le plus possible ! 😏
