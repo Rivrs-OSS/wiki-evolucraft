@@ -26,7 +26,7 @@ Le pass Black Friday <mark style="color:green;">**n'est plus disponible**</mark>
   <tr>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Épée sompteueuse</strong></mark></p>
-     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Sompteueux/Epee.png" alt=""></figure></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Sompteueux/Epée.png" alt=""></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant V</strong></mark></p>

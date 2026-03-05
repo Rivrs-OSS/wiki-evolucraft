@@ -76,11 +76,12 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
 ## 💠 <mark style="color:yellow;">Armes</mark>
 
 <table>
-  <tr>
-    <th>Armes</th>
-    <th>Rareté</th>
-    <th>Statistique</th>
-    <th>Obtention</th>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
     <td><mark style="color:red;">Hache de la Lune de Sang</mark></td>
@@ -89,6 +90,7 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
@@ -101,9 +103,23 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
+    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
     </td>
-  </tr>  
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Hache de Jade</mark></td>
+    <td><mark style="color:green;">Nouvel An Lunaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +51</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td><mark style="color:green;">Aura de Feu 🔥</mark> ▸ Enflamme la cible pendant 4 secondes</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#nouvel-an-lunaire"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire"><mark style="color:green;">Caisse Lunaire 🎑</mark></a></p>
+    </td>
+  </tr> 
 </table>

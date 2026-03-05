@@ -453,7 +453,7 @@ Les <mark style="color:green;">outils de l'Archéologue</mark> s'obtiennent dans
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Pain d'Épices</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-dépice).
+Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans la [<mark style="color:red;">caisse Pain d'Épices</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-dépice).
 
 ### 🔹 <ins>Son aperçu</ins>🔍
 
@@ -485,11 +485,11 @@ Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans
 
 ## 🎑 Outils de Jade
 
-## 🔹 <mark style="color:green;">Son obtention 🤔</mark>
+### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-#### Les <mark style="color:green;">**outils de Jade**</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Lunaire</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire) ou à <mark style="color:green;">l'achat dans la boutique temporaire du `/nouvelan`</mark>.
+Les <mark style="color:green;">**outils de Jade**</mark> s'obtiennent dans la [<mark style="color:green;">caisse Lunaire</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire) ou à <mark style="color:green;">l'achat dans la boutique temporaire du `/nouvelan`</mark>.
 
-## 🔹 <mark style="color:green;">Son aperçu 🔍</mark>
+### 🔹 <mark style="color:green;">Son aperçu 🔍</mark>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>

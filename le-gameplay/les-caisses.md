@@ -20,7 +20,7 @@ Ces box sont présentes et resteront <mark style="color:green;">accessibles</mar
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <mark style="color:green;">clé</mark> de la Caisse Vote s'obtient en <mark style="color:green;">votant</mark> pour le serveur. Nous vous laissons regarder le petit tutoriel pour savoir [<mark style="color:green;">comment voter pour le serveur</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#comment-voter-sur-le-serveur) ! 🧐
+La <mark style="color:green;">clé</mark> de la Caisse Vote s'obtient en <mark style="color:green;">votant</mark> pour le serveur. Nous vous laissons regarder le petit tutoriel pour savoir [<mark style="color:green;">comment voter pour le serveur</mark>](https://wiki.evolucraft.fr/faq/monnaie/gagner-coins#comment-voter-sur-le-serveur) ! 🧐
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
@@ -159,10 +159,11 @@ La <mark style="color:green;">clé</mark> de la Caisse Rubis s'obtient en l'ache
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Dans cette caisse, il n’est pas question de <mark style="color:green;">**clé**</mark> mais de <mark style="color:green;">**jetons**</mark> pour l’ouvrir. Ces <mark style="color:green;">**jetons**</mark> sont obtenables uniquement en achetant des <mark style="color:green;">**clés**</mark> dans le <mark style="color:green;">**`/boutique`**</mark> ! Lorsque vous avez en votre possession <mark style="color:green;">**43 jetons**</mark>, vous pourrez alors obtenir <mark style="color:green;">**1 item**</mark> de la <mark style="color:green;">**caisse Jackpot**</mark>.
+Dans cette caisse, il n’est pas question de <mark style="color:green;">**clé**</mark> mais de <mark style="color:green;">**jetons**</mark> pour l’ouvrir. 
 
 {% hint style="info" %}
-**REMARQUE 🔍 : Pour voir votre nombre de&#x20;**<mark style="color:green;">**jetons**</mark>**&#x20;en votre possession, faites un clic droit sur la&#x20;**<mark style="color:green;">**box**</mark>**, puis passez votre curseur sur le&#x20;**<mark style="color:green;">**coffre**</mark>**. Une ligne indiquant&#x20;**_**"Vos jetons"**_**&#x20;vous précisera le nombre exact que vous possédez.**
+**REMARQUE 🔍 :**  
+Pour savoir **<mark style="color:green;"><strong>comment obtenir des jetons</strong></mark>** ou **<mark style="color:green;"><strong>consulter le nombre de jetons en votre possession</strong></mark>**, vous pouvez consulter la page du wiki dédiée : [**<mark style="color:green;"><strong>Les Jetons 🪙</strong></mark>**](https://wiki.evolucraft.fr/faq/monnaie/gagner-jetons)
 {% endhint %}
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
@@ -201,7 +202,7 @@ La clé de la Caisse Draconique s'obtient grâce à <mark style="color:green;">l
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Draconique.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/Draconique.png" alt="">
 
 | **Récompense**                                                                   | **Pourcentage d'obtention** |
 | -------------------------------------------------------------------------------- | --------------------------- |
@@ -234,7 +235,7 @@ La clé de la Caisse Abyssale s'obtient grâce à <mark style="color:green;">la 
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Abyssal.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/Abyssal.png" alt="">
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | --------------------------------------------------------------------------- | --------------------------- |
@@ -265,7 +266,7 @@ La clé de la Caisse aux Trésors s'obtient grâce à <mark style="color:green;"
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/CaisseAuxTrésors.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/CaisseAuxTrésors.png" alt="">
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | --------------------------------------------------------------------------- | --------------------------- |
@@ -296,7 +297,7 @@ La clé de la Caisse Halloween s'obtient grâce à <mark style="color:green;">la
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Halloween.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/Halloween.png" alt="">
 
 | **Récompense**                                                                  | **Pourcentage d'obtention** |
 | ------------------------------------------------------------------------------- | --------------------------- |
@@ -327,7 +328,7 @@ La clé de la Caisse Givrée s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Noel.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/givree.png" alt="">
 
 | **Récompense**                                                    | **Pourcentage d'obtention** |
 | ----------------------------------------------------------------- | --------------------------- |
@@ -358,7 +359,7 @@ La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Saint-Valentin.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/Saint-Valentin.png" alt="">
 
 | **Récompense**                                                                             | **Pourcentage d'obtention** |
 | ------------------------------------------------------------------------------------------ | --------------------------- |
@@ -389,7 +390,7 @@ La clé de la Caisse Saint Patrick s'obtient grâce à <mark style="color:green;
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Saint-Patrick.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/Saint-Patrick.png" alt="">
 
 | **Récompense**                                                             | **Pourcentage d'obtention** |
 | -------------------------------------------------------------------------- | --------------------------- |
@@ -420,7 +421,7 @@ La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Paques.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/Paques.png" alt="">
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | --------------------------------------------------------------------------- | --------------------------- |
@@ -451,7 +452,7 @@ La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la cl
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Summer.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/Summer.png" alt="">
 
 | **Récompense**                                                            | **Pourcentage d'obtention** |
 | ------------------------------------------------------------------------- | --------------------------- |
@@ -482,7 +483,7 @@ La <mark style="color:green;">**Clé de la Caisse Antique**</mark> s'obtient gr�
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Antique.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/Antique.png" alt="">
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | --------------------------------------------------------------------------- | --------------------------- |
@@ -513,7 +514,7 @@ La <mark style="color:green;">**Clé de la Caisse Lune de Sang**</mark> s'obtien
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<figure><img src="../.gitbook/assets/Les_Caisses/lune_de_sang.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/lune_de_sang.png" alt="">
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | --------------------------------------------------------------------------- | --------------------------- |
@@ -540,10 +541,10 @@ La <mark style="color:green;">**Clé de la Caisse Lune de Sang**</mark> s'obtien
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-pain-depice)
+La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">8.33%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-pain-depice) avec <mark style="color:green;">16 fragments de clés Pain d'épice</mark> ou <mark style="color:green;">200 Pains d'épice</mark>
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
-<figure><img src="../.gitbook/assets/Les_Caisses/pain_depice.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/Les_Caisses/paindepice.png" alt="">
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | --------------------------------------------------------------------------- | --------------------------- |
@@ -566,7 +567,7 @@ La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtie
 | <mark style="color:red;">**4 Bonbons au Raisin**</mark>                     | **5,56%**                   |
 | <mark style="color:red;">**2 Clés Pain d'épice**</mark>                     | **5,56%**                   |
 
-### 🔸 <mark style="color:red;">Caisse Pain d'Épice 🍪</mark>
+### 🔸 <mark style="color:red;">Caisse Lunaire 🎑</mark>
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 

@@ -90,7 +90,7 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**5 sauvegardes**<
 
 <figure><img src="../../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
-Il existe au total <mark style="color:green;">**95 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.\
+Il existe au total <mark style="color:green;">**106 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.\
 Ils sont classés par <mark style="color:green;">**rareté**</mark> :
 
 * [<mark style="color:green;">**22 compagnons Communs 🐸**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-communs) dont 6 shinys.  

@@ -22,7 +22,7 @@ Pour obtenir une <mark style="color:green;">classe</mark>, il faut <mark style="
 
 Une fois arrivé à un certain chapitre et à une certaine étape, il vous sera demandé d'exécuter la commande <mark style="color:green;">`/classe`</mark>. Après avoir effectué cette commande, une <mark style="color:green;">carte aléatoire commune</mark> vous sera donnée dans votre inventaire.
 
-**◻️&#x20;**<mark style="color:blue;">**Le**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`/rewards`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**🕐**</mark>
+**◻️ <mark style="color:blue;">**Le**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**<code>/rewards</code>**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**🕐**</mark>
 
 Le <mark style="color:green;">`/rewards`</mark> vous permet de <mark style="color:green;">gagner des récompenses</mark> chaque jour, avec un reset à minuit _(heure française)_ selon votre temps de jeu. <mark style="color:green;">Une notification sur votre écran</mark> vous informe lorsqu’un cadeau est débloqué.
 
@@ -30,15 +30,15 @@ Le <mark style="color:green;">`/rewards`</mark> vous permet de <mark style="colo
 
 Lorsque vous atteindrez le dernier palier, une <mark style="color:green;">carte aléatoire commune</mark> vous sera donnée.
 
-**◻️&#x20;**<mark style="color:blue;">**Le**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`/afk`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**💤**</mark>
+**◻️ <mark style="color:blue;">**Le**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`/afk`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**💤**</mark>
 
-Le <mark style="color:green;">`/afk`</mark> est un espace où, si vous restez inactif pendant 15 minutes _(pour les joueurs sans grade)_, vous êtes téléporté, et un affichage vous indique ce que vous avez gagné en étant à l'intérieur.
+Le <mark style="color:green;"><code>/afk</code></mark> est un espace où, si vous restez inactif pendant 15 minutes _(pour les joueurs sans grade)_, vous êtes téléporté, et un affichage vous indique ce que vous avez gagné en étant à l'intérieur.
 
 Pour y <mark style="color:green;">gagner une carte de classe aléatoire</mark>, il faudra y <mark style="color:green;">rester afk</mark> pendant <mark style="color:green;">12H</mark>.
 
 <figure><img src="../.gitbook/assets/Menu/Interface_Afk.png" alt=""><figcaption><p><strong>Aperçu de l’interface du </strong><mark style="color:green;"><strong>/afk</strong></mark></p></figcaption></figure>
 
-**◻️&#x20;**<mark style="color:blue;">**Le /boutique**</mark>
+**◻️ <mark style="color:blue;"><strong>Le <code>/boutique</code></strong></mark>
 
 Dans le <mark style="color:green;">/boutique</mark>, sur la page de présentation, il y a <mark style="color:green;">deux lots de cartes d’une classe déjà donnée</mark> disponibles gratuitement :  
 l’un accessible à <mark style="color:green;">tous les joueurs</mark>,  
