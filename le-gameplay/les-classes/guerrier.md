@@ -145,7 +145,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Donjon Biome Nether</td>
     </tr>
     <tr>
@@ -155,7 +155,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Donjon Biome Nether ou Forge</td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Donjon Biome Nether ou Forge</td>
     </tr>
     <tr>
@@ -175,7 +175,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +15</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Forge</td>
     </tr>
     <tr>
@@ -185,7 +185,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Forge</td>
     </tr>
     <tr>
@@ -195,7 +195,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Donjon Biome Désert</td>
     </tr>
     <tr>
@@ -205,7 +205,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Donjon Biome Désert ou Forge</td>
     </tr>
     <tr>
@@ -215,7 +215,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Donjon Biome Désert ou Forge</td>
     </tr>
     <tr>
@@ -225,7 +225,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +15</mark></td></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Forge</td>
     </tr>
     <tr>
@@ -235,7 +235,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Forge</td>
     </tr>
     <tr>
@@ -245,7 +245,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Donjon Biome Messa</td>
     </tr>
     <tr>
@@ -255,7 +255,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Donjon Biome Messa ou Forge</td>
     </tr>
     <tr>
@@ -265,7 +265,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Donjon Biome Messa ou Forge</td>
     </tr>
     <tr>
@@ -275,7 +275,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Forge</td>
     </tr>
     <tr>
@@ -285,7 +285,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Forge</td>
     </tr>
     <tr>
@@ -295,7 +295,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +7</mark></p>
      <p><mark style="color:red;">❤️ Vie +14</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Pack d'arme</td>
     </tr>
     <tr>
@@ -305,7 +305,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +15</mark></p>
      <p><mark style="color:red;">❤️ Vie +35</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Pack d'arme ou Forge</td>
     </tr>
     <tr>
@@ -315,7 +315,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:red;">❤️ Vie +56</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Pack d'arme ou Forge</td>
     </tr>
     <tr>
@@ -325,7 +325,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:red;">❤️ Vie +100</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Forge</td>
     </tr>
     <tr>
@@ -335,7 +335,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:red;">❤️ Vie +180</mark></p>
     </td>
-        <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
         <td>Forge</td>
     </tr>
 <tr>
@@ -345,7 +345,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:red;">❤️ Vie +140</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
@@ -355,7 +355,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:red;">❤️ Vie +140</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
@@ -365,7 +365,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique"><mark style="color:orange;">Caisse Draconique 🐉</mark></a></p>
@@ -391,7 +391,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween"><mark style="color:orange;">Caisse Halloween 🎃</mark></a></p>
@@ -404,7 +404,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
@@ -444,7 +444,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">❤️ Vie +109</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
@@ -457,7 +457,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:red;">❤️ Vie +112</mark></p>
     </td>
-    <td>X</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
