@@ -21,7 +21,7 @@
   * [💸 Gagner de la money](faq/monnaie/gagner-coins.md)
   * [💎 Gagner des gemmes](faq/monnaie/gagner-gemmes.md)
   * [🪙 Gagner des jetons](faq/monnaie/gagner-jetons.md)
-  * [🍭 Gagner des sucre d'orges](faq/monnaie/gagner-sucre-dorges.md)
+  * [🍭 Gagner des sucre d'orges](faq/monnaie/gagner-sucre-dorge.md)
 * [📣 Créer une pub](faq/creation-pub.md)
 * [🏛️ Trouver un donjon](faq/trouver-un-donjon.md)  
 * [⭐ Les fragment d'étoiles](faq/fragment-etoile.md)
