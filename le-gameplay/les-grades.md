@@ -41,7 +41,6 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * <mark style="color:yellow;">**Temps d'AFK : 25 minutes**</mark> 🕔
 * Bonus à l'achat : <mark style="color:yellow;">**1 Clé Émeraude 🗝️**</mark>
 
-
 #### **🔸 Son kit : [<mark style="color:yellow;">Le kit Héros ⚜️</mark>](https://wiki.evolucraft.fr/codex/les-kits#le-kit-heros)** 
 
 ### <mark style="color:blue;">💠 Élite 💠</mark>
