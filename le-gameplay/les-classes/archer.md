@@ -273,7 +273,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
-     <p>▸ <mark style="color:green;">Packs d'Armes (Boss des Donjons Communs)</mark></p>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
     </td>
   </tr>
   <tr>
@@ -285,7 +285,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
-     <p>▸ <mark style="color:yellow;">Packs d'Armes (Boss des Donjons Rares)</mark></p>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
   </tr>
@@ -298,7 +298,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
-     <p>▸ <mark style="color:blue;">Packs d'Armes (Boss des Donjons Épiques)</mark></p>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques)</mark></p>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
   </tr>
