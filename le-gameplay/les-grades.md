@@ -152,13 +152,13 @@ Vous serez ensuite mis en contact avec notre **<mark style="color:green;"><stron
 * Proposer un **<mark style="color:green;"><strong>contenu qualitatif</strong></mark>** (fluidité, dynamisme, interaction avec l’audience…)  
 * Posséder un **<mark style="color:green;"><strong>bot de stream</strong></mark>** avec des commandes comme **<mark style="color:green;"><strong>!ip</strong></mark>** ou **<mark style="color:green;"><strong>!info</strong></mark>**
 
-### 💙 <mark style="color:purple;"><strong>TikTokeur</strong></mark> 💙
+### 💙 <mark style="color:blue;"><strong>TikTokeur</strong></mark> 💙
 
 Pour obtenir le **<mark style="color:green;"><strong>grade TikTokeur</strong></mark>**, les modalités sont différentes des autres grades.
 
 Chaque demande est étudiée de manière **<mark style="color:green;"><strong>indépendante</strong></mark>**, en prenant en compte les **<mark style="color:green;"><strong>statistiques</strong></mark>** (vues, abonnés, likes…) et la **<mark style="color:green;"><strong>qualité du contenu</strong></mark>** (dynamisme, clarté de la voix, pertinence…)
 
-### 🔅 <mark style="color:green;"><strong>Les avantages</strong></mark> 🔅
+### 🔅 <mark style="color:yellow;"><strong>Les avantages</strong></mark> 🔅
 
 Avec l’un de ces **<mark style="color:green;"><strong>grades créateur</strong></mark>**, vous aurez accès à plusieurs **<mark style="color:green;"><strong>fonctionnalités exclusives</strong></mark>**.
 
