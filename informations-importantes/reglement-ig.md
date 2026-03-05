@@ -184,6 +184,11 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
     * **Le maire ne répond pas sur Discord et/ou est totalement injoignable**.
     * **Seul un membre de la ville peut faire la demande pour récupérer la ville**.
 
+* **Coffre Private :**
+  * Lorsque vous trouvez un coffre privatisé par un joueur, vous ne pouvez pas en récupérer le contenu, peu importe son inactivité.
+  * Lorsque vous souhaitez supprimer un coffre privatisé qui n'est pas le votre, nous vous invitons à [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532) en indiquant les coordonnées de ce dernier.
+  * Il est interdit d’usebug afin de récupérer son contenu sans avoir été invité dans le coffre.
+
 ### <mark style="color:green;">Article H : Triche et usebugs</mark>
 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
