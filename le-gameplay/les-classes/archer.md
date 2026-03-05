@@ -89,8 +89,11 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
     </td>
-    <td>"+1% de chance de doubler les dégât"</td>
-    <td>Donjon Biome Forêt</td>
+    <td><mark style="color:green;">Coup double 💥</mark> ▸ <mark style="color:green;">1%</mark> de chance de <mark style="color:green;">doubler les dégât</mark></td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Forêt)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Forêt)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Arc Sylvanique</mark></td>
@@ -98,8 +101,12 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
     </td>
-    <td>"+2% de chance de doubler les dégât"</td>
-    <td>Donjon Biome Forêt ou Forge</td>
+    <td><mark style="color:yellow;">Coup double 💥</mark> ▸ <mark style="color:yellow;">2%</mark> de chance de <mark style="color:yellow;">doubler les dégât</mark></td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Forêt)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Forêt)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Arc Sylvanique</mark></td>
@@ -107,8 +114,11 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
     </td>
-    <td>"+3% de chance de doubler les dégât"</td>
-    <td>Donjon Biome Forêt ou Forge</td>
+    <td><mark style="color:blue;">Coup double 💥</mark> ▸ <mark style="color:blue;">3%</mark> de chance de <mark style="color:blue;">doubler les dégât</mark></td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Forêt)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Arc Sylvanique</mark></td>
@@ -116,8 +126,10 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
     </td>
-    <td>"+4% de chance de doubler les dégât"</td>
-    <td>Forge</td>
+    <td><mark style="color:purple;">Coup double 💥</mark> ▸ <mark style="color:purple;">4%</mark> de chance de <mark style="color:purple;">doubler les dégât</mark></td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Arc Sylvanique</mark></td>
@@ -125,8 +137,10 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
     </td>
-    <td>"+5% de chance de doubler les dégât"</td>
-    <td>Forge</td>
+    <td><mark style="color:red;">Coup double 💥</mark> ▸ <mark style="color:red;">4%</mark> de chance de <mark style="color:red;">doubler les dégât</mark></td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Souffle du serpent</mark></td>
@@ -134,8 +148,11 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
     </td>
-    <td>"5% de chance d'infliger poison à l'ennemi"</td>
-    <td>Donjon Biome Jungle</td>
+    <td><mark style="color:green;">Effet Poison 🐍</mark> ▸ <mark style="color:green;">5%</mark> de chance d'<mark style="color:green;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Jungle)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Souffle du serpent</mark></td>
@@ -143,8 +160,12 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
     </td>
-    <td>"10% de chance  d'infliger poison à l'ennemi"</td>
-    <td>Donjon Biome Jungle ou Forge</td>
+    <td><mark style="color:yellow;">Effet Poison 🐍</mark> ▸ <mark style="color:yellow;">10%</mark> de chance d'<mark style="color:yellow;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Souffle du serpent</mark></td>
@@ -152,8 +173,11 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
     </td>
-    <td>"15% de chance  d'infliger poison à l'ennemi"</td>
-    <td>Donjon Biome Jungle ou Forge</td>
+    <td><mark style="color:blue;">Effet Poison 🐍</mark> ▸ <mark style="color:blue;">15%</mark> de chance d'<mark style="color:blue;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Souffle du serpent</mark></td>
@@ -161,8 +185,10 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
     </td>
-    <td>"20% de chance  d'infliger poison à l'ennemi"</td>
-    <td>Forge</td>
+    <td><mark style="color:purple;">Effet Poison 🐍</mark> ▸ <mark style="color:purple;">20%</mark> de chance d'<mark style="color:purple;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Souffle du serpent</mark></td>
@@ -170,8 +196,10 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
     </td>
-    <td>"25% de chance  d'infliger poison à l'ennemi"</td>
-    <td>Forge</td>
+    <td><mark style="color:red;">Effet Poison 🐍</mark> ▸ <mark style="color:red;">25%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Arc Traque-Cœur</mark></td>
@@ -180,9 +208,11 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>
-    <td>X</td>
-    <td>Donjon Biome Nether</td>
-  </tr>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+    </td>
   <tr>
     <td><mark style="color:yellow;">Arc Traque-Cœur</mark></td>
     <td><mark style="color:yellow;">Rare</mark></td>
@@ -190,8 +220,12 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>
-    <td>X</td>
-    <td>Donjon Biome Nether ou Forge</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Arc Traque-Cœur</mark></td>
@@ -200,8 +234,11 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>
-    <td>X</td>
-    <td>Donjon Biome Nether ou Forge</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Arc Traque-Cœur</mark></td>
@@ -210,8 +247,10 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +15</mark></td></p>
     </td>
-    <td>X</td>
-    <td>Forge</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Arc Traque-Cœur</mark></td>
@@ -220,8 +259,10 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
     </td>
-    <td>X</td>
-    <td>Forge</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Arc des vents</mark></td>
@@ -230,8 +271,10 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +7</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
-    <td>X</td>
-    <td>Pack d'arme</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Boss des Donjons Communs)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Arc des vents</mark></td>
@@ -240,8 +283,11 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +15</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
-    <td>X</td>
-    <td>Pack d'arme ou Forge</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Arc des vents</mark></td>
@@ -250,8 +296,11 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>
-    <td>X</td>
-    <td>Pack d'arme ou Forge</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Boss des Donjons Épiques)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Arc des vents</mark></td>
@@ -260,8 +309,10 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
-    <td>X</td>
-    <td>Forge</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Arc des vents</mark></td>
@@ -270,8 +321,10 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
-    <td>X</td>
-    <td>Forge</td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Arc légendaire</mark></td>
