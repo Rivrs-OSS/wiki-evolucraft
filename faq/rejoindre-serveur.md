@@ -4,7 +4,7 @@ description: Retrouvez ici la solution pour rejoindre le serveur !
 
 # 🎫 <mark style="color:green;">Comment rejoindre le serveur ?</mark>
 
-## 💠 Ajouter une version 🆕
+## 💠 <mark style="color:green;">Ajouter une version 🆕</mark>
 
 ### <mark style="color:green;">🔸 Étape 1️⃣</mark>
 **Lancez votre <mark style="color:green;"><strong>launcher Minecraft</strong></mark>**, puis cliquez sur l'onglet **<mark style="color:green;"><strong>"Configuration"</strong></mark>** comme montré sur l'image ci-dessous.
@@ -37,7 +37,7 @@ Entrez les informations comme ci-dessous, puis activez l’option **<mark style=
 Rejoignez le serveur en effectuant un **<mark style="color:green;"><strong>double clic</strong></mark>** sur celui-ci. Une fois arrivé dans le **<mark style="color:green;"><strong>lobby</strong></mark>**, faites un **<mark style="color:green;"><strong>clic droit</strong></mark>** avec la **<mark style="color:green;"><strong>boussole</strong></mark>** en main, puis cliquez sur le **<mark style="color:green;"><strong>bloc vert</strong></mark>** comme indiqué ci-dessous.
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/RejoindreServeur/choix_monde.png" alt="" width="600"></figure>
 
-## 💠 Problème de connexion au serveur
+## 💠 <mark style="color:green;">Problème de connexion au serveur 😥</mark>
 
 Lorsque vous essayez de vous connecter et que vous tombez sur cette page après plusieurs **<mark style="color:green;"><strong>minutes d'attente</strong></mark>**, comme ci-dessous, voici une petite astuce pour résoudre votre **<mark style="color:green;"><strong>problème de connexion</strong></mark>** et rejoindre notre **<mark style="color:green;"><strong>serveur</strong></mark>** 🤩
 
