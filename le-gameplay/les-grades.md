@@ -110,7 +110,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 
 ### <mark style="color:yellow;">👑 Abonnement Premium 👑</mark>
 
-<mark style="color:yellow;">**Prix**</mark> : [14,90 €/mois](https://store.evolucraft.fr/category/abonnement) _(Autre offre en pack de 3, 6 ou 12 mois)_ ou **obtenable dans la box vote** _(24 heures)_
+<mark style="color:yellow;">**Prix**</mark> : [14,90 €/mois](https://store.evolucraft.fr/category/abonnement) _(Autre offre en pack de 3, 6 ou 12 mois)_ ou **obtenable dans la caisse vote** _(24 heures)_
 
 **Avantages :**
 
@@ -130,5 +130,47 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes,
 * Accès au <mark style="color:yellow;">**`/hdb` 🧑**</mark>
 * Accès au <mark style="color:yellow;">**<a href="https://wiki.evolucraft.fr/tuto-et-astuce/le-ase">`/ase` 🧍‍♂️</a>**</mark>
 * Accès au <mark style="color:yellow;">**`/sell all` 💯**</mark>
+
+## 💠 <mark style="color:green;"><strong>Nos grades de créateurs de contenu 🎥</strong></mark>
+
+Sur **<mark style="color:green;"><strong>Evolucraft</strong></mark>**, il est possible d'obtenir un **<mark style="color:green;"><strong>grade créateur de contenu</strong></mark>** selon la plateforme utilisée : **<mark style="color:green;"><strong>YouTube</strong></mark>**, **<mark style="color:green;"><strong>Twitch</strong></mark>** ou **<mark style="color:green;"><strong>TikTok</strong></mark>**.
+
+Pour l’obtenir, vous devrez [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532) sur le **<mark style="color:green;"><strong>Discord d’Evolucraft</strong></mark>**, en vous assurant d’avoir les **<mark style="color:green;"><strong>pré-requis</strong></mark>** indiqués ci-dessous selon le grade demandé.  
+Vous serez ensuite mis en contact avec notre **<mark style="color:green;"><strong>chef de projet marketing</strong></mark>**.
+
+### ❤️ <mark style="color:red;"><strong>Youtubeur</strong></mark> ❤️
+
+* Publier au moins **<mark style="color:green;"><strong>une vidéo par semaine</strong></mark>** sur le serveur  
+* Obtenir plus de **<mark style="color:green;"><strong>150 vues</strong></mark>** par vidéo  
+* Avoir au minimum **<mark style="color:green;"><strong>100 abonnés</strong></mark>**  
+* Réaliser une vidéo de **<mark style="color:green;"><strong>5 minutes minimum</strong></mark>**  
+* Proposer un **<mark style="color:green;"><strong>contenu qualitatif</strong></mark>** (montage dynamique, miniatures travaillées, mixage sonore agréable…)
+
+### 💜 <mark style="color:purple;"><strong>Streameur</strong></mark> 💜
+
+* Faire au moins **<mark style="color:green;"><strong>un live d’une heure par semaine</strong></mark>** sur le serveur  
+* Avoir une moyenne de **<mark style="color:green;"><strong>plus de 10 viewers</strong></mark>**  
+* Proposer un **<mark style="color:green;"><strong>contenu qualitatif</strong></mark>** (fluidité, dynamisme, interaction avec l’audience…)  
+* Posséder un **<mark style="color:green;"><strong>bot de stream</strong></mark>** avec des commandes comme **<mark style="color:green;"><strong>!ip</strong></mark>** ou **<mark style="color:green;"><strong>!info</strong></mark>**
+
+### 💙 <mark style="color:purple;"><strong>TikTokeur</strong></mark> 💙
+
+Pour obtenir le **<mark style="color:green;"><strong>grade TikTokeur</strong></mark>**, les modalités sont différentes des autres grades.
+
+Chaque demande est étudiée de manière **<mark style="color:green;"><strong>indépendante</strong></mark>**, en prenant en compte les **<mark style="color:green;"><strong>statistiques</strong></mark>** (vues, abonnés, likes…) et la **<mark style="color:green;"><strong>qualité du contenu</strong></mark>** (dynamisme, clarté de la voix, pertinence…)
+
+### 🔅 <mark style="color:green;"><strong>Les avantages</strong></mark> 🔅
+
+Avec l’un de ces **<mark style="color:green;"><strong>grades créateur</strong></mark>**, vous aurez accès à plusieurs **<mark style="color:green;"><strong>fonctionnalités exclusives</strong></mark>**.
+
+{% hint style="warning" %}
+⚠️ Le grade n’est pas acquis définitivement ! En effet, vous devez **<mark style="color:green;"><strong>continuer à respecter les conditions</strong></mark>** et le **<mark style="color:green;"><strong>règlement du serveur</strong></mark>**.
+{% endhint %}
+
+* Un **<mark style="color:green;"><strong>grade correspondant</strong></mark>** sur le serveur Minecraft  
+* Un **<mark style="color:green;"><strong>grade TikTokeur / Youtubeur / Streameur</strong></mark>** sur le Discord  
+* Les **<mark style="color:green;"><strong>avantages du grade Élite 💠</strong></mark>**, le deuxième meilleur grade du serveur  
+* La commande **<mark style="color:green;"><strong>/contenu</strong></mark>** pour mettre en avant vos contenus en jeu  
+* Le salon [**`#🎥・vidéos-évolucraft`**](https://discord.com/channels/699670538737418343/1063148755702001674) pour promouvoir vos contenus sur Discord  
 
 **Parfait ! Maintenant, tu connais tous les grades du serveur ! Si tu souhaites soutenir le serveur, tu peux toujours acheter les grades présentés.**
