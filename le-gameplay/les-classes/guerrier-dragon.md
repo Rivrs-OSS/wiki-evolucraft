@@ -88,6 +88,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +5</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Donjon Biome Marais</td>
   </tr>
   <tr>
@@ -97,6 +98,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +11</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
@@ -106,6 +108,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +18</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Donjon Biome Marais ou Forge</td>
   </tr>
   <tr>
@@ -115,6 +118,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +35</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +15</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -124,6 +128,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -133,6 +138,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +5</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Donjon Biome Nether</td>
   </tr>
   <tr>
@@ -142,6 +148,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +11</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
@@ -151,6 +158,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +18</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Donjon Biome Nether ou Forge</td>
   </tr>
   <tr>
@@ -160,6 +168,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +35</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -169,6 +178,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +60</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -177,7 +187,8 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>
      <p><mark style="color:red;">🗡️️ Force +5</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +3</mark></p>
-    </td>   
+    </td> 
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>  
      <td>
       <p>Donjon Biome Neige</p>
       <p>Donjon Caverne</p>
@@ -189,7 +200,8 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>
      <p><mark style="color:red;">🗡️️ Force +11</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +6</mark></p>
-    </td>   
+    </td> 
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>  
      <td>
       <p>Donjon Biome Neige</p>
       <p>Donjon Caverne</p>
@@ -203,7 +215,8 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>
      <p><mark style="color:red;">🗡️️ Force +18</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +9</mark></p>
-    </td>   
+    </td> 
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>  
      <td>
       <p>Donjon Biome Neige</p>
       <p>Donjon Laboratoire</p>
@@ -217,6 +230,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +35</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +15</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -226,6 +240,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +60</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -235,6 +250,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +7</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Pack d'arme</td>
   </tr>
   <tr>
@@ -244,6 +260,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +15</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
@@ -253,6 +270,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Pack d'arme ou Forge</td>
   </tr>
   <tr>
@@ -262,6 +280,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -271,6 +290,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️️ Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>Forge</td>
   </tr>
   <tr>
@@ -280,6 +300,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
@@ -289,12 +310,14 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
     <td><mark style="color:orange;">Lance Draconique</mark></td>
     <td><mark style="color:orange;">Draconique</mark></td>
     <td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +10</mark></p>
     </td>
@@ -323,6 +346,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween"><mark style="color:orange;">Caisse Halloween 🎃</mark></a></p>
@@ -335,6 +359,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
@@ -374,6 +399,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
@@ -386,6 +412,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
