@@ -28,7 +28,7 @@ Assurez-vous d’avoir les <mark style="color:green;">**permissions d’édition
 
 ## <mark style="color:green;">💠 Que peut-on faire avec le</mark> <mark style="color:green;"></mark><mark style="color:green;">`/ase`</mark> <mark style="color:green;"></mark><mark style="color:green;">? 🔎</mark>
 
-### 🔸 Déplacer un armor stand
+### 🔸 <mark style="color:green;">Déplacer un armor stand</mark>
 
 Pour déplacer votre armor stand à un endroit précis, vous devez :
 
@@ -43,7 +43,7 @@ Pour déplacer votre armor stand à un endroit précis, vous devez :
 Astuce 💡 : Pour changer l'axe de déplacement, il vous suffit de faire le raccourci clavier **sneak + molette**.
 {% endhint %}
 
-### 🔸 Ajouter des éléments sur votre armor stand
+### 🔸 <mark style="color:green;">Ajouter des éléments sur votre armor stand</mark>
 
 {% hint style="success" %}
 Pour cette partie, vous n'êtes pas obligé d'utiliser le /ase pour mettre des éléments d'armure ou une tête sur votre armor stand, car vous avez la permission de changer les armures sans passer par le menu.
@@ -57,11 +57,11 @@ Par exemple, si vous souhaitez placer **un objet sur la tête du porte-armure**,
 🔎 **Remarque** : **Seuls les équipements d’armure** peuvent être visibles **sur les emplacements du plastron, du pantalon et des bottes**. Il n’est donc <mark style="color:green;">**pas possible d’y placer un objet ou une tête personnalisée**</mark>.
 {% endhint %}
 
-### 🔸 Afficher les bras de l’armor stand
+### 🔸 <mark style="color:green;">Afficher les bras de l’armor stand</mark>
 
 Pour afficher <mark style="color:green;">les bras du porte-armure</mark>, ouvrez le menu du `/ase`, sélectionnez **l’icône en forme de bâton**, puis **cliquez sur le porte-armure** pour activer ou désactiver les bras.
 
-### 🔸 Bouger les membres (tête, corps, bras et jambes) librement
+### 🔸 <mark style="color:green;">Bouger les membres (tête, corps, bras et jambes) librement</mark>
 
 Pour modifier la position des différentes parties du porte-armure, la méthode est similaire à celle du déplacement général.
 
@@ -79,7 +79,7 @@ Pour modifier la position des différentes parties du porte-armure, la méthode 
 **Remarque 🤓☝** : Les parties du corps peuvent uniquement **tourner sur elles-mêmes à 360°**.
 {% endhint %}
 
-### 🔸 Ajouter un nom à votre name tag
+### 🔸 <mark style="color:green;">Ajouter un nom à votre name tag</mark>
 
 Pour ajouter un nom visible au-dessus de votre armor stand, il vous suffit d'utiliser **un nametag que vous avez préalablement renommé**, puis de **cliquer sur l’armor stand** avec ce nametag.
 
@@ -96,7 +96,11 @@ Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnalis
 ## <mark style="color:green;">💠 Quelques options de personnalisation supplémentaires... ⚙️</mark>
 
 * **<mark style="color:green;">Potion d'invisibilité</mark>** : rend le <mark style="color:green;">**porte-armure invisible**</mark>, mais uniquement sa structure de base. Les éléments ajoutés dessus (armures, objets, etc.) **restent visibles**.
-* **<mark style="color:green;">Poisson-globe</mark> (**_**pufferfish**_**)** : change la <mark style="color:green;">**taille de l’armor stand**</mark>. Deux tailles sont disponibles : la taille **standard** et une version **réduite**, équivalente à celle d’un **bébé villageois**.
+* **<mark style="color:green;">Poisson-globe</mark> (**_**pufferfish**_**)** : change la <mark style="color:green;">**taille de l’armor stand**</mark>. Vous pourrez changer la taille de votre choix parmis 10 préset de taille déjà finis via les block de béton rouge, mais vous pouvez l'ajuster la taille avec les concrete verte ou orange.
+{% hint style="warning" %}
+**Important 🚨** :\
+Vous ne pouvez pas actuellement changer la taille d'un porte armure, il sera de retour prochainement.
+{% endhint %}
 * **<mark style="color:green;">Dalle de pierre lisse</mark> (**_**smooth stone slab**_**)** : permet de <mark style="color:green;">**retirer la plateforme en pierre**</mark> sous l’armor stand, ne laissant visible que la **partie en bois**.
 * **<mark style="color:green;">Bloc de sable</mark> (**_**sand block**_**)** : ajoute un <mark style="color:green;">**effet de gravité**</mark> à l’armor stand. S’il est suspendu dans les airs, il tombera au sol dès que la gravité sera activée.
 * **<mark style="color:green;">Bloc invisible</mark> 🚫** : permet de <mark style="color:green;">**désactiver l’interaction avec l’armure**</mark> sur le porte-armure. Les objets restent visibles, mais **ne peuvent plus être récupérés**.

@@ -18,7 +18,7 @@ description: Retrouvez ici toutes les informations concernant les classes
 
 ## <mark style="color:green;">💠 Comment débloquer une classe ? 🕵️‍♂️</mark>
 
-Nous vous invitons à lire cette page du wiki expliquant le <mark style="color:green;">processus</mark> pour rejoindre une <mark style="color:green;">classe</mark> : <a href="https://wiki.evolucraft.fr/tuto-et-astuce/avoir-une-classe"><mark style="color:green;">**Avoir une classe 🧙‍♀️**</mark></a>
+Nous vous invitons à lire cette page du wiki expliquant le <mark style="color:green;">processus</mark> pour rejoindre une <mark style="color:green;">classe</mark> : <a href="https://wiki.evolucraft.fr/faq/avoir-une-classe"><mark style="color:green;">**Avoir une classe 🧙‍♀️**</mark></a>
 
 ## <mark style="color:green;">💠 Quelles sont les classes disponibles sur le serveur ? 🧐</mark>
 
@@ -94,7 +94,7 @@ L’<mark style="color:green;">XP</mark> donnée par les <mark style="color:gree
 ### <mark style="color:blue;">🔸 La box de vote 🧰</mark>
 Pour ceux qui ne sont pas fans des <mark style="color:green;">donjons</mark>, il existe un autre moyen de faire évoluer votre <mark style="color:green;">classe</mark> !
 
-Lorsque vous <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#les-cles-de-vote"><mark style="color:green;">votez sur le serveur</mark></a>, vous avez une chance d’obtenir la récompense <mark style="color:green;">"1000 XP CLASSE"</mark>, ce qui vous permettra de progresser plus rapidement dans les niveaux de classe !
+Lorsque vous <a href="https://wiki.evolucraft.fr/faq/monnaie/gagner-coins#les-cles-de-vote"><mark style="color:green;">votez sur le serveur</mark></a>, vous avez une chance d’obtenir la récompense <mark style="color:green;">"1000 XP CLASSE"</mark>, ce qui vous permettra de progresser plus rapidement dans les niveaux de classe !
 
 ## <mark style="color:green;">💠 Comment voir ses niveaux de classe, ou ceux d'un autre joueur ? 📊 </mark>
 

@@ -6,24 +6,48 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 **Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement. Voici donc la liste des événements présents actuellement sur le serveur.**
 
-***
+## 🐉 Événement Temporaire
 
-## 💘 Événement Temporaire
+### <mark style="color:green;">💠 Nouvel An Lunaire 🐉</mark>
 
-### <mark style="color:red;">💠 Chasse à l'Amour 💕</mark>
+Un tout nouvel événement festif est arrivé sur le serveur ! Parlez au <mark style="color:green;">**nouveau PNJ au Spawn**</mark> pour accéder au <mark style="color:green;">**Monde Lunaire**</mark>, un monde spécial où vous devrez affronter des monstres pour collecter des <mark style="color:green;">**Fragments de Jade 🟢**</mark>. Ces jades vous permettront d'acheter des objets exclusifs dans la <mark style="color:green;">**boutique de l'événement**</mark> !
 
-**⏰ Tous les jours à 17h00 et 22h00** _(11H AM / 4H PM GMT-4🍁)_
+#### 🌊 Vagues Lunaires
 
-Retrouvez les <mark style="color:red;">**Cœurs Cachés**</mark> dans le <mark style="color:red;">**Spawn**</mark> pour marquer des points !
+**⏰ Tous les jours à <mark style="color:green;">9h</mark>, <mark style="color:green;">12h</mark>, <mark style="color:green;">15h</mark>, <mark style="color:green;">18h</mark>, <mark style="color:green;">21h</mark> et <mark style="color:green;">00h</mark>** _(3H, 6H, 9H, 12H AM ainsi que 3H, 6H PM GMT-4🍁)_
 
-🏆 **Récompenses :**
-
-* **🥇・1er** → <mark style="color:red;">**1 Pet aléatoire (Nouveau)**</mark> + <mark style="color:red;">**300 000$**</mark>
-* **🥈・2e** → <mark style="color:red;">**1 Pierre de Téléportation Saint Valentin**</mark> + <mark style="color:red;">**200 000$**</mark>
-* **🥉・3e** → <mark style="color:red;">**150 💎**</mark> + <mark style="color:red;">**100 000$**</mark>
+Les <mark style="color:green;">**Vagues Lunaires**</mark> sont des événements de combat intense composés de <mark style="color:green;">**5 vagues de monstres**</mark> suivies d'un <mark style="color:green;">**Boss final**</mark>. Éliminez un maximum d'ennemis pour accumuler des <mark style="color:green;">**Fragments de Jade**</mark> et tenter de décrocher une place sur le <mark style="color:green;">**podium**</mark> !
 
 {% hint style="warning" %}
-Cet événement est **temporaire** et sera retiré à la fin de la période de la Saint-Valentin.
+**Important :** Seuls les mobs ayant l'effet **Glowing** comptabilisent des points pour le classement de l'événement !
+{% endhint %}
+
+{% hint style="info" %}
+Le Boss a une chance de dropper un **Pet** exclusif !
+{% endhint %}
+
+🏆 **Récompenses de Serveur** _(Spawn 1, 2 et 3 — classement intra-spawn)_ :
+
+* **🥇・1er** → <mark style="color:green;">**1 000 Jade**</mark>
+* **🥈・2e** → <mark style="color:green;">**600 Jade**</mark>
+* **🥉・3e** → <mark style="color:green;">**350 Jade**</mark>
+* **Tous les participants** → <mark style="color:green;">**100 Jade**</mark>
+
+🌍 **Récompenses Globales** _(Top 3 des joueurs ayant infligé le plus de dégâts toutes spawns confondues)_ :
+
+* **🥇・1er** → <mark style="color:green;">**10 000 Jade**</mark>
+* **🥈・2e** → <mark style="color:green;">**5 000 Jade**</mark>
+* **🥉・3e** → <mark style="color:green;">**2 500 Jade**</mark>
+* **Tous les participants** → <mark style="color:green;">**500 Jade**</mark>
+
+{% hint style="success" %}
+Récupérez vos récompenses du Top 3 Global avec la commande **`/atlaslunarfestival claim`**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Evenement/MondeLunaire.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Lunaire</mark></strong></figcaption></figure>
+
+{% hint style="warning" %}
+Cet événement est **temporaire** et sera retiré à la fin de la période du Nouvel An Lunaire.
 {% endhint %}
 
 ***

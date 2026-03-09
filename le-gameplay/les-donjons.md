@@ -16,7 +16,7 @@ Les donjons apparaissent <mark style="color:green;">aléatoirement</mark> dans l
 
 ## <mark style="color:green;">💠 Comment trouver un donjon ? 🔍</mark>
 
-### <mark style="color:green;">• 1️⃣ Les pierres de téléportation donjon 🟩</mark>
+### 🔷 <mark style="color:blue;">Les pierres de téléportation donjon 🟩</mark>
 
 Les pierres de téléportation donjon vous servent à être <mark style="color:green;">téléporté directement</mark>, en étant dans le monde ressource, à <mark style="color:green;">un portail de donjon généré</mark>. Très utile si vous ne voulez pas passer des heures à en chercher un !
 
@@ -24,22 +24,24 @@ Pour <mark style="color:green;">vous en procurer</mark>, il vous suffit d'utilis
 
 Pour les joueurs plus avancés, vous avez le <mark style="color:green;">`/dragon`</mark> où, sur la deuxième page, vous pouvez <mark style="color:green;">échanger des pierres de tp donjon</mark> de rareté supérieure : <mark style="color:yellow;">Rare</mark>, <mark style="color:blue;">Épique</mark> ou <mark style="color:purple;">Légendaire</mark> !
 
-### <mark style="color:green;">• 2️⃣ La recherche en balade 🚶‍♂️</mark>
+### 🔷 <mark style="color:blue;">La recherche en balade 🚶‍♂️</mark>
 
 En vous <mark style="color:green;">baladant dans les différents mondes ressource</mark>, vous pouvez également <mark style="color:green;">trouver des donjons générés</mark> et y entrer pour défier leurs mobs féroces. Avec un peu de chance, le <mark style="color:green;">`/rtp`</mark> pourra vous faire apparaître <mark style="color:green;">près d’un portail de donjon</mark>.
 
-### <mark style="color:green;">• 3️⃣ Les publicités 📣</mark>
+### 🔷 <mark style="color:blue;">Les publicités 📣</mark>
 
-Avec la commande [<mark style="color:green;">/pub 📢</mark>](http://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite), vous pouvez <mark style="color:green;">activer les notifications de pub pour donjon</mark> lorsque <mark style="color:green;">des joueurs trouvent un portail</mark> et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !
+Avec la commande [<mark style="color:green;">/pub 📢</mark>](http://wiki.evolucraft.fr/faq/creation-pub), vous pouvez <mark style="color:green;">activer les notifications de pub pour donjon</mark> lorsque <mark style="color:green;">des joueurs trouvent un portail</mark> et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !
 
-Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre trouvaille d'un <mark style="color:green;">portail de donjon</mark>, vous pouvez inviter des joueurs à éventuellement vous accompagner en effectuant la commande <mark style="color:green;">`/donjon "nom du donjon" "nombre de joueurs" "prix"`</mark>.
+<figure><img src="../.gitbook/assets/Les_Donjons/DemandeDeTPDonjon.png" alt=""></figure>
+
+Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre trouvaille d'un <mark style="color:green;">portail de donjon</mark>, vous pouvez inviter des joueurs à éventuellement vous accompagner en effectuant la commande <mark style="color:green;">`/donjon "rareté du donjon" "nombre de joueurs" "prix"`</mark>.
 
 ## <mark style="color:green;">💠 Comment inviter des joueurs dans un donjon ? 👥</mark>
 
 Avec le **<mark style="color:green;">`/party`</mark>**, qui permettra, à la personne ayant **<mark style="color:green;">créé le groupe</mark>**, de gérer les **<mark style="color:green;">joueurs entrant dans un donjon</mark>** avec elle.  
 Fini les **<mark style="color:green;">vols de donjon</mark>** ou les **<mark style="color:green;">téléportations trop proches</mark>** !
 
-### 🔸 Un donjon trouvé
+### 🔷 <mark style="color:blue;">Un donjon trouvé</mark>
 
 Lorsque vous avez **<mark style="color:green;">trouvé un donjon</mark>**, dirigez-vous vers le **<mark style="color:green;">portail</mark>**. Un message s’affichera alors, vous permettant de choisir si vous souhaitez faire le donjon **<mark style="color:green;">seul</mark>** ou **<mark style="color:green;">à plusieurs</mark>**. Il vous suffira de cliquer sur l’option souhaitée directement dans le **<mark style="color:green;">chat</mark>**.
 
@@ -48,7 +50,7 @@ Lorsque vous avez **<mark style="color:green;">trouvé un donjon</mark>**, dirig
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Party/Creation.png" alt=""></figure>
 
-### 🔸 Réservation du donjon
+### 🔷 <mark style="color:blue;">Réservation du donjon</mark>
 
 Une fois la **<mark style="color:green;">party créée</mark>**, retournez au **<mark style="color:green;">portail</mark>** afin de le **<mark style="color:green;">réserver</mark>**. Cela permet d’effectuer le donjon **<mark style="color:green;">à plusieurs</mark>** et d’éviter tout **<mark style="color:green;">vol de dernière minute</mark>**.
 Le portail sera considéré comme **<mark style="color:green;">réservé</mark>** dès réception du message ci-dessous.
@@ -60,7 +62,7 @@ Si le portail a déjà été **<mark style="color:green;">réservé</mark>**, le
 <figure><img src="../.gitbook/assets/Les_Donjons/Party/DejaReserver.png" alt=""></figure>
 {% endhint %}
 
-### 🔸 Formation de votre groupe
+### 🔷 <mark style="color:blue;">Formation de votre groupe</mark>
 
 Pour inviter des **<mark style="color:green;">joueurs</mark>** dans votre **<mark style="color:green;">groupe</mark>**, publiez une **<mark style="color:green;">pub de donjon</mark>** avec la commande :  
 **<mark style="color:green;">`/donjon [Type de donjon] [Nombre de joueurs] [Prix d'entrée]`</mark>**
@@ -73,7 +75,7 @@ Une fois la **<mark style="color:green;">pub envoyée</mark>**, vous recevrez le
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Party/DemandeDeTP.png" alt=""></figure>
 
-### 🔸 Démarrer le donjon
+### 🔷 <mark style="color:blue;">Démarrer le donjon</mark>
 
 Lorsque votre **<mark style="color:green;">groupe est prêt</mark>** et **<mark style="color:green;">au complet</mark>**, utilisez la commande **<mark style="color:green;">`/party start`</mark>** afin que **<mark style="color:green;">tous les joueurs</mark>** soient **<mark style="color:green;">téléportés</mark>** dans le donjon.
 
@@ -94,7 +96,7 @@ Sans cela, vous pourriez être **<mark style="color:green;">téléporté automat
 
 ## <mark style="color:green;">💠 Comment réaliser un donjon ? 🎮</mark>
 
-### 🔸 La salle de préparation ⏳
+### 🔷 <mark style="color:blue;">La salle de préparation ⏳</mark>
 
 Une fois entrés dans le donjon, les joueurs **<mark style="color:green;">patientent durant le décompte</mark>** afin que chacun puisse **<mark style="color:green;">préparer son inventaire</mark>**. Une fois ce **<mark style="color:green;">décompte terminé</mark>**, la première salle du donjon peut alors commencer !
 
@@ -102,7 +104,7 @@ En cas de besoin, il est également possible d’activer le **<mark style="color
 
 En cas de **<mark style="color:green;">crash</mark>** ou de **<mark style="color:green;">déconnexion</mark>**, vous avez désormais la possibilité de vous **<mark style="color:green;">re-téléporter dans votre donjon</mark>** grâce à la commande **<mark style="color:green;">`/party tp`</mark>**.
 
-### 🔸 Les salles de combat ⚔️
+### 🔷 <mark style="color:blue;">Les salles de combat ⚔️</mark>
 
 Selon le donjon effectué, plus il demandera <mark style="color:green;">un niveau de classe élevé</mark>, plus le <mark style="color:green;">nombre de salles à franchir augmentera</mark> _(sauf pour certains donjons événementiels)_.
 
@@ -116,7 +118,7 @@ Dans un donjon, vous trouverez plusieurs types de salles :
 REMARQUE 🔍 : Il n’est <mark style="color:green;">pas toujours obligatoire</mark> d’avoir <mark style="color:green;">une salle de mini-boss</mark>. Il peut donc arriver qu’il n’y ait que des salles de mobs et une salle pour le boss ⚔️
 {% endhint %}
 
-### 🔸 Les récompenses 🎁
+### 🔷 <mark style="color:blue;">Les récompenses 🎁</mark>
 
 Après avoir <mark style="color:green;">vaincu le boss final du donjon</mark>, vous pourrez alors <mark style="color:green;">récupérer des récompenses</mark> si vous avez <mark style="color:green;">survécu</mark>.
 

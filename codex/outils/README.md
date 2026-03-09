@@ -40,6 +40,7 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
   * 🍀 [<mark style="color:green;"><strong>Outils du Leprechaun</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-du-leprechaun)
   * 🦴 [<mark style="color:orange;"><strong>Outils de l'Archéologue</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-de-larchéologue)
   * 🍪 [<mark style="color:red;"><strong>Outils Pain d'épice</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-pain-dépice)
+  * 🎑 [<mark style="color:green;"><strong>Outils de Jade</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses##outils-de-jade)
 * 🧊 [<mark style="color:blue;"><strong>Outils des Glaces</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/glaces)
 * 🐍 [<mark style="color:green;"><strong>Outils du Serpent</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/serpent)
 * 💕 [<mark style="color:red;"><strong>Outils de l'Amour</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/amour)
