@@ -24,7 +24,7 @@ Ensuite, pour accéder <mark style="color:green;">**au menu de l'ase**</mark>, f
 Assurez-vous d’avoir les <mark style="color:green;">**permissions d’édition des porte-armures**</mark> dans votre rôle en regardant dans le `/v > rôle > "votre rôle" > paramètres d’action > page 2 > Édition de porte-armure`.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Ase/Menu.png" alt=""><figcaption><p><strong>Aperçu du menu</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Ase/Menu_.png" alt=""><figcaption><p><strong>Aperçu du menu</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">💠 Que peut-on faire avec le</mark> <mark style="color:green;"></mark><mark style="color:green;">`/ase`</mark> <mark style="color:green;"></mark><mark style="color:green;">? 🔎</mark>
 
