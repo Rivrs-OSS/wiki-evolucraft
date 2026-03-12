@@ -86,6 +86,10 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 
 ### <mark style="color:green;">Article B : Les actions interdites</mark>
 
+{% hint style="warning" %}
+Cette liste n'est pas exhaustive.
+{% endhint %}
+
 * Grief/Détruire volontairement dans une ville est interdit que vous soyez membre de la ville ou simple visiteur (ne pas replanter des champs publics, envoyer des oeufs de poulets dans la ville,...). Cependant il est conseillé d'y avoir une zone remarquable de votre ville où votre règlement y est indiquer.
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
@@ -101,15 +105,10 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
    * Tête ressemblant à des block vanilla, de tête de staff
    * Items exclusifs désanchantés
    * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme ou Parchemins expirées aux moments de la vente, ect...)
-
-{% hint style="warning" %}
-Cette liste n'est pas exhaustive.
-{% endhint %}
-
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
 
 {% hint style="warning" %}
-Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
+Si vous avez un doute sur l'utilisation de votre farm ou d'un item, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
 {% endhint %}
 
 * **Concernant les mondes constructions et les villes :**
