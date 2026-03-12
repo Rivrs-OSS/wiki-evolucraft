@@ -278,7 +278,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 | <mark style="color:red;">**Bâton Pain d'épices**</mark> *(Arme Mage)*                          | **150 Pains d'épices** |
 | <mark style="color:red;">**Épée Pain d'épices**</mark> *(Arme Guerrier)*                       | **150 Pains d'épices** |
 | <mark style="color:red;">**Totem Pain d'épices**</mark> *(Arme Chaman)*                        | **150 Pains d'épices** |
-| <mark style="color:red;">**Clé Pain d'épices**</mark> *(Arme Chaman)*                          | **200 Pains d'épices** |
+| <mark style="color:red;">**Clé Pain d'épices**</mark>                                          | **200 Pains d'épices** |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/PainD'épice/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Pains d'épice</mark></strong></figcaption></figure>
 
