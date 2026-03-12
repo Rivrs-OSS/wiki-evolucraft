@@ -36,6 +36,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
 * Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
 * Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon (hors portails où vous n'avez pas le level/que vous ne voulez pas réaliser),...) ne doit apparaître **qu’une seule fois** dans le menu des pubs et doit obligatoirement être réalisée via la commande **`/pub`**. Vous ne pourrez la republier **qu’après expiration de l’ancienne**. Dans le cas contraire, elle sera **supprimée par un membre compétent du staff**.
+* Dévoiler un staff vanish dans le chat est interdit.
 
 {% hint style="info" %}
 Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
@@ -72,13 +73,11 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
 * Les contrats ou accords entre joueurs sont à vos risques et périls. Cependant, si un item a commencé à être payé alors le marché devra être respecté et être totalement honoré.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
-### **Action dans une ville :**
+#### **Action dans une ville :**
 
 En cas de départ volontaire d’une ville, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs.
 
 Si un joueur est banni de sa ville par le maire, ce dernier a l’obligation de lui restituer ses effets personnels immédiatement.
-
-Toute copie de farms/constructions présentes dans la ville est strictement interdite sans l’accord explicite du maire de celle-ci et ce même si vous prévoyez de quitter la ville.
 
 {% hint style="info" %}
 Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif sera sanctionné et la victime remboursée.
@@ -91,6 +90,7 @@ Cette liste n'est pas exhaustive.
 {% endhint %}
 
 * Grief/Détruire volontairement dans une ville est interdit que vous soyez membre de la ville ou simple visiteur (ne pas replanter des champs publics, envoyer des oeufs de poulets dans la ville,...). Cependant il est conseillé d'y avoir une zone remarquable de votre ville où votre règlement y est indiquer.
+* Toute copie de farms/constructions présentes dans la ville est strictement interdite sans l’accord explicite du maire de celle-ci et ce même si vous prévoyez de quitter la ville.
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * Il est interdit de voler des farms aux autres joueurs sans leur accord.
@@ -157,6 +157,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
   * FlyMod
   * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
   * AutoTools
+  * Tout mods qui permettent de voir un staff en vanish
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket afin que celui-ci soit approuvé par l'équipe Staff.
