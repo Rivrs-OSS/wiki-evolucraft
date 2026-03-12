@@ -48,7 +48,7 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
   * Racisme, misogynie, homophobie, transphobie, politique.
   * Troll, obscénité.
   * Les majuscules abusives (BONJOUR EVOLUCRAFT)
-  * Spam (envoi répété de la même phrase, du même mot), Flood (succession de la même lettre ou du même caractère. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii)
+  * Spam (envoi répété de la même phrase, du même mot), Flood (succession de la même lettre ou du même caractère qui sont inutiles. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii)
   * La mendicité (demander des items, de l'argent, etc.).
 * **Où qu'ils soient les messages sont sanctionnables :**
   * Chat public.
@@ -100,7 +100,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
    * Fausses clés
    * Tête ressemblant à des block vanilla, de tête de staff
    * Items exclusifs désanchantés
-   * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, ect...)
+   * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme expirée au moment de la vente, ect...)
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.
@@ -125,7 +125,7 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 
 ### <mark style="color:green;">Article C : Les Farms et machine à redstone</mark>
 
-* Certaines machines sont complètement interdite comme les machines à pêche ou d'autres machines vous permettant de monter votre métier
+* Certaines machines sont complètement interdites, comme les machines à pêche ou d'autres machines vous permettant de monter votre métier automatiquement.
 * Les machines volantes sont interdites.
 * Les machines ne doivent pas comporter de véhicule (Minecart ou bateau par exemple).
 * Les machines créant des lags, volontairement ou non, sont interdites.
