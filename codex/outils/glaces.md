@@ -31,7 +31,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
      <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>  
-     <p>▸ <mark style="color:blue;"><strong>Effet Effet Magnet</strong></mark> : Vous permet de récolter les blocks cassées.</p>
+     <p>▸ <mark style="color:blue;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les blocks cassées.</p>
    </td>
   </tr>
   <tr>
