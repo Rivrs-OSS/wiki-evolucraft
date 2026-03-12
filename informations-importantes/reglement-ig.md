@@ -100,7 +100,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
    * Fausses clés
    * Tête ressemblant à des block vanilla, de tête de staff
    * Items exclusifs désanchantés
-   * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme expirée au moment de la vente, ect...)
+   * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme ou Parchemins expirées aux moments de la vente, ect...)
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.
