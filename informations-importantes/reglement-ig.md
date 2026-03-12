@@ -97,7 +97,7 @@ Cette liste n'est pas exhaustive.
 * La vente d’items en jeu contre de l’argent réel est interdite.
 * Il est interdit d'utiliser une machine à pêche.
 * La création de casino est interdite.
-* Plusieurs joueurs de la même team/ville ne peuvent pas apparaître/participer deux fois dans le classement ville avec plusieurs villes différentes.
+* Un joueur dans plusieurs ville ne peut pas participer à comptabiliser des étoiles dans le classement ville avec plus d'une ville.
 * Certains items sont interdit à la vente si il remplissent au moins une de ces conditions, même issue dans des shulkers vendues :
    * Vente de cosmétiques (issue d'un use bug)
    * Items renommés dans dans le but de tromper ou de faire de la pub
