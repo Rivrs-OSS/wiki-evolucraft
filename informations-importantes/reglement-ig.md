@@ -69,7 +69,7 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
 * Tout contournement d'achat unique sur la boutique est interdit (ex: donner 500 gemmes à son ami pour qu'il achète un item unique en boutique et le récupérer).
 * Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
 * Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagnée ou les récompenses liées à leur mort.
-* Le serveur ne prend pas en charge les contrats ou accords entre joueurs : ceux-ci se font à vos risques et périls. ⇒ Si un item a commencé à être payé, le montant total de ce dernier doit être honoré.
+* Les contrats ou accords entre joueurs sont à vos risques et périls. Cependant, si un item a commencé à être payé alors le marché devra être respecté et être totalement honoré.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
 ### **Action dans une ville :**
@@ -107,7 +107,6 @@ Cette liste n'est pas exhaustive.
 {% endhint %}
 
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
-* Monter de manière abusive vos items évolutifs est interdit. Exemple : Ferme à neige pour la pelle évolutive.
 
 {% hint style="warning" %}
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
@@ -131,6 +130,7 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
+* Monter la pelle évolutive avec la ferme à neige est interdite.
 
 {% hint style="warning" %}
 Si votre système ne respecte pas les règles du serveur, celui-ci sera supprimé sans aucun remboursement possible.
@@ -168,7 +168,7 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 * Les doubles-comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, incluant le classement farmium et le classement de votes.
 * Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, pass…).
-* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK spawner.
+* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK pour faire charger des spawners.
 * Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 
 {% hint style="warning" %}
@@ -177,8 +177,8 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 
 ### <mark style="color:green;">Article F : L'AFK & Inactivité</mark>
 
-* L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.
-* Il est interdit de contourner l'anti-AFK de quelconque manière (macro, mods, etc.), sous peine de sanctions.
+* L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon <mark style="color:white;">[votre grade](https://wiki.evolucraft.fr/le-gameplay/les-grades#quels-sont-les-atouts-de-chaque-grade)</mark> **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté à la zone du /afk au spawn.
+* Il est interdit d’automatiser des actions afin de contourner l’anti-AFK automatique du serveur : (macros, mods, etc.), sous peine de sanctions.
 * L'AFK de manière indéfinie est autorisé uniquement dans le /afk
 
 {% hint style="warning" %}
@@ -205,8 +205,8 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
 * Le poser-casser afin d'XP les jobs, farmium ou pour tout autre usage est interdit, sauf pour réaliser les parchemins.
-  * Par exemple : il est autorisé de poser des minerais de diamant et de les récupérer avec fortune (sans utiliser cela pour le pass).
-  * A contrario, il est interdit de poser une buche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
+  * Par exemple : il est interdit de poser une buche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
+  * A contrario : il est autorisé de poser des minerais et de les récupérer avec fortune (sans utiliser cela pour le pass et pour les jobs). 
 
 ### <mark style="color:green;">Article H : Les donjons</mark>
 
