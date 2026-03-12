@@ -18,7 +18,7 @@ La machine à bois est récupérable à partir du <mark style="color:green;">**n
 
 Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
 
-<figure><img src="../../.gitbook/assets/Les_Machines/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la Machine à Bois</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Machines/MachineABois.png" alt=""><figcaption><p><strong>Interface de la Machine à Bois</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 Pour plus d'informations concernant les crafts [<mark style="color:green;">**de la machine à bois**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-machines/machine-a-bois)
@@ -34,7 +34,7 @@ Laissez libre cours à votre créativité en fabriquant des statues uniques et d
 
 À noter que chaque statue craftée vous procurera des récompenses d'xp et d'argents pour le métier de Forgemage 📖.
 
-<figure><img src="../../.gitbook/assets/Les_Machines/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la Tailleuse de Pierre</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Machines/TailleuseDePierre.png" alt=""><figcaption><p><strong>Interface de la Tailleuse de Pierre</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 Pour plus d'informations concernant les crafts de chaque statue [<mark style="color:green;">**dans la tailleuse de pierre**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-machines/tailleuse-de-pierre)
@@ -55,7 +55,7 @@ La forge est une machine puissante qui vous permettra de crafter des gemmes de m
 * <mark style="color:green;">**Création de Gemmes de Métier**</mark> 🎇 : Ces **gemmes sont disponibles en quatre raretés** différentes : <mark style="color:green;">commun</mark>, <mark style="color:yellow;">rare</mark>, <mark style="color:blue;">épique</mark>, <mark style="color:purple;">légendaire</mark> et <mark style="color:red;">mythique</mark> et vous serviront notamment à **l'amélioration dans le craft de vos armes de classe**.
 * <mark style="color:green;">**Amélioration des Armes de Classe**</mark> ⚔️ : Utilisez la forge pour **améliorer les armes spécifiques à chaque classe** à l'aide de **cristaux de métier et d'autres ressources mystères** afin de renforcer vos capacités de combat et de défense pour mieux affronter les défis qui vous attendent dans le monde d'Evolucraft.
 
-<figure><img src="../../.gitbook/assets/Les_Machines/Interface_Forge.png" alt=""><figcaption><p><strong>Interface de la Forge</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Machines/Forge.png" alt=""><figcaption><p><strong>Interface de la Forge</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 Pour plus d'informations concernant les crafts [<mark style="color:green;">**de la forge**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-machines/forge)
