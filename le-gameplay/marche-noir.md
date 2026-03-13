@@ -77,6 +77,10 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Scintillantes</mark>**, obtenables dans les récompenses de **[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/codex/donjons/halloween) 🧛** ou dans les récompenses de **<mark style="color:orange;">Quête Halloween</mark>**.
 
+{% hint style="info" %}
+Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Halloween</strong></mark>.
+{% endhint %}
+
 | **Items disponible**                                                                 | **Prix**                           |
 | ------------------------------------------------------------------------------------ | ---------------------------------- |
 | <mark style="color:orange;">**Tête de Citrouille Diabolique**</mark> *(Cosmétique)*  | **50 Citrouilles Scintillantes**   |

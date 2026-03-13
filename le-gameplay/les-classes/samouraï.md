@@ -229,7 +229,7 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
   </tr>
   <tr>
     <td><mark style="color:yellow;">Katana légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>

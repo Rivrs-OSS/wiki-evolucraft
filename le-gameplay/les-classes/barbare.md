@@ -220,6 +220,26 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
     <th><strong>Obtentions 📌</strong></th>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Hache du Barbare Shiny</mark></td>
+    <td><mark style="color:yellow;">Rare ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Hache légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>   
   <tr>
     <td><mark style="color:red;">Hache de la Lune de Sang</mark></td>

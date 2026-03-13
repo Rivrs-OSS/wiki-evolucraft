@@ -448,7 +448,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
   </tr>   
   <tr>
     <td><mark style="color:yellow;">Harpe légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
@@ -463,7 +463,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +5</mark></p>
     </td>
-    <td><mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssales</mark></td>
+    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssalles</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>

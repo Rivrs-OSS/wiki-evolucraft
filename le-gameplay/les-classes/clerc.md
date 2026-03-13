@@ -435,7 +435,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
   </tr>
   <tr>
     <td><mark style="color:yellow;">Spectre légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>

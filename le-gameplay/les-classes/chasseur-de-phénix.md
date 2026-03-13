@@ -221,6 +221,25 @@ Toutes les 4 attaques, une explosion en forme de X se déclenche. Danse Ardente 
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
     <th><strong>Obtentions 📌</strong></th>
+  </tr>  <tr>
+    <td><mark style="color:yellow;">Arc de l'enfer légendaire</mark></td>
+    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
+  </tr>   
+  <tr>
+    <td><mark style="color:yellow;">Arc de l'enfer légendaire Shiny</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>  
   <tr>
     <td><mark style="color:red;">Arc de l'enfer de la Lune de Sang</mark></td>

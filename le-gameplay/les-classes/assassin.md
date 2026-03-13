@@ -442,7 +442,7 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
   </tr>
   <tr>
     <td><mark style="color:yellow;">Dague légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
