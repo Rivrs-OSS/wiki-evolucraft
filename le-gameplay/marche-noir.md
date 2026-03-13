@@ -103,6 +103,9 @@ Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Sci
 
 Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</mark>**, obtenables dans les récompenses de **[<mark style="color:blue;">Donjon Givré Commun</mark>](https://wiki.evolucraft.fr/codex/donjons/givre15) ❄️** et **[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/codex/donjons/givre40) 🌟** ou encore dans les récompenses de **<mark style="color:blue;">Quête Givrée</mark>**.
 
+{% hint style="info" %}
+Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Givrés Commun et Épique</strong></mark>.
+
 | **Items disponible**                                                                | **Prix**                   |
 | ----------------------------------------------------------------------------------- | -------------------------- |
 | <mark style="color:blue;">**Épée des Glaces**</mark> *(Arme Guerrier)*             | **150 Sucres d'Orges**     |
