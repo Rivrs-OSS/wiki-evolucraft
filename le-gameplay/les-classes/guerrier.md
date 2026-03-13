@@ -498,7 +498,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
   </tr>
   <tr>
     <td><mark style="color:yellow;">Épée légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:red;">❤️ Vie +140</mark></p>
