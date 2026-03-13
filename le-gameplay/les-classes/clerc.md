@@ -245,7 +245,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
     <td>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Marais)</mark></p>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
   </tr>
