@@ -73,6 +73,8 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
 
 ## 💠 <mark style="color:green;">Armes</mark>
 
+### 🔸 <mark style="color:green;">**Armes des Récompenses de Donjon**</mark>
+
 <table>
 <tr>
     <th><strong>Nom de l'Armes 🏷️</strong></th>
@@ -336,6 +338,18 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
     </tr>
+</table>
+
+### 🔸 <mark style="color:green;">**Packs d'Armes**</mark>
+
+<table>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
+  </tr>
     <tr>
         <td><mark style="color:green;">Épée du Colosse</mark></td>
         <td><mark style="color:green;">Commun</mark></td>
@@ -398,6 +412,80 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
     </tr>
+    <tr>
+        <td><mark style="color:green;">Épée du Colosse Shiny</mark></td>
+        <td><mark style="color:green;">Commun ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
+     <p><mark style="color:red;">❤️ Vie +14</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
+    </tr>
+    <tr>
+        <td><mark style="color:yellow;">Épée du Colosse Shiny</mark></td>
+        <td><mark style="color:yellow;">Rare ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
+     <p><mark style="color:red;">❤️ Vie +35</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+    </tr>
+    <tr>
+        <td><mark style="color:blue;">Épée du Colosse Shiny</mark></td>
+        <td><mark style="color:blue;">Épique ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
+     <p><mark style="color:red;">❤️ Vie +56</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+    </tr>
+    <tr>
+        <td><mark style="color:purple;">Épée du Colosse Shiny</mark></td>
+        <td><mark style="color:purple;">Légendaire ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:red;">❤️ Vie +100</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+    </tr>
+    <tr>
+        <td><mark style="color:red;">Épée du Colosse Shiny</mark></td>
+        <td><mark style="color:red;">Mythique ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
+     <p><mark style="color:red;">❤️ Vie +180</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+    </tr>
+</table>
+
+### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>
+
+<table>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
+  </tr>
 <tr>
     <td><mark style="color:yellow;">Épée légendaire</mark></td>
     <td><mark style="color:yellow;">Jackpot</mark></td>
