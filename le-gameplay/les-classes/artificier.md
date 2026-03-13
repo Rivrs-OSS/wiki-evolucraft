@@ -145,6 +145,70 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     </td>
   </tr>
   <tr>
+    <td><mark style="color:green;">Pistolet racineux</mark></td>
+    <td><mark style="color:green;">Commun</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
+    </td>
+    <td><mark style="color:green;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:green;">5%</mark> de chance d'<mark style="color:green;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Jungle)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:orange;">Pistolet racineux</mark></td>
+    <td><mark style="color:orange;">Rare</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
+    </td>
+    <td><mark style="color:yellow;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:yellow;">10%</mark> de chance d'<mark style="color:yellow;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Pistolet racineux</mark></td>
+    <td><mark style="color:blue;">Épique</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
+    </td>
+    <td><mark style="color:blue;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:blue;">15%</mark> de chance d'<mark style="color:blue;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Pistolet racineux</mark></td>
+    <td><mark style="color:purple;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +35</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +15</mark></td></p>
+    </td>
+    <td><mark style="color:purple;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:purple;">20%</mark> de chance d'<mark style="color:purple;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Pistolet racineux</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
+    </td>
+    <td><mark style="color:red;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:red;">25%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
     <td><mark style="color:green;">Pistolet du phénix</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
@@ -205,70 +269,6 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:green;">Pistolet racineux</mark></td>
-    <td><mark style="color:green;">Commun</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +5</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
-    </td>
-    <td><mark style="color:green;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:green;">5%</mark> de chance d'<mark style="color:green;">infliger l'effet poison</mark> sur l'ennemie</td>
-    <td>
-     <p>▸ <mark style="color:green;">Donjon Commun (Biome Jungle)</mark></p>
-     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:orange;">Pistolet racineux</mark></td>
-    <td><mark style="color:orange;">Rare</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +11</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
-    </td>
-    <td><mark style="color:yellow;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:yellow;">10%</mark> de chance d'<mark style="color:yellow;">infliger l'effet poison</mark> sur l'ennemie</td>
-    <td>
-     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:blue;">Pistolet racineux</mark></td>
-    <td><mark style="color:blue;">Épique</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +18</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
-    </td>
-    <td><mark style="color:blue;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:blue;">15%</mark> de chance d'<mark style="color:blue;">infliger l'effet poison</mark> sur l'ennemie</td>
-    <td>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:purple;">Pistolet racineux</mark></td>
-    <td><mark style="color:purple;">Légendaire</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️️ Force +35</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +15</mark></td></p>
-    </td>
-    <td><mark style="color:purple;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:purple;">20%</mark> de chance d'<mark style="color:purple;">infliger l'effet poison</mark> sur l'ennemie</td>
-    <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:red;">Pistolet racineux</mark></td>
-    <td><mark style="color:red;">Mythique</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
-    </td>
-    <td><mark style="color:red;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:red;">25%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemie</td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
