@@ -82,70 +82,6 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
-    <td><mark style="color:green;">Gant emflammé</mark></td>
-    <td><mark style="color:green;">Commun</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +5</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:green;">Donjon Commun (Biome Nether)</mark></p>
-     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:yellow;">Gant emflammé</mark></td>
-    <td><mark style="color:yellow;">Rare</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +11</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:blue;">Gant emflammé</mark></td>
-    <td><mark style="color:blue;">Épique</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +18</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:purple;">Gant emflammé</mark></td>
-    <td><mark style="color:purple;">Légendaire</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +35</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:red;">Gant emflammé</mark></td>
-    <td><mark style="color:red;">Mythique</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
     <td><mark style="color:green;">Gant du massacreur</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
@@ -271,6 +207,70 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td>
      <p><mark style="color:red;">❤️ Vie +140</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +26</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Gant emflammé</mark></td>
+    <td><mark style="color:green;">Commun</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Gant emflammé</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Gant emflammé</mark></td>
+    <td><mark style="color:blue;">Épique</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Gant emflammé</mark></td>
+    <td><mark style="color:purple;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Gant emflammé</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
