@@ -437,7 +437,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
   </tr>
   <tr>
     <td><mark style="color:yellow;">Pistolet légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
