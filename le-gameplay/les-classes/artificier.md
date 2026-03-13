@@ -120,7 +120,6 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p>▸ <mark style="color:blue;">Donjon Épique (Biome Neige)</mark></p>
      <p>▸ <mark style="color:blue;">Donjon Laboratoire</mark></p>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
-      <p>Forge</p>
      </td>
   </tr>
   <tr>
