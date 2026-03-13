@@ -73,6 +73,8 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
 
 ## 💠 <mark style="color:blue;">Armes</mark>
 
+### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>   
+
 <table>
 <tr>
     <th><strong>Nom de l'Armes 🏷️</strong></th>
@@ -89,7 +91,9 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Pack d'arme</td>
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Faux de la mort</mark></td>
@@ -99,7 +103,10 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Pack d'arme ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Faux de la mort</mark></td>
@@ -109,7 +116,10 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Pack d'arme ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Faux de la mort</mark></td>
@@ -119,7 +129,9 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Faux de la mort</mark></td>
@@ -129,8 +141,84 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
+  <tr>
+    <td><mark style="color:green;">Faux de la mort Shiny</mark></td>
+    <td><mark style="color:green;">Commun ✨</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Faux de la mort Shiny</mark></td>
+    <td><mark style="color:yellow;">Rare ✨</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Faux de la mort Shiny</mark></td>
+    <td><mark style="color:blue;">Épique ✨</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Faux de la mort Shiny</mark></td>
+    <td><mark style="color:purple;">Légendaire ✨</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Faux de la mort Shiny</mark></td>
+    <td><mark style="color:red;">Mythique ✨</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+</table>
+
+### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>
+
+<table>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
+  </tr>     
  <tr>
     <td><mark style="color:yellow;">Faux légendaire</mark></td>
     <td><mark style="color:yellow;">Jackpot</mark></td>
@@ -171,7 +259,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">givrée commun</mark> et <mark style="color:blue;">épique</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
@@ -184,7 +272,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +16</mark></p>
     </td>
-    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">amour</mark> et <mark style="color:red;">cupidon</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">amour</mark> et <mark style="color:red;">cupidon</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin"><mark style="color:red;">Caisse Saint-Valentin 💕</mark></a></p>
@@ -197,7 +285,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
     </td>
-    <td><mark style="color:yellow;">+5% de dégâts</mark> dans les donjons <mark style="color:yellow;">terriers du lapins</mark> et <mark style="color:yellow;">fabrique du chocolat</mark></td>
+    <td><mark style="color:yellow;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:yellow;">+5% de dégâts</mark> dans les donjons <mark style="color:yellow;">terriers du lapins</mark> et <mark style="color:yellow;">fabrique du chocolat</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
@@ -237,7 +325,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
-    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>

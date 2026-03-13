@@ -103,6 +103,9 @@ Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Sci
 
 Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</mark>**, obtenables dans les récompenses de **[<mark style="color:blue;">Donjon Givré Commun</mark>](https://wiki.evolucraft.fr/codex/donjons/givre15) ❄️** et **[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/codex/donjons/givre40) 🌟** ou encore dans les récompenses de **<mark style="color:blue;">Quête Givrée</mark>**.
 
+{% hint style="info" %}
+Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Givrés Commun et Épique</strong></mark>.
+
 | **Items disponible**                                                                | **Prix**                   |
 | ----------------------------------------------------------------------------------- | -------------------------- |
 | <mark style="color:blue;">**Épée des Glaces**</mark> *(Arme Guerrier)*             | **150 Sucres d'Orges**     |
@@ -278,7 +281,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 | <mark style="color:red;">**Bâton Pain d'épices**</mark> *(Arme Mage)*                          | **150 Pains d'épices** |
 | <mark style="color:red;">**Épée Pain d'épices**</mark> *(Arme Guerrier)*                       | **150 Pains d'épices** |
 | <mark style="color:red;">**Totem Pain d'épices**</mark> *(Arme Chaman)*                        | **150 Pains d'épices** |
-| <mark style="color:red;">**Clé Pain d'épices**</mark> *(Arme Chaman)*                          | **200 Pains d'épices** |
+| <mark style="color:red;">**Clé Pain d'épices**</mark>                                          | **200 Pains d'épices** |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/PainD'épice/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des Pains d'épice</mark></strong></figcaption></figure>
 

@@ -10,6 +10,17 @@ description: Retrouvez ici les informations concernant le donjon Caverne
 📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 15**</mark>  
 🕓 Durée du donjon : <mark style="color:green;">**10 minutes**</mark>  
 
+## 💠 <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Aperçu du Donjon 📸</strong></mark></td>
+  </tr>
+  <tr>
+    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Caverne.png" alt=""></figure></td>
+  </tr>
+</table>
+
 ## 💠 <mark style="color:blue;"> Statistiques détaillées 📊</mark>
 
 ### 📊 Valeurs unitaires
@@ -49,19 +60,28 @@ La répartition entre salles normales et mini boss est **totalement aléatoire**
     <td>🟢 <strong>Salle Normale</strong></td>
     <td>Variable (aléatoire)</td>
     <td>48 mobs normaux (1 vague)</td>
-    <td><mark style="color:green;"><strong>1 248 XP</strong></mark></td>
+    <td>
+      <p><mark style="color:green;"><strong>1 248 XP</strong></mark></p>
+      <p><mark style="color:green;"><strong>720 Sucres d'orge</strong></mark></p>
+    </td>
   </tr>
   <tr>
     <td>🟡 <strong>Salle Mini Boss</strong></td>
     <td>Variable (aléatoire)</td>
     <td>7 mobs normaux + 1 mini boss</td>
-    <td><mark style="color:yellow;"><strong>1 157 XP</strong></mark></td>
+    <td>
+      <p><mark style="color:yellow;"><strong>1 157 XP</strong></mark></p>
+      <p><mark style="color:green;"><strong>155 Sucres d'orge</strong></mark></p>
+    </td>
   </tr>
   <tr>
     <td>🔴 <strong>Salle Boss Final</strong></td>
     <td>1 salle (toujours)</td>
     <td>1 boss</td>
-    <td><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
+    <td>
+      <p><mark style="color:red;"><strong>2 450 XP</strong></mark></p>
+      <p><mark style="color:green;"><strong>150 Sucres d'orge</strong></mark></p>
+    </td>
   </tr>
 </table>
 
@@ -75,35 +95,24 @@ La répartition entre salles normales et mini boss est **totalement aléatoire**
   </tr>
   <tr style="background-color: #fff3e0;">
     <td>⬇️ <strong>MINIMUM</strong><br><small>(6 salles mini boss)</small></td>
-    <td>42 mobs<br><mark style="color:green;"><strong>1 092 XP</strong></mark></td>
-    <td>6 mini boss<br><mark style="color:yellow;"><strong>5 850 XP</strong></mark></td>
-    <td>1 boss<br><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
-    <td><mark style="color:orange;"><strong>9 392 XP</strong></mark></td>
+    <td>42 mobs<br><mark style="color:green;"><strong>1 092 XP<br>630 Sucres d'orge</strong></mark></td>
+    <td>6 mini boss<br><mark style="color:yellow;"><strong>5 850 XP<br>300 Sucres d'orge</strong></mark></td>
+    <td>1 boss<br><mark style="color:red;"><strong>2 450 XP<br>150 Sucres d'orge</strong></mark></td>
+    <td><mark style="color:orange;"><strong>9 392 XP<br>1 080 Sucres d'orge</strong></mark></td></strong></mark></td>
   </tr>
   <tr style="background-color: #f3e5f5;">
     <td>📊 <strong>MOYENNE</strong><br><small>(4 normales + 2 mini boss)</small></td>
-    <td>206 mobs<br><mark style="color:green;"><strong>5 356 XP</strong></mark></td>
-    <td>2 mini boss<br><mark style="color:yellow;"><strong>1 950 XP</strong></mark></td>
-    <td>1 boss<br><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
-    <td><mark style="color:purple;"><strong>~9 750 XP</strong></mark></td>
+    <td>206 mobs<br><mark style="color:green;"><strong>5 356 XP<br>3 090 Sucres d'orge</strong></mark></td>
+    <td>2 mini boss<br><mark style="color:yellow;"><strong>1 950 XP<br>100 Sucres d'orge</strong></mark></td>
+    <td>1 boss<br><mark style="color:red;"><strong>2 450 XP<br>150 Sucres d'orge</strong></mark></td>
+    <td><mark style="color:purple;"><strong>~9 750 XP<br>~3 340 Sucres d'orge</strong></mark></td></strong></mark></td>
   </tr>
   <tr style="background-color: #e8f5e9;">
     <td>⬆️ <strong>MAXIMUM</strong><br><small>(6 salles normales)</small></td>
-    <td>288 mobs<br><mark style="color:green;"><strong>7 488 XP</strong></mark></td>
-    <td>0 mini boss<br><mark style="color:yellow;"><strong>0 XP</strong></mark></td>
-    <td>1 boss<br><mark style="color:red;"><strong>2 450 XP</strong></mark></td>
-    <td><mark style="color:green;"><strong>9 938 XP</strong></mark></td>
-  </tr>
-</table>
-
-## 💠 <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>
-
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><mark style="color:green;"><strong>Aperçu du Donjon 📸</strong></mark></td>
-  </tr>
-  <tr>
-    <td><figure><img src="../../.gitbook/assets/Les_Donjons/Portail/Event/Caverne.png" alt=""></figure></td>
+    <td>288 mobs<br><mark style="color:green;"><strong>7 488 XP<br>4 320 Sucres d'orge</strong></mark></td>
+    <td>0 mini boss<br><mark style="color:yellow;"><strong>0 XP<br>0 Sucre d'orge</strong></mark></td>
+    <td>1 boss<br><mark style="color:red;"><strong>2 450 XP<br>150 Sucres d'orge</strong></mark></td>
+    <td><mark style="color:green;"><strong>9 938 XP<br>4 470 Sucres d'orge</strong></mark></td>
   </tr>
 </table>
 
