@@ -451,10 +451,10 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td><mark style="color:orange;">Lance Draconique</mark></td>
     <td><mark style="color:orange;">Draconique</mark></td>
     <td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +10</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique"><mark style="color:orange;">Caisse Draconique 🐉</mark></a></p>
