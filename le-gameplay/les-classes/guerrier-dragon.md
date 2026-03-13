@@ -146,70 +146,6 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;">Lance Eternelle</mark></td>
-    <td><mark style="color:green;">Commun</mark></td>  
-    <td>
-     <p><mark style="color:red;">🗡️️ Force +5</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:green;">Donjon Commun (Biome Nether)</mark></p>
-     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:yellow;">Lance Eternelle</mark></td>
-    <td><mark style="color:yellow;">Rare</mark></td>  
-    <td>
-     <p><mark style="color:red;">🗡️️ Force +11</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:blue;">Lance Eternelle</mark></td>
-    <td><mark style="color:blue;">Épique</mark></td>  
-    <td>
-     <p><mark style="color:red;">🗡️️ Force +18</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:purple;">Lance Eternelle</mark></td>
-    <td><mark style="color:purple;">Légendaire</mark></td>  
-    <td>
-     <p><mark style="color:red;">🗡️️ Force +35</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:red;">Lance Eternelle</mark></td>
-    <td><mark style="color:red;">Mythique</mark></td>  
-    <td>
-     <p><mark style="color:red;">🗡️️ Force +60</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
     <td><mark style="color:green;">Lance Glaciale</mark></td>
     <td><mark style="color:green;">Commun</mark></td>  
     <td>
@@ -271,6 +207,70 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>
      <p><mark style="color:red;">🗡️️ Force +60</mark></p>
      <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Lance Eternelle</mark></td>
+    <td><mark style="color:green;">Commun</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +5</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Lance Eternelle</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +11</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Lance Eternelle</mark></td>
+    <td><mark style="color:blue;">Épique</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +18</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Lance Eternelle</mark></td>
+    <td><mark style="color:purple;">Légendaire</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +35</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Lance Eternelle</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>  
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +60</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
