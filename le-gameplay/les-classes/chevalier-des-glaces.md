@@ -78,6 +78,8 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
 
 ## 💠 <mark style="color:yellow;">Armes</mark>
 
+### 🔸 <mark style="color:green;">**Packs d'Armes**</mark>
+
 <table>
 <tr>
     <th><strong>Nom de l'Armes 🏷️</strong></th>
@@ -147,7 +149,81 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
-  </tr>  
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Lance de frigg Shiny</mark></td>
+    <td><mark style="color:green;">Commun ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Lance de frigg Shiny</mark></td>
+    <td><mark style="color:yellow;">Rare ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Lance de frigg Shiny</mark></td>
+    <td><mark style="color:blue;">Épique ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Lance de frigg Shiny</mark></td>
+    <td><mark style="color:purple;">Légendaire ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Lance de frigg Shiny</mark></td>
+    <td><mark style="color:red;">Mythique ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️️ Force +80</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+</table>
+
+### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>
+
+<table>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
+  </tr>    
   <tr>
     <td><mark style="color:yellow;">Lance Glacée légendaire</mark></td>
     <td><mark style="color:yellow;">Jackpot</mark></td>
