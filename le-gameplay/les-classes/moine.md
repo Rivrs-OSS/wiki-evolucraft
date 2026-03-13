@@ -89,7 +89,10 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Nether</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Gant emflammé</mark></td>
@@ -99,7 +102,11 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Nether ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Gant emflammé</mark></td>
@@ -109,7 +116,10 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Nether ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Gant emflammé</mark></td>
@@ -119,7 +129,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Gant emflammé</mark></td>
@@ -129,7 +141,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Gant du massacreur</mark></td>
@@ -139,7 +153,10 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:blue;">🤺 Dextérité +3</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Messa</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Messa)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Messa)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Gant du massacreur</mark></td>
@@ -149,7 +166,11 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:blue;">🤺 Dextérité +6</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Messa ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Messa)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Messa)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Gant du massacreur</mark></td>
@@ -159,7 +180,10 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:blue;">🤺 Dextérité +9</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Messa ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Messa)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Gant du massacreur</mark></td>
@@ -169,7 +193,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:blue;">🤺 Dextérité +15</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Gant du massacreur</mark></td>
@@ -179,7 +205,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Gant gelé</mark></td>
@@ -190,8 +218,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>   
      <td>
-      <p>Donjon Biome Neige</p>
-      <p>Donjon Caverne</p>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Neige)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Neige)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Caverne</mark></p>
      </td>
   </tr>
   <tr>
@@ -203,10 +232,11 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     </td> 
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>  
      <td>
-      <p>Donjon Biome Neige</p>
-      <p>Donjon Caverne</p>
-      <p>Donjon Laboratoire</p>
-      <p>Forge</p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Neige)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Neige)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Caverne</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Laboratoire</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
      </td>
   </tr>
   <tr>
@@ -218,9 +248,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     </td> 
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>  
      <td>
-      <p>Donjon Biome Neige</p>
-      <p>Donjon Laboratoire</p>
-      <p>Forge</p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Neige)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Laboratoire</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
      </td>
   </tr>
   <tr>
@@ -231,7 +261,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:blue;">🛡️ Défense +15</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Gant gelé</mark></td>
@@ -241,7 +273,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:blue;">🛡️ Défense +26</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Gant de l'Art Absolu</mark></td>
@@ -251,7 +285,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Pack d'arme</td>
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Gant de l'Art Absolu</mark></td>
@@ -261,7 +297,10 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Pack d'arme ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Gant de l'Art Absolu</mark></td>
@@ -271,7 +310,10 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:orange;">❤️ Vie +56</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Pack d'arme ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Gant de l'Art Absolu</mark></td>
@@ -281,7 +323,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Gant de l'Art Absolu</mark></td>
@@ -291,7 +335,9 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Poing légendaire</mark></td>
@@ -333,7 +379,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
-    <td><mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssales</mark></td>
+    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssales</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
@@ -359,7 +405,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">givrée commun</mark> et <mark style="color:blue;">épique</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
@@ -372,7 +418,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:red;">❤️ Vie +91</mark></p>
     </td>
-    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">amour</mark> et <mark style="color:red;">cupidon</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">amour</mark> et <mark style="color:red;">cupidon</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin"><mark style="color:red;">Caisse Saint-Valentin 💕</mark></a></p>
@@ -385,7 +431,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:red;">❤️ Vie +109</mark></p>
     </td>
-    <td><mark style="color:yellow;">+5% de dégâts</mark> dans les donjons <mark style="color:yellow;">terriers du lapins</mark> et <mark style="color:yellow;">fabrique du chocolat</mark></td>
+    <td><mark style="color:yellow;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:yellow;">+5% de dégâts</mark> dans les donjons <mark style="color:yellow;">terriers du lapins</mark> et <mark style="color:yellow;">fabrique du chocolat</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
@@ -425,7 +471,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
      <p><mark style="color:red;">❤️ Vie +115</mark></p>
     </td>
-    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
