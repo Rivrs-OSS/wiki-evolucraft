@@ -75,6 +75,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
 
 ### 🔸 <mark style="color:green;">**Armes des Récompenses de Donjon**</mark>
 
+<table>
 <tr>
     <th><strong>Nom de l'Armes 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
