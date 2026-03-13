@@ -430,7 +430,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
   </tr>
   <tr>
     <td><mark style="color:yellow;">Gantelet légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
