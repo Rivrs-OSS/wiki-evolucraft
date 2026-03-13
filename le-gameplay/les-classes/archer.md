@@ -75,6 +75,8 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
 
 ## 💠 <mark style="color:green;">Armes</mark>
 
+### 🔸 <mark style="color:green;">**Armes Récompenses de Donjons**</mark>
+
 <table>
 <tr>
     <th><strong>Nom de l'Armes 🏷️</strong></th>
@@ -264,6 +266,18 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
   </tr>
+</table>
+
+### 🔸 <mark style="color:green;">**Packs d'Armes**</mark>
+
+<table>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
+  </tr>
   <tr>
     <td><mark style="color:green;">Arc des vents</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
@@ -325,6 +339,18 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
+  </tr>
+</table>
+
+### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>
+
+<table>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Arc légendaire</mark></td>
