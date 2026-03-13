@@ -234,8 +234,8 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
     <td>
-     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Forêt)</mark></p>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Forêt)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Marais)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Marais)</mark></p>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
   </tr>
@@ -248,7 +248,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
     <td>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Forêt)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Marais)</mark></p>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
   </tr>
