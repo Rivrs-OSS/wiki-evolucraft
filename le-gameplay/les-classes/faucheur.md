@@ -231,7 +231,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
   </tr>
   <tr>
     <td><mark style="color:yellow;">Faux légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
