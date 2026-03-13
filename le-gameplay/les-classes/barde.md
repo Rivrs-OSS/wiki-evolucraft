@@ -567,7 +567,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
     <td>
      <p><mark style="color:red;">🗡️ Force +51</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +13</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +5</mark></td></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +5</mark></p>
      <p><mark style="color:red;">❤️ Vie +50</mark></p>
     </td>
     <td><mark style="color:green;">Aura de Feu 🔥</mark> ▸ Enflamme la cible pendant 4 secondes</td>
