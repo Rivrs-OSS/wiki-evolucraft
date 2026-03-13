@@ -94,7 +94,9 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
-    <td>Pack d'arme</td>
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Lance de frigg</mark></td>
@@ -104,7 +106,10 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
-    <td>Pack d'arme ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Lance de frigg</mark></td>
@@ -114,7 +119,10 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
-    <td>Pack d'arme ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Lance de frigg</mark></td>
@@ -124,7 +132,9 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Lance de frigg</mark></td>
@@ -134,7 +144,9 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>  
   <tr>
     <td><mark style="color:yellow;">Lance Glacée légendaire</mark></td>
@@ -163,7 +175,7 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
      <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +16</mark></p>
     </td>
-    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">amour</mark> et <mark style="color:red;">cupidon</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">amour</mark> et <mark style="color:red;">cupidon</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin"><mark style="color:red;">Caisse Saint-Valentin 💕</mark></a></p>
@@ -176,7 +188,7 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
      <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
     </td>
-    <td><mark style="color:yellow;">+5% de dégâts</mark> dans les donjons <mark style="color:yellow;">terriers du lapins</mark> et <mark style="color:yellow;">fabrique du chocolat</mark></td>
+    <td><mark style="color:yellow;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:yellow;">+5% de dégâts</mark> dans les donjons <mark style="color:yellow;">terriers du lapins</mark> et <mark style="color:yellow;">fabrique du chocolat</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
@@ -216,7 +228,7 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
-    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
