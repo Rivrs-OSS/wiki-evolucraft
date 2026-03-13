@@ -392,7 +392,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">givrée commun</mark> et <mark style="color:blue;">épique</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
