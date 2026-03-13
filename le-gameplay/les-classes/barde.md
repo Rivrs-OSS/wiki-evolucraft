@@ -448,7 +448,7 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
   </tr>   
   <tr>
     <td><mark style="color:yellow;">Harpe légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
