@@ -479,6 +479,7 @@ Invoquez un phénix qui glisse à travers le sol, brûlant et infligeant des dé
      <p><mark style="color:orange;">💀 Dégât Critique +13</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +50</mark></p>
     </td>
+    <td><mark style="color:green;">Aura de Feu 🔥</mark> ▸ Enflamme la cible pendant 4 secondes</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#nouvel-an-lunaire"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire"><mark style="color:green;">Caisse Lunaire 🎑</mark></a></p>
