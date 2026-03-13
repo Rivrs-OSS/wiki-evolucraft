@@ -439,7 +439,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
   </tr>
   <tr>
     <td><mark style="color:yellow;">Lance légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
