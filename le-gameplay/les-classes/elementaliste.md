@@ -480,7 +480,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +14</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:orange;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:orange;">+5% de dégâts</mark> dans les donjons <mark style="color:orange;">halloween</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween"><mark style="color:orange;">Caisse Halloween 🎃</mark></a></p>
