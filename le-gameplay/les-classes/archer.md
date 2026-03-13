@@ -75,7 +75,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
 
 ## 💠 <mark style="color:green;">Armes</mark>
 
-### 🔸 <mark style="color:green;">**Armes Récompenses de Donjons**</mark>
+### 🔸 <mark style="color:green;">**Armes des Récompenses de Donjon**</mark>
 
 <table>
 <tr>
