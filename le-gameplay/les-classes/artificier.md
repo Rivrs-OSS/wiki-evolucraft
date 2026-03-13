@@ -83,15 +83,6 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <th><strong>Effets ✨</strong></th>
     <th><strong>Obtentions 📌</strong></th>
   </tr>
-
-<table>
-<tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
-    <th><strong>Rareté ou Collection 🌟</strong></th>
-    <th><strong>Statistiques 📊</strong></th>
-    <th><strong>Effets ✨</strong></th>
-    <th><strong>Obtentions 📌</strong></th>
-  </tr>
   <tr>
     <td><mark style="color:green;">Pistolet du blizzard</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
