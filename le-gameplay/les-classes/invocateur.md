@@ -83,68 +83,6 @@ Invoquez un phénix qui glisse à travers le sol, brûlant et infligeant des dé
     <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
-    <td><mark style="color:green;">Bâton Squelettique</mark></td>
-    <td><mark style="color:green;">Commun</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +5</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:green;">Donjon Commun (Biome Nether)</mark></p>
-     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
-    </td>  </tr>
-  <tr>
-    <td><mark style="color:yellow;">Bâton Squelettique</mark></td>
-    <td><mark style="color:yellow;">Rare</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +11</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>  </tr>
-  <tr>
-    <td><mark style="color:blue;">Bâton Squelettique</mark></td>
-    <td><mark style="color:blue;">Épique</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +18</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:purple;">Bâton Squelettique</mark></td>
-    <td><mark style="color:purple;">Légendaire</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +35</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +15</mark></td></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:red;">Bâton Squelettique</mark></td>
-    <td><mark style="color:red;">Mythique</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
     <td><mark style="color:green;">Livre Ancien Momifié</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
@@ -265,6 +203,68 @@ Invoquez un phénix qui glisse à travers le sol, brûlant et infligeant des dé
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +210</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Bâton Squelettique</mark></td>
+    <td><mark style="color:green;">Commun</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +5</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+    </td>  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Bâton Squelettique</mark></td>
+    <td><mark style="color:yellow;">Rare</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +11</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>  </tr>
+  <tr>
+    <td><mark style="color:blue;">Bâton Squelettique</mark></td>
+    <td><mark style="color:blue;">Épique</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +18</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Bâton Squelettique</mark></td>
+    <td><mark style="color:purple;">Légendaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +35</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +15</mark></td></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Bâton Squelettique</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
