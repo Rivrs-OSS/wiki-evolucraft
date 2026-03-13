@@ -438,7 +438,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
   </tr>
   <tr>
     <td><mark style="color:yellow;">Totem légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
