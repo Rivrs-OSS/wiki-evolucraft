@@ -36,6 +36,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
 * Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
 * Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon (hors portails où vous n'avez pas le level/que vous ne voulez pas réaliser),...) ne doit apparaître **qu’une seule fois** dans le menu des pubs et doit obligatoirement être réalisée via la commande **`/pub`**. Vous ne pourrez la republier **qu’après expiration de l’ancienne**. Dans le cas contraire, elle sera **supprimée par un membre compétent du staff**.
+* Dévoiler un staff vanish dans le chat est interdit.
 
 {% hint style="info" %}
 Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
@@ -48,7 +49,7 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
   * Racisme, misogynie, homophobie, transphobie, politique.
   * Troll, obscénité.
   * Les majuscules abusives (BONJOUR EVOLUCRAFT)
-  * Spam (envoi répété de la même phrase, du même mot), Flood (succession de la même lettre ou du même caractère. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii)
+  * Spam (envoi répété de la même phrase, du même mot), Flood (succession de la même lettre ou du même caractère qui sont inutiles. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii)
   * La mendicité (demander des items, de l'argent, etc.).
 * **Où qu'ils soient les messages sont sanctionnables :**
   * Chat public.
@@ -69,16 +70,14 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
 * Tout contournement d'achat unique sur la boutique est interdit (ex: donner 500 gemmes à son ami pour qu'il achète un item unique en boutique et le récupérer).
 * Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
 * Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagnée ou les récompenses liées à leur mort.
-* Le serveur ne prend pas en charge les contrats ou accords entre joueurs : ceux-ci se font à vos risques et périls. ⇒ Si un item a commencé à être payé, le montant total de ce dernier doit être honoré.
+* Les contrats ou accords entre joueurs sont à vos risques et périls. Cependant, si un item a commencé à être payé alors le marché devra être respecté et être totalement honoré.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
-### **Action dans une ville :**
+#### **Action dans une ville :**
 
 En cas de départ volontaire d’une ville, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs.
 
 Si un joueur est banni de sa ville par le maire, ce dernier a l’obligation de lui restituer ses effets personnels immédiatement.
-
-Toute copie de farms/constructions présentes dans la ville est strictement interdite sans l’accord explicite du maire de celle-ci et ce même si vous prévoyez de quitter la ville.
 
 {% hint style="info" %}
 Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif sera sanctionné et la victime remboursée.
@@ -86,26 +85,30 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 
 ### <mark style="color:green;">Article B : Les actions interdites</mark>
 
+{% hint style="warning" %}
+Cette liste n'est pas exhaustive.
+{% endhint %}
+
 * Grief/Détruire volontairement dans une ville est interdit que vous soyez membre de la ville ou simple visiteur (ne pas replanter des champs publics, envoyer des oeufs de poulets dans la ville,...). Cependant il est conseillé d'y avoir une zone remarquable de votre ville où votre règlement y est indiquer.
+* Toute copie de farms/constructions présentes dans la ville est strictement interdite sans l’accord explicite du maire de celle-ci et ce même si vous prévoyez de quitter la ville.
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * Il est interdit de voler des farms aux autres joueurs sans leur accord.
 * La vente d’items en jeu contre de l’argent réel est interdite.
 * Il est interdit d'utiliser une machine à pêche.
-* La vente de cosmétiques (issus d'un use bug), d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de têtes de minerais, de têtes du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
 * La création de casino est interdite.
-* Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus.
-* De même, plusieurs joueurs de la même team/ville ne peuvent pas apparaître/participer deux fois dans le classement ville avec plusieurs villes différentes.
-
-{% hint style="warning" %}
-Cette liste n'est pas exhaustive.
-{% endhint %}
-
+* Un joueur dans plusieurs ville ne peut pas participer à comptabiliser des étoiles dans le classement ville avec plus d'une ville.
+* Certains items sont interdit à la vente si il remplissent au moins une de ces conditions, même issue dans des shulkers vendues :
+   * Vente de cosmétiques (issue d'un use bug)
+   * Items renommés dans dans le but de tromper ou de faire de la pub
+   * Fausses clés
+   * Tête ressemblant à des block vanilla, de tête de staff
+   * Items exclusifs désanchantés
+   * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme ou Parchemins expirées aux moments de la vente, ect...)
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
-* Monter de manière abusive vos items évolutifs est interdit. Exemple : Ferme à neige pour la pelle évolutive.
 
 {% hint style="warning" %}
-Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
+Si vous avez un doute sur l'utilisation de votre farm ou d'un item, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
 {% endhint %}
 
 * **Concernant les mondes constructions et les villes :**
@@ -118,19 +121,23 @@ Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket
 Si ces règles ne sont pas respectées, nous vous contacterons et nous vous laisserons un délai pour que vous puissiez modifier ou retirer votre structure. Une fois ce délai expiré, la structure sera détruite.
 {% endhint %}
 
-### <mark style="color:green;">Article C : Utilisation de la Redstone</mark>
+### <mark style="color:green;">Article C : Les Farms et machine à redstone</mark>
 
+* Certaines machines sont complètement interdites, comme les machines à pêche ou d'autres machines vous permettant de monter votre métier automatiquement.
 * Les machines volantes sont interdites.
 * Les machines ne doivent pas comporter de véhicule (Minecart ou bateau par exemple).
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
+* Monter la pelle évolutive avec la ferme à neige est interdite.
 
 {% hint style="warning" %}
 Si votre système ne respecte pas les règles du serveur, celui-ci sera supprimé sans aucun remboursement possible.
 {% endhint %}
 
-### <mark style="color:green;">Article D : Les mods autorisés</mark>
+### <mark style="color:green;">Article D : Les mods et pack de textures</mark>
+
+#### <mark style="color:green;">Sont autorisés</mark> :
 
 * **Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :**
   * Optifine, Minimap
@@ -139,72 +146,75 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
     * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
   * Schematica / Litematica (Sans activer l'option printer ou easyplace).
   * Toggle Sneak / Sprint.
+  * Pack de texture avec le contour des minerais
 
-### <mark style="color:green;">Article E : Les mods interdits</mark>
+#### <mark style="color:red;">Sont interdits</mark> :
 
 * **Tous les mods donnant un avantage sur les autres joueurs :**
-  * X-Ray / FreeCam
+  * X-Ray / FreeCam / Pack Anti-Brouillard Lave/Eau
   * Schematica Printer & Easy Place & copy/paste
     * Ainsi que tout mod qui permet de poser ou planter plus rapidement
   * FlyMod
   * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
   * AutoTools
+  * Tout mods qui permettent de voir un staff en vanish
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket afin que celui-ci soit approuvé par l'équipe Staff.
 {% endhint %}
 
-### <mark style="color:green;">Article F : Les doubles comptes</mark>
+### <mark style="color:green;">Article E : Les doubles comptes</mark>
 
 * Les doubles-comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, incluant le classement farmium et le classement de votes.
 * Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, pass…).
-* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK spawner.
+* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK pour faire charger des spawners.
 * Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 
 {% hint style="warning" %}
 Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Evolucraft en ticket.
 {% endhint %}
 
-### <mark style="color:green;">Article G : L'AFK & Inactivité</mark>
+### <mark style="color:green;">Article F : L'AFK & Inactivité</mark>
 
-* L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.
-* Il est interdit de contourner l'anti-AFK de quelconque manière (macro, mods, etc.), sous peine de sanctions.
+* L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon <mark style="color:white;">[votre grade](https://wiki.evolucraft.fr/le-gameplay/les-grades#quels-sont-les-atouts-de-chaque-grade)</mark> **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté à la zone du /afk au spawn.
+* Il est interdit d’automatiser des actions afin de contourner l’anti-AFK automatique du serveur : (macros, mods, etc.), sous peine de sanctions.
 * L'AFK de manière indéfinie est autorisé uniquement dans le /afk
 
 {% hint style="warning" %}
 Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.
 {% endhint %}
 
-* **Disband et transfert de lead de ville :**
+#### * <mark style="color:green;">Disband et transfert de lead de ville :</mark>
   * Lorsque vous prévoyez une absence prolongée de plus d’un mois, merci de nous en informer en plaçant une pancarte au spawn de votre ville et en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
   * Au bout d’un mois d’inactivité de tous les joueurs d’une ville et/ou sous certaines conditions, nous nous réservons le droit d’unclaim la ville. Un joueur proche de cette ville peut également demander l’unclaim en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
   * Vous pouvez désormais récupérer le lead d’une ville sous les conditions suivantes :
     * **Le maire est totalement inactif depuis 60 jours**.
     * **Le maire ne répond pas sur Discord et/ou est totalement injoignable**.
     * **Seul un membre de la ville peut faire la demande pour récupérer la ville**.
+    * **Ne pas être encore maire d'une autre ville**.
 
-* **Coffre Private :**
+#### * <mark style="color:green;">Les Coffres Privatisés :</mark>
   * Lorsque vous trouvez un coffre privatisé par un joueur, vous ne pouvez pas en récupérer le contenu, peu importe son inactivité.
   * Lorsque vous souhaitez supprimer un coffre privatisé qui n'est pas le votre, nous vous invitons à [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532) en indiquant les coordonnées de ce dernier.
   * Il est interdit d’usebug afin de récupérer son contenu sans avoir été invité dans le coffre.
 
-### <mark style="color:green;">Article H : Triche et usebugs</mark>
+### <mark style="color:green;">Article G : Triche et usebugs</mark>
 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
 * Le poser-casser afin d'XP les jobs, farmium ou pour tout autre usage est interdit, sauf pour réaliser les parchemins.
-  * Par exemple : il est autorisé de poser des minerais de diamant et de les récupérer avec fortune (sans utiliser cela pour le pass).
-  * A contrario, il est interdit de poser une buche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
+  * Par exemple : il est interdit de poser une buche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
+  * A contrario : il est autorisé de poser des minerais et de les récupérer avec fortune (sans utiliser cela pour le pass et pour les jobs). 
 
-### <mark style="color:green;">Article I : Les donjons</mark>
+### <mark style="color:green;">Article H : Les donjons</mark>
 
 * Toute tentative de usebug, sortie de map ou autres lors des donjons est interdite.
-* Il est interdit de rester AFK dans les donjons.
+* Il est interdit de rester AFK dans les donjons dans le seul but de récupérer les récompenses sans participer à tuer des mobs.
 * Quitter un donjon volontairement, sans raison valable, est sanctionnable.
 
-### <mark style="color:green;">Article J : Les remboursements</mark>
+### <mark style="color:green;">Article I : Les remboursements</mark>
 
 * Les demandes de remboursement se font par tickets sur le serveur Discord.
 * Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire, cela est aussi valable pour les clés de vote ainsi que pour vos achats.
@@ -217,7 +227,7 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 Nous vous conseillons fortement d’appuyer vos demandes de remboursement par une preuve vidéo, des screens ou autres pour garantir de meilleurs délais.
 {% endhint %}
 
-### <mark style="color:green;">Article K : Les versions</mark>
+### <mark style="color:green;">Article J : Les versions</mark>
 
 Nous sommes actuellement sur la version 4 d'Évolucraft, mais il est possible que le serveur évolue et doive effectuer un changement de version, dans notre cas, vers une V5.
 
@@ -225,7 +235,7 @@ Cela fera l’objet d’une annonce quelques semaines à l’avance afin de pré
 
 Lors de l’ouverture d’une nouvelle version, tous les joueurs, sans exception, repartent de zéro. Cela signifie que tous les rangs, les grades (à l’exception des grades Éternel, Éternel + et des grades de créateur de contenu), les villes, l’argent virtuel, ainsi que les ressources et items que vous avez farmés ou obtenus durant la version précédente sont supprimés.
 
-### <mark style="color:green;">Article L : La boutique</mark>
+### <mark style="color:green;">Article K : La boutique</mark>
 
 * Tous les achats effectués sur la boutique sont considérés comme définitifs et ne peuvent donner lieu à aucun remboursement, sauf exception prévue expressément dans nos Conditions Générales de Vente (CGV)
 * Conformément à l’article L221-28 du Code de la Consommation, vous reconnaissez et acceptez de renoncer à votre droit de rétractation dès la validation de votre commande, la prestation de service étant exécutée immédiatement.

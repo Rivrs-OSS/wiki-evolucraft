@@ -75,6 +75,8 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
 
 ## 💠 <mark style="color:yellow;">Armes</mark>
 
+### 🔸 <mark style="color:green;">**Armes des Récompenses de Donjon**</mark>
+
 <table>
 <tr>
     <th><strong>Nom de l'Armes 🏷️</strong></th>
@@ -91,7 +93,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🤺 Dextérité +3</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Forêt</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Forêt)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Forêt)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Brise feuille</mark></td>
@@ -101,7 +106,11 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🤺 Dextérité +6</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Forêt ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Forêt)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Forêt)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Brise feuille</mark></td>
@@ -111,7 +120,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🤺 Dextérité +9</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Forêt ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Forêt)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Brise feuille</mark></td>
@@ -121,7 +133,9 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🤺 Dextérité +15</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Brise feuille</mark></td>
@@ -131,7 +145,9 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Ecraseur de tête</mark></td>
@@ -141,7 +157,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Savane</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Savane)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Savane)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Ecraseur de tête</mark></td>
@@ -151,7 +170,11 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🥊 Chance de Critique +1</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Savane ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Savane)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Savane)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Ecraseur de tête</mark></td>
@@ -161,7 +184,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🥊 Chance de Critique +2</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Savane ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Savane)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Ecraseur de tête</mark></td>
@@ -171,7 +197,9 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🥊 Chance de Critique +3</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Ecraseur de tête</mark></td>
@@ -181,7 +209,9 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Marteau sismique</mark></td>
@@ -191,7 +221,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:orange;">💀 Dégât Critique +3</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Messa</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Messa)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Messa)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Marteau sismique</mark></td>
@@ -201,7 +234,11 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:orange;">💀 Dégât Critique +6</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Messa ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Messa)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Messa)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Marteau sismique</mark></td>
@@ -211,7 +248,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Messa ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Messa)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Marteau sismique</mark></td>
@@ -221,7 +261,9 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:orange;">💀 Dégât Critique +15</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Marteau sismique</mark></td>
@@ -231,7 +273,9 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Bouclier du chaos</mark></td>
@@ -241,7 +285,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🛡️ Défense +3</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Nether</td>
+    <td>
+     <p>▸ <mark style="color:green;">Donjon Commun (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Bouclier du chaos</mark></td>
@@ -251,7 +298,11 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🛡️ Défense +6</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Nether ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Nether)</mark></p>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Bouclier du chaos</mark></td>
@@ -262,7 +313,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Donjon Biome Nether ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Donjon Épique (Biome Nether)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Bouclier du chaos</mark></td>
@@ -272,7 +326,9 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🛡️ Défense +15</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Bouclier du chaos</mark></td>
@@ -282,7 +338,21 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:blue;">🛡️ Défense +26</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+</table>
+
+### 🔸 <mark style="color:green;">**Packs d'Armes**</mark>
+
+<table>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
     <td><mark style="color:green;">Marteau de la lumière</mark></td>
@@ -292,7 +362,9 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">❤️ Vie +14</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Pack d'arme</td>
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Marteau de la lumière</mark></td>
@@ -302,7 +374,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">❤️ Vie +35</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Pack d'arme ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Marteau de la lumière</mark></td>
@@ -312,7 +387,10 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">❤️ Vie +56</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Pack d'arme ou Forge</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Marteau de la lumière</mark></td>
@@ -322,7 +400,9 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">❤️ Vie +100</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Marteau de la lumière</mark></td>
@@ -332,7 +412,83 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">❤️ Vie +180</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>Forge</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Marteau de la lumière Shiny</mark></td>
+    <td><mark style="color:green;">Commun ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
+     <p><mark style="color:red;">❤️ Vie +14</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Marteau de la lumière Shiny</mark></td>
+    <td><mark style="color:yellow;">Rare ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
+     <p><mark style="color:red;">❤️ Vie +35</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Marteau de la lumière Shiny</mark></td>
+    <td><mark style="color:blue;">Épique ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
+     <p><mark style="color:red;">❤️ Vie +56</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Marteau de la lumière Shiny</mark></td>
+    <td><mark style="color:purple;">Légendaire ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:red;">❤️ Vie +100</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Marteau de la lumière Shiny</mark></td>
+    <td><mark style="color:red;">Mythique ✨</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
+     <p><mark style="color:red;">❤️ Vie +180</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+</table>
+
+### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>
+
+<table>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
       <tr>
@@ -347,7 +503,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
   </tr>
   <tr>
     <td><mark style="color:yellow;">Marteau légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:red;">❤️ Vie +140</mark></p>
@@ -375,7 +531,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
-    <td><mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssales</mark></td>
+    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssales</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
@@ -388,7 +544,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:orange;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:orange;">+5% de dégâts</mark> dans les donjons <mark style="color:orange;">halloween</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween"><mark style="color:orange;">Caisse Halloween 🎃</mark></a></p>
@@ -401,7 +557,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +31</mark></p>
      <p><mark style="color:red;">❤️ Vie +73</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">givrée commun</mark> et <mark style="color:blue;">épique</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
@@ -414,7 +570,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +36</mark></p>
      <p><mark style="color:red;">❤️ Vie +91</mark></p>
     </td>
-    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">amour</mark> et <mark style="color:red;">cupidon</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">amour</mark> et <mark style="color:red;">cupidon</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin"><mark style="color:red;">Caisse Saint-Valentin 💕</mark></a></p>
@@ -427,7 +583,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:red;">❤️ Vie +109</mark></p>
     </td>
-    <td><mark style="color:yellow;">+5% de dégâts</mark> dans les donjons <mark style="color:yellow;">terriers du lapins</mark> et <mark style="color:yellow;">fabrique du chocolat</mark></td>
+    <td><mark style="color:yellow;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:yellow;">+5% de dégâts</mark> dans les donjons <mark style="color:yellow;">terriers du lapins</mark> et <mark style="color:yellow;">fabrique du chocolat</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
@@ -467,7 +623,7 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
      <p><mark style="color:red;">❤️ Vie +115</mark></p>
     </td>
-    <td><mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
