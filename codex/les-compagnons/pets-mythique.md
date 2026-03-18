@@ -129,7 +129,7 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
       <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+20%</strong></mark> sur la vente d'<mark style="color:red;"><strong>or</strong></mark> au /shop</p>
     </td>
     <td>
-      <p> * Œuf de famillier (Caisse Saint-Patrick​🍀​)</p>
+      <p> * lucky block gold (Evènement Saint-Patrick​🍀​)</p>
     </td>
   </tr>
 </table>
