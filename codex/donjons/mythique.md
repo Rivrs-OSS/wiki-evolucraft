@@ -21,13 +21,62 @@ description: Retrouvez ici les informations concernant le donjon Mythique
   </tr>
 </table>
 
-## 💠 <mark style="color:green;"> XP de classe récoltée ⚔️</mark>
+## 💠 <mark style="color:blue;"> Statistiques détaillées 📊</mark>
 
-Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
+### 📊 Valeurs unitaires
 
-* <mark style="color:green;"><strong>Mob normal 🧟‍♂️</strong></mark> : **100 XP**  
-* <mark style="color:yellow;"><strong>Mini-Boss 👽</strong></mark> : **10 000 XP**  
-* <mark style="color:red;"><strong>Boss 🐉</strong></mark> : **20 000 XP**
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type d’ennemi</strong></th>
+    <th><strong>XP par ennemi</strong></th>
+  </tr>
+  <tr>
+    <td>🧟‍♂️ <strong>Mob Normal</strong></td>
+    <td><mark style="color:green;"><strong>100 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>👽 <strong>Mini Boss</strong></td>
+    <td><mark style="color:yellow;"><strong>10 000 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🐉 <strong>Boss Final</strong></td>
+    <td><mark style="color:red;"><strong>20 000 XP</strong></mark></td>
+  </tr>
+</table>
+
+### 📋 Structure du donjon
+
+Le donjon est composé de **2 salles** (mobs + mini boss) suivies de **1 salle boss finale**. La structure est **fixe**.
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type de salle</strong></th>
+    <th><strong>Nombre</strong></th>
+    <th><strong>Composition</strong></th>
+    <th><strong>XP par salle</strong></th>
+  </tr>
+  <tr>
+    <td>🟡 <strong>Salle Mobs + Mini Boss</strong></td>
+    <td>2 salles (fixe)</td>
+    <td>120 mobs + 1 mini boss</td>
+    <td><mark style="color:yellow;"><strong>22 000 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🔴 <strong>Salle Boss Final</strong></td>
+    <td>1 salle (toujours)</td>
+    <td>1 boss</td>
+    <td><mark style="color:red;"><strong>20 000 XP</strong></mark></td>
+  </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e8f5e9;">
+    <th><strong>XP Total du donjon</strong></th>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>64 000 XP</strong></mark><br><small>2 × 22 000 + 20 000</small></td>
+  </tr>
+</table>
 
 ## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
