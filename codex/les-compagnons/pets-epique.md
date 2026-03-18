@@ -303,6 +303,18 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
    <td>* Œuf de famillier (Caisse Lune de Sang 🩸)</td>
   </tr>
   <tr>
+   <td><mark style="color:blue;"><strong>Cheval de Feu</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Cheval de Feu.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +5</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>Résistance au feu</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Terrestre)</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong> Saut Amélioré 🦘</strong></mark> (Permanent) </p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
+   </td>
+   <td>* Œuf de famillier (Caisse Lunaire 🎑)</td>
+  </tr>
+  <tr>
    <td><mark style="color:blue;"><strong>Arhi</strong></mark></td>
    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Arhi.png" alt=""></figure></td>
    <td>

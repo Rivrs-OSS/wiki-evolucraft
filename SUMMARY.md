@@ -8,19 +8,24 @@
 * [‼️ Règlement Discord](informations-importantes/reglement-discord.md)
 * [🤲 Contribuer](informations-importantes/CONTRIBUTING.Md)
 
-## 💡 TUTO ET ASTUCE
+## ⁉️ FOIRE AUX QUESTIONS
 
-* [🎫 Rejoindre le serveur](tuto-et-astuce/rejoindre-serveur-1_21_8.md)
-* [📚 Rappel du Tutoriel](tuto-et-astuce/rappel-tutoriel.md)
-* [🖼️ Problème de pack de ressource](tuto-et-astuce/pb-pack.md)
-* [♒ Problème de barre de boss](tuto-et-astuce/pb-bossbar.md)
-* [🏙️ Être dans une ville](tuto-et-astuce/creer-une-ville.md)
-* [💸 Gagner de l'argent](tuto-et-astuce/gagner-argent.md)
-* [💎 Gagner des gemmes](tuto-et-astuce/gagner-gemmes.md)
-* [📩 Voter](tuto-et-astuce/voter.md)
-* [🧙‍♀️ Avoir une classe](tuto-et-astuce/avoir-une-classe.md)
-* [📣 Créer une pub](tuto-et-astuce/creation-pub.md)
-* [🧍‍♂️ Le guide de l'ASE](tuto-et-astuce/le-ase.md)
+* [🎫 Rejoindre le serveur](faq/rejoindre-serveur.md)
+* [📚 Tutoriel du serveur](faq/rappel-tutoriel.md)
+* [📂 Problème de pack de ressource](faq/pb-pack.md)
+* [🖼️ Problème d'interface](faq/interface.md)
+* [📩 Voter](faq/voter.md)
+* [🏙️ Être dans une ville](faq/creer-une-ville.md)
+* [🧙‍♀️ Avoir une classe](faq/avoir-une-classe.md)
+* [👛 Les monnaie](faq/monnaie/README.md)
+  * [💸 Gagner de la money](faq/monnaie/gagner-coins.md)
+  * [💎 Gagner des gemmes](faq/monnaie/gagner-gemmes.md)
+  * [🪙 Gagner des jetons](faq/monnaie/gagner-jetons.md)
+  * [🍭 Gagner des sucre d'orges](faq/monnaie/gagner-sucre-dorge.md)
+* [📣 Créer une pub](faq/creation-pub.md)
+* [🏛️ Trouver un donjon](faq/trouver-un-donjon.md)  
+* [⭐ Les fragment d'étoiles](faq/fragment-etoile.md)
+* [🧍‍♂️ Le guide de l'ASE](faq/le-ase.md)
 
 ## 🎮 LE GAMEPLAY
 

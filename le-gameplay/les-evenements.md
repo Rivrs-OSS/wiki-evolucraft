@@ -6,19 +6,15 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 **Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement. Voici donc la liste des événements présents actuellement sur le serveur.**
 
-***
-
 ## 🐉 Événement Temporaire
 
 ### <mark style="color:green;">💠 Nouvel An Lunaire 🐉</mark>
 
 Un tout nouvel événement festif est arrivé sur le serveur ! Parlez au <mark style="color:green;">**nouveau PNJ au Spawn**</mark> pour accéder au <mark style="color:green;">**Monde Lunaire**</mark>, un monde spécial où vous devrez affronter des monstres pour collecter des <mark style="color:green;">**Fragments de Jade 🟢**</mark>. Ces jades vous permettront d'acheter des objets exclusifs dans la <mark style="color:green;">**boutique de l'événement**</mark> !
 
-***
-
 #### 🌊 Vagues Lunaires
 
-**⏰ Tous les jours à 9h, 12h, 15h, 18h, 21h et 00h**
+**⏰ Tous les jours à <mark style="color:green;">9h</mark>, <mark style="color:green;">12h</mark>, <mark style="color:green;">15h</mark>, <mark style="color:green;">18h</mark>, <mark style="color:green;">21h</mark> et <mark style="color:green;">00h</mark>** _(3H, 6H, 9H, 12H AM ainsi que 3H, 6H PM GMT-4🍁)_
 
 Les <mark style="color:green;">**Vagues Lunaires**</mark> sont des événements de combat intense composés de <mark style="color:green;">**5 vagues de monstres**</mark> suivies d'un <mark style="color:green;">**Boss final**</mark>. Éliminez un maximum d'ennemis pour accumuler des <mark style="color:green;">**Fragments de Jade**</mark> et tenter de décrocher une place sur le <mark style="color:green;">**podium**</mark> !
 
@@ -47,6 +43,8 @@ Le Boss a une chance de dropper un **Pet** exclusif !
 {% hint style="success" %}
 Récupérez vos récompenses du Top 3 Global avec la commande **`/atlaslunarfestival claim`**
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/Evenement/MondeLunaire.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Lunaire</mark></strong></figcaption></figure>
 
 {% hint style="warning" %}
 Cet événement est **temporaire** et sera retiré à la fin de la période du Nouvel An Lunaire.
