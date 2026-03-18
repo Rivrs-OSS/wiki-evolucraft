@@ -16,7 +16,7 @@ Pour découvrir <mark style="color:green;">comment rejoindre un métier</mark>, 
 
 À chaque <mark style="color:green;">niveau de métier</mark> complété, vous pouvez récupérer des <mark style="color:green;">récompenses de palier de métiers</mark> telles que des <mark style="color:green;">gemmes</mark> dans certains paliers, en utilisant la commande <mark style="color:green;">`/jobs claim`</mark>. Celle-ci vous permettra d’obtenir toutes les <mark style="color:green;">récompenses de paliers des métiers</mark> atteints qui n’avaient pas encore été récupérées.
 
-<figure><img src="../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>paliers de métiers</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Jobs/Palier.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>paliers de métiers</strong></mark></p></figcaption></figure>
 
 {% hint style="tip" %}
 Si vous avez besoin de <mark style="color:green;">plus d'infos sur les métiers</mark>, nous vous invitons à <mark style="color:green;">lire également la page dédiée</mark> : [<mark style="color:green;">les métiers 👷‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers).
@@ -36,7 +36,7 @@ Vous votez souvent sur le serveur ? Alors profitez des <mark style="color:green;
 
 Si vous souhaitez <mark style="color:green;">faciliter votre obtention de gemmes</mark>, sachez qu’il est possible d’en <mark style="color:green;">récupérer chaque semaine</mark> : en votant <mark style="color:green;">40 fois</mark> durant la semaine, vous recevrez une récompense de <mark style="color:green;">150 gemmes 💎</mark> !  
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Vote/PalierVote.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de votes</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Vote/PalierVote.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>palliers de votes</strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">Le Battle Pass 🔱</mark>
 
@@ -50,7 +50,7 @@ Pour découvrir <mark style="color:green;">comment gagner du Farmium</mark>, nou
 
 Lorsque vous <mark style="color:green;">débloquez des paliers</mark>, vous pouvez parfois obtenir des <mark style="color:green;">gemmes 💎</mark>, un excellent moyen d’en récupérer en quantité chaque mois, encore plus si vous possédez le [<mark style="color:green;">Premium</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium) 👑 !
 
-<figure><img src="../.gitbook/assets/Pass/RéclamationPalier.png" alt=""><figcaption><p><strong>Aperçu de l'onglet </strong><mark style="color:green;"><strong><code>Récompenses du /pass</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pass/RéclamationPalier.png" alt=""><figcaption><p><strong>Aperçu de l'onglet </strong><mark style="color:green;"><strong><code>Récompenses du /pass</code></strong></mark></p></figcaption></figure>
 
 ### 🔹 Classement Farmium 🏆
 
@@ -61,7 +61,7 @@ Les meilleurs d’entre eux remportent de <mark style="color:green;">belles réc
 Pour plus d’informations sur le <mark style="color:green;">Classement Farmium</mark>, nous vous invitons à lire cette page : [Classement Farmium 🏆](https://wiki.evolucraft.fr/le-gameplay/pass#comment-gagner-du-farmium).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Pass/ClassementPerso.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>classement personnel</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pass/ClassementPerso.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>classement personnel</code></strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">La Boutique 💳</mark>
 
@@ -77,7 +77,7 @@ Pour encore plus d’avantages, n’hésitez pas à suivre le salon [<mark style
 
 Chaque <mark style="color:green;">parchemin</mark> de <mark style="color:green;">de difficultés différentes</mark> propose des <mark style="color:green;">défis différents</mark> et <mark style="color:green;">des récompenses</mark> à la hauteur de vos exploits comme <mark style="color:green;">des gemmes 💎</mark> , visibles dans le <mark style="color:green;">`/quete`</mark>, puis en cliquant sur <mark style="color:green;">parchemins</mark> et en passant votre curseur sur la quête que vous avez.
 
-<figure><img src="../.gitbook/assets/Quete/QueteReward.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>parchemins disponibles</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quete/QueteReward.png" alt=""><figcaption><p><strong>Aperçu des </strong><mark style="color:green;"><strong>parchemins disponibles</strong></mark></p></figcaption></figure>
 
 {% hint style="info" %}
 Pour connaîtres les  <mark style="color:green;">différents parchemins</mark> présents sur le serveur, nous vous invitons à lire cette page : [Les Parchemins 📜](https://wiki.evolucraft.fr/le-gameplay/les-quetes#parchemin-daventure).
@@ -87,7 +87,7 @@ Pour connaîtres les  <mark style="color:green;">différents parchemins</mark> p
 
 Le <mark style="color:green;">`/afk`</mark> est un espace où, si vous restez inactif pendant 15 minutes _(pour les joueurs sans grade)_, vous êtes téléporté, et un affichage vous indique ce que vous avez gagné en étant à l'intérieur. Pour y <mark style="color:green;">gagner une gemme</mark>, il faudra y <mark style="color:green;">rester afk</mark> pendant <mark style="color:green;">30 minutes</mark>.
 
-<figure><img src="../.gitbook/assets/Menu/Interface_Afk.png" alt=""><figcaption><p><strong>Aperçu de l’interface du </strong><mark style="color:green;"><strong>/afk</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Menu/Interface_Afk.png" alt=""><figcaption><p><strong>Aperçu de l’interface du </strong><mark style="color:green;"><strong>/afk</strong></mark></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">Les Évènements 🎪</mark>
 
@@ -98,8 +98,6 @@ Ces évènements sont une excellente occasion de <mark style="color:green;">gagn
 Pour plus d’informations sur les <mark style="color:green;">Évènements</mark>, nous vous invitons à lire cette page : [Évènements 🎪](https://wiki.evolucraft.fr/le-gameplay/les-evenements#des-evenements-de-lequipe-danimation).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
-
----
+<figure><img src="../../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><strong>Aperçu du <mark style="color:green;">Monde Évent</mark></strong></figcaption></figure>
 
 **Vous avez toutes les infos pour savoir comment gagner des gemmes facilement 🤑 ! À vous de trouver la meilleure technique ou d’en découvrir une nouvelle 😏**

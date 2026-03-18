@@ -360,7 +360,7 @@ Les <mark style="color:green;">pièces d'armures de Pain d'épice</mark> s'obtie
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures de Jade</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Lunaire</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures de Jade</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Lunaire</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire) ou à <mark style="color:green;">l'achat dans la boutique temporaire du `/nouvelan`</mark> ainsi qu'au [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
