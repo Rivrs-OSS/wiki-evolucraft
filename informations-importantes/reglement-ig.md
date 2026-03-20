@@ -35,11 +35,18 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
 * Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
-* Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon (hors portails où vous n'avez pas le level/que vous ne voulez pas réaliser),...) ne doit apparaître **qu’une seule fois** dans le menu des pubs et doit obligatoirement être réalisée via la commande **`/pub`**. Vous ne pourrez la republier **qu’après expiration de l’ancienne**. Dans le cas contraire, elle sera **supprimée par un membre compétent du staff**.
 * Dévoiler un staff vanish dans le chat est interdit.
+* Vos messages de publicités pour les raisons ci-dessous doivent être réalisé par le **`/pub`**. Elle doit apparaitre qu'une seule fois dans le /pub :
+  * Les annonces de vente d'items -> Catégorie Vente
+  * Les annonces de rachats d'items -> Catégorie Achat
+  * Les publicités de pwarps -> Catégorie Pwarp
+  * Les recrutements dans les villes -> Catégorie Recrutement
+  * Les recherches de services / annonce de service proposées -> Catégorie Service
+  * Les annonces d'évènements -> Catégorie Évènement
+  * Les téléportation de donjons -> Catégorie Donjon (Nous tolérons les messages de publicité de téléportations de donjons auxuquelles ces deux conditions ne sont pas réunis : Avoir le level pour réaliser le donjon ainsi que faire le donjon)
 
 {% hint style="info" %}
-Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
+Cependant, vous pouvez activer <mark style="color:white;">[l'option du message automatique](https://wiki.evolucraft.fr/foire-aux-questions/creation-pub#etape-bonus)</mark> dans le **`/pub`**. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
 {% endhint %}
 
 ### <mark style="color:green;">Article B : Un langage respectueux</mark>
@@ -100,7 +107,7 @@ Cette liste n'est pas exhaustive.
 * Un joueur dans plusieurs ville ne peut pas participer à comptabiliser des étoiles dans le classement ville avec plus d'une ville.
 * Certains items sont interdit à la vente si il remplissent au moins une de ces conditions, même issue dans des shulkers vendues :
    * Vente de cosmétiques (issue d'un use bug)
-   * Items renommés dans dans le but de tromper ou de faire de la pub
+   * Items renommés (Nous tolérons les shulker renommées à condition que la descriptions correspond à son contenant)
    * Fausses clés
    * Tête ressemblant à des block vanilla, de tête de staff
    * Items exclusifs désanchantés
