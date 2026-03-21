@@ -215,7 +215,7 @@ Les <mark style="color:green;">pièces d'armures Amour</mark> ne sont <mark styl
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse St-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse St-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
