@@ -30,7 +30,7 @@ La <mark style="color:green;">**pêche**</mark> est enfin mise en avant dans une
   </tr>
   <tr>
     <td>
-      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockCommun.png" alt=""><figcaption></figcaption></figure></p>
+      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockGold.png" alt=""><figcaption></figcaption></figure></p>
       <p><mark style="color:yellow;"><strong>Lucky Block Commun</strong></mark></p>
     </td>
     <td><mark style="color:green;"><strong>0.29%</strong></mark></td>
