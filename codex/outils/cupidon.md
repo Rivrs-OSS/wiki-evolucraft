@@ -7,7 +7,7 @@ description: >-
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-L' <mark style="color:green;">épée et le marteau Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Saint-Valentin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin).
+L' <mark style="color:green;">épée et le marteau Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Saint-Valentin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
 
 ### 🔹 <ins>Son aperçue</ins>🔍
 
