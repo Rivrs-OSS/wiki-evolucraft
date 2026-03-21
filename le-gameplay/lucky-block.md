@@ -23,14 +23,14 @@ La <mark style="color:green;">**pêche**</mark> est enfin mise en avant dans une
   </tr>
   <tr>
     <td>
-      <p><figure><img src="../.gitbook/assets/Evenement/LuckyBlock/Commun.png" alt=""><figcaption></figcaption></figure></p>
+      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockCommun.png" alt=""><figcaption></figcaption></figure></p>
       <p><mark style="color:green;"><strong>Lucky Block Commun</strong></mark></p>
     </td>
     <td><mark style="color:green;"><strong>2.20%</strong></mark></td>
   </tr>
   <tr>
     <td>
-      <p><figure><img src="../.gitbook/assets/Evenement/LuckyBlock/Commun.png" alt=""><figcaption></figcaption></figure></p>
+      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockCommun.png" alt=""><figcaption></figcaption></figure></p>
       <p><mark style="color:yellow;"><strong>Lucky Block Commun</strong></mark></p>
     </td>
     <td><mark style="color:green;"><strong>0.29%</strong></mark></td>
@@ -281,7 +281,7 @@ Il existe <mark style="color:green;">**2 offres de packs**</mark>, limitées à 
   </tr>
 </table>
 
-<figure><img src="../.gitbook/assets/Evenement/LuckyBlock/Packs.png" alt=""><figcaption>Interface du <strong><mark style="color:green;">/saintpatrick</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockPacks.png" alt=""><figcaption>Interface du <strong><mark style="color:green;">/saintpatrick</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">**Les récompenses possible**</mark> 🎁
 
