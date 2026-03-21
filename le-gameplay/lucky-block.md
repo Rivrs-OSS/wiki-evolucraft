@@ -223,60 +223,14 @@ Il existe <mark style="color:green;">**2 offres de packs**</mark>, limitées à 
   <tr>
     <td><mark style="color:green;"><strong>Packs de décoration</strong></mark></td>
     <td>
-      <p>🍀 Peluche du Leprechaun assis</p>
-      <p>🍀 Peluche du Leprechaun</p>
-      <p>🍀 Parapluie en trèfle</p>
-      <p>🍀 Table en trèfle</p>
-      <p>🍀 Tabouret en trèfle</p>
-      <p>🍀 Gâteau de trèfle</p>
-      <p>🍀 Tapis de trèfle</p>
-      <p>🍀 Trèfle en pot</p>
-      <p>🍀 Chaudron d'Or</p>
-      <p>🍀 Tas d'Or</p>
-      <p>🍀 Fer à cheval doré</p>
-      <p>🍀 Tas de fers à cheval dorés</p>
+      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/PackDéco1.png" alt=""><figcaption></figcaption></figure></p>
     </td>
     <td>
-      <p>🍀 Peluche de Fée</p>
-      <p>🍀 Peluche de Gnome</p>
-      <p>🍀 Bannière en trèfle</p>
-      <p>🍀 Lampe en trèfle</p>
-      <p>🍀 Trèfle suspendu</p>
-      <p>🍀 Petite guirlande festive</p>
-      <p>🍀 Grande guirlande festive</p>
-      <p>🍀 Ballon festif</p>
-      <p>🍀 Grand tonneau festif</p>
-      <p>🍀 Petit tonneau festif</p>
-      <p>🍀 Arche arc-en-ciel</p>
-      <p>🍀 Vin</p>
-      <p>🍀 Tonneau de vins</p
+      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/PackDéco2.png" alt=""><figcaption></figcaption></figure></p
     </td>
     <td>
-      <p>🍀 Peluche du Leprechaun assis</p>
-      <p>🍀 Peluche du Leprechaun</p>
-      <p>🍀 Parapluie en trèfle</p>
-      <p>🍀 Table en trèfle</p>
-      <p>🍀 Tabouret en trèfle</p>
-      <p>🍀 Gâteau de trèfle</p>
-      <p>🍀 Tapis de trèfle</p>
-      <p>🍀 Trèfle en pot</p>
-      <p>🍀 Chaudron d'Or</p>
-      <p>🍀 Tas d'Or</p>
-      <p>🍀 Fer à cheval doré</p>
-      <p>🍀 Tas de fers à cheval dorés</p>
-      <p>🍀 Peluche de Fée</p>
-      <p>🍀 Peluche de Gnome</p>
-      <p>🍀 Bannière en trèfle</p>
-      <p>🍀 Lampe en trèfle</p>
-      <p>🍀 Trèfle suspendu</p>
-      <p>🍀 Petite guirlande festive</p>
-      <p>🍀 Grande guirlande festive</p>
-      <p>🍀 Ballon festif</p>
-      <p>🍀 Grand tonneau festif</p>
-      <p>🍀 Petit tonneau festif</p>
-      <p>🍀 Arche arc-en-ciel</p>
-      <p>🍀 Vin</p>
-      <p>🍀 Tonneau de vins</p
+      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/PackDéco1.png" alt=""><figcaption></figcaption></figure></p>
+      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/PackDéco2.png" alt=""><figcaption></figcaption></figure></p
     </td>
   </tr>
 </table>
