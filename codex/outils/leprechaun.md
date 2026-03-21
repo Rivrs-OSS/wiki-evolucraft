@@ -7,7 +7,7 @@ description: >-
 
 ## 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse Saint-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
+Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse Saint-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 ## 🔹 <ins>Son aperçu</ins>🔍
 
