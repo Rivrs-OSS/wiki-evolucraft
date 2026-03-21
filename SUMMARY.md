@@ -64,7 +64,7 @@
   * [☠️ Chevalier de la mort](le-gameplay/les-classes/chevalier-de-la-mort.md)
 * [🏛️ Les Donjons](le-gameplay/les-donjons.md)
 * [💵 Le Commerce](le-gameplay/le-commerce.md)
-* [🎲 Lucky Blocks](le-gameplaylucky-block.md)    
+* [🎲 Lucky Blocks](le-gameplay/lucky-block.md)    
 * [🔱 Le Pass](le-gameplay/pass.md)
 * [📜 Les Quêtes](le-gameplay/les-quetes.md)
 * [⚒️ Les Machines](le-gameplay/les-machines/README.md)
