@@ -542,4 +542,4 @@ Mais alors, quelles sont les <mark style="color:green;">**récompenses possibles
   </tr>
 </table>
 
-#### **Maintenant que vous savez tout sur les lucky block, que le GAMBLING commence ! ✨**
+#### **Maintenant que vous savez tout sur les <mark style="color:green;">lucky blocks</mark>, que le <mark style="color:green;">GAMBLING</mark> commence ! ✨**
