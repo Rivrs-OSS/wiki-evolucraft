@@ -12,7 +12,7 @@ Leur rareté et leur ancienneté en font des objets de <mark style="color:green;
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils abyssaux</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Abyssale</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal).
+Les <mark style="color:green;">outils abyssaux</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Abyssale</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 ### 🔹 <ins>Son aperçu</ins>🔍
 
@@ -45,7 +45,7 @@ Les <mark style="color:green;">outils abyssaux</mark> s'obtiennent dans la [<mar
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors).
+Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
 
 ### 🔹 <ins>Son aperçu</ins>🔍
 
@@ -149,7 +149,7 @@ Les <mark style="color:green;">outils conquistadors</mark> s'obtiennent dans la 
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Givrée</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree).
+Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Givrée</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
 
 ### 🔹 <ins>Son aperçu</ins>🔍
 <table border="1" cellspacing="0" cellpadding="6">
@@ -198,7 +198,7 @@ Les <mark style="color:green;">outils des Glaces</mark> s'obtiennent dans la [<m
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Saint-Valentin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin).
+Les <mark style="color:green;">outils Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Saint-Valentin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
 
 ### 🔹 <ins>Son aperçu</ins>🔍
 
@@ -253,7 +253,7 @@ Les <mark style="color:green;">outils Cupidon</mark> s'obtiennent dans la [<mark
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse Saint-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick).
+Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la [<mark style="color:green;">caisse Saint-Patrick</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
 
 ### 🔹 <ins>Son aperçu</ins>🔍
 
@@ -323,7 +323,7 @@ Les <mark style="color:green;">outils du Leprechaun</mark> s'obtiennent dans la 
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils de l'Archéologue</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Antique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique).
+Les <mark style="color:green;">outils de l'Archéologue</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Antique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
 
 ### 🔹 <ins>Son aperçu</ins>🔍
 
@@ -453,7 +453,7 @@ Les <mark style="color:green;">outils de l'Archéologue</mark> s'obtiennent dans
 
 ### 🔹 <ins>Son obtention</ins>🤔
 
-Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans la [<mark style="color:red;">caisse Pain d'Épices</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-dépice).
+Les <mark style="color:green;">outils en pain d'épices</mark> s'obtiennent dans la [<mark style="color:red;">caisse Pain d'Épices</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-dépice), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
 
 ### 🔹 <ins>Son aperçu</ins>🔍
 

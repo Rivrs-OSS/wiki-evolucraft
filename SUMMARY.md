@@ -23,7 +23,7 @@
   * [🪙 Gagner des jetons](faq/monnaie/gagner-jetons.md)
   * [🍭 Gagner des sucre d'orges](faq/monnaie/gagner-sucre-dorge.md)
 * [📣 Créer une pub](faq/creation-pub.md)
-* [🏛️ Trouver un donjon](faq/trouver-un-donjon.md)  
+* [🏛️ Trouver un donjon](faq/trouver-un-donjon.md)
 * [⭐ Les fragment d'étoiles](faq/fragment-etoile.md)
 * [🧍‍♂️ Le guide de l'ASE](faq/le-ase.md)
 
@@ -64,6 +64,7 @@
   * [☠️ Chevalier de la mort](le-gameplay/les-classes/chevalier-de-la-mort.md)
 * [🏛️ Les Donjons](le-gameplay/les-donjons.md)
 * [💵 Le Commerce](le-gameplay/le-commerce.md)
+* [🎲 Lucky Blocks](le-gameplay/lucky-block.md)    
 * [🔱 Le Pass](le-gameplay/pass.md)
 * [📜 Les Quêtes](le-gameplay/les-quetes.md)
 * [⚒️ Les Machines](le-gameplay/les-machines/README.md)

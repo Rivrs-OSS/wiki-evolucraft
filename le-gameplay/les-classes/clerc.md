@@ -454,6 +454,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique"><mark style="color:orange;">Caisse Draconique 🐉</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -467,6 +468,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -480,6 +482,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween"><mark style="color:orange;">Caisse Halloween 🎃</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -493,6 +496,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -506,6 +510,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin"><mark style="color:red;">Caisse Saint-Valentin 💕</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -519,6 +524,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -533,6 +539,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -546,6 +553,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr> 
   <tr>
@@ -559,6 +567,7 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
