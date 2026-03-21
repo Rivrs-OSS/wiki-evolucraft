@@ -10,7 +10,7 @@ Les <mark style="color:green;">**lucky blocks**</mark> sont des items rajoutés 
 
 Pour obtenir les précieux sésament, il y a trois façon d'en obtenir :
 
-### 🔹 <mark style="color:blue;">**La Pêche**</mark> 🎣
+### 🔹 <mark style="color:blue;">La Pêche</mark> 🎣
 
 La pêche est enfin mis en avant dans une mis à jour où vous pouvez en obtenir peut importe le monde où vous êtes, avec n'importe quel monde. Mais attention les pourcentages sont assez faible, il faudra être très chanceux pour en obtenir !
 
@@ -35,9 +35,9 @@ La pêche est enfin mis en avant dans une mis à jour où vous pouvez en obtenir
   </tr>
 </table>
 
-### 🔹 <mark style="color:blue;">**Les mobs en donjon **</mark> 🧟‍♂️
+### 🔹 <mark style="color:blue;">Les mobs en donjon</mark> 🧟‍♂️
 
-En plus d'xp votre classe en tuant ces mobs, vous avez une petite probabilités suivant le donjon effectuer que l'un de vous permet de drop un lucky block en tuant des mobs dans les donjons. Les probabilité d'en obtenir sont différents suivant le donjon effectuer mais sur chaque mob tué où vous recevez un lucky block, ces derniers sont également donné à vos coéquipiers du donjon qui sont encore en vie.
+En plus d'xp votre classe lorsque des mobs dans les donjons sont tuées, il y a une probabilité pour chacun d'entre vous, suivant le donjon effectuer, d'obtenir des lucky blocks. Il est donc possible que certains en ont plus que d'autres sur le même donjon.
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -143,13 +143,107 @@ En plus d'xp votre classe en tuant ces mobs, vous avez une petite probabilités 
   </tr>
 </table>
 
-### 🔹 <mark style="color:blue;">**Les packs limités **</mark> 🎁
+### 🔹 <mark style="color:blue;">Les packs limités</mark> 🎁
 
 Vous n'avez pas une grande envie de pêcher ou de faire des donjons mais vous voulez quand même vous tester dans le gambling ? Pas de panique ! Il y a la solution d'acheter des packs contenant en plus des lucky block d'autre items exclusifs comme des cosmétiques ou des packs de décoration.
 
 Il existent de 2 offres de packs limité à 5 achats chacun, également une 3e offres est disponible offrant directement les 2 packs à prix réduit pour 3 achats maximum.
 
-(Faire le récap)
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:green;"><strong>Liste des packs disponible 🎁</strong></mark></td>
+    <td><mark style="color:green;"><strong>Pack n°1️⃣</strong></mark></td>
+    <td><mark style="color:green;"><strong>Pack n°2️⃣</strong></mark></td>
+    <td><mark style="color:green;"><strong>Pack n°3️⃣</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Prix</strong></mark></td>
+    <td><mark style="color:blue;"><strong>3 750 Gemmes 💎</strong></mark></td>
+    <td><mark style="color:blue;"><strong>2 500 Gemmes 💎</strong></mark></td>
+    <td><mark style="color:blue;"><strong>6 000 Gemmes 💎</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Achat possible</strong></mark></td>
+    <td><mark style="color:green;"><strong>5</strong></mark></td>
+    <td><mark style="color:green;"><strong>5</strong></mark></td>
+    <td><mark style="color:green;"><strong>3</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Packs de décoration</strong></mark></td>
+    <td>
+      <p>* Pourcentage d'obtention 📊</p>
+      <p>* Lucky Block Commun ❇️</p>
+      <p>* Pourcentage d'obtention 📊</p>
+      <p>* Lucky Block Commun ❇️</p>
+      <p>* Pourcentage d'obtention 📊</p>
+      <p>* Lucky Block Commun ❇️</p>
+    </td>
+    <td>
+      <p>* Pourcentage d'obtention 📊</p>
+      <p>* Lucky Block Commun ❇️</p>
+      <p>* Pourcentage d'obtention 📊</p>
+      <p>* Lucky Block Commun ❇️</p>
+      <p>* Pourcentage d'obtention 📊</p>
+      <p>* Lucky Block Commun ❇️</p>
+    </td>
+    <td>
+      <p>* Pourcentage d'obtention 📊</p>
+      <p>* Lucky Block Commun ❇️</p>
+      <p>* Pourcentage d'obtention 📊</p>
+      <p>* Lucky Block Commun ❇️</p>
+      <p>* Pourcentage d'obtention 📊</p>
+      <p>* Lucky Block Commun ❇️</p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Cosmétiques</strong></mark></td>
+    <td>
+      <p>* Chapeau du Gnome</p>
+      <p>* Chope du Gnome</p>
+      <p>* Chope Moussante du Gnome</p>
+    </td>
+    <td>
+      <p>* Chapeau Leprechaun</p>
+      <p>* Pot d'Or du Leprechaun</p>
+      <p>* Parapluie Trèfles</p>
+    </td>
+    <td>
+      <p>* Chapeau du Gnome</p>
+      <p>* Chope du Gnome</p>
+      <p>* Chope Moussante du Gnome</p>
+      <p>* Chapeau Leprechaun</p>
+      <p>* Pot d'Or du Leprechaun</p>
+      <p>* Parapluie Trèfles</p>
+    </td>
+  <tr>
+    <td><mark style="color:green;"><strong>Lucky Blocks</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>10 Lucky Blocks</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>5 Lucky Blocks</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>15 Lucky Blocks</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Autres</strong></mark></td>
+    <td>
+      <p><mark style="color:purple;"><strong>3 Parchemins Expert</strong></mark></p>
+      <p><mark style="color:red;"><strong>Outils d'Évènement Aléatoire</strong></mark></p>
+      <p><mark style="color:red;"><strong>Oeuf de Familier (Pet Aléatoire)</strong></mark></p>
+    </td>
+    <td>
+      <p><mark style="color:blue;"><strong>Spawner Aléatoire Passif</strong></mark></p>
+      <p><mark style="color:purple;"><strong>Spawner Aléatoire Agressif</strong></mark></p>
+      <p><mark style="color:purple;"><strong>4 Bonbons aux Raisins</strong></mark></p>
+    </td>
+    <td>
+      <p><mark style="color:blue;"><strong>Spawner Aléatoire Passif</strong></mark></p>
+      <p><mark style="color:purple;"><strong>Spawner Aléatoire Agressif</strong></mark></p>
+      <p><mark style="color:purple;"><strong>4 Bonbons aux Raisins</strong></mark></p>
+      <p><mark style="color:purple;"><strong>3 Parchemins Expert</strong></mark></p>
+      <p><mark style="color:red;"><strong>Outils d'Évènement Aléatoire</strong></mark></p>
+      <p><mark style="color:red;"><strong>Oeuf de Familier (Pet Aléatoire)</strong></mark></p>
+      <p><mark style="color:yellow;"><strong>Clé Aléatoire d'Évènement</strong></mark></p>
+    </td>
+  </tr>
+</table>
 
 <figure><img src="../.gitbook/assets/Evenement/LuckyBlock/Packs.png" alt=""><figcaption>Interface du <strong><mark style="color:green;">/saintpatrick</mark></strong></figcaption></figure>
 
