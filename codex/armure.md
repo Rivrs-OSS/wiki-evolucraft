@@ -54,7 +54,7 @@ Les <mark style="color:green;">pièces d'Armure Jackpot Shiny</mark> ne sont <ma
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique).
+Les <mark style="color:green;">pièces d'armures Draconique</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -90,7 +90,7 @@ Les <mark style="color:green;">pièces d'armures Draconnier</mark> s'obtiennent 
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -108,8 +108,7 @@ Les <mark style="color:green;">pièces d'armures Abyssal</mark> s'obtiennent dan
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennent dans la [<mark style="color:green;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
-
+Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennent dans la [<mark style="color:green;">caisse aux Trésors</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 #### 🔹 Son Aperçu 🔍
 
 |                                                                                                                                                                                     **Casque**                                                                                                                                                                                    |                                                                                                       **Plastron**                                                                                                       |                                                                                                                                               **Pantalon**                                                                                                                                               |                                                                                                                                                                                                                               **Bottes**                                                                                                                                                                                                                              |
@@ -126,7 +125,7 @@ Les <mark style="color:green;">pièces d'armures Conquistador</mark> s'obtiennen
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -144,7 +143,7 @@ Les <mark style="color:green;">pièces d'armures de Minuit</mark> s'obtiennent d
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent dans la [<mark style="color:green;">caisse Givrée</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures Père Noël</mark> s'obtiennent dans la [<mark style="color:green;">caisse Givrée</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -180,7 +179,7 @@ Les <mark style="color:green;">pièces d'armures Elfes</mark> ne sont <mark styl
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-cupidon) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures Cupidon</mark> s'obtiennent dans la [<mark style="color:red;">caisse Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-cupidon), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -252,7 +251,7 @@ Les <mark style="color:green;">pièces d'armures Légendaire</mark> s'obtiennent
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Lapins</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures Lapins</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -288,7 +287,7 @@ Les <mark style="color:green;">pièces d'armures Pâques</mark> ne sont <mark st
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Summer</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans la [<mark style="color:blue;">caisse Summer</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -306,7 +305,7 @@ Les <mark style="color:green;">pièces d'armures Summer</mark> s'obtiennent dans
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Antique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Antique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -324,7 +323,7 @@ Les <mark style="color:green;">pièces d'armures Archéologue</mark> s'obtiennen
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures de la Lune de Sang</mark> ne sont <mark style="color:green;">plus obtenables actuellement</mark>, sauf à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures Lune de Sang</mark> s'obtiennent dans la [<mark style="color:red;">caisse Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -342,7 +341,7 @@ Les <mark style="color:green;">pièces d'armures de la Lune de Sang</mark> ne so
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures de Pain d'épice</mark> s'obtiennent dans la [<mark style="color:red;">caisse Pain d'Épice</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-dépice) ou à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures de Pain d'épice</mark> s'obtiennent dans la [<mark style="color:red;">caisse Pain d'Épice</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-dépice), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
