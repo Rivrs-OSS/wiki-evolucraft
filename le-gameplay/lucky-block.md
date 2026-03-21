@@ -4,15 +4,17 @@ description: Retrouvez ici toutes les informations concernant les lucky blocks
 
 # 🎲 Les Lucky Block
 
-Les <mark style="color:green;">**lucky blocks**</mark> sont des items rajoutés pour <mark style="color:green;">**la mise à jour Saint-Patrick 2026**</mark> vous permettant d’obtenir des récompenses en passant par des <mark style="color:green;">**items hyper rares comme des pets**</mark>, à <mark style="color:green;">**une humilation dans le chat public**</mark> afin de jouer avec vos nerfs et tester vos limites sur un aspect du jeu que beaucoup apprécie, je parle bien entendu du <mark style="color:green;">**GAMBLING**</mark> ! ✨
+Les <mark style="color:green;">**lucky blocks**</mark> sont des items ajoutés pour la <mark style="color:green;">**mise à jour de la Saint-Patrick 2026 🍀**</mark>, vous permettant d’obtenir des <mark style="color:green;">**récompenses variées**</mark>, allant de <mark style="color:green;">**items très rares comme des pets**</mark> à <mark style="color:green;">**une humiliation dans le chat public**</mark>.
+
+Ce système est conçu pour <mark style="color:green;">**jouer avec vos nerfs**</mark> et <mark style="color:green;">**tester votre chance**</mark> à travers un aspect du jeu que beaucoup apprécient : le <mark style="color:green;">**GAMBLING**</mark> ! ✨
 
 ## 💠 <mark style="color:green;">**Quels sont les moyens d'obtention d'un lucky blocks**</mark> 🎊
 
-Pour obtenir les précieux sésament, il y a trois façon d'en obtenir :
+Pour obtenir les <mark style="color:green;">**précieux sésames**</mark>, il existe <mark style="color:green;">**trois façons**</mark> d’en obtenir. Chaque méthode vous demandera de la <mark style="color:green;">**chance**</mark> mais également de l’<mark style="color:green;">**investissement en jeu**</mark>. À vous de choisir la meilleur stratégie qui vous correspond le mieux pour maximiser votre récolte !
 
 ### 🔹 <mark style="color:blue;">La Pêche</mark> 🎣
 
-La pêche est enfin mis en avant dans une mis à jour où vous pouvez en obtenir peut importe le monde où vous êtes, avec n'importe quel monde. Mais attention les pourcentages sont assez faible, il faudra être très chanceux pour en obtenir !
+La <mark style="color:green;">**pêche**</mark> est enfin mise en avant dans une <mark style="color:green;">**mise à jour**</mark> où vous pouvez en obtenir <mark style="color:green;">**peu importe le monde**</mark> dans lequel vous êtes les lucky blocks. Mais attention, les <mark style="color:green;">**pourcentages sont assez faibles**</mark>, il faudra être <mark style="color:green;">**très chanceux**</mark> et <mark style="color:green;">**être très patient**</mark> pour en obtenir !
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -37,7 +39,7 @@ La pêche est enfin mis en avant dans une mis à jour où vous pouvez en obtenir
 
 ### 🔹 <mark style="color:blue;">Les mobs en donjon</mark> 🧟‍♂️
 
-En plus d'xp votre classe lorsque des mobs dans les donjons sont tuées, il y a une probabilité pour chacun d'entre vous, suivant le donjon effectuer, d'obtenir des lucky blocks. Il est donc possible que certains en ont plus que d'autres sur le même donjon.
+En plus d’<mark style="color:green;">**XP votre classe**</mark> lorsque des <mark style="color:green;">**mobs dans les donjons sont tués**</mark>, il existe une <mark style="color:green;">**probabilité d’obtenir des lucky blocks**</mark> pour chacun d’entre vous, en fonction du <mark style="color:green;">**donjon effectué**</mark>. Il est donc possible que <mark style="color:green;">**certains joueurs en obtiennent plus que d’autres**</mark> lors d’un même donjon.
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -145,9 +147,11 @@ En plus d'xp votre classe lorsque des mobs dans les donjons sont tuées, il y a 
 
 ### 🔹 <mark style="color:blue;">Les packs limités</mark> 🎁
 
-Vous n'avez pas une grande envie de pêcher ou de faire des donjons mais vous voulez quand même vous tester dans le gambling ? Pas de panique ! Il y a la solution d'acheter des packs contenant en plus des lucky block d'autre items exclusifs comme des cosmétiques ou des packs de décoration.
+Vous n’avez pas une grande envie de <mark style="color:green;">**pêcher**</mark> ou de faire des <mark style="color:green;">**donjons**</mark>, mais vous souhaitez quand même tenter votre chance dans le <mark style="color:green;">**gambling**</mark> ? Pas de panique !
 
-Il existent de 2 offres de packs limité à 5 achats chacun, également une 3e offres est disponible offrant directement les 2 packs à prix réduit pour 3 achats maximum.
+Il existe une solution : <mark style="color:green;">**acheter des packs**</mark> contenant, en plus des <mark style="color:green;">**lucky blocks**</mark>, d’autres <mark style="color:green;">**items exclusifs**</mark> comme des <mark style="color:green;">**cosmétiques**</mark> ou des <mark style="color:green;">**packs de décoration**</mark>.
+
+Il existe <mark style="color:green;">**2 offres de packs**</mark>, limitées à <mark style="color:green;">**5 achats chacune**</mark>. Une <mark style="color:green;">**3e offre**</mark> est également disponible, proposant directement <mark style="color:green;">**les 2 packs à prix réduit**</mark>, avec une limite de <mark style="color:green;">**3 achats maximum**</mark>.
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -169,83 +173,24 @@ Il existent de 2 offres de packs limité à 5 achats chacun, également une 3e o
     <td><mark style="color:green;"><strong>3</strong></mark></td>
   </tr>
   <tr>
-    <td><mark style="color:green;"><strong>Packs de décoration</strong></mark></td>
-    <td>
-      <p>* Peluche du Leprechaun assis</p>
-      <p>* Peluche du Leprechaun</p>
-      <p>* Parapluie en trèfle</p>
-      <p>* Table en trèfle</p>
-      <p>* Tabouret en trèfle</p>
-      <p>* Gâteau de trèfle</p>
-      <p>* Tapis de trèfle</p>
-      <p>* Trèfle en pot</p>
-      <p>* Chaudron d'Or</p>
-      <p>* Tas d'Or</p>
-      <p>* Fer à cheval doré</p>
-      <p>* Tas de fers à cheval dorés</p>
-    </td>
-    <td>
-      <p>* Peluche de Fée</p>
-      <p>* Peluche de Gnome</p>
-      <p>* Bannière en trèfle</p>
-      <p>* Lampe en trèfle</p>
-      <p>* Trèfle suspendu</p>
-      <p>* Petite guirlande festive</p>
-      <p>* Grande guirlande festive</p>
-      <p>* Ballon festif</p>
-      <p>* Grand tonneau festif</p>
-      <p>* Petit tonneau festif</p>
-      <p>* Arche arc-en-ciel</p>
-      <p>* Vin</p>
-      <p>* Tonneau de vins</p
-    </td>
-    <td>
-      <p>* Peluche du Leprechaun assis</p>
-      <p>* Peluche du Leprechaun</p>
-      <p>* Parapluie en trèfle</p>
-      <p>* Table en trèfle</p>
-      <p>* Tabouret en trèfle</p>
-      <p>* Gâteau de trèfle</p>
-      <p>* Tapis de trèfle</p>
-      <p>* Trèfle en pot</p>
-      <p>* Chaudron d'Or</p>
-      <p>* Tas d'Or</p>
-      <p>* Fer à cheval doré</p>
-      <p>* Tas de fers à cheval dorés</p>
-      <p>* Peluche de Fée</p>
-      <p>* Peluche de Gnome</p>
-      <p>* Bannière en trèfle</p>
-      <p>* Lampe en trèfle</p>
-      <p>* Trèfle suspendu</p>
-      <p>* Petite guirlande festive</p>
-      <p>* Grande guirlande festive</p>
-      <p>* Ballon festif</p>
-      <p>* Grand tonneau festif</p>
-      <p>* Petit tonneau festif</p>
-      <p>* Arche arc-en-ciel</p>
-      <p>* Vin</p>
-      <p>* Tonneau de vins</p
-    </td>
-  </tr>
-  <tr>
     <td><mark style="color:green;"><strong>Cosmétiques</strong></mark></td>
     <td>
-      <p>* Chapeau du Gnome</p>
-      <p>* Chope du Gnome</p>
-      <p>* Chope Moussante du Gnome</p>
+      <p>🍀 Chapeau du Gnome</p>
+      <p>🍀 Chope du Gnome</p>
+      <p>🍀 Chope Moussante du Gnome</p>
     </td>
     <td>
-      <p>* Chapeau Leprechaun</p>
-      <p>* Pot d'Or du Leprechaun</p>
-      <p>* Parapluie Trèfles</p>
+      <p>🍀 Chapeau Leprechaun</p>
+      <p>🍀 Pot d'Or du Leprechaun</p>
+      <p>🍀 Parapluie Trèfles</p>
     </td>
     <td>
-      <p>* Chapeau du Gnome</p>
-      <p>* Chope du Gnome</p>
-      <p>* Chope Moussante du Gnome</p>
-      <p>* Chapeau Leprechaun</p>
-      <p>* Pot d'Or du Leprechaun</p>
-      <p>* Parapluie Trèfles</p>
+      <p>🍀 Chapeau du Gnome</p>
+      <p>🍀 Chope du Gnome</p>
+      <p>🍀 Chope Moussante du Gnome</p>
+      <p>🍀 Chapeau Leprechaun</p>
+      <p>🍀 Pot d'Or du Leprechaun</p>
+      <p>🍀 Parapluie Trèfles</p>
     </td>
   <tr>
     <td><mark style="color:green;"><strong>Lucky Blocks</strong></mark></td>
@@ -275,13 +220,76 @@ Il existent de 2 offres de packs limité à 5 achats chacun, également une 3e o
       <p><mark style="color:yellow;"><strong>Clé Aléatoire d'Évènement</strong></mark></p>
     </td>
   </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>Packs de décoration</strong></mark></td>
+    <td>
+      <p>🍀 Peluche du Leprechaun assis</p>
+      <p>🍀 Peluche du Leprechaun</p>
+      <p>🍀 Parapluie en trèfle</p>
+      <p>🍀 Table en trèfle</p>
+      <p>🍀 Tabouret en trèfle</p>
+      <p>🍀 Gâteau de trèfle</p>
+      <p>🍀 Tapis de trèfle</p>
+      <p>🍀 Trèfle en pot</p>
+      <p>🍀 Chaudron d'Or</p>
+      <p>🍀 Tas d'Or</p>
+      <p>🍀 Fer à cheval doré</p>
+      <p>🍀 Tas de fers à cheval dorés</p>
+    </td>
+    <td>
+      <p>🍀 Peluche de Fée</p>
+      <p>🍀 Peluche de Gnome</p>
+      <p>🍀 Bannière en trèfle</p>
+      <p>🍀 Lampe en trèfle</p>
+      <p>🍀 Trèfle suspendu</p>
+      <p>🍀 Petite guirlande festive</p>
+      <p>🍀 Grande guirlande festive</p>
+      <p>🍀 Ballon festif</p>
+      <p>🍀 Grand tonneau festif</p>
+      <p>🍀 Petit tonneau festif</p>
+      <p>🍀 Arche arc-en-ciel</p>
+      <p>🍀 Vin</p>
+      <p>🍀 Tonneau de vins</p
+    </td>
+    <td>
+      <p>🍀 Peluche du Leprechaun assis</p>
+      <p>🍀 Peluche du Leprechaun</p>
+      <p>🍀 Parapluie en trèfle</p>
+      <p>🍀 Table en trèfle</p>
+      <p>🍀 Tabouret en trèfle</p>
+      <p>🍀 Gâteau de trèfle</p>
+      <p>🍀 Tapis de trèfle</p>
+      <p>🍀 Trèfle en pot</p>
+      <p>🍀 Chaudron d'Or</p>
+      <p>🍀 Tas d'Or</p>
+      <p>🍀 Fer à cheval doré</p>
+      <p>🍀 Tas de fers à cheval dorés</p>
+      <p>🍀 Peluche de Fée</p>
+      <p>🍀 Peluche de Gnome</p>
+      <p>🍀 Bannière en trèfle</p>
+      <p>🍀 Lampe en trèfle</p>
+      <p>🍀 Trèfle suspendu</p>
+      <p>🍀 Petite guirlande festive</p>
+      <p>🍀 Grande guirlande festive</p>
+      <p>🍀 Ballon festif</p>
+      <p>🍀 Grand tonneau festif</p>
+      <p>🍀 Petit tonneau festif</p>
+      <p>🍀 Arche arc-en-ciel</p>
+      <p>🍀 Vin</p>
+      <p>🍀 Tonneau de vins</p
+    </td>
+  </tr>
 </table>
 
 <figure><img src="../.gitbook/assets/Evenement/LuckyBlock/Packs.png" alt=""><figcaption>Interface du <strong><mark style="color:green;">/saintpatrick</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">**Les récompenses possible**</mark> 🎁
 
-Il existe 2 type de lucky block donnant chacun différentes récompense possible. Pour connaitre en jeu ce qui est possible d'obtenir, il vous suffit de faire clique droit avec le lucky block en main sans viser de block. Sinon ce dernier se posera et s'ouvrira quelques seconde après avec une récompense promise. Mais quels sont les récompense possible :
+Il existe <mark style="color:green;">**2 types de lucky blocks**</mark> offrant chacun des <mark style="color:green;">**récompenses différentes**</mark>.
+
+Pour connaître en jeu ce qu’il est possible d’obtenir, il vous suffit de faire un <mark style="color:green;">**clic droit avec le lucky block en main**</mark> sans viser de bloc. Sinon, celui-ci se <mark style="color:green;">**posera au sol**</mark> et <mark style="color:green;">**s’ouvrira quelques secondes après**</mark> avec une récompense.
+
+Mais alors, quelles sont les <mark style="color:green;">**récompenses possibles**</mark> ?
 
 ### 🔹 <mark style="color:green;">**Lucky Block Commun ❇️**</mark>
 
@@ -533,3 +541,5 @@ Il existe 2 type de lucky block donnant chacun différentes récompense possible
     </td>
   </tr>
 </table>
+
+#### **Maintenant que vous savez tout sur les lucky block, que le GAMBLING commence ! ✨**
