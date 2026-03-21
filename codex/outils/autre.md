@@ -26,7 +26,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 ### 🪣 ◦ <mark style="color:green;">Seau d'eau infini</mark>
 
-🔹 Le <mark style="color:green;">seau d'eau infini</mark> s'obtient dans la [<mark style="color:orange;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique).
+🔹 Le <mark style="color:green;">seau d'eau infini</mark> s'obtient dans la [<mark style="color:orange;">caisse Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 <table border="1" cellspacing="0" cellpadding="6">
   <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/SeauEau_Infini.png" alt=""></figure></td>
@@ -53,7 +53,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 ### 🪄 ◦ <mark style="color:green;">Sceptre du bâtisseur</mark>
 
-🔹 Le <mark style="color:green;">sceptre du bâtisseur</mark> s'obtient dans la [<mark style="color:orange;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
+🔹 Le <mark style="color:green;">sceptre du bâtisseur</mark> s'obtient dans la [<mark style="color:orange;">caisse Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 <table border="1" cellspacing="0" cellpadding="6">
   <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/SceptreBatisseur.png" alt=""></figure></td>
@@ -73,7 +73,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 ### 🧭 ◦ <mark style="color:green;">Traqueur de Donjon</mark>
 
-🔹 Le <mark style="color:green;">traqueur de donjon</mark> s'obtient dans la [<mark style="color:yellow;">caisse de Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
+🔹 Le <mark style="color:green;">traqueur de donjon</mark> s'obtient dans la [<mark style="color:yellow;">caisse de Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 <table border="1" cellspacing="0" cellpadding="6">
   <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/TraqueurDonjon.png" alt=""></figure></td>
@@ -83,7 +83,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 ### 🪣 ◦ <mark style="color:green;">Seau vide infini</mark>
 
-🔹 Le <mark style="color:green;">seau vide infini</mark> s'obtient dans la [<mark style="color:yellow;">caisse de Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>]
+🔹 Le <mark style="color:green;">seau vide infini</mark> s'obtient dans la [<mark style="color:yellow;">caisse de Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques), via l'Outils Aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 <table border="1" cellspacing="0" cellpadding="6">
   <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/SeauVide_Infini.png" alt=""></figure></td>
