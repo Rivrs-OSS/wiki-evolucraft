@@ -10,9 +10,11 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 ### <mark style="color:green;">💠 Lucky Blocks ! </mark>
 
-Pour célébrer la saint-patrick, nous vous proponsons de jouer avec votre chance avec les lucky blocks pour obtenir divers récompenses à des items hyper demandés à une humiliation dans le chat public !
+Pour célébrer la <mark style="color:green;">**Saint-Patrick**</mark>, nous vous proposons de <mark style="color:green;">**tenter votre chance**</mark> avec les <mark style="color:green;">**lucky blocks**</mark> afin d’obtenir de <mark style="color:green;">**nombreuses récompenses**</mark>, allant d’<mark style="color:green;">**items très recherchés**</mark> à une <mark style="color:green;">**humiliation dans le chat public**</mark> !
 
-Pour plus d'informations, nous laissons lire la page suivante concernant cette fonctionnalité temporaire : 
+Ce système met à l’épreuve votre <mark style="color:green;">**chance**</mark> et votre <mark style="color:green;">**patiente**</mark>, tout en apportant une touche de <mark style="color:green;">**fun et de GAMBLING**</mark> au jeu !
+
+Pour plus d’informations, nous vous invitons à consulter la <mark style="color:green;">**page dédiée**</mark> à cette <mark style="color:green;">**fonctionnalité temporaire**</mark> : [<mark style="color:green;">**🎲 Lucky Block 🎲**</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block)
 
 {% hint style="warning" %}
 Cet événement est **temporaire** et sera retiré à la fin de la période du Saint-Patrick 🍀.
