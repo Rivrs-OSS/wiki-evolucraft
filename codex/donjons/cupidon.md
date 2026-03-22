@@ -21,13 +21,62 @@ description: Retrouvez ici les informations concernant le donjon Cupidon
   </tr>
 </table>
 
-## 💠 <mark style="color:green;"> XP de classe récoltée ⚔️</mark>
+## 💠 <mark style="color:blue;"> Statistiques détaillées 📊</mark>
 
-Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
+### 📊 Valeurs unitaires
 
-* <mark style="color:green;"><strong>Apprenti, Archer & Chevalier 🧟‍♂️</strong></mark> : **50 XP**  
-* <mark style="color:yellow;"><strong>Seraphiel & Uriel 👽</strong></mark> : **5 000 XP**  
-* <mark style="color:red;"><strong>Cupidon 🐉</strong></mark> : **10 000 XP**
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type d’ennemi</strong></th>
+    <th><strong>XP par ennemi</strong></th>
+  </tr>
+  <tr>
+    <td>🧟‍♂️ <strong>Apprenti, Archer & Chevalier</strong></td>
+    <td><mark style="color:green;"><strong>50 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>👽 <strong>Seraphiel & Uriel (Mini Boss)</strong></td>
+    <td><mark style="color:yellow;"><strong>5 000 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🐉 <strong>Cupidon (Boss Final)</strong></td>
+    <td><mark style="color:red;"><strong>10 000 XP</strong></mark></td>
+  </tr>
+</table>
+
+### 📋 Structure du donjon
+
+Le donjon est composé de **4 salles** (mobs + mini boss) suivies de **1 salle boss finale**. La structure est **fixe**.
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type de salle</strong></th>
+    <th><strong>Nombre</strong></th>
+    <th><strong>Composition</strong></th>
+    <th><strong>XP par salle</strong></th>
+  </tr>
+  <tr>
+    <td>🟡 <strong>Salle Mobs + Mini Boss</strong></td>
+    <td>4 salles (fixe)</td>
+    <td>37 mobs + 2 Seraphiel/Uriel</td>
+    <td><mark style="color:yellow;"><strong>11 850 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🔴 <strong>Salle Boss Final</strong></td>
+    <td>1 salle (toujours)</td>
+    <td>1 Cupidon</td>
+    <td><mark style="color:red;"><strong>10 000 XP</strong></mark></td>
+  </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e8f5e9;">
+    <th><strong>XP Total du donjon</strong></th>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>57 400 XP</strong></mark><br><small>4 × 11 850 + 10 000</small></td>
+  </tr>
+</table>
 
 ## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
