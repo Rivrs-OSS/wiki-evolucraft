@@ -21,13 +21,69 @@ description: Retrouvez ici les informations concernant la Fabrique de chocolat
   </tr>
 </table>
 
-## 💠 <mark style="color:green;"> XP de classe récoltée ⚔️</mark>
+## 💠 <mark style="color:blue;"> Statistiques détaillées 📊</mark>
 
-Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
+### 📊 Valeurs unitaires
 
-* <mark style="color:green;"><strong>Soldats & Tireurs 🧟‍♂️</strong></mark> : **50 XP**  
-* <mark style="color:yellow;"><strong>Dinosaures 👽</strong></mark> : **5 000 XP**  
-* <mark style="color:red;"><strong>Abomination 🐉</strong></mark> : **10 000 XP**
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type d’ennemi</strong></th>
+    <th><strong>XP par ennemi</strong></th>
+  </tr>
+  <tr>
+    <td>🧟‍♂️ <strong>Soldats & Tireurs</strong></td>
+    <td><mark style="color:green;"><strong>50 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>👽 <strong>Dinosaures (Mini Boss)</strong></td>
+    <td><mark style="color:yellow;"><strong>5 000 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🐉 <strong>Abomination (Boss Final)</strong></td>
+    <td><mark style="color:red;"><strong>10 000 XP</strong></mark></td>
+  </tr>
+</table>
+
+### 📋 Structure du donjon
+
+Le donjon est composé de **6 salles aléatoires** (normales ou mini boss) suivies de **1 salle boss finale**.
+La répartition entre salles normales et mini boss est **totalement aléatoire**.
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type de salle</strong></th>
+    <th><strong>Nombre</strong></th>
+    <th><strong>Composition</strong></th>
+    <th><strong>XP par salle</strong></th>
+  </tr>
+  <tr>
+    <td>🟢 <strong>Salle Normale</strong></td>
+    <td>Variable (aléatoire)</td>
+    <td>16 mobs × 3 vagues</td>
+    <td><mark style="color:green;"><strong>2 400 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🟡 <strong>Salle Mini Boss</strong></td>
+    <td>Variable (aléatoire)</td>
+    <td>? mobs + 1 Dinosaure</td>
+    <td><mark style="color:yellow;"><strong>? XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🔴 <strong>Salle Boss Final</strong></td>
+    <td>1 salle (toujours)</td>
+    <td>1 Abomination</td>
+    <td><mark style="color:red;"><strong>10 000 XP</strong></mark></td>
+  </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e8f5e9;">
+    <th><strong>XP Total estimé (6 salles normales + boss)</strong></th>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>~24 400 XP</strong></mark><br><small>6 × 2 400 + 10 000</small></td>
+  </tr>
+</table>
 
 ## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 

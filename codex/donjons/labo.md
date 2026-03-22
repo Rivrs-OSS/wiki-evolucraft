@@ -21,13 +21,100 @@ description: Retrouvez ici les informations concernant le donjon Laboratoire Gla
   </tr>
 </table>
 
-## 💠 <mark style="color:green;"> XP de classe récoltée ⚔️</mark>
+## 💠 <mark style="color:blue;"> Statistiques détaillées 📊</mark>
 
-Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
+### 📊 Valeurs unitaires
 
-* <mark style="color:green;"><strong>Mob normal 🧟‍♂️</strong></mark> : **42 XP**  
-* <mark style="color:yellow;"><strong>Mini boss 👽</strong></mark> : **2 800 XP**  
-* <mark style="color:red;"><strong>Boss 🐉</strong></mark> : **6 500 XP**
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type d’ennemi</strong></th>
+    <th><strong>XP par ennemi</strong></th>
+  </tr>
+  <tr>
+    <td>🧟‍♂️ <strong>Mob Normal</strong></td>
+    <td><mark style="color:green;"><strong>42 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>👽 <strong>Mini Boss</strong></td>
+    <td><mark style="color:yellow;"><strong>2 800 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🐉 <strong>Boss Final</strong></td>
+    <td><mark style="color:red;"><strong>6 500 XP</strong></mark></td>
+  </tr>
+</table>
+
+### 📋 Structure du donjon
+
+Le donjon est composé de **6 salles aléatoires** (normales ou mini boss) suivies de **1 salle boss finale**.
+La répartition entre salles normales et mini boss est **totalement aléatoire**.
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type de salle</strong></th>
+    <th><strong>Nombre</strong></th>
+    <th><strong>Composition</strong></th>
+    <th><strong>XP par salle</strong></th>
+  </tr>
+  <tr>
+    <td>🟢 <strong>Salle Normale</strong></td>
+    <td>Variable (aléatoire)</td>
+    <td>16 mobs × 3 vagues</td>
+    <td>
+      <p><mark style="color:green;"><strong>2 016 XP</strong></mark></p>
+      <p><mark style="color:green;"><strong>720 Sucres d'orge</strong></mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td>🟡 <strong>Salle Mini Boss</strong></td>
+    <td>Variable (aléatoire)</td>
+    <td>6 mobs + 1 mini boss</td>
+    <td>
+      <p><mark style="color:yellow;"><strong>3 052 XP</strong></mark></p>
+      <p><mark style="color:green;"><strong>135 Sucres d'orge</strong></mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td>🔴 <strong>Salle Boss Final</strong></td>
+    <td>1 salle (toujours)</td>
+    <td>1 boss</td>
+    <td>
+      <p><mark style="color:red;"><strong>6 500 XP</strong></mark></p>
+      <p><mark style="color:green;"><strong>175 Sucres d'orge</strong></mark></p>
+    </td>
+  </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e8f5e9;">
+    <th><strong>Configuration</strong></th>
+    <th><strong>Mobs Normaux</strong></th>
+    <th><strong>Mini Boss</strong></th>
+    <th><strong>Boss Final</strong></th>
+    <th><strong>XP Total</strong></th>
+  </tr>
+  <tr style="background-color: #fff3e0;">
+    <td>⬇️ <strong>MINIMUM</strong><br><small>(6 salles normales)</small></td>
+    <td>288 mobs<br><mark style="color:green;"><strong>12 096 XP<br>4 320 Sucres d'orge</strong></mark></td>
+    <td>0 mini boss<br><mark style="color:yellow;"><strong>0 XP<br>0 Sucre d'orge</strong></mark></td>
+    <td>1 boss<br><mark style="color:red;"><strong>6 500 XP<br>175 Sucres d'orge</strong></mark></td>
+    <td><mark style="color:orange;"><strong>18 596 XP<br>4 495 Sucres d'orge</strong></mark></td>
+  </tr>
+  <tr style="background-color: #f3e5f5;">
+    <td>📊 <strong>MOYENNE</strong><br><small>(5 normales + 1 mini boss)</small></td>
+    <td>246 mobs<br><mark style="color:green;"><strong>10 332 XP<br>3 690 Sucres d'orge</strong></mark></td>
+    <td>1 mini boss<br><mark style="color:yellow;"><strong>2 800 XP<br>45 Sucres d'orge</strong></mark></td>
+    <td>1 boss<br><mark style="color:red;"><strong>6 500 XP<br>175 Sucres d'orge</strong></mark></td>
+    <td><mark style="color:purple;"><strong>~19 632 XP<br>~3 910 Sucres d'orge</strong></mark></td>
+  </tr>
+  <tr style="background-color: #e8f5e9;">
+    <td>⬆️ <strong>MAXIMUM</strong><br><small>(6 salles mini boss)</small></td>
+    <td>36 mobs<br><mark style="color:green;"><strong>1 512 XP<br>540 Sucres d'orge</strong></mark></td>
+    <td>6 mini boss<br><mark style="color:yellow;"><strong>16 800 XP<br>270 Sucres d'orge</strong></mark></td>
+    <td>1 boss<br><mark style="color:red;"><strong>6 500 XP<br>175 Sucres d'orge</strong></mark></td>
+    <td><mark style="color:green;"><strong>24 812 XP<br>985 Sucres d'orge</strong></mark></td>
+  </tr>
+</table>
 
 ## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
