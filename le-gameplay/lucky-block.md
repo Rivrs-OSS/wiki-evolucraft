@@ -4,17 +4,17 @@ description: Retrouvez ici toutes les informations concernant les lucky blocks
 
 # 🎲 Les Lucky Block
 
-Les <mark style="color:green;">**lucky blocks**</mark> sont des items ajoutés pour la <mark style="color:green;">**mise à jour de la Saint-Patrick 2026 🍀**</mark>, vous permettant d’obtenir des <mark style="color:green;">**récompenses variées**</mark>, allant de <mark style="color:green;">**items très rares comme des pets**</mark> à <mark style="color:green;">**une humiliation dans le chat public**</mark>.
+Les <mark style="color:green;">**lucky blocks**</mark> sont des items ajoutés pour la <mark style="color:green;">**mise à jour de la Saint-Patrick 2026 🍀**</mark>, vous permettant d’obtenir des <mark style="color:green;">**récompenses variées**</mark>, allant d' <mark style="color:green;">**items très rares comme des pets**</mark> à <mark style="color:green;">**une humiliation dans le chat public**</mark>.
 
 Ce système est conçu pour <mark style="color:green;">**jouer avec vos nerfs**</mark> et <mark style="color:green;">**tester votre chance**</mark> à travers un aspect du jeu que beaucoup apprécient : le <mark style="color:green;">**GAMBLING**</mark> ! ✨
 
 ## 💠 <mark style="color:green;">**Quels sont les moyens d'obtention d'un lucky blocks**</mark> 🎊
 
-Pour obtenir les <mark style="color:green;">**précieux sésames**</mark>, il existe <mark style="color:green;">**trois façons**</mark> d’en obtenir. Chaque méthode vous demandera de la <mark style="color:green;">**chance**</mark> mais également de l’<mark style="color:green;">**investissement en jeu**</mark>. À vous de choisir la meilleur stratégie qui vous correspond le mieux pour maximiser votre récolte !
+Pour obtenir les <mark style="color:green;">**précieux sésames**</mark>, il existe <mark style="color:green;">**trois façons**</mark> d’en obtenir. Chaque méthode vous demandera de la <mark style="color:green;">**chance**</mark> mais également de l’<mark style="color:green;">**investissement en jeu**</mark>. À vous de choisir la stratégie qui vous correspond le mieux pour maximiser votre récolte !
 
 ### 🔹 <mark style="color:blue;">La Pêche</mark> 🎣
 
-La <mark style="color:green;">**pêche**</mark> est enfin mise en avant dans une <mark style="color:green;">**mise à jour**</mark> où vous pouvez en obtenir <mark style="color:green;">**peu importe le monde**</mark> dans lequel vous êtes les lucky blocks. Mais attention, les <mark style="color:green;">**pourcentages sont assez faibles**</mark>, il faudra être <mark style="color:green;">**très chanceux**</mark> et <mark style="color:green;">**être très patient**</mark> pour en obtenir !
+La <mark style="color:green;">**pêche**</mark> est enfin mise en avant dans une <mark style="color:green;">**mise à jour**</mark> où vous pouvez obtenir ,<mark style="color:green;">**peu importe le monde**</mark> dans lequel vous êtes, les lucky blocks. Mais attention, les <mark style="color:green;">**pourcentages sont assez faibles**</mark>, il faudra être <mark style="color:green;">**très chanceux**</mark> et <mark style="color:green;">**être très patient**</mark> pour en obtenir !
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -31,7 +31,7 @@ La <mark style="color:green;">**pêche**</mark> est enfin mise en avant dans une
   <tr>
     <td>
       <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockGold.png" alt=""><figcaption></figcaption></figure></p>
-      <p><mark style="color:yellow;"><strong>Lucky Block Commun</strong></mark></p>
+      <p><mark style="color:yellow;"><strong>Lucky Block Gold</strong></mark></p>
     </td>
     <td><mark style="color:green;"><strong>0.29%</strong></mark></td>
   </tr>
@@ -237,7 +237,7 @@ Il existe <mark style="color:green;">**2 offres de packs**</mark>, limitées à 
 
 <figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockPacks.png" alt=""><figcaption>Interface du <strong><mark style="color:green;">/saintpatrick</mark></strong></figcaption></figure>
 
-## 💠 <mark style="color:green;">**Les récompenses possible**</mark> 🎁
+## 💠 <mark style="color:green;">**Les récompenses possibles**</mark> 🎁
 
 Il existe <mark style="color:green;">**2 types de lucky blocks**</mark> offrant chacun des <mark style="color:green;">**récompenses différentes**</mark>.
 
@@ -289,7 +289,7 @@ Mais alors, quelles sont les <mark style="color:green;">**récompenses possibles
   <tr>
     <td><mark style="color:green;"><strong>Carte de classe 🏹</strong></mark></td>
     <td>
-      <p><mark style="color:green;"><strong>1 Carte aléatoire de classe Commun</strong></mark> (1.50%)</p>
+      <p><mark style="color:green;"><strong>1 Carte aléatoire de classe Commune</strong></mark> (1.50%)</p>
       <p><mark style="color:yellow;"><strong>1 Carte aléatoire de classe Rare</strong></mark> (0.50%)</p>
     </td>
   </tr>
@@ -334,7 +334,7 @@ Mais alors, quelles sont les <mark style="color:green;">**récompenses possibles
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;"><strong>Items Rare ✨</strong></mark></td>
+    <td><mark style="color:green;"><strong>Items Rares ✨</strong></mark></td>
     <td>
       <p><mark style="color:green;"><strong>2 Blocks de Netherite</strong></mark> (0.50%)</p>
       <p><mark style="color:green;"><strong>1 Livre Mending</strong></mark> (0.40%)</p>
@@ -342,22 +342,22 @@ Mais alors, quelles sont les <mark style="color:green;">**récompenses possibles
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;"><strong>Items/Evènement Troll 😡</strong></mark></td>
+    <td><mark style="color:green;"><strong>Items/Evénement Troll 😡</strong></mark></td>
     <td>
       <p><mark style="color:green;"><strong>64 dirt</strong></mark> (8.00%)</p>
       <p><mark style="color:green;"><strong>64 cobblestone</strong></mark> (8.00%)</p>
       <p><mark style="color:green;"><strong>64 gravel</strong></mark> (7.00%)</p>
       <p><mark style="color:green;"><strong>Trésor Rare</strong></mark> (4.00%)</p>
       <p><mark style="color:green;"><strong>Repas Gastronomique</strong></mark> (4.00%)</p>
-      <p><mark style="color:green;"><strong>Abre de Noël</strong></mark> (4.00%)</p>
-      <p><mark style="color:green;"><strong>Montre Suisse très cher</strong></mark> (3.00%)</p>
+      <p><mark style="color:green;"><strong>Arbre de Noël</strong></mark> (4.00%)</p>
+      <p><mark style="color:green;"><strong>Montre Suisse très chère</strong></mark> (3.00%)</p>
       <p><mark style="color:green;"><strong>Poudre de perlinpinpin</strong></mark> (3.00%)</p>
       <p><mark style="color:green;"><strong>1 diamant</strong></mark> (2.50%)</p>
       <p><mark style="color:green;"><strong>Livre de Malédiction</strong></mark> (1.00%)</p>
-      <p><mark style="color:green;"><strong>Potion TOUT effets négatifs</strong></mark> (0.50%)</p>
+      <p><mark style="color:green;"><strong>Potion TOUS effets négatifs</strong></mark> (0.50%)</p>
       <p><mark style="color:green;"><strong>Chat flood</strong></mark> (2.50%)</p>
       <p><mark style="color:green;"><strong>Particules d'explosion</strong></mark> (2.45%)</p>
-      <p><mark style="color:green;"><strong>Brodcast de LOOSER 👀</strong></mark> (0.05%)</p>
+      <p><mark style="color:green;"><strong>Broadcast de LOOSER 👀</strong></mark> (0.05%)</p>
     </td>
   </tr>
 </table>
@@ -410,10 +410,10 @@ Mais alors, quelles sont les <mark style="color:green;">**récompenses possibles
   <tr>
     <td><mark style="color:green;"><strong>Carte de classe 🏹</strong></mark></td>
     <td>
-      <p><mark style="color:green;"><strong>1 Carte aléatoire de classe Commun</strong></mark> (3.70%)</p>
+      <p><mark style="color:green;"><strong>1 Carte aléatoire de classe Commune</strong></mark> (3.70%)</p>
       <p><mark style="color:yellow;"><strong>1 Carte aléatoire de classe Rare</strong></mark> (1.65%)</p>
       <p><mark style="color:blue;"><strong>1 Carte aléatoire de classe Épique</strong></mark> (0.35%)</p>
-      <p><mark style="color:purple;"><strong>1 Carte aléatoire de classe Légendaires</strong></mark> (0.10%)</p>
+      <p><mark style="color:purple;"><strong>1 Carte aléatoire de classe Légendaire</strong></mark> (0.10%)</p>
     </td>
   </tr>
   <tr>
@@ -461,37 +461,37 @@ Mais alors, quelles sont les <mark style="color:green;">**récompenses possibles
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;"><strong>Items Rare ✨</strong></mark></td>
+    <td><mark style="color:green;"><strong>Items Rares ✨</strong></mark></td>
     <td>
       <p><mark style="color:green;"><strong>1 Livre Mending</strong></mark> (2.19%)</p>
       <p><mark style="color:green;"><strong>2 Blocks de Netherite</strong></mark> (1.62%)</p>
       <p><mark style="color:red;"><strong>Pet Roi Leprechaun</strong></mark> (0.46%)</p>
       <p><mark style="color:red;"><strong>Booster Aléatoire</strong></mark> (0.25%)</p>
       <p><mark style="color:red;"><strong>Oeuf de Familier</strong></mark> (0.25%)</p>
-      <p><mark style="color:red;"><strong>Armes de classe d'Évènement Aléatoire</strong></mark> (0.25%)</p>
-      <p><mark style="color:red;"><strong>Outils d'Évènement Aléatoire</strong></mark> (0.25%)</p>
-      <p><mark style="color:red;"><strong>Armure d'Évènement Aléatoire</strong></mark> (0.25%)</p>
+      <p><mark style="color:red;"><strong>Armes de classe d'Événement Aléatoire</strong></mark> (0.25%)</p>
+      <p><mark style="color:red;"><strong>Outils d'Événement Aléatoire</strong></mark> (0.25%)</p>
+      <p><mark style="color:red;"><strong>Armure d'Événement Aléatoire</strong></mark> (0.25%)</p>
       <p><mark style="color:yellow;"><strong>1 Lucky Block Gold</strong></mark> (0.23%)</p>
-      <p><mark style="color:yellow;"><strong>Clé Aléatoire d'Évènement</strong></mark> (0.15%)</p>
+      <p><mark style="color:yellow;"><strong>Clé Aléatoire d'Événement</strong></mark> (0.15%)</p>
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;"><strong>Items/Evènement Troll 😡</strong></mark></td>
+    <td><mark style="color:green;"><strong>Items/Evénement Troll 😡</strong></mark></td>
     <td>
       <p><mark style="color:green;"><strong>64 dirt</strong></mark> (8.00%)</p>
       <p><mark style="color:green;"><strong>64 cobblestone</strong></mark> (8.00%)</p>
       <p><mark style="color:green;"><strong>64 gravel</strong></mark> (7.00%)</p>
       <p><mark style="color:green;"><strong>Trésor Rare</strong></mark> (4.00%)</p>
       <p><mark style="color:green;"><strong>Repas Gastronomique</strong></mark> (4.00%)</p>
-      <p><mark style="color:green;"><strong>Abre de Noël</strong></mark> (4.00%)</p>
-      <p><mark style="color:green;"><strong>Montre Suisse très cher</strong></mark> (3.00%)</p>
+      <p><mark style="color:green;"><strong>Arbre de Noël</strong></mark> (4.00%)</p>
+      <p><mark style="color:green;"><strong>Montre Suisse très chère</strong></mark> (3.00%)</p>
       <p><mark style="color:green;"><strong>Poudre de perlinpinpin</strong></mark> (3.00%)</p>
       <p><mark style="color:green;"><strong>1 émeraude</strong></mark> (2.50%)</p>
       <p><mark style="color:green;"><strong>Livre de Malédiction</strong></mark> (1.00%)</p>
-      <p><mark style="color:green;"><strong>Potion TOUT effets négatifs</strong></mark> (0.50%)</p>
+      <p><mark style="color:green;"><strong>Potion TOUS effets négatifs</strong></mark> (0.50%)</p>
       <p><mark style="color:green;"><strong>Chat flood</strong></mark> (2.50%)</p>
       <p><mark style="color:green;"><strong>Particules d'explosion</strong></mark> (2.45%)</p>
-      <p><mark style="color:green;"><strong>Brodcast de LOOSER 👀</strong></mark> (0.05%)</p>
+      <p><mark style="color:green;"><strong>Broadcast de LOOSER 👀</strong></mark> (0.05%)</p>
     </td>
   </tr>
 </table>
