@@ -77,7 +77,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
 
 <table>
 <tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Nom de l'Arme 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
@@ -153,7 +153,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +3</mark></td></p>
     </td>
-    <td><mark style="color:green;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:green;">5%</mark> de chance d'<mark style="color:green;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:green;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:green;">5%</mark> de chance d'<mark style="color:green;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <mark style="color:green;">Donjon Commun (Biome Jungle)</mark></p>
      <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
@@ -166,7 +166,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +6</mark></td></p>
     </td>
-    <td><mark style="color:yellow;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:yellow;">10%</mark> de chance d'<mark style="color:yellow;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:yellow;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:yellow;">10%</mark> de chance d'<mark style="color:yellow;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
      <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
@@ -180,7 +180,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +9</mark></td></p>
     </td>
-    <td><mark style="color:blue;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:blue;">15%</mark> de chance d'<mark style="color:blue;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:blue;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:blue;">15%</mark> de chance d'<mark style="color:blue;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
@@ -193,7 +193,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡️️ Force +35</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +15</mark></td></p>
     </td>
-    <td><mark style="color:purple;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:purple;">20%</mark> de chance d'<mark style="color:purple;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:purple;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:purple;">20%</mark> de chance d'<mark style="color:purple;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
@@ -205,7 +205,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
     </td>
-    <td><mark style="color:red;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:red;">25%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:red;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:red;">25%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
@@ -281,7 +281,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
 
 <table>
 <tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Nom de l'Arme 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
@@ -415,11 +415,11 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
   </tr>
 </table>
 
-### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>
+### 🔸 <mark style="color:green;">**Armes des Événements**</mark>
 
 <table>
 <tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Nom de l'Arme 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
@@ -452,11 +452,11 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +5</mark></p>
     </td>
-    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssales</mark></td>
+    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssaux</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -470,7 +470,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween"><mark style="color:orange;">Caisse Halloween 🎃</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -484,7 +484,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -498,7 +498,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin"><mark style="color:red;">Caisse Saint-Valentin 💕</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -512,7 +512,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -527,7 +527,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -541,7 +541,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr> 
   <tr>
@@ -551,11 +551,11 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
-    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glacial</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
