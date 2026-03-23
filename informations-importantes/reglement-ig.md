@@ -46,7 +46,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
   * Les téléportation de donjons -> Catégorie Donjon (Nous tolérons les messages de publicité de téléportations de donjons auxuquelles ces deux conditions ne sont pas réunis : Avoir le level pour réaliser le donjon ainsi que faire le donjon)
 
 {% hint style="info" %}
-Cependant, vous pouvez activer <mark style="color:white;">[l'option du message automatique](https://wiki.evolucraft.fr/foire-aux-questions/creation-pub#etape-bonus)</mark> dans le **`/pub`**. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
+Cependant, vous pouvez activer [l'option du message automatique](https://wiki.evolucraft.fr/foire-aux-questions/creation-pub#etape-bonus) dans le **`/pub`**. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
 {% endhint %}
 
 ### <mark style="color:green;">Article B : Un langage respectueux</mark>
@@ -106,12 +106,12 @@ Cette liste n'est pas exhaustive.
 * La création de casino est interdite.
 * Un joueur dans plusieurs ville ne peut pas participer à comptabiliser des étoiles dans le classement ville avec plus d'une ville.
 * Certains items sont interdit à la vente si il remplissent au moins une de ces conditions, même issue dans des shulkers vendues :
-   * Vente de cosmétiques (issue d'un use bug)
-   * Items renommés (Nous tolérons les shulker renommées à condition que la descriptions correspond à son contenant)
-   * Fausses clés
-   * Tête ressemblant à des block vanilla, de tête de staff
-   * Items exclusifs désanchantés
-   * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme ou Parchemins expirées aux moments de la vente, ect...)
+  * Vente de cosmétiques (issue d'un use bug)
+  * Items renommés (Nous tolérons les shulker renommées à condition que la descriptions correspond à son contenant)
+  * Fausses clés
+  * Tête ressemblant à des block vanilla, de tête de staff
+  * Items exclusifs désanchantés
+  * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme ou Parchemins expirées aux moments de la vente, ect...)
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
 
 {% hint style="warning" %}
@@ -184,7 +184,7 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 
 ### <mark style="color:green;">Article F : L'AFK & Inactivité</mark>
 
-* L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon <mark style="color:white;">[votre grade](https://wiki.evolucraft.fr/le-gameplay/les-grades#quels-sont-les-atouts-de-chaque-grade)</mark> **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté à la zone du /afk au spawn.
+* L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon [votre grade](https://wiki.evolucraft.fr/le-gameplay/les-grades#quels-sont-les-atouts-de-chaque-grade) **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté à la zone du /afk au spawn.
 * Il est interdit d’automatiser des actions afin de contourner l’anti-AFK automatique du serveur : (macros, mods, etc.), sous peine de sanctions.
 * L'AFK de manière indéfinie est autorisé uniquement dans le /afk
 
@@ -192,28 +192,31 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.
 {% endhint %}
 
-#### * <mark style="color:green;">Disband et transfert de lead de ville :</mark>
-  * Lorsque vous prévoyez une absence prolongée de plus d’un mois, merci de nous en informer en plaçant une pancarte au spawn de votre ville et en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
-  * Au bout d’un mois d’inactivité de tous les joueurs d’une ville et/ou sous certaines conditions, nous nous réservons le droit d’unclaim la ville. Un joueur proche de cette ville peut également demander l’unclaim en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
-  * Vous pouvez désormais récupérer le lead d’une ville sous les conditions suivantes :
-    * **Le maire est totalement inactif depuis 60 jours**.
-    * **Le maire ne répond pas sur Discord et/ou est totalement injoignable**.
-    * **Seul un membre de la ville peut faire la demande pour récupérer la ville**.
-    * **Ne pas être encore maire d'une autre ville**.
+#### \* <mark style="color:green;">Disband et transfert de lead de ville :</mark>
 
-#### * <mark style="color:green;">Les Coffres Privatisés :</mark>
-  * Lorsque vous trouvez un coffre privatisé par un joueur, vous ne pouvez pas en récupérer le contenu, peu importe son inactivité.
-  * Lorsque vous souhaitez supprimer un coffre privatisé qui n'est pas le votre, nous vous invitons à [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532) en indiquant les coordonnées de ce dernier.
-  * Il est interdit d’usebug afin de récupérer son contenu sans avoir été invité dans le coffre.
+* Lorsque vous prévoyez une absence prolongée de plus d’un mois, merci de nous en informer en plaçant une pancarte au spawn de votre ville et en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
+* Au bout d’un mois d’inactivité de tous les joueurs d’une ville et/ou sous certaines conditions, nous nous réservons le droit d’unclaim la ville. Un joueur proche de cette ville peut également demander l’unclaim en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
+* Vous pouvez désormais récupérer le lead d’une ville sous les conditions suivantes :
+  * **Le maire est totalement inactif depuis 60 jours**.
+  * **Le maire ne répond pas sur Discord et/ou est totalement injoignable**.
+  * **Seul un membre de la ville peut faire la demande pour récupérer la ville**.
+  * **Ne pas être encore maire d'une autre ville**.
+
+#### \* <mark style="color:green;">Les Coffres Privatisés :</mark>
+
+* Lorsque vous trouvez un coffre privatisé par un joueur, vous ne pouvez pas en récupérer le contenu, peu importe son inactivité.
+* Lorsque vous souhaitez supprimer un coffre privatisé qui n'est pas le votre, nous vous invitons à [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532) en indiquant les coordonnées de ce dernier.
+* Il est interdit d’usebug afin de récupérer son contenu sans avoir été invité dans le coffre.
 
 ### <mark style="color:green;">Article G : Triche et usebugs</mark>
 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
+  * De même, en avoir connaissance et ne pas partager l'information est tout autant sanctionnable.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
 * Le poser-casser afin d'XP les jobs, farmium ou pour tout autre usage est interdit, sauf pour réaliser les parchemins.
   * Par exemple : il est interdit de poser une buche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
-  * A contrario : il est autorisé de poser des minerais et de les récupérer avec fortune (sans utiliser cela pour le pass et pour les jobs). 
+  * A contrario : il est autorisé de poser des minerais et de les récupérer avec fortune (sans utiliser cela pour le pass et pour les jobs).
 
 ### <mark style="color:green;">Article H : Les donjons</mark>
 
