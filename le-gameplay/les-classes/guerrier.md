@@ -77,7 +77,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
 
 <table>
 <tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Nom de l'Arme 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
@@ -344,7 +344,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
 
 <table>
 <tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Nom de l'Arme 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
@@ -476,11 +476,11 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     </tr>
 </table>
 
-### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>
+### 🔸 <mark style="color:green;">**Armes des Événements**</mark>
 
 <table>
 <tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Nom de l'Arme 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
@@ -517,7 +517,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-draconique"><mark style="color:orange;">Caisse Draconique 🐉</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -527,11 +527,11 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +20</mark></p>
      <p><mark style="color:red;">❤️ Vie +45</mark></p>
     </td>
-    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssales</mark></td>
+    <td><mark style="color:blue;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:blue;">+5% de dégâts</mark> dans les donjons <mark style="color:blue;">abyssaux</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal"><mark style="color:blue;">Caisse Abyssale 🌊</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -545,7 +545,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween"><mark style="color:orange;">Caisse Halloween 🎃</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -559,7 +559,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givree"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree"><mark style="color:blue;">Caisse Givrée ❄️</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -573,7 +573,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin"><mark style="color:red;">Caisse Saint-Valentin 💕</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -587,7 +587,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques"><mark style="color:yellow;">Caisse Pâques 🥚</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -602,7 +602,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -616,7 +616,7 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr> 
   <tr>
@@ -626,11 +626,11 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:red;">❤️ Vie +115</mark></p>
     </td>
-    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glacial</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
-      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Arme Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
