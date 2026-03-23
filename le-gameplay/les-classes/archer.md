@@ -65,7 +65,7 @@ Invoquez l'esprit d'un arc qui tire plusieurs flèches sur la cible.
 * <mark style="color:green;">**Mana**</mark>**:** 150
 * <mark style="color:green;">**Dégâts**</mark>**:** 325,2
 
-### 🔸 <mark style="color:green;">**Niveau 40: Tire du Dragon**</mark>
+### 🔸 <mark style="color:green;">**Niveau 40: Tir du Dragon**</mark>
 
 Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers la cible.
 
@@ -79,7 +79,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
 
 <table>
 <tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Nom de l'Arme 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
@@ -150,7 +150,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +5</mark></p>
     </td>
-    <td><mark style="color:green;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:green;">5%</mark> de chance d'<mark style="color:green;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:green;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:green;">5%</mark> de chance d'<mark style="color:green;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <mark style="color:green;">Donjon Commun (Biome Jungle)</mark></p>
      <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
@@ -162,7 +162,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +11</mark></p>
     </td>
-    <td><mark style="color:yellow;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:yellow;">10%</mark> de chance d'<mark style="color:yellow;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:yellow;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:yellow;">10%</mark> de chance d'<mark style="color:yellow;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <mark style="color:yellow;">Donjon Rare (Biome Jungle)</mark></p>
      <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
@@ -175,7 +175,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
     </td>
-    <td><mark style="color:blue;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:blue;">15%</mark> de chance d'<mark style="color:blue;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:blue;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:blue;">15%</mark> de chance d'<mark style="color:blue;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <mark style="color:blue;">Donjon Épique (Biome Jungle)</mark></p>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
@@ -187,7 +187,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +35</mark></p>
     </td>
-    <td><mark style="color:purple;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:purple;">20%</mark> de chance d'<mark style="color:purple;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:purple;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:purple;">20%</mark> de chance d'<mark style="color:purple;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
@@ -198,7 +198,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
     </td>
-    <td><mark style="color:red;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:red;">25%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemie</td>
+    <td><mark style="color:red;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:red;">25%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
@@ -272,7 +272,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
 
 <table>
 <tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Nom de l'Arme 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
@@ -408,7 +408,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
 
 <table>
 <tr>
-    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Nom de l'Arme 🏷️</strong></th>
     <th><strong>Rareté ou Collection 🌟</strong></th>
     <th><strong>Statistiques 📊</strong></th>
     <th><strong>Effets ✨</strong></th>
@@ -554,7 +554,7 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
-    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glacial</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
