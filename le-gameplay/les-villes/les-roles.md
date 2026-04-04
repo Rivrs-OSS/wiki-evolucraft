@@ -75,8 +75,8 @@ ATTENTION ⚠️ : Certaines actions sont activées ou désactivées par défaut
 **Dans cette interface, plusieurs actions peuvent être réalisées sur les joueurs. Pour effectuer l’action souhaitée, il vous suffit de suivre l’indication lorsque vous passez la souris sur la tête du joueur :**
 
 * <mark style="color:green;">**Accéder 🖼️**</mark> : <mark style="color:green;">Clique Gauche</mark> de la souris —> Permet de voir le /profile du joueur.
-* <mark style="color:green;">**Promouvoir ⏫**</mark> : Touche <mark style="color:green;">Sneak</mark> + <mark style="color:green;">Clique Gauche</mark> de la souris —> Permet d’attribuer un rôle supérieur au joueur.
-* <mark style="color:green;">**Destituer ⏬**</mark> : Touche <mark style="color:green;">Sneak</mark> + <mark style="color:green;">Clique Droit</mark> de la souris —> Permet de rétrograder le rôle du joueur.
+* <mark style="color:green;">**Promouvoir ⏫**</mark> : Touche <mark style="color:green;">Sneak</mark> + <mark style="color:green;">Clic Gauche</mark> de la souris —> Permet d’attribuer un rôle supérieur au joueur.
+* <mark style="color:green;">**Destituer ⏬**</mark> : Touche <mark style="color:green;">Sneak</mark> + <mark style="color:green;">Clic Droit</mark> de la souris —> Permet de rétrograder le rôle du joueur.
 
 <figure><img src="../../.gitbook/assets/Les_Villes/Role/InterfaceMembre.png" alt=""><figcaption></figcaption></figure>
 

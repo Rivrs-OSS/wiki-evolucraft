@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations concernant les coffres de vente
+description: Retrouvez ici toutes les informations concernant les coffres de vente.
 ---
 
 # 🛒 Créer un shop
@@ -37,7 +37,7 @@ Sur le <mark style="color:green;"><strong>serveur</strong></mark>, vous pouvez a
 Et voilà ! Votre coffre de vente est créé 🤩 !
 
 ### <mark style="color:green;">**🏷️ Créer un coffre de rachat**</mark>
-* <mark style="color:green;">**Étape 1️⃣ :**</mark> Réaliser les mêmes étapes pour faire un coffre de vente, tout en mettant votre prix d'achat à la place du prix de vente.
+* <mark style="color:green;">**Étape 1️⃣ :**</mark> Réaliser les mêmes étapes que pour faire un coffre de vente, tout en mettant votre prix d'achat à la place du prix de vente.
 * <mark style="color:green;">**Étape 2️⃣ :**</mark> Tapez **`/qs buy`** pour transformer votre coffre de vente en coffre d'achat.
 
 <figure><img src="../../.gitbook/assets/Les_Villes/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu d'un <mark style="color:green;">coffre de vente d'item</mark></strong></p></figcaption></figure>

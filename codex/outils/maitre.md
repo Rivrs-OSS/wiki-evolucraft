@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici toutes la liste de tout les Outils de Maître présents sur le
+  Retrouvez ici la liste de tous les Outils de Maître présents sur le
   serveur.
 ---
 
@@ -10,14 +10,94 @@ description: >-
 
 Les <mark style="color:green;">outils des Métiers</mark> s'obtiennent dans les [<mark style="color:green;">**paliers de métiers**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers#progression) en les récupérant avec la commande <mark style="color:green;">**`/jobs claim`**</mark>.
 
-## 🔷 <mark style="color:blue;">Son aperçue 🔍</mark>
+## 🔷 <mark style="color:blue;">Son aperçu 🔍</mark>
 
 ### 🔹 Outils de Métiers
 
-|                                                                                                       **Nom 🏷️**                                                                                                      |                                                                **Enchentement 📖**                                                               |                                        **Durabilité 📏**                                        |                                                                                                                **Effet ✨**                                                                                                               |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         <p><mark style="color:blue;"><strong>Épée du Maître Chasseur</strong></mark></p><div><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Epee.png" alt=""><figcaption></figcaption></figure></div>        |     <p>▸ <mark style="color:blue;"><strong>Tranchant VI</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Butin V</strong></mark></p>    | <mark style="color:blue;">**3 000**</mark> de <mark style="color:blue;">**Durabilitées**</mark> |                                                                              ▸ <mark style="color:blue;">**Effet Dextérité**</mark> : Frappe 15% plus vite.                                                                              |
-|        <p><mark style="color:blue;"><strong>Pioche du Maître Mineur</strong></mark></p><div><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Pioche.png" alt=""><figcaption></figcaption></figure></div>       |  <p>▸ <mark style="color:blue;"><strong>Efficacité VII</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Fortune IV</strong></mark></p>  | <mark style="color:blue;">**2 500**</mark> de <mark style="color:blue;">**Durabilitées**</mark> |                                                                             _<strong><mark style="color:blue;">Aucun Effet</mark> Supplémentaire ❌</strong>_                                                                             |
-|        <p><mark style="color:blue;"><strong>Hache du Maître Bûcheron</strong></mark></p><div><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Hache.png" alt=""><figcaption></figcaption></figure></div>       |                                              ▸ <mark style="color:blue;">**Efficaciter VII**</mark>                                              | <mark style="color:blue;">**3 000**</mark> de <mark style="color:blue;">**Durabilitées**</mark> |                                                                             _<strong><mark style="color:blue;">Aucun Effet</mark> Supplémentaire ❌</strong>_                                                                             |
-|         <p><mark style="color:blue;"><strong>Houe du Maître Fermier</strong></mark></p><div><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/Houe.png" alt=""><figcaption></figcaption></figure></div>         |                                                ▸ <mark style="color:blue;">**Efficacité V**</mark>                                               | <mark style="color:blue;">**6 000**</mark> de <mark style="color:blue;">**Durabilitées**</mark> | <p>▸ <mark style="color:blue;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p><p>▸ <mark style="color:blue;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 3X3.</p> |
-| <p><mark style="color:blue;"><strong>Canne à pêche du Maître Pêcheur</strong></mark></p><div><figure><img src="../.gitbook/assets/Codex/Outils/Maitre/CanneAPeche.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:blue;"><strong>Chance de la Mer IV</strong></mark></p><p>▸ <mark style="color:blue;"><strong>Appât V</strong></mark></p> | <mark style="color:blue;">**1 000**</mark> de <mark style="color:blue;">**Durabilitées**</mark> |                                                                   ▸ <mark style="color:blue;">**Effet Pêche**</mark> : Vous avez 10% de chance de doubler votre pêche.                                                                   |
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
+    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
+    <td align="center"><strong><ins>Effet</ins> ✨</strong></td> 
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>Épée du Maître Chasseur</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/Epee.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:blue;"><strong>Tranchant VI</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Butin V</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p><strong><mark style="color:blue;">Effet Dextérité</mark></strong> : Tappe 15% plus vite</p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>Pioche sompteueusedu Maître Mineur</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/Pioche.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:blue;"><strong>Efficacité VII</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Fortune IV</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>2 500</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p><strong><mark style="color:blue;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
+   </td>
+  </tr>  
+  <tr>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>Hache du Maître Bûcheron</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/Hache.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:blue;"><strong>Efficacité VII</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>3 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p><strong><mark style="color:blue;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>Houe du Maître Fermier</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/Houe.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:blue;"><strong>Efficacité V</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>6 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>  
+    <p>▸ <mark style="color:blue;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
+    <p>▸ <mark style="color:blue;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 3X3.</p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>Canne à Pêche du Maître Pêcheur</strong></mark></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Maitre/CanneAPeche.png" alt=""></figure></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:blue;"><strong>Chance de la Mer IV</strong></mark></p>
+     <p>▸ <mark style="color:blue;"><strong>Appât V</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:blue;"><strong>1 000</strong></mark> de <mark style="color:blue;"><strong>Durabilitées</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:blue;"><strong>Effet Pêche</strong></mark> : Vous avez 10% de chance de doubler votre pêche.</p>
+   </td>
+  </tr>
+</table>

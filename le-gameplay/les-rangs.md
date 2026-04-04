@@ -38,7 +38,8 @@ Déposez vos items dans la liste des <mark style="color:green;">**prérequis**</
 <figure><img src="../.gitbook/assets/Rang/ValidationUnPreRequis.png" alt=""><figcaption><p><strong><code>Validation d'un </code></strong><mark style="color:green;"><strong><code>Pré-requis d'un rang</code></strong></mark></p></figcaption></figure>
 
 ### 🔸 Étape 5
-Une fois tous les <mark style="color:green;">**prérequis validés**</mark> (items, argent, XP vanilla, métiers), le <mark style="color:green;">**cadenas**</mark> s’ouvrira et vous pourrez ensuite cliquez dessus pour <mark style="color:green;">**valider votre rang**</mark> et le dévérouiller.  
+Une fois tous les <mark style="color:green;">**prérequis validés**</mark> (items, argent, XP vanilla, métiers), le <mark style="color:green;">**cadenas**</mark> s’ouvrira et vous pourrez ensuite cliquer dessus pour <mark style="color:green;">**valider votre rang**</mark> et le déverrouiller.  
+ 
 <figure><img src="../.gitbook/assets/Rang/ValidationRangs.png" alt=""><figcaption><p><strong><code>Montre la possibilité de </code></strong><mark style="color:green;"><strong><code>dévérouiller un rang</code></strong></mark></p></figcaption></figure>
 
 **Et voilà, vous venez de passer un rang ! Recommencez pour continuer à progresser.**
@@ -152,4 +153,4 @@ Une fois tous les <mark style="color:green;">**prérequis validés**</mark> (ite
 * Accès à <mark style="color:green;">**18 emplacements de vente 🏬**</mark>  
 * Accès à <mark style="color:green;">**70 coffres de vente 🔖**</mark>  
 
-**🎉 Et voilà, vous connaissez désormais tous les <mark style="color:green;">avantages</mark> de chaque <mark style="color:green;">rang</mark> !**
+**🎉 Et voilà, vous connaissez désormais les <mark style="color:green;">avantages</mark> de chaque <mark style="color:green;">rang</mark> !**

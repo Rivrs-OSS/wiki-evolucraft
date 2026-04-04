@@ -1,18 +1,18 @@
 ---
-description: Retrouvez ici toutes la liste de tout les Outils présents sur le serveur.
+description: Retrouvez ici la liste de tous les Outils présents sur le serveur.
 ---
 
 # 🛠️ Les Outils
 
 ## 💠 <mark style="color:green;">Quelques informations... ?</mark> 📃
 
-Les <mark style="color:green;">**Outils**</mark>, en plus de sa fonction principale, vous offrent également des enchantements qui sont, pour certains, non possible en vanilla. Mais également des effets pouvant faciliter votre farm du métier.
+Les <mark style="color:green;">**Outils**</mark>, en plus de leur fonction principale, vous offrent également des enchantements qui sont, pour certains, non possibles en vanilla. Mais également des effets pouvant faciliter votre farm du métier.
 
-Également, les différentes <mark style="color:green;">**outils**</mark> vous permettent de compléter votre **<mark style="color:green;">`/collection`</mark>** afin d’obtenir un <mark style="color:green;">**tag exclusif**</mark> lorsque la <mark style="color:green;">**collection complète**</mark> a été réunie. Cela ajoute un objectif supplémentaire pour les joueurs souhaitant <mark style="color:green;">**collectionner et se démarquer**</mark> sur le serveur.
+Également, les différents <mark style="color:green;">**outils**</mark> vous permettent de compléter votre **<mark style="color:green;">`/collection`</mark>** afin d’obtenir un <mark style="color:green;">**tag exclusif**</mark> lorsque la <mark style="color:green;">**collection complète**</mark> a été réunie. Cela ajoute un objectif supplémentaire pour les joueurs souhaitant <mark style="color:green;">**collectionner et se démarquer**</mark> sur le serveur.
 
 Ces <mark style="color:green;">**différents outils**</mark> sont trouvables dans différentes [<mark style="color:green;">**caisses du serveur**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses), lors des <mark style="color:green;">**événements temporaires**</mark>, dans les [<mark style="color:green;">**Récompenses de métiers**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-metiers#progression) ou encore [<mark style="color:green;">**l'hôtel de vente**</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
-Les <mark style="color:green;">**outils non vanilla**</mark> sont <mark style="color:green;">**réparables**</mark> avec la commande <mark style="color:green;">**`/forgeron`**</mark>, contre de <mark style="color:green;">**l'argent**</mark> et des <mark style="color:green;">**levels d'expériences vanilla**</mark> qui vous seront affiché à la réalisation de la commande avec l'outil en main <mark style="color:green;">**SAUF pour les outils de l'Aventurier**</mark>.
+Les <mark style="color:green;">**outils non vanilla**</mark> sont <mark style="color:green;">**réparables**</mark> avec la commande <mark style="color:green;">**`/forgeron`**</mark>, contre de <mark style="color:green;">**l'argent**</mark> et des <mark style="color:green;">**levels d'expériences vanilla**</mark> qui vous seront affichés à la réalisation de la commande avec l'outil en main <mark style="color:green;">**SAUF pour les outils de l'Aventurier**</mark>.
 
 ## 💠 <mark style="color:green;">Liste des Outils existantes ?</mark> 📑
 
@@ -36,12 +36,18 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
   * 🌊 [<mark style="color:blue;"><strong>Outils Abyssaux</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-abyssaux)
   * 🏴‍☠️ [<mark style="color:yellow;"><strong>Outils Conquistadors</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-conquistadors)
   * 🧊 [<mark style="color:blue;"><strong>Outils des Glaces</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-des-glaces)
-  * 💕 [<mark style="color:red;"><strong>Outils Cupidons</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-cupidon)
+  * 👼 [<mark style="color:red;"><strong>Outils Cupidons</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-cupidon)
   * 🍀 [<mark style="color:green;"><strong>Outils du Leprechaun</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-du-leprechaun)
   * 🦴 [<mark style="color:orange;"><strong>Outils de l'Archéologue</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-de-larchéologue)
   * 🍪 [<mark style="color:red;"><strong>Outils Pain d'épice</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses#outils-pain-dépice)
+  * 🎑 [<mark style="color:green;"><strong>Outils de Jade</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/caisses##outils-de-jade)
+* 🧊 [<mark style="color:blue;"><strong>Outils des Glaces</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/glaces)
 * 🐍 [<mark style="color:green;"><strong>Outils du Serpent</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/serpent)
+* 💕 [<mark style="color:red;"><strong>Outils de l'Amour</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/amour)
+* 👼 [<mark style="color:red;"><strong>Outils du Cupidon</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/cupidon)
+* 🍀 [<mark style="color:green;"><strong>Outils du Leprechaun</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/leprechaun)
 * ⚙️ [<mark style="color:orange;"><strong>Outils HolyCube</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/holycube)
+* 🥚 [<mark style="color:yellow;"><strong>Outils de Pâques</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/paques2025)
 * 🐲 [<mark style="color:red;"><strong>Outils Draconique édition 2025</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/draconique2025)
 * 🐉 [<mark style="color:blue;"><strong>Outils Saphira</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/saphira)
 * 💫 [<mark style="color:blue;"><strong>Outils Sompteueux</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/sompteueux)
@@ -52,7 +58,7 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous pouvez désormais ajouter des <mark style="color:green;">**avantages spéciaux**</mark> à vos outils ou armes lorsque vous les tenez en main. Cette fonctionnalité est particulièrement utile pour <mark style="color:green;">**optimiser vos performances**</mark> sans dépendre constamment de vos <mark style="color:green;">**pets à effet**</mark>. Ces bonus apportent une nouvelle dimension stratégique à votre gameplay, vous permettant d’adapter vos outils/armes à votre <mark style="color:green;">**style de jeu et vos besoins**</mark> selon la situation.
 
 > [!NOTE]
-> <mark style="color:green;"><strong>Ces items d'aventage</strong></mark> ne <mark style="color:green;"><strong>peuvent pas être appliqué</strong></mark> sur les <mark style="color:green;"><strong>différents Sceptres</strong></mark>, <mark style="color:green;"><strong>Baton du Vent</strong></mark> ou encore <mark style="color:green;"><strong>Armures</strong></mark> (Elytre y compris). 
+> <mark style="color:green;"><strong>Ces items d'avantage</strong></mark> ne <mark style="color:green;"><strong>peuvent pas être appliqués</strong></mark> sur les <mark style="color:green;"><strong>différents Sceptres</strong></mark>, <mark style="color:green;"><strong>Bâtons du Vent</strong></mark> ou encore <mark style="color:green;"><strong>Armures</strong></mark> (Elytre y compris). 
 
 ### 🛡️ ◦ <mark style="color:green;">Adamantium</mark>
 <table border="1" cellspacing="0" cellpadding="6">
@@ -65,7 +71,7 @@ Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous p
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></td>
   </tr>
   <tr>
-   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoël.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium de Noël</mark></strong></p></figcaption></figure></td>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoel.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium de Noël</mark></strong></p></figcaption></figure></td>
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></td>
   </tr>
 </table>
@@ -75,10 +81,10 @@ L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark sty
 ### ✨ ◦ <mark style="color:green;">Poussière d'Étoile</mark>
 <figure align="left"><img src="../../.gitbook/assets/Codex/Outils/PoussiereEtoile.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Poussière d'Étoile</mark></strong></p></figcaption></figure>
 
-La <mark style="color:green;">**Poussière d'Étoile**</mark> vous proccura des [<mark style="color:green;">**effets de Minecraft Vanilla**</mark>](https://fr.minecraft.wiki/w/Effet) et sont exclusivement <mark style="color:green;">**positifs**</mark>. Vous n’avez donc aucune crainte d'avoir comme <mark style="color:green;">**poison**</mark> sur votre <mark style="color:green;">**pioche évolutive**</mark> 😌.
+La <mark style="color:green;">**Poussière d'Étoile**</mark> vous procurera des [<mark style="color:green;">**effets de Minecraft Vanilla**</mark>](https://fr.minecraft.wiki/w/Effet) et sont exclusivement <mark style="color:green;">**positifs**</mark>. Vous n’avez donc aucune crainte d'avoir comme <mark style="color:green;">**poison**</mark> sur votre <mark style="color:green;">**pioche évolutive**</mark> 😌.
 
 > [!WARNING]
-> L'action de l'appliquer est irréverssible. C'est à dire, qu'une fois appliqué, vous ne pouvez plus modifié son effet ni le retiré.
+> L'action d'application est irréversible. C'est-à-dire qu'une fois appliqué, vous ne pouvez plus modifier son effet ni le retirer.
 
 
 

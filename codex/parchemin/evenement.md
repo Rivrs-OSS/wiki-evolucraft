@@ -1,14 +1,16 @@
 ---
-description: Retrouvez ici la liste des parchemins issue d'évènement présents sur le serveur
+
+description: Retrouvez ici la liste des parchemins issus d'événements présents sur le serveur
+
 ---
 
-# 🌟 Parchemins évènement
+# 🌟 Parchemins événement
 
 ## 🔸 <mark style="color:blue;">Parchemin Abyssal 🌊</mark>
 
 ### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs façons, dont :
 * **Les récompenses du [Donjon  Abyssal 🌊](https://wiki.evolucraft.fr/codex/donjons/abyssal)**
 * **La Caisse [Summer 2025 🏖️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer)**
 
@@ -17,7 +19,7 @@ Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs fa�
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**1 Pince de crabe**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal))* |
-| <mark style="color:blue;">**1 Clé Abyssal**</mark>                                             |
+| <mark style="color:blue;">**1 Clé Abyssale**</mark>                                             |
 | <mark style="color:blue;">**Spawner à Vache**</mark>                                           | 
 | <mark style="color:blue;">**Spawner à Poule**</mark>                                           | 
 | <mark style="color:blue;">**Spawner à Squelette**</mark>                                       | 
@@ -48,7 +50,7 @@ Le <mark style="color:blue;">Parchemin Abyssal</mark> s'obtient de plusieurs fa�
 
 ### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs façons, dont :
 * **Les récompenses du [Donjon Halloween 🧛](https://wiki.evolucraft.fr/codex/donjons/halloween)**
 * **La Caisse [Halloween 🎃](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-halloween)**
 
@@ -57,8 +59,8 @@ Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs
 | **Récompense**                                                                                |
 | --------------------------------------------------------------------------------------------- |
 | <mark style="color:orange;">**1 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*  |
-| <mark style="color:orange;">**2 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*  |
-| <mark style="color:orange;">**10 Citrouille Scintillante**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))* |
+| <mark style="color:orange;">**2 Citrouilles Scintillantes**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))*  |
+| <mark style="color:orange;">**10 Citrouilles Scintillantes**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween))* |
 | <mark style="color:orange;">**1 Clé Halloween**</mark>                                          |
 | <mark style="color:orange;">**Spawner à Squelette**</mark>                                      | 
 | <mark style="color:orange;">**Spawner à Zombie**</mark>                                         |
@@ -92,7 +94,7 @@ Le <mark style="color:orange;">Parchemin Halloween</mark> s'obtient de plusieurs
 
 ### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs façons, dont :
 * **Les récompenses des [Donjon Givrée Commun ❄️](https://wiki.evolucraft.fr/codex/donjons/givre15) et [Donjon Givrée Épique 🌟](https://wiki.evolucraft.fr/codex/donjons/givre40)**
 * **La Caisse [Givrée ❄️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**
 
@@ -134,7 +136,7 @@ Le <mark style="color:blue;">Parchemin Givré</mark> s'obtient de plusieurs faç
 
 ### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs façons, dont :
 * **Les récompenses des [Donjon Amour ❤️](https://wiki.evolucraft.fr/codex/donjons/amour) et [Donjon Cupidon 🏹](https://wiki.evolucraft.fr/codex/donjons/cupidon)**
 * **La Caisse [St-Valentin 💕](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin)**
 
@@ -176,7 +178,7 @@ Le <mark style="color:red;">Parchemin de l'Amour</mark> s'obtient de plusieurs f
 
 ### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-Le <mark style="color:yellow;">Parchemin Terrier du Roi Lapin</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:yellow;">Parchemin Terrier du Roi Lapin</mark> s'obtient de plusieurs façons, dont :
 * **Les récompenses du [Donjon Terrier du Roi Lapin 🐰](https://wiki.evolucraft.fr/codex/donjons/roi-lapin)**
 * **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
 
@@ -186,7 +188,7 @@ Le <mark style="color:yellow;">Parchemin Terrier du Roi Lapin</mark> s'obtient d
 | --------------------------------------------------------------------------------------------- |
 | <mark style="color:yellow;">**2 Tablettes de Chocolat**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques))* |
 | <mark style="color:yellow;">**1 Clé Pâques**</mark>                                             |
-| <mark style="color:yellow;">**Spawner à Vache**</mark>                                           | 
+| <mark style="color:yellow;">**Spawner à Vache**<mark>                                           | 
 | <mark style="color:yellow;">**Spawner à Poule**</mark>                                           | 
 | <mark style="color:yellow;">**Spawner à Squelette**</mark>                                       | 
 | <mark style="color:yellow;">**Spawner à Zombie**</mark>                                          |
@@ -212,11 +214,11 @@ Le <mark style="color:yellow;">Parchemin Terrier du Roi Lapin</mark> s'obtient d
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Rare**</mark>                          |
 | <mark style="color:yellow;">**1 Carte de Classe Aléatoire Épique**</mark> 
 
-## 🔸 <mark style="color:yellow;">Parchemin Fabrique du Chocolat 🍫</mark>
+## 🔸 <mark style="color:yellow;">Parchemin Fabrique de Chocolat 🍫</mark>
 
 ### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-Le <mark style="color:yellow;">Parchemin Fabrique du Chocolat</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:yellow;">Parchemin Fabrique de Chocolat</mark> s'obtient de plusieurs façons, dont :
 * **Les récompenses du [Donjon Fabrique du Chocolat 🍫](https://wiki.evolucraft.fr/codex/donjons/fabrique-chocolat)**
 * **La Caisse [Pâques 🥚](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**
 
@@ -258,7 +260,7 @@ Le <mark style="color:yellow;">Parchemin Fabrique du Chocolat</mark> s'obtient d
 
 ### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-Le <mark style="color:orange;">Parchemin Citrouille</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:orange;">Parchemin Citrouille</mark> s'obtient de plusieurs façons, dont :
 * **Les récompenses du [Donjon Citrouille 🎃](https://wiki.evolucraft.fr/codex/donjons/citrouille)**
 * **La Caisse [Lune de Sang 🩸](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**
 
@@ -298,7 +300,7 @@ Le <mark style="color:orange;">Parchemin Citrouille</mark> s'obtient de plusieur
 
 ### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient de plusieurs façon, dont :
+Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient de plusieurs façons, dont :
 * **Les récompenses du [Donjon Lune de Sang 🩸](https://wiki.evolucraft.fr/codex/donjons/lune-de-sang)**
 * **La Caisse [Lune de Sang 🩸](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**
 
@@ -336,21 +338,21 @@ Le <mark style="color:red;">Parchemin Lune de Sang</mark> s'obtient de plusieurs
 | <mark style="color:red;">**1 Carte de Classe Aléatoire Épique**</mark>                       |
 | <mark style="color:red;">**1 Carte de Classe Aléatoire Légendaire**</mark>                   |
 
-## 🔸 <mark style="color:red;">Parchemin Pain d'épice 🍪 </mark>
+## 🔸 <mark style="color:red;">Parchemin Pain d'épices 🍪 </mark>
 
 ### 🔹 <mark style="color:green;">Son obtention 🤔</mark>
 
-Le <mark style="color:red;">Parchemin Pain d'épice</mark> s'obtient dans :
+Le <mark style="color:red;">Parchemin Pain d'épices</mark> s'obtient dans :
 * **La Caisse [Pain d'épice 🍪](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**
 
 ### 🔹 <mark style="color:green;">Ses récompenses 🎰</mark>
 
 | **Récompense**                                                                              |
 | ------------------------------------------------------------------------------------------- |
-| <mark style="color:red;">**1 Pain d'épice**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#noel-2025))*  |
+| <mark style="color:red;">**1 Pain d'épices**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#noel-2025))*  |
 | <mark style="color:red;">**2 Pains d'épices**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#noel-2025))*  |
 | <mark style="color:red;">**10 Pains d'épices**</mark> *([Marché Noir](https://wiki.evolucraft.fr/le-gameplay/marche-noir#noel-2025))*  |
-| <mark style="color:red;">**1 Clé Pain d'épice**</mark>                                       |
+| <mark style="color:red;">**1 Clé Pain d'épices**</mark>                                       |
 | <mark style="color:red;">**Spawner à Squelette**</mark>                                      |
 | <mark style="color:red;">**Spawner à Zombie**</mark>                                         |
 | <mark style="color:red;">**Spawner à Creeper**</mark>                                        |

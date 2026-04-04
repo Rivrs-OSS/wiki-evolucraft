@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
+description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
 ---
 
 # 🐤 Compagnon Rare
@@ -40,7 +40,7 @@ description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
     <td>
       <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>💕 Régénération</strong></mark> +3</p>
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 3.500</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → Réduction des<mark style="color:yellow;"><strong>Dégats de Chute</strong></mark> de moitié</p><p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>🗡️ Force</strong></mark> +3</p>
+      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → Réduction des <mark style="color:yellow;"><strong>Dégats de Chute</strong></mark> de moitié</p><p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>🗡️ Force</strong></mark> +3</p>
       <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Fermier 🌾</strong></mark></p>
     </td>
     <td>
@@ -73,7 +73,7 @@ description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/ShiraShiny.png" alt=""></figure></p>
     </td>
     <td>
-      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+10%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Bûches d'acaccia</strong></mark> au /shop</p>
+      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+10%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Bûches d'acacia</strong></mark> au /shop</p>
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Terrestre)</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Chasseur 🗡️</strong></mark></p>
@@ -159,23 +159,11 @@ description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
     <td>
       <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+15%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Carottes</strong></mark> au /shop</p>
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>🏃‍♂️ Vitesse</strong></mark> +2</p>
-      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → Réduction des<mark style="color:yellow;"><strong>Dégats de Chute</strong></mark> de moitié</p>
+      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → Réduction des <mark style="color:yellow;"><strong>Dégats de Chute</strong></mark> de moitié</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 3.500</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Mineur ⛏️</strong></mark></p>     
     </td>
     <td>* Œuf de famillier (Caisse Givrée ❄️)</td>
-  </tr>
-  <tr>
-    <td><mark style="color:yellow;"><strong>Serpent Cristallin</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/SerpentCristallin.png" alt=""></figure></td>
-    <td>
-      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+10%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Baies</strong></mark> au /shop</p>
-      <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>❤️ Vie</strong></mark> +6</p>
-      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Aérienne)</p>
-      <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 4.500</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>ForgeMage 📖</strong></mark></p>    
-    </td>
-    <td>* Œuf de famillier (Caisse Saint Valentin 💕)</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;"><strong>Serpent Cristallin</strong></mark></td>
@@ -205,7 +193,7 @@ description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
     <td><mark style="color:yellow;"><strong>Clocher</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Clocher.png" alt=""></figure></td>
     <td>
-      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+10%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Cuivres</strong></mark> au /shop</p>
+      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+10%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Cuivre</strong></mark> au /shop</p>
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>✨ Régénération de Mana</strong></mark> +1</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>+ 3.500</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>❤️ Vie</strong></mark> +35</p>
@@ -235,7 +223,7 @@ description: Retrouvez ici toutes la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 3.000</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Bûcheron 🪚</strong></mark></p>  
     </td>
-    <td>* Œuf de famillier (Caisse Pain d'épice 🍪)</td>
+    <td>* Œuf de famillier (Caisse Pain d'épices 🍪)</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;"><strong>Nanook</strong></mark></td>

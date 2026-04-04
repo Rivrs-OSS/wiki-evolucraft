@@ -11,7 +11,7 @@ description: Retrouvez ici toutes les informations concernant le pass
 ## 💠 <mark style="color:green;">Qu'est-ce que le Pass ? ⚡</mark>
 
 Le <mark style="color:green;">**`/pass`**</mark> est un système compétitif qui repose sur le farm de <mark style="color:green;">**Farmiums 🔱**</mark> tout au long de la semaine.  
-Il permet de débloquer, pour les meilleurs joueurs, des <mark style="color:green;">**récompenses exclusives**</mark> et pour les joueurs plus tranquille, des récompenses utiles grâce au <mark style="color:green;">**Pass de Combat**</mark>, afin d'accélérer votre progression.
+Il permet de débloquer, pour les meilleurs joueurs, des <mark style="color:green;">**récompenses exclusives**</mark> et pour les joueurs plus tranquilles, des récompenses utiles grâce au <mark style="color:green;">**Pass de Combat**</mark>, afin d'accélérer votre progression.
 
 <figure><img src="../.gitbook/assets/Pass/InterfacePass.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pass</code></strong></mark></p></figcaption></figure>
 
@@ -20,13 +20,9 @@ Il permet de débloquer, pour les meilleurs joueurs, des <mark style="color:gree
 Deux moyens principaux permettent de gagner du <mark style="color:green;">**Farmium 🔱**</mark> :
 
 ### 🔷 Les actions de métiers aléatoires 🛠️
-Chaque jour, à partir de minuit (heure française), vous recevez <mark style="color:green;">**2 actions de métiers**</mark> permettant de gagner du Farmium. Les actions concernera toujours des <mark style="color:green;">**métiers différents**</mark> afin de diversifier votre farm.
 
-{% hint style="info" %}
-**REMARQUE 🔍** : Les <mark style="color:green;">**deux actions de métiers**</mark> sont tirées de façon <mark style="color:green;">**aléatoire**</mark>, mais le système empêche qu’elles soient issues du <mark style="color:green;">**même métier deux fois de suite**</mark>. 
+Chaque jour, à partir de minuit (heure française), vous recevez <mark style="color:green;">**2 actions de métiers**</mark> sont tirées de façon <mark style="color:green;">**aléatoire**</mark> permettant de gagner du Farmium. Les actions concernera toujours des <mark style="color:green;">**deux actions différentes différentes**</mark> mais peuvent être <mark style="color:green;">**sur le même action du métier**</mark>.
 
-Cependant, il peut toujours conserver une des actions déjà présent mais dans une limite d'<mark style="color:green;">**une seule action ou action du même métier au maximum**</mark>.
-{% endhint %}
 
 Pour connaître les items du jour, il vous suffit de faire la commande <mark style="color:green;">**`/pass`**</mark>, puis cliquez sur **Objectifs**.
 
@@ -104,4 +100,4 @@ Il existe au total <mark style="color:green;">**35 paliers**</mark> à compléte
 ⚠️ Attention, le Pass est <mark style="color:green;">**réinitialisé le 1er du mois**</mark> !
 {% endhint %}
 
-**Voilà, vous connaissez toutes les informations sur le pass de combat ! A vos fermes pour récupérer vos farmiums !**
+**Voilà, vous connaissez toutes les informations sur le pass de combat ! À vos fermes pour récupérer vos farmiums !**

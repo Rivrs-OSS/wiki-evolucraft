@@ -4,11 +4,11 @@ description: Retrouvez ici toutes les informations concernant l'archéologie
 
 # 🦴 L'Archéologie
 
-L'<mark style="color:green;">**archéologie**</mark> est une mise à jour vous permettant de découvrir, à l'aide de vos outils, des <mark style="color:green;">**œuvres d'art antiques**</mark> décomposées et d'essayer de les restituer pour récupérer des <mark style="color:green;">**bonus de statistiques**</mark> pour vos classes.
+L'<mark style="color:green;">**archéologie**</mark> est une mise à jour vous permettant de découvrir, à l'aide de vos outils, des <mark style="color:green;">**œuvres d'art antiques**</mark> décomposées et d'essayer de les reconstituer pour récupérer des <mark style="color:green;">**bonus de statistiques**</mark> pour vos classes.
 
 ## 💠 Comment trouver des <mark style="color:green;">**œuvres d'art antiques**</mark> ? 🔍
 
-Pour trouver des <mark style="color:green;">**œuvres d'art antiques enfouies**</mark>, il y a deux possibilité suivant l'oeuvre d'art rechercher :
+Pour trouver des <mark style="color:green;">**œuvres d'art antiques enfouies**</mark>, il y a deux possibilités suivant l'oeuvre d'art recherchée :
 
 ### 🔷 Les <mark style="color:green;">**blocs suspects**</mark> ⁉
 
@@ -34,7 +34,7 @@ Vous aurez alors **5%** de chance d'obtenir une <mark style="color:green;">**œu
 
 <figure><img src="../.gitbook/assets/Archeologie/ListeLoot.png" alt=""><figcaption>Liste des <mark style="color:green;">loots obtenables</mark> dans les blocs suspects</figcaption></figure>
 
-### 🔷 Les <mark style="color:green;">**récompenses de donjons**</mark> 🏛
+### 🔷 Les <mark style="color:green;">**récompenses de donjons**</mark> 🏛️
 
 Lorsque vous finissez un <mark style="color:green;">**donjon**</mark> en tuant le boss de ce dernier, vous avez la possibilité d'ouvrir des <mark style="color:green;">**coffres de récompenses**</mark>. Dans ces coffres, vous pouvez obtenir des <mark style="color:green;">**œuvres d'art antiques**</mark>.  
 
@@ -73,51 +73,129 @@ Vous pouvez compléter les statues suivantes (consultez votre avancée via le `/
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td><mark style="color:white;"><strong>Nom de l'œuvre 🗿</strong></mark></td>
-    <td><mark style="color:green;"><strong>Œuvres antiques requises</strong></mark></td>
+    <td><mark style="color:green;"><strong>Pièces trouvable via les fouilles 🦴</strong></mark></td>
+    <td><mark style="color:green;"><strong>Pièces trouvable via les donjons 🏛️</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Tableau de la Joconde</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td><mark style="color:white;"><strong>Tableau de la Jeconde</strong></mark></td>
+    <td><mark style="color:white;"><strong>❌</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Machette Aztèque</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td><mark style="color:white;"><strong>❌</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle de la Machette Aztèque</strong></mark></p>
+      <p><mark style="color:white;"><strong>Lame de la Machette Aztèque</strong></mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Toison d'Or</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle de la Toison d'Or</strong></mark></p>
+      <p><mark style="color:white;"><strong>Toison d'Or</strong></mark></p>
+    </td>
+    <td><mark style="color:white;"><strong>❌</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:yellow;"><strong>Kabuto</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Casque du Kabuto</strong></mark></p>
+      <p><mark style="color:white;"><strong>Plastron du Kabuto</strong></mark></p>
+      <p><mark style="color:white;"><strong>Épaulière Gauche du Kabuto</strong></mark></p>
+      <p><mark style="color:white;"><strong>Jambière Gauche du Kabuto</strong></mark></p>
+    </td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle du Kabuto</strong></mark></p>
+      <p><mark style="color:white;"><strong>Épaulière Droit du Kabuto</strong></mark></p>
+      <p><mark style="color:white;"><strong>Jambière Droite du Kabuto</strong></mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;"><strong>Bouclier Viking</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle du Bouclier Viking</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bouclier Viking</strong></mark></p>
+    </td>
+    <td><mark style="color:white;"><strong>❌</strong></mark></td>
   </tr>
   <tr>
     <td><mark style="color:yellow;"><strong>Louve Capitoline</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle de la Louve Capitoline</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bébé Gauche de la Louve Capitoline</strong></mark></p>
+    </td>
+    <td>
+      <p><mark style="color:white;"><strong>Bébé Droit de la Louve Capitoline</strong></mark></p>
+      <p><mark style="color:white;"><strong>Louve Capitoline</strong></mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;"><strong>Pierre de Rosette</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle de la Pierre de Rosette</strong></mark></p>
+      <p><mark style="color:white;"><strong>Partie Droite de la Pierre de Rosette</strong></mark></p>
+    </td>
+    <td>
+      <p><mark style="color:white;"><strong>Partie Gauche de la Pierre de Rosette</strong></mark></p>
+      <p><mark style="color:white;"><strong>Partie Haute de la Pierre de Rosette</strong></mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;"><strong>Soldat d'Argile</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td><mark style="color:white;"><strong>❌</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle du Soldat d'Argile</strong></mark></p>
+      <p><mark style="color:white;"><strong>Coté Droit du Soldat d'Argile</strong></mark></p>
+      <p><mark style="color:white;"><strong>Coté Gauche du Soldat d'Argile</strong></mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;"><strong>Vase de Soissons</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Base du Vase de Soissons</strong></mark></p>
+      <p><mark style="color:white;"><strong>Poignée Droite du Vase de Soissons</strong></mark></p>
+      <p><mark style="color:white;"><strong>Poignée Gauche du Vase de Soissons</strong></mark></p>
+    </td>
+    <td>
+      <p><mark style="color:white;"><strong>Base du Vase de Soissons</strong></mark></p>
+      <p><mark style="color:white;"><strong>Socle du Vase de Soissons</strong></mark></p>
+      <p><mark style="color:white;"><strong>Pot du Vase de Soissons</strong></mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;"><strong>Atlas</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Tête d'Atlas</strong></mark></p>
+      <p><mark style="color:white;"><strong>Torse d'Atlas</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Droit d'Atlas</strong></mark></p>
+      <p><mark style="color:white;"><strong>Jambe Droite d'Atlas</strong></mark></p>
+    </td>
+    <td>
+      <p><mark style="color:white;"><strong>Pierre du Haut d'Atlas</strong></mark></p>
+      <p><mark style="color:white;"><strong>Pierre du Bas d'Atlas</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Gauche d'Atlas</strong></mark></p>
+      <p><mark style="color:white;"><strong>Jambe Gauche d'Atlas</strong></mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;"><strong>T-Rex</strong></mark></td>
-    <td><mark style="color:white;"><strong>On ne va pas tout dire 👀</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Crâne du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Main Droite du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Cage Thoracique du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Jambe Gauche du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Jambe Droite du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Queue du T-Rex</strong></mark></p>
+    </td>
+    <td>
+      <p><mark style="color:white;"><strong>Main Gauche du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Gauche du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Droit du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Colonne Vertébrale du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Pied Gauche du T-Rex</strong></mark></p>
+      <p><mark style="color:white;"><strong>Pied Droit du T-Rex</strong></mark></p>
+    </td>
   </tr>
 </table>
 

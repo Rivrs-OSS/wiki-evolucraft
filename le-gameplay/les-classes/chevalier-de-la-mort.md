@@ -10,13 +10,13 @@ Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, 
 ## 💠 <mark style="color:red;">Compétences</mark>
 
 {% hint style="warning" %}
-Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+Les dégâts des compétences sont en cours de modification, ne les prenez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
 
 ### 🔸 <mark style="color:red;">**Niveau 1 : Frappe Mortelle**</mark>
 
-Frappez vers l'avent en repoussant les ennemis. Au troisème lancer. Lancez des chaînes en avant, accrochez-vous à des blocs ou des ennemis.
+Frappez vers l'avant en repoussant les ennemis. Au troisième lancer, lancez des chaînes en avant, accrochez-vous à des blocs ou des ennemis.
 Au quatrième lancer, frappez le sol avec une force immense, libérant une onde de choc nécrotique massive.
 
 * <mark style="color:red;">**Temps de recharge**</mark>**:** 0.5s
@@ -34,7 +34,7 @@ En atteignant la pleine charge, l'ennemi marqué obtient Faiblesse I.
 
 ### 🔸 <mark style="color:red;">**Niveau 10 : Charge fantôme**</mark>
 
-Foncez vers l'avent, avec une force écrasante, traînant les ennemis sur votre chemin et laissant le chaos dans votre sillage.
+Foncez vers l'avant, avec une force écrasante, traînant les ennemis sur votre chemin et laissant le chaos dans votre sillage.
 
 * <mark style="color:red;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:red;">**Mana**</mark>**:** 25
@@ -42,7 +42,7 @@ Foncez vers l'avent, avec une force écrasante, traînant les ennemis sur votre 
 
 ### 🔸 <mark style="color:red;">**Niveau 15 : Chaîne fantôme**</mark>
 
-Déchaîne les chaînes fantomatique, liant les ennemis et les traînant lentement vers toi.
+Déchaîne les chaînes fantomatiques, liant les ennemis et les traînant lentement vers vous.
 
 Les mains nécrotiques se lèvent, s'aggrippant à leurs cibles et les étourdissant en place.
 
@@ -53,7 +53,7 @@ Les mains nécrotiques se lèvent, s'aggrippant à leurs cibles et les étourdis
 ### 🔸 <mark style="color:red;">**Niveau 20 : Barrière d'âme**</mark>
 
 Invoque une barrière d'énergie nécrotique, vous accordant l'invulnérabilité pendant quelques secondes.
-Pendant ce temps, tout les dégâts reçus sont absorbés et convertis en soins.
+Pendant ce temps, tous les dégâts reçus sont absorbés et convertis en soins.
 
 * <mark style="color:red;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:red;">**Mana**</mark>**:** 100
@@ -62,7 +62,7 @@ Pendant ce temps, tout les dégâts reçus sont absorbés et convertis en soins.
 ### 🔸 <mark style="color:red;">**Niveau 30 : Nécrophage**</mark>
 
 Faites tourner votre Nécrophage dans un vortex mortel, soulevant légèrement les ennemis en l'air au contact.
-À la fin de la compétence, invoquez des griffes nécrotiques pour trancher les ennemis proches et soignez-vous en fonction du nombre d'ennemis touchés. Les ennemis sont repoussées et ralentis.
+À la fin de la compétence, invoquez des griffes nécrotiques pour trancher les ennemis proches et soignez-vous en fonction du nombre d'ennemis touchés. Les ennemis sont repoussés et ralentis.
 
 * <mark style="color:red;">**Temps de recharge**</mark>**:** 17s
 * <mark style="color:red;">**Mana**</mark>**:** 150
@@ -70,8 +70,8 @@ Faites tourner votre Nécrophage dans un vortex mortel, soulevant légèrement l
 
 ### 🔸 <mark style="color:red;">**Niveau 40 : Peine de mort**</mark>
 
-Déployez vos ailes mortelles et envolez-vous dans les airs, invoquer lentement votre lame d'âme. Plongez vers l'endroit choisi avec une force terrifiante en frappant tout les ennemis avec votre épée de l'âme.
-Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts supplémentaire, ne laissant aucune chance de survie.
+Déployez vos ailes mortelles et envolez-vous dans les airs, invoquez lentement votre lame d'âme. Plongez vers l'endroit choisi avec une force terrifiante en frappant tout les ennemis avec votre épée de l'âme.
+Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts supplémentaires, ne laissant aucune chance de survie.
 
 * <mark style="color:red;">**Temps de recharge**</mark>**:** 35s
 * <mark style="color:red;">**Mana**</mark>**:** 300
@@ -79,12 +79,15 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
 
 ## 💠 <mark style="color:red;">Armes</mark>
 
+### 🔸 <mark style="color:green;">**Packs d'Armes**</mark>
+
 <table>
-  <tr>
-    <th>Armes</th>
-    <th>Rareté</th>
-    <th>Stat</th>
-    <th>Obtention</th>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
   </tr>
   <tr>
     <td><mark style="color:red;">Épée des morts</mark></td>
@@ -92,8 +95,11 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td>
      <p><mark style="color:red;">🗡️ Force +7</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
-    </td>    
-    <td>Pack d'arme</td>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Épée des morts</mark></td>
@@ -101,8 +107,12 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td>
      <p><mark style="color:red;">🗡️ Force +15</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
-    </td>    
-    <td>Pack d'arme ou Forge</td>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:blue;">Épée des morts</mark></td>
@@ -110,8 +120,12 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td>
      <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
-    </td>    
-    <td>Pack d'arme ou Forge</td>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;">Épée des morts</mark></td>
@@ -119,8 +133,11 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
-    </td>    
-    <td>Forge</td>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:red;">Épée des morts</mark></td>
@@ -128,9 +145,86 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td>
      <p><mark style="color:red;">🗡️ Force +80</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
-    </td>    
-    <td>Forge</td>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
   </tr>
+  <tr>
+    <td><mark style="color:red;">Épée des morts Shiny</mark></td>
+    <td><mark style="color:red;">Commun ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +7</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Épée des morts Shiny</mark></td>
+    <td><mark style="color:yellow;">Rare ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +15</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <mark style="color:yellow;">Packs d'Armes (Mini-Boss & Boss des Donjons Rares)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Épée des morts Shiny</mark></td>
+    <td><mark style="color:blue;">Épique ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +25</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <mark style="color:blue;">Packs d'Armes (Mini-Boss & Boss des Donjons Épiques, Légendaires et Mythique)</mark></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Épée des morts Shiny</mark></td>
+    <td><mark style="color:purple;">Légendaire ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Épée des morts Shiny</mark></td>
+    <td><mark style="color:red;">Mythique ✨</mark></td>   
+    <td>
+     <p><mark style="color:red;">🗡️ Force +80</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
+    <td>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+    </td>
+  </tr>
+</table>
+
+### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>
+
+<table>
+<tr>
+    <th><strong>Nom de l'Armes 🏷️</strong></th>
+    <th><strong>Rareté ou Collection 🌟</strong></th>
+    <th><strong>Statistiques 📊</strong></th>
+    <th><strong>Effets ✨</strong></th>
+    <th><strong>Obtentions 📌</strong></th>
+  </tr>  
   <tr>
     <td><mark style="color:yellow;">Épée des morts légendaire</mark></td>
     <td><mark style="color:yellow;">Jackpot</mark></td>
@@ -138,15 +232,17 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
     <td><mark style="color:yellow;">Épée des morts légendaire Shiny</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
+    <td><mark style="color:yellow;">Jackpot ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
   </tr>
   <tr>
@@ -157,9 +253,11 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -169,9 +267,11 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang"><mark style="color:red;">Caisse Lune de Sang 🩸</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
   </tr> 
   <tr>
@@ -181,9 +281,24 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
      <p><mark style="color:red;">🗡️ Force +47</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +21</mark></p>
     </td>
+    <td><mark style="color:red;"><strong>Bonus Dégâts 💢</strong></mark> ▸ <mark style="color:red;">+5% de dégâts</mark> dans les donjons <mark style="color:red;">caverne glaciale</mark> et <mark style="color:red;">laboratoire glaciale</mark></td>
     <td>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#Noel-2025"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/lucky-block"><mark style="color:gold;">Armes Aléatoire via les Lucky Blocks Gold🎲</mark></a></p>
     </td>
-  </tr>  
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Épée des morts de Jade</mark></td>
+    <td><mark style="color:green;">Nouvel An Lunaire</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +51</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+    </td>
+    <td><mark style="color:green;">Aura de Feu 🔥</mark> ▸ Enflamme la cible pendant 4 secondes</td>
+    <td>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#nouvel-an-lunaire"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
+      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire"><mark style="color:green;">Caisse Lunaire 🎑</mark></a></p>
+    </td>
+  </tr>     
 </table>

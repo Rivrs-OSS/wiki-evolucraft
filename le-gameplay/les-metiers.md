@@ -29,7 +29,7 @@ Voici la liste des <mark style="color:green;">métiers disponibles</mark> sur le
 - <mark style="color:green;">**Bûcheron 🪚**</mark> : Abattez des <mark style="color:green;">arbres</mark> et récoltez du <mark style="color:green;">bois</mark> pour l’artisanat et la construction.
 - <mark style="color:green;">**ForgeMage 📖**</mark> : Maîtrisez la <mark style="color:green;">forge</mark> et l’<mark style="color:green;">enchantement</mark> afin de créer des équipements puissants.
 
-## 💠 **<mark style="color:green;">Comment savoir son avancée ?</mark> 📊**
+## 💠 **<mark style="color:green;">Comment connaître son avancée ?</mark> 📊**
 
 Pour connaître votre <mark style="color:green;">progression</mark> (ou celle d’un autre joueur) dans les métiers, utilisez la commande :  
 <mark style="color:green;">`/jobs stats [Pseudo]`</mark>.  
@@ -86,13 +86,13 @@ Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https:
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Aperçu de l'item 📸</strong></mark></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoir.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/EXPMétier.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesse.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalJaune.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostSavoirGlobalBleu.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalJaune.png" alt="" style="width: 50px;"></td>
-    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/BoostRichesseGlobalBleu.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/Savoir.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/EXPMétier.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/Richesse.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/SavoirGlobalJaune.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/SavoirGlobalBleu.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/RichesseGlobalJaune.png" alt="" style="width: 50px;"></td>
+    <td style="text-align: center;"><img src="../.gitbook/assets/Jobs/Boost/RichesseGlobalBleu.png" alt="" style="width: 50px;"></td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Description 📝</strong></mark></td>
@@ -120,12 +120,14 @@ Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https:
 **REMARQUE 🔍 : Les boosters disponibles dans le <mark style="color:green;">/boutique</mark> fonctionnent comme ceux trouvés en jeu, mais ils profitent à l’ensemble des joueurs.**
 {% endhint %}
 
-### 🔸 Les compagnons 🐾
 
-Les <mark style="color:green;">compagnons</mark> vous proposent, pour certains, à partir d'un certain levels, des <mark style="color:green;">bonus de métiers</mark> (xp ou revenus).  
-Consultez le <mark style="color:green;">`/pokedex`</mark> ou la page dédiée : [<mark style="color:green;">Les Compagnons</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons).
+### 🔸 Les compagnons 🐾  
+Les <mark style="color:green;">compagnons</mark> vous proposent, pour certains, à partir d'un certain level, des <mark style="color:green;">bonus de métiers</mark> (xp ou revenus).  
+Consultez le <mark style="color:green;">`/pokedex`</mark> ou la page dédiée : [<mark style="color:green;">Les Compagnons</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons).  
+
 
 ### 🔸 L'évènement FARM BOOST 💱
+
 
 Cet évènement temporaire offre des <mark style="color:green;">bonus de gains</mark> sur certains métiers.  
 Plus d’informations ici : [<mark style="color:green;">Le Farm Boost</mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#farm-boost).

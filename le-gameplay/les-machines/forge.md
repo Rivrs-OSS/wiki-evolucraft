@@ -4,9 +4,77 @@ description: Retrouvez ici toutes les informations concernant la forge
 
 # 🔨 Forge
 
-## Les gemmes de métiers 💠
+## 💠 <mark style="color:green;">Les armes 🗡️</mark>
 
-### <mark style="color:green">🟩・Gemme commune</mark>
+{% hint style="info" %}
+<mark style="color:green;">**Chaque arme a le même craft pour son amélioration</mark> : prenez simplement en compte la rareté de votre arme pour l'améliorer.**
+{% endhint %}
+
+### <mark style="color:yellow;">🟡・Armes Rares</mark>
+
+**🕑 Temps de craft : <mark style="color:green;">30 minutes</mark>**
+
+| Ressources                                                     | Nombre                                   |
+| -------------------------------------------------------------- | ---------------------------------------- |
+| <mark style="color:green;">**Arme commune**</mark>             | **1**                                    |
+| <mark style="color:yellow;">**Gemme de fermier rare**</mark>   | **1**                                    |
+| <mark style="color:yellow;">**Gemme de mineur rare**</mark>    | **1**                                    |
+| <mark style="color:yellow;">**Gemme de chasseur rare**</mark>  | **1**                                    |
+| <mark style="color:yellow;">**Gemme de bûcheron rare**</mark>  | **1**                                    |
+| <mark style="color:yellow;">**Gemme de pêcheur rare**</mark>   | **1**                                    |
+| <mark style="color:yellow;">**Cristaux rares**</mark>          | **4**                                    |
+
+### <mark style="color:blue;">🔵・Armes Épiques</mark>
+
+**🕑 Temps de craft : <mark style="color:green;">1 heure</mark>**
+
+| Ressources                                                     | Nombre                                   |
+| -------------------------------------------------------------- | ---------------------------------------- |
+| <mark style="color:yellow;">**Arme rare**</mark>               | **1**                                    |
+| <mark style="color:blue;">**Gemme de fermier épique**</mark>   | **1**                                    |
+| <mark style="color:blue;">**Gemme de mineur épique**</mark>    | **1**                                    |
+| <mark style="color:blue;">**Gemme de chasseur épique**</mark>  | **1**                                    |
+| <mark style="color:blue;">**Gemme de bûcheron épique**</mark>  | **1**                                    |
+| <mark style="color:blue;">**Gemme de pêcheur épique**</mark>   | **1**                                    |
+| <mark style="color:blue;">**Cristaux épiques**</mark>          | **4**                                    |
+
+### <mark style="color:purple;">🟣・Armes Légendaires</mark>
+
+**🕑 Temps de craft : <mark style="color:green;">1 heure 30 minutes</mark>**
+
+| Ressources                                                           | Nombre                                   |
+| -------------------------------------------------------------------- | ---------------------------------------- |
+| <mark style="color:blue;">**Arme épique**</mark>                     | **1**                                    |
+| <mark style="color:purple;">**Gemme de fermier légendaire**</mark>   | **1**                                    |
+| <mark style="color:purple;">**Gemme de mineur légendaire**</mark>    | **1**                                    |
+| <mark style="color:purple;">**Gemme de chasseur légendaire**</mark>  | **1**                                    |
+| <mark style="color:purple;">**Gemme de bûcheron légendaire**</mark>  | **1**                                    |
+| <mark style="color:purple;">**Gemme de pêcheur légendaire**</mark>   | **1**                                    |
+| <mark style="color:purple;">**Cristaux légendaires**</mark>          | **4**                                    |
+| <mark style="color:purple;">**Corne du golem**</mark>                | **4**                                    |
+| <mark style="color:purple;">**Bâton brisé de la sorcière**</mark>    | **4**                                    |
+| <mark style="color:purple;">**Braise de chaudron**</mark>            | **1**                                    |
+
+### <mark style="color:red;">🔴・Armes Mythiques</mark>
+
+**🕑 Temps de craft : <mark style="color:green;">2 heures</mark>**
+
+| Ressources                                                           | Nombre                                   |
+| -------------------------------------------------------------------- | ---------------------------------------- |
+| <mark style="color:purple;">**Arme légendaire**</mark>               | **1**                                    |
+| <mark style="color:red;">**Gemme de fermier mythique**</mark>        | **1**                                    |
+| <mark style="color:red;">**Gemme de mineur mythique**</mark>         | **1**                                    |
+| <mark style="color:red;">**Gemme de chasseur mythique**</mark>       | **1**                                    |
+| <mark style="color:red;">**Gemme de bûcheron mythique**</mark>       | **1**                                    |
+| <mark style="color:red;">**Gemme de pêcheur mythique**</mark>        | **1**                                    |
+| <mark style="color:red;">**Cristaux mythiques**</mark>               | **4**                                    |
+| <mark style="color:red;">**Yeux du Void**</mark>                     | **4**                                    |
+| <mark style="color:red;">**Cœur du Void**</mark>                     | **1**                                    |
+| <mark style="color:red;">**Cube du Void**</mark>                     | **4**                                    |
+
+## 💠 <mark style="color:green;">Les gemmes de métiers 🔹</mark>
+
+### <mark style="color:green">🔷・Gemme commune 🟩</mark>
 
 **🕑 Temps de craft : <mark style="color:green">1 minute</mark>**
 
@@ -55,7 +123,7 @@ description: Retrouvez ici toutes les informations concernant la forge
   </tr>
 </table>
 
-### <mark style="color:yellow">🟨・Gemme rare</mark>
+### <mark style="color:yellow">🔷・Gemme rare 🟨</mark>
 
 **🕑 Temps de craft : <mark style="color:green">2 minutes 30 secondes</mark>**
 
@@ -118,7 +186,7 @@ description: Retrouvez ici toutes les informations concernant la forge
   </tr>
 </table>
 
-### <mark style="color:blue">🟦・Gemme épique</mark>
+### <mark style="color:blue">🔷・Gemme épique 🟦</mark>
 
 **🕑 Temps de craft : <mark style="color:green">5 minutes</mark>**
 
@@ -162,14 +230,14 @@ description: Retrouvez ici toutes les informations concernant la forge
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
-    <td><mark style="color:yellow;"><strong>2 dorade</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 dorades</strong></mark></td>
     <td><strong>X</strong></td>
   </tr>
   <tr>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
-    <td><mark style="color:yellow;"><strong>2 doré jaune</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 dorés jaunes</strong></mark></td>
     <td><strong>X</strong></td>
   </tr>
   <tr>
@@ -181,7 +249,7 @@ description: Retrouvez ici toutes les informations concernant la forge
   </tr>
 </table>
 
-### <mark style="color:purple">🟪・Gemme légendaire</mark>
+### <mark style="color:purple">🔷・Gemme légendaire 🟪</mark>
 
 **🕑 Temps de craft : <mark style="color:green">7 minutes 30 secondes</mark>**
 
@@ -279,7 +347,7 @@ description: Retrouvez ici toutes les informations concernant la forge
   </tr>
 </table>
 
-### <mark style="color:red">🟥・Gemme mythique</mark>
+### <mark style="color:red">🔷・Gemme mythique 🟥</mark>
 
 **🕑 Temps de craft : <mark style="color:green">10 minutes</mark>**
 
@@ -309,7 +377,8 @@ description: Retrouvez ici toutes les informations concernant la forge
     <td><strong>320 cacaos</strong></td>
     <td><strong>64 débris antiques</strong></td>
     <td><strong>448 bâtons de Blaze</strong></td>
-    <td><mark style="color:purple;"><strong>2 blobfish</strong></mark></td>
+    <td><mark style="color:purple;"><strong>2 blobfishes
+    </strong></mark></td>
     <td><strong>128 bûches d'acacia</strong></td>
   </tr>
   <tr>
@@ -341,72 +410,3 @@ description: Retrouvez ici toutes les informations concernant la forge
     <td><strong>X</strong></td>
   </tr>
 </table>
-
-## Les armes 🗡️
-
-{% hint style="info" %}
-<mark style="color:green;">**Chaque arme a le même craft pour son amélioration</mark> : prenez simplement en compte la rareté de votre arme pour l'améliorer.**
-{% endhint %}
-
-### <mark style="color:yellow;">🟡・Armes Rares</mark>
-
-**🕑 Temps de craft : <mark style="color:green;">30 minutes</mark>**
-
-| Ressources                                                     | Nombre                                   |
-| -------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:green;">**Arme commune**</mark>             | **1**                                    |
-| <mark style="color:yellow;">**Gemme de fermier rare**</mark>   | **1**                                    |
-| <mark style="color:yellow;">**Gemme de mineur rare**</mark>    | **1**                                    |
-| <mark style="color:yellow;">**Gemme de chasseur rare**</mark>  | **1**                                    |
-| <mark style="color:yellow;">**Gemme de bûcheron rare**</mark>  | **1**                                    |
-| <mark style="color:yellow;">**Gemme de pêcheur rare**</mark>   | **1**                                    |
-| <mark style="color:yellow;">**Cristaux rares**</mark>          | **4**                                    |
-
-### <mark style="color:blue;">🔵・Armes Épiques</mark>
-
-**🕑 Temps de craft : <mark style="color:green;">1 heure</mark>**
-
-| Ressources                                                     | Nombre                                   |
-| -------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Arme rare**</mark>               | **1**                                    |
-| <mark style="color:blue;">**Gemme de fermier épique**</mark>   | **1**                                    |
-| <mark style="color:blue;">**Gemme de mineur épique**</mark>    | **1**                                    |
-| <mark style="color:blue;">**Gemme de chasseur épique**</mark>  | **1**                                    |
-| <mark style="color:blue;">**Gemme de bûcheron épique**</mark>  | **1**                                    |
-| <mark style="color:blue;">**Gemme de pêcheur épique**</mark>   | **1**                                    |
-| <mark style="color:blue;">**Cristaux épiques**</mark>          | **4**                                    |
-
-### <mark style="color:purple;">🟣・Armes Légendaires</mark>
-
-**🕑 Temps de craft : <mark style="color:green;">1 heure 30 minutes</mark>**
-
-| Ressources                                                           | Nombre                                   |
-| -------------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:blue;">**Arme épique**</mark>                     | **1**                                    |
-| <mark style="color:purple;">**Gemme de fermier légendaire**</mark>   | **1**                                    |
-| <mark style="color:purple;">**Gemme de mineur légendaire**</mark>    | **1**                                    |
-| <mark style="color:purple;">**Gemme de chasseur légendaire**</mark>  | **1**                                    |
-| <mark style="color:purple;">**Gemme de bûcheron légendaire**</mark>  | **1**                                    |
-| <mark style="color:purple;">**Gemme de pêcheur légendaire**</mark>   | **1**                                    |
-| <mark style="color:purple;">**Cristaux légendaires**</mark>          | **4**                                    |
-| <mark style="color:purple;">**Corne du golem**</mark>                | **4**                                    |
-| <mark style="color:purple;">**Bâton brisé de la sorcière**</mark>    | **4**                                    |
-| <mark style="color:purple;">**Braise de chaudron**</mark>            | **4**                                    |
-
-### <mark style="color:red;">🔴・Armes Mythiques</mark>
-
-**🕑 Temps de craft : <mark style="color:green;">2 heures</mark>**
-
-| Ressources                                                           | Nombre                                   |
-| -------------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:purple;">**Arme légendaire**</mark>               | **1**                                    |
-| <mark style="color:red;">**Gemme de fermier mythique**</mark>        | **1**                                    |
-| <mark style="color:red;">**Gemme de mineur mythique**</mark>         | **1**                                    |
-| <mark style="color:red;">**Gemme de chasseur mythique**</mark>       | **1**                                    |
-| <mark style="color:red;">**Gemme de bûcheron mythique**</mark>       | **1**                                    |
-| <mark style="color:red;">**Gemme de pêcheur mythique**</mark>        | **1**                                    |
-| <mark style="color:red;">**Cristaux mythiques**</mark>               | **4**                                    |
-| <mark style="color:red;">**Yeux du Void**</mark>                     | **4**                                    |
-| <mark style="color:red;">**Cœur du Void**</mark>                     | **1**                                    |
-| <mark style="color:red;">**Cube du Void**</mark>                     | **4**                                    |
-

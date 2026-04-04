@@ -21,19 +21,68 @@ description: Retrouvez ici les informations concernant le donjon Givré Commun
   </tr>
 </table>
 
-## 💠 <mark style="color:green;"> XP de classe récoltée ⚔️</mark>
+## 💠 <mark style="color:blue;"> Statistiques détaillées 📊</mark>
 
-Lors de ce donjon, vous pouvez obtenir l’XP de classe comme suit :  
+### 📊 Valeurs unitaires
 
-* <mark style="color:green;"><strong>Combattant & Elf 🧟‍♂️</strong></mark> : **18 XP**  
-* <mark style="color:yellow;"><strong>Golem 👽</strong></mark> : **450 XP**  
-* <mark style="color:red;"><strong>Reine 🐉</strong></mark> : **900 XP**
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type d’ennemi</strong></th>
+    <th><strong>XP par ennemi</strong></th>
+  </tr>
+  <tr>
+    <td>🧟‍♂️ <strong>Combattant & Elf</strong></td>
+    <td><mark style="color:green;"><strong>18 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>👽 <strong>Golem (Mini Boss)</strong></td>
+    <td><mark style="color:yellow;"><strong>450 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🐉 <strong>Reine des Glaces (Boss Final)</strong></td>
+    <td><mark style="color:red;"><strong>900 XP</strong></mark></td>
+  </tr>
+</table>
+
+### 📋 Structure du donjon
+
+Le donjon est composé de **1 salle mini boss** suivie de **1 salle boss finale**. La structure est **fixe**.
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e3f2fd;">
+    <th><strong>Type de salle</strong></th>
+    <th><strong>Nombre</strong></th>
+    <th><strong>Composition</strong></th>
+    <th><strong>XP par salle</strong></th>
+  </tr>
+  <tr>
+    <td>🟡 <strong>Salle Mini Boss</strong></td>
+    <td>1 salle (fixe)</td>
+    <td>12 mobs + 1 Golem</td>
+    <td><mark style="color:yellow;"><strong>666 XP</strong></mark></td>
+  </tr>
+  <tr>
+    <td>🔴 <strong>Salle Boss Final</strong></td>
+    <td>1 salle (toujours)</td>
+    <td>1 Reine des Glaces</td>
+    <td><mark style="color:red;"><strong>900 XP</strong></mark></td>
+  </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr style="background-color: #e8f5e9;">
+    <th><strong>XP Total du donjon</strong></th>
+  </tr>
+  <tr>
+    <td><mark style="color:green;"><strong>1 566 XP</strong></mark><br><small>666 + 900</small></td>
+  </tr>
+</table>
 
 ## 💠 <mark style="color:green;">Récompenses 🎁</mark>
 
 |                                                                           |
 |:-------------------------------------------------------------------------:|
-| <mark style="color:blue;"><strong>Parchemin Givrée</strong></mark>           |
+| <mark style="color:blue;"><strong>Parchemin Givré</strong></mark>           |
 | <mark style="color:blue;"><strong>10 000 💲</strong></mark>                |
 | <mark style="color:blue;"><strong>15 000 💲</strong></mark>                |
 | <mark style="color:blue;"><strong>25 000 💲</strong></mark>                |

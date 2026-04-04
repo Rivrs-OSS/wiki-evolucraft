@@ -29,28 +29,20 @@ Passez votre curseur sur le bouton <mark style="color:green;">**"Aide"**</mark> 
 Commencez à <mark style="color:green;">**farmer les items indiqués**</mark> pour obtenir un <mark style="color:green;">**fragment d'étoile**</mark> de chaque <mark style="color:green;">**métier**</mark> :
 
 <table border="1" cellspacing="0" cellpadding="6">
- <tr> 
-  <td><mark style="color:green;"><strong><ins>Métiers 🛠️</ins></strong></mark></td> 
-  <td><mark style="color:green;"><strong><ins>Fragment d'étoile</ins></strong></mark></td>
- </tr>
   <tr>
+   <td><mark style="color:green;"><strong><ins>Métiers 🛠️</ins></strong></mark></td> 
    <td><mark style="color:green;"><strong>Fermier 🌾</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentFermier.png" alt=""></figure></td>
-  </tr>
-  <tr>
    <td><mark style="color:green;"><strong>Mineur ⛏️</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentMineur.png" alt=""></figure></td>
-  </tr>
-  <tr>
    <td><mark style="color:green;"><strong>Bûcheron 🪚</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentBucheron.png" alt=""></figure></td>
-  </tr>
-  <tr>
    <td><mark style="color:green;"><strong>Pêcheur 🎣</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentPecheur.png" alt=""></figure></td>
+   <td><mark style="color:green;"><strong>Chasseur 🗡️</strong></mark></td>
   </tr>
   <tr>
-   <td><mark style="color:green;"><strong>Chasseur 🗡️</strong></mark></td>
+   <td><mark style="color:green;"><strong><ins>Aperçu des Fragments d'étoile</ins></strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentFermier.png" alt=""></figure></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentMineur.png" alt=""></figure></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentBucheron.png" alt=""></figure></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentPecheur.png" alt=""></figure></td>
    <td><figure><img src="../../.gitbook/assets/Les_Villes/Classement/FragmentChasseur.png" alt=""></figure></td>
   </tr>
  </table>

@@ -1,10 +1,10 @@
 ---
-description: Retrouvez ici toutes la liste des compagnons mythique dans le serveur.
+description: Retrouvez ici toute la liste des compagnons mythiques dans le serveur.
 ---
 
 # 🦞 Compagnon Mythique
 
-## 💠 La liste des compagnons MYTHIQUE
+## 💠 La liste des compagnons MYTHIQUES
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -26,7 +26,7 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
     <td>
       <p><mark style="color:red;"><strong>Niv. 1</strong></mark> → <mark style="color:red;"><strong>+ 500</strong></mark> 💲/h</p>
       <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>+50%</strong></mark> sur la vente de <mark style="color:red;"><strong>Patates empoisonnées</strong></mark> au /shop</p>
-      <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>+2,5%</strong></mark> d'EXP sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
+      <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>+2,5%</strong></mark> d'EXP sur <mark style="color:red;"><strong>TOUS les métiers</strong></mark></p>
       <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>TOUTES les statistiques</strong></mark> +1</p>
       <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+ 1.500</strong></mark> 💲/h</p>
     <td>
@@ -45,7 +45,7 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
       <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>❤️ Vie</strong></mark> +48</p>
       <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>+15%</strong></mark> sur la vente de <mark style="color:red;"><strong>Lingots d'or</strong></mark> au /shop</p>
       <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>+ 11.000</strong></mark> 💲/h</p>
-      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+7,5%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
+      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+7,5%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUS les métiers</strong></mark></p>
     <td>
       <p> * Œuf de famillier (Caisse aux Trésors 🏴‍☠️)</p>
     </td>
@@ -62,7 +62,7 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
       <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>+ 9.500</strong></mark> 💲/h</p>
       <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>+ 10.500</strong></mark> 💲/h</p>
       <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> +4</p>
-      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+5%</strong></mark> d'EXP sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
+      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+5%</strong></mark> d'EXP sur <mark style="color:red;"><strong>TOUS les métiers</strong></mark></p>
     <td>
       <p> * Œuf de famillier (Caisse Givrée ❄️)</p>
     </td>
@@ -79,7 +79,7 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
       <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>🏃‍♂️ Vitesse</strong></mark> +11</p>
       <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>+ 12.500</strong></mark> 💲/h</p>
       <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>💀 Dégâts Critiques</strong></mark> +20</p>
-      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+10%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
+      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+10%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUS les métiers</strong></mark></p>
     </td>
     <td>
       <p> * Œuf de famillier (Caisse Saint Patrick 🍀)</p>
@@ -97,7 +97,7 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
       <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>+ 16.500</strong></mark> 💲/h</p>
       <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>✨ Régénération de Mana</strong></mark> +3</p>
       <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>+ 18.000</strong></mark> 💲/h</p>
-      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+5%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
+      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+5%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUS les métiers</strong></mark></p>
     </td>
     <td>
       <p> * Œuf de famillier (Caisse Summer 🏖️)</p>
@@ -117,6 +117,18 @@ description: Retrouvez ici toutes la liste des compagnons mythique dans le serve
       <p> * Œuf de famillier (Caisse Lune de Sang 🩸)</p>
     </td>
   </tr>
+  <tr>
+    <td align="center"><mark style="color:red;"><strong>Renard Cupidon</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/Renard-Cupidon.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:red;"><strong>Niv. 1</strong></mark> → <mark style="color:red;"><strong>+ 13.500</strong></mark> 💲/h</p>
+      <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>🗡️ Force</strong></mark> +25</p>
+      <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>Monture</strong></mark> (Aérienne)</p>
+      <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>+10%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUS les métiers</strong></mark></p>
+      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+ 16.500</strong></mark> 💲/h</p>
+    </td>
+    <td>
+      <p>* Œuf de famillier (Caisse Saint Valentin 💕)</p>
   </tr>
   <tr>
     <td align="center"><mark style="color:red;"><strong>Roi Leprechaun</strong></mark></td>

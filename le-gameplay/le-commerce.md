@@ -105,7 +105,7 @@ Lorsque les deux joueurs ont appuyé sur la croix, un <mark style="color:green;"
 
 Le système de <mark style="color:green;">**`/pub`**</mark> offre aux joueurs une plateforme polyvalente pour promouvoir leurs articles, chercher des partenaires pour vaincre les boss des donjons, et bien plus encore.
 
-Pour créer votre publicité, veuillez vous rendre à cette page du wiki : [<mark style="color:green;">**Créer une pub**</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/creation-pub)
+Pour créer votre publicité, veuillez vous rendre à cette page du wiki : [<mark style="color:green;">**Créer une pub**</mark>](https://wiki.evolucraft.fr/faq/creation-pub)
 
 <figure><img src="../.gitbook/assets/Le_Commerce/Interface_Pub.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pub</code></strong></mark></p></figcaption></figure>
 

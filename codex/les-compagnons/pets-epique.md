@@ -1,10 +1,10 @@
 ---
-description: Retrouvez ici toutes la liste des compagnons épique dans le serveur.
+description: Retrouvez ici toute la liste des compagnons épiques dans le serveur.
 ---
 
 # 🐟 Compagnon Épique
 
-## 💠 La liste des compagnons ÉPIQUE
+## 💠 La liste des compagnons ÉPIQUES
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -41,7 +41,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>Résistance au feu</strong></mark></p>
     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Chasseur 🗡️</strong></mark></p>
     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Aérienne)</p>
-    <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+10%</strong></mark> de chance <mark style="color:blue;"><strong>d'enflammer les ennemies</strong></mark></p>
+    <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+10%</strong></mark> de chance <mark style="color:blue;"><strong>d'enflammer les ennemis</strong></mark></p>
     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Loots de mobs</strong></mark> au /shop</p>
    </td>
    <td>
@@ -59,7 +59,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+ 6.500</strong></mark> 💲/h</p>
     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Bûcheron 🪚</strong></mark></p>
     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Aérienne)</p>
-    <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → Réduction des<mark style="color:blue;"><strong>Dégats de Chute</strong></mark> de moitié</p>
+    <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → Réduction des <mark style="color:blue;"><strong>Dégats de Chute</strong></mark> de moitié</p>
     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+5%</strong></mark> sur <mark style="color:blue;">vos ventes</mark> chez Jimmy</p>
    </td>
    <td>
@@ -75,7 +75,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
    </td>
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+ 7.000</strong></mark> 💲/h</p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;">Stockage</mark> double coffre</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>Stockage</strong></mark> double coffre</p>
      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Terrestre)</p>
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +5</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Fermier 🌾</strong></mark></p>
@@ -103,7 +103,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+ 3.500</strong></mark> 💲/h</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +25</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;">Stockage</mark> double coffre</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Stockage</strong></mark> double coffre</p>
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +8</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+5%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Diamants</strong></mark> au /shop</p>     
    </td>
@@ -187,10 +187,10 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+5%</strong></mark> sur la vente d'<mark style="color:blue;"><strong>Éclats de prismarine</strong></mark> au /shop</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Resoiration Aquatique</strong></mark></p><p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Respiration Aquatique</strong></mark></p><p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>💀 Dégâts Critiques</strong></mark> +11</p>
    </td>
-   <td>* Loot de boss 🐉(Donjons Abyssal)</td>
+   <td>* Loot de boss 🐉(Donjons Abyssaux)</td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Ice Queen</strong></mark></td>
@@ -206,12 +206,12 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
   </tr>
    <tr>
    <td><mark style="color:blue;"><strong>Gorille des cavernes</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/gorille des cavernes.png"alt=""></figure></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Gorille-des-cavernes.png"alt="" style="width: 500px;"></figure></td>
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+2.500</strong></mark>💲/h</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+10 /
      <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+5</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;">+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Mineur⛏️<strong></mark></p>  
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <strong><mark style="color:blue;">+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Mineur⛏️<strong></mark></p>  
     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+15 /
      <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+10</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.500</strong></mark>💲/h</p>
@@ -240,11 +240,11 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+2,5%</strong></mark> d'argent sur <mark style="color:blue;"><strong>TOUS les métiers</strong></mark></p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +5</p> 
    </td>
-   <td>* Œuf de famillier (Caisse Abyssal 🌊)</td>
+   <td>* Œuf de famillier (Caisse Abyssale 🌊)</td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Ça</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/ça.png" alt=""></figure></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Ça.png" alt=""></figure></td>
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>Vision Nocturne</strong></mark></p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+200%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Gâteau</strong></mark> au /shop</p>
@@ -283,7 +283,7 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Petri.png" alt=""></figure></td>
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+5%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Prismarine</strong></mark> au /shop</p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>Aucun dégâts de chute</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>Aucun dégât de chute</strong></mark></p>
      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>+ 3.750</strong></mark> 💲/h</p>
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🥊 Chance de Critique</strong></mark> +1</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 4.750</strong></mark> 💲/h</p>   
@@ -301,6 +301,18 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Pêcheur 🎣</strong></mark></p>   
    </td>
    <td>* Œuf de famillier (Caisse Lune de Sang 🩸)</td>
+  </tr>
+  <tr>
+   <td><mark style="color:blue;"><strong>Cheval de Feu</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Cheval de Feu.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +5</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>Résistance au feu</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Terrestre)</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong> Saut Amélioré 🦘</strong></mark> (Permanent) </p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
+   </td>
+   <td>* Œuf de famillier (Caisse Lunaire 🎑)</td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Arhi</strong></mark></td>
@@ -408,6 +420,6 @@ description: Retrouvez ici toutes la liste des compagnons épique dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong> Saut Amélioré 🦘</strong></mark> (Permanent) </p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
    </td>
-   <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
+   <td>* Œuf de famillier (caisse lunaire)</td>
   </tr>
 </table>

@@ -6,12 +6,12 @@ description: Retrouvez ici toutes les informations concernant le mariage
 
 ## 💠 <mark style="color:green;">La déclaration 💕</mark>
 
-Pour pouvoir vous marier, il faut d'abord atteindre le <mark style="color:green;">**rang Valeureux**</mark> ! Ensuite, vous pouvez vous marier avec une personne consentante. (Et non monsieur Seguin, vous ne pouvez pas vous marier avec votre chèvre !🐐)
+Pour pouvoir vous marier, il faut d'abord atteindre le <mark style="color:green;">**rang Valeureux**</mark> ! Ensuite, vous pouvez vous marier avec une personne consentante. (Et non monsieur Seguin, vous ne pouvez pas vous marier avec votre chèvre !🐐).
 
 Lorsque le rang est atteint, il faut se diriger vers un <mark style="color:green;">**guide ou plus haut gradé**</mark> afin qu'il puisse vous unir.
 
 {% hint style="important" %}
-Si vous souhaitez vous <mark style="color:green;">divorcer de votre moitié</mark>, il <mark style="color:green;">faut vous diriger vers un modérateur</mark>.
+Si vous souhaitez <mark style="color:green;">divorcer de votre moitié</mark>, il <mark style="color:green;">faut vous diriger vers un modérateur</mark>.
 {% endhint %}
 
 ## 💠 <mark style="color:green;">Les commandes ❔</mark>

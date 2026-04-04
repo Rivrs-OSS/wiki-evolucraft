@@ -21,7 +21,6 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 25 chunks disponibles
-* 25$ par chunk de taxes
 
 <mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
@@ -37,7 +36,6 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 50 chunks disponibles
-* 50$ par chunk de taxes
 
 <mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
@@ -53,7 +51,6 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 100 chunks disponibles
-* 75$ par chunk de taxes
 
 <mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
@@ -69,7 +66,6 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 200 chunks disponibles
-* 125$ par chunk de taxes
 
 <mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
@@ -85,7 +81,6 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 300 chunks disponibles
-* 200$ par chunk de taxes
 
 <mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
@@ -101,7 +96,6 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 400 chunks disponibles
-* 325$ par chunk de taxes
 
 <mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
@@ -117,7 +111,6 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 500 chunks disponibles
-* 500$ par chunk de taxes
 
 <mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
