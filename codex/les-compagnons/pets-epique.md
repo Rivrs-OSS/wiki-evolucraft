@@ -422,4 +422,16 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
    </td>
    <td>* Œuf de famillier (caisse lunaire)</td>
   </tr>
+  <tr>
+   <td><mark style="color:blue;"><strong>Lapin Mignon</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Lapin-Mignon.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Pattes de lapin</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 6.500</strong></mark> 💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +4</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +7</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7,5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Fermier 🌾</strong></mark></p>
+   </td>
+   <td>* Œuf de famillier (Caisse Pâques 2026 🥚)</td>
+  </tr>
 </table>
