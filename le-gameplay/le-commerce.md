@@ -10,7 +10,7 @@ description: Retrouvez ici toutes les informations concernant les différents co
 
 ## <mark style="color:green;">💠 Coffre de Vente 🔖</mark>
 
-Si vous souhaitez créer un coffre de vente ou d'achat, veuillez suivre ce lien : [<mark style="color:green;">**Les shops de joueurs 🛒**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-villes/les-shops-de-joueurs)
+Si vous souhaitez créer un coffre de vente ou d'achat, veuillez suivre ce lien : [<mark style="color:green;">**Les shops de joueurs 🛒**</mark>](./les-villes/shops-joueurs.md)
 
 Le coffre de vente ou d'achat vous permet de vendre ou d'acheter des items entre joueurs directement à votre sublime pwarp, afin de créer votre richesse et développer votre marché ainsi que votre reconnaissance sur le serveur. À l'intérieur, vous pourrez acheter ou vendre n'importe quel item, des items vanilla pour les rangs, comme des items uniques au serveur tels que des cristaux de donjon ou encore des pierres de donjon.
 

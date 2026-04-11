@@ -128,7 +128,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 | <mark style="color:blue;">**Sceptre des Glaces**</mark> *(Arme Clerc)*             | **150 Sucres d'Orges**     |
 | <mark style="color:blue;">**Pistolet Laser des Glaces**</mark> *(Arme Artificier)* | **150 Sucres d'Orges**     |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/givre.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Givré</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Givré/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Givré</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:red;">St-Valentin 💕</mark>
 
