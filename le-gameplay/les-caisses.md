@@ -604,7 +604,7 @@ La <mark style="color:green;">**Clé de la Caisse lunaire**</mark> s'obtient gr�
 La <mark style="color:green;">**Clé de la Caisse Paque**</mark> s'obtient en l'achetant via <mark style="color:green;">**le `/boutique`**</mark> au prix de <mark style="color:green;">**850 gemmes 💎**</mark> ou via la <mark style="color:green;">**Boutique Temporaire du `/paque`**</mark> contre <mark style="color:green;">**16 fragments de clé Paque**</mark>
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
-<figure><img src="../.gitbook/assets/Les_Caisses/lunaire.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/caisse_paques(2026).png" alt=""><figcaption></figcaption></figure>
 
 | **Récompense**                                                       | **Pourcentage d'obtention** |
 | -------------------------------------------------------------------- | --------------------------- |
