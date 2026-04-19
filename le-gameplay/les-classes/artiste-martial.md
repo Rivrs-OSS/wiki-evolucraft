@@ -577,5 +577,19 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#nouvel-an-lunaire"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire"><mark style="color:green;">Caisse Lunaire 🎑</mark></a></p>
     </td>
+    <tr>
+  <td><mark style="color:green;">Gantelet en Chocolat</mark></td>
+  <td><mark style="color:green;">Pâques</mark></td>
+  <td>
+    <p><mark style="color:red;">🗡️ Force +53</mark></p>
+    <p><mark style="color:orange;">💀 Dégâts Critiques +21</mark></p>
+    <p><mark style="color:orange;">🥊 Chance de Critique +12</mark></p>
+  </td>
+  <td><mark style="color:green;">Onde de Choc 💥</mark> ► Inflige 10% des dégâts aux ennemis dans un rayon de 4 blocs</td>
+  <td>
+    <p>► <a href="#"><mark style="color:green;">Caisse Pâques 2026 🥚</mark></a></p>
+    <p>► <a href="#"><mark style="color:green;">Arme Aléatoire Pâques 2026</mark></a></p>
+  </td>
+</tr>
   </tr>
 </table>

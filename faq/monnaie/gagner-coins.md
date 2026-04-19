@@ -103,7 +103,7 @@ Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjon
 
 ### <mark style="color:green;">🔹 Les shops de joueurs</mark>
 
-**Nous vous invitons à&#x20;**<mark style="color:green;">**lire la page du wiki**</mark>**&#x20;dédiée :** [<mark style="color:green;">**Les shops de joueurs 🏪**</mark>](https://wiki.evolucraft.fr/les-villes/shops-joueurs)
+**Nous vous invitons à&#x20;**<mark style="color:green;">**lire la page du wiki**</mark>**&#x20;dédiée :** [<mark style="color:green;">**Les shops de joueurs 🏪**</mark>](../../le-gameplay/les-villes/shops-joueurs.md)
 
 <figure><img src="../../.gitbook/assets/Les_Villes/Shops/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu d'un </strong><mark style="color:green;"><strong>coffre de vente</strong></mark></p></figcaption></figure>
 

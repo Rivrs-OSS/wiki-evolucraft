@@ -6,18 +6,29 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 **Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement. Voici donc la liste des événements présents actuellement sur le serveur.**
 
-## 🍀 Événement Temporaire
+## 🐣 Événement Temporaire
 
-### <mark style="color:green;">💠 Lucky Blocks ! </mark>
+### <mark style="color:yellow;">💠 Chasse aux Œufs de Pâques ! 🥚</mark>
 
-Pour célébrer la <mark style="color:green;">**Saint-Patrick**</mark>, nous vous proposons de <mark style="color:green;">**tenter votre chance**</mark> avec les <mark style="color:green;">**lucky blocks**</mark> afin d’obtenir de <mark style="color:green;">**nombreuses récompenses**</mark>, allant d’<mark style="color:green;">**items très recherchés**</mark> à une <mark style="color:green;">**humiliation dans le chat public**</mark> !
+Pour célébrer <mark style="color:yellow;">**Pâques**</mark>, un tout nouveau monde vous attend ! Accédez-y via la commande <mark style="color:yellow;">**`/paque`**</mark> ou <mark style="color:yellow;">**`/update`**</mark> et préparez-vous à une <mark style="color:yellow;">**chasse aux œufs effrénée**</mark> !
 
-Ce système met à l’épreuve votre <mark style="color:green;">**chance**</mark> et votre <mark style="color:green;">**patiente**</mark>, tout en apportant une touche de <mark style="color:green;">**fun et de GAMBLING**</mark> au jeu !
+#### 🗺️ Le Monde de Pâques
 
-Pour plus d’informations, nous vous invitons à consulter la <mark style="color:green;">**page dédiée**</mark> à cette <mark style="color:green;">**fonctionnalité temporaire**</mark> : [<mark style="color:green;">**🎲 Lucky Block 🎲**</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block)
+Une fois dans ce monde spécial, rendez-vous au <mark style="color:yellow;">**centre du labyrinthe**</mark> pour récupérer votre <mark style="color:yellow;">**pince**</mark>, l’outil indispensable pour attraper les œufs !
+
+#### 🥚 La Chasse aux Œufs
+
+Les œufs ne se laisseront pas attraper facilement : ils <mark style="color:yellow;">**bougent et tentent de s’enfuir**</mark> ! Et attention, plus un œuf est <mark style="color:yellow;">**rare**</mark>, plus il sera <mark style="color:yellow;">**rapide**</mark>. Attrapez-en un maximum pour maximiser vos récompenses !
+
+#### 🍫 L’Incubateur
+
+De retour au <mark style="color:yellow;">**centre du labyrinthe**</mark>, utilisez l’<mark style="color:yellow;">**incubateur**</mark> pour convertir vos œufs en <mark style="color:yellow;">**chocolat**</mark>. Ce chocolat a deux utilités :
+
+* <mark style="color:yellow;">**Améliorer votre pince et l’incubateur**</mark> → Les améliorations sont accessibles directement depuis <mark style="color:yellow;">**l’interface de l’incubateur**</mark>
+* <mark style="color:yellow;">**Acheter des objets**</mark> → Dépensez votre chocolat dans la <mark style="color:yellow;">**boutique de l’événement**</mark> pour obtenir des récompenses exclusives !
 
 {% hint style="warning" %}
-Cet événement est **temporaire** et sera retiré à la fin de la période du Saint-Patrick 🍀.
+Cet événement est **temporaire** et sera retiré à la fin de la période de Pâques 🐣.
 {% endhint %}
 
 ## 🔄 Événements Récurrents

@@ -123,7 +123,7 @@ Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https:
 
 ### 🔸 Les compagnons 🐾  
 Les <mark style="color:green;">compagnons</mark> vous proposent, pour certains, à partir d'un certain level, des <mark style="color:green;">bonus de métiers</mark> (xp ou revenus).  
-Consultez le <mark style="color:green;">`/pokedex`</mark> ou la page dédiée : [<mark style="color:green;">Les Compagnons</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons).  
+Consultez le <mark style="color:green;">`/pokedex`</mark> ou la page dédiée : [<mark style="color:green;">Les Compagnons</mark>](./les-compagnons.md).  
 
 
 ### 🔸 L'évènement FARM BOOST 💱

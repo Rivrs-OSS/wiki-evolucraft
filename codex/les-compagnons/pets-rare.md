@@ -237,4 +237,16 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
     </td>
     <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
   </tr>
+  <tr>
+    <td><mark style="color:yellow;"><strong>Poussin Doré</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Poussin-Dore.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+10%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Plumes</strong></mark></p>
+      <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 3.500</strong></mark> 💲/h</p>
+      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>🛡️ Défense</strong></mark> +5</p>
+      <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>❤️ Vie</strong></mark> +12</p>
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Chasseur 🗡️</strong></mark></p>
+    </td>
+    <td>* Œuf de famillier (Caisse Pâques 2026 🥚)</td>
+  </tr>
 </table>

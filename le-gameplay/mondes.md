@@ -16,7 +16,7 @@ La commande <mark style="color:green;">**`/monde`**</mark> vous permet de navigu
 
 ## 💠 <mark style="color:green;">Le monde CONSTRUCTION 🌁</mark>
 
-Le monde <mark style="color:green;">**Construction**</mark> vous ouvre les portes d’un espace dédié à la <a href="https://wiki.evolucraft.fr/le-gameplay/les-villes/les-villes"><mark style="color:green;">création de votre ville</mark></a>, à l’exposition de vos shops et de votre richesse !  
+Le monde <mark style="color:green;">**Construction**</mark> vous ouvre les portes d’un espace dédié à la <a href="./les-villes/README.md"><mark style="color:green;">création de votre ville</mark></a>, à l’exposition de vos shops et de votre richesse !  
 Ici, seules les constructions dans le cadre d’une ville sont autorisées. Il n’est pas possible de poser des blocs sans revendiquer un territoire.
 
 ## 💠 <mark style="color:green;">Les mondes RESSOURCES ⛏️</mark>

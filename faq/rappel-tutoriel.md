@@ -41,7 +41,6 @@ Vous avez déjà terminé le <mark style="color:green;">tutoriel de démarrage</
 | **Objectif** | Vous devez ouvrir le menu du magasin principal. |
 | **Commande** | <mark style="color:green;">`/shop`</mark> |
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Rappel_Tutoriel/chapitre1_etape3.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong>magasin principal</strong></mark></p></figcaption></figure>
 
 ---
 

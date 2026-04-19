@@ -45,19 +45,19 @@ Il existe **<mark style="color:green;"><strong>4 types de flocons</strong></mark
   <tr>
     <td><mark style="color:green;"><strong>Aperçu de l'item 📸</strong></mark></td>
     <td>
-      <p><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Commune.png" alt="" style="width: 50px;"></p>
+      <p><img src="../../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Commune.png" alt="" style="width: 50px;"></p>
       <p>Le rendue de cette image arrivera prochainement</p>
     </td>
     <td>
-      <p><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Rare.png" alt="" style="width: 50px;"></p>
+      <p><img src="../../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Rare.png" alt="" style="width: 50px;"></p>
       <p>Le rendue de cette image arrivera prochainement</p>
     </td>
     <td>
-      <p><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Epique.png" alt="" style="width: 50px;"></p>
+      <p><img src="../../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Epique.png" alt="" style="width: 50px;"></p>
       <p>Le rendue de cette image arrivera prochainement</p>
     </td>
     <td>
-      <p><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Legendaire.png" alt="" style="width: 50px;"></p>
+      <p><img src="../../.gitbook/assets/Tuto_Et_Astuce/Monnaie/SucreD'orge/Neige/Legendaire.png" alt="" style="width: 50px;"></p>
       <p>Le rendue de cette image arrivera prochainement</p>
     </td>
   </tr>

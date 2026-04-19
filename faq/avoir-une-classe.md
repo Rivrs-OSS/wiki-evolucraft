@@ -26,7 +26,7 @@ Une fois arrivé à un certain chapitre et à une certaine étape, il vous sera 
 
 Le <mark style="color:green;">`/rewards`</mark> vous permet de <mark style="color:green;">gagner des récompenses</mark> chaque jour, avec un reset à minuit _(heure française)_ selon votre temps de jeu. <mark style="color:green;">Une notification sur votre écran</mark> vous informe lorsqu’un cadeau est débloqué.
 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Monnaie/Coins/InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface </strong><mark style="color:green;"><strong>/rewards</strong></mark></p></figcaption></figure>
 
 Lorsque vous atteindrez le dernier palier, une <mark style="color:green;">carte aléatoire commune</mark> vous sera donnée.
 

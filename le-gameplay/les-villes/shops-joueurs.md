@@ -40,7 +40,7 @@ Et voilà ! Votre coffre de vente est créé 🤩 !
 * <mark style="color:green;">**Étape 1️⃣ :**</mark> Réaliser les mêmes étapes que pour faire un coffre de vente, tout en mettant votre prix d'achat à la place du prix de vente.
 * <mark style="color:green;">**Étape 2️⃣ :**</mark> Tapez **`/qs buy`** pour transformer votre coffre de vente en coffre d'achat.
 
-<figure><img src="../../.gitbook/assets/Les_Villes/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu d'un <mark style="color:green;">coffre de vente d'item</mark></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Shops/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu d'un <mark style="color:green;">coffre de vente d'item</mark></strong></p></figcaption></figure>
 
 ### <mark style="color:green;">**💡 Quelques commandes en plus pour vos coffres de shop !**</mark>
 
@@ -60,6 +60,6 @@ Pour cela, réalisez la commande suivante en fonction de votre besoin :
 * <mark style="color:green;">**`/finditem acheter [id de l'item / bout d'un mot de l'item]`**</mark>**&#x20;: Permet de chercher tous les coffres où les joueurs vendent l'item.**
 * <mark style="color:green;">**`/finditem vendre [id de l'item / bout d'un mot de l'item]`**</mark>**&#x20;: Permet de chercher tous les coffres où les joueurs achètent l'item.**
 
-<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface du <mark style="color:green;">/finditem</mark></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Villes/Shops/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface du <mark style="color:green;">/finditem</mark></strong></p></figcaption></figure>
 
 **Et voilà, vous savez tout pour créer votre magnifique shop ! ✨**

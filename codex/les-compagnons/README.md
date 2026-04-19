@@ -94,8 +94,8 @@ Il existe au total <mark style="color:green;">**106 compagnons différents**</ma
 Ils sont classés par <mark style="color:green;">**rareté**</mark> :
 
 * [<mark style="color:green;">**22 compagnons Communs 🐸**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-communs) dont 6 shinys.  
-* [<mark style="color:yellow;">**21 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-rare) dont 5 shinys.  
-* [<mark style="color:blue;">**34 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-epique) dont 4 shinys.  
+* [<mark style="color:yellow;">**22 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-rare) dont 5 shinys.  
+* [<mark style="color:blue;">**35 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-epique) dont 4 shinys.  
 * [<mark style="color:purple;">**21 compagnons Légendaires 👾**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-legendaire) dont 2 shinys.  
 * [<mark style="color:red;">**8 compagnons Mythiques 🦞**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-mythique) dont 1 shiny.  
 
