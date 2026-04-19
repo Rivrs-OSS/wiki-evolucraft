@@ -597,7 +597,7 @@ La <mark style="color:green;">**Clé de la Caisse lunaire**</mark> s'obtient gr�
 | <mark style="color:green;">**Spawner Aléatoire**</mark>              | **5,56%**                   |
 | <mark style="color:green;">**2 Clés Lunaire**</mark>                 | **5,56%**                   |
 
-### 🔸 <mark style="color:red;">Caisse Lunaire 🎑</mark>
+### 🔸 <mark style="color:red;">Caisse de Pâques 🥚</mark>
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
