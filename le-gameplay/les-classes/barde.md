@@ -353,16 +353,6 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
     </td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;">Harpe légendaire</mark></td>
-    <td><mark style="color:yellow;">Jackpot</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-jackpot"><mark style="color:yellow;">Caisse Jackpot 🎰</mark></a></td>
-  </tr>   
-  <tr>
     <td><mark style="color:green;">Harpe des muses Shiny</mark></td>
     <td><mark style="color:green;">Commun ✨</mark></td>
     <td>

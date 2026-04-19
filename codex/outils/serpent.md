@@ -104,7 +104,7 @@ Le pass serpent <mark style="color:green;">**n'est plus disponible**</mark>. Les
      <p><mark style="color:green;"><strong>3 500</strong></mark> de <mark style="color:green;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>▸ <mark style="color:green;"><strong>Effet Bûcheron</strong></mark> : Coupe un arbre moyen en entier en y cassant juste une bûche.</p>
+     <p>▸ <mark style="color:green;"><strong>Effet Bûcheron</strong></mark> : Coupe un petit arbre en entier en y cassant juste une bûche.</p>
    </td>
   </tr>
   <tr>

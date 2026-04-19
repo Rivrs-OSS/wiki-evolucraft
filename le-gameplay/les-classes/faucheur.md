@@ -73,7 +73,7 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
 
 ## 💠 <mark style="color:blue;">Armes</mark>
 
-### 🔸 <mark style="color:green;">**Armes des Évènements**</mark>   
+### 🔸 <mark style="color:green;">**Packs d'Armes**</mark>   
 
 <table>
 <tr>

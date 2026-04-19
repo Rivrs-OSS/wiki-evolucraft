@@ -259,6 +259,18 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
+     <tr>
+    <td><mark style="color:red;">Bâton Arcanique</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:yellow;">🧪 Mana +210</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>
+     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
+    </td>
+  </tr>
   </tr>
 </table>
 
@@ -272,18 +284,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <th><strong>Effets ✨</strong></th>
     <th><strong>Obtentions 📌</strong></th>
   </tr>
-  <tr>
-    <td><mark style="color:red;">Bâton Arcanique</mark></td>
-    <td><mark style="color:red;">Mythique</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:yellow;">🧪 Mana +210</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
-    </td>
-  </tr>
+ 
   <tr>
     <td><mark style="color:green;">Bâton de l'Éther</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
@@ -344,18 +345,6 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:red;">Bâton Arcanique</mark></td>
-    <td><mark style="color:red;">Mythique</mark></td>
-    <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:yellow;">🧪 Mana +210</mark></p>
-    </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
-    <td>
-     <p>▸ <mark style="color:green;">Packs d'Armes (Mini-Boss & Boss des Donjons Communs)</mark></p>
     </td>
   </tr>
   <tr>
