@@ -324,6 +324,39 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 <figure><img src="../.gitbook/assets/Marche-Noir/Lunaire/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du Nouvel An Lunaire</mark></strong></figcaption></figure>
 
+### 🥚 <mark style="color:green;">Pâques 2026</mark>
+
+Ces items sont achetables avec des **<mark style="color:green;">Œufs en Chocolat</mark>**, qui sont obtenables dans la **<mark style="color:green;">boutique temporaire du `/paque`</mark>** via un échange d'Œufs en Chocolat obtenable dans le [<mark style="color:green;"><strong>Monde de Pâques</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#paques).
+
+{% hint style="info" %}
+Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>effet d'Onde de Choc 💥</strong></mark> infligeant <mark style="color:green;"><strong>10% des dégâts aux ennemis dans un rayon de 4 blocs</strong></mark>.
+{% endhint %}
+
+| **Items disponible**                                                                 | **Prix**              |
+| ------------------------------------------------------------------------------------ | --------------------- |
+| <mark style="color:green;">**Livre en Chocolat**</mark> *(Arme Invocateur)*         | **22.500.000 🥚**    |
+| <mark style="color:green;">**Arc en Chocolat**</mark> *(Arme Archer)*               | **22.500.000 🥚**    |
+| <mark style="color:green;">**Dague en Chocolat**</mark> *(Arme Assassin)*           | **22.500.000 🥚**    |
+| <mark style="color:green;">**Arc de l'enfer en Chocolat**</mark> *(Arme Chasseur de Phénix)* | **22.500.000 🥚** |
+| <mark style="color:green;">**Poing en Chocolat**</mark> *(Arme Moine)*              | **22.500.000 🥚**    |
+| <mark style="color:green;">**Gantelet en Chocolat**</mark> *(Arme Artiste Martial)* | **22.500.000 🥚**    |
+| <mark style="color:green;">**Pistolet en Chocolat**</mark> *(Arme Artificier)*      | **22.500.000 🥚**    |
+| <mark style="color:green;">**Marteau en Chocolat**</mark> *(Arme Paladin)*          | **22.500.000 🥚**    |
+| <mark style="color:green;">**Harpe en Chocolat**</mark> *(Arme Barde)*              | **22.500.000 🥚**    |
+| <mark style="color:green;">**Lance en Chocolat**</mark> *(Arme Chevalier de Glace)* | **22.500.000 🥚**   |
+| <mark style="color:green;">**Carte Mystique en Chocolat**</mark> *(Arme Illusionniste)* | **22.500.000 🥚** |
+| <mark style="color:green;">**Épée des Morts en Chocolat**</mark> *(Arme Chevalier de la Mort)* | **22.500.000 🥚** |
+| <mark style="color:green;">**Katana en Chocolat**</mark> *(Arme Samouraï)*          | **22.500.000 🥚**    |
+| <mark style="color:green;">**Orbe en Chocolat**</mark> *(Arme Élémentaliste)*       | **22.500.000 🥚**    |
+| <mark style="color:green;">**Sceptre en Chocolat**</mark> *(Arme Clerc)*            | **22.500.000 🥚**    |
+| <mark style="color:green;">**Faux en Chocolat**</mark> *(Arme Faucheur)*            | **22.500.000 🥚**    |
+| <mark style="color:green;">**Lance en Chocolat**</mark> *(Arme Guerrier Dragon)*    | **22.500.000 🥚**    |
+| <mark style="color:green;">**Bâton en Chocolat**</mark> *(Arme Archimage)*          | **22.500.000 🥚**    |
+| <mark style="color:green;">**Hache en Chocolat**</mark> *(Arme Barbare)*            | **22.500.000 🥚**    |
+| <mark style="color:green;">**Bâton en Chocolat**</mark> *(Arme Mage)*              | **22.500.000 🥚**    |
+| <mark style="color:green;">**Épée en Chocolat**</mark> *(Arme Guerrier)*            | **22.500.000 🥚**    |
+| <mark style="color:green;">**Totem en Chocolat**</mark> *(Arme Chaman)*             | **22.500.000 🥚**    |
+<figure><img src="../.gitbook/assets/Marche-noir/Armes Paque 26.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir de Paque 2026</mark></strong></figcaption></figure>
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
 ### 🔸 <mark style="color:blue;">Clé Givrée ❄️</mark>
@@ -359,8 +392,13 @@ Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de
 La **<mark style="color:red;">Clé Pain d'épice</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Pain d'épices 🍪</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**.  
 Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pain d'épices</mark>**, disponibles durant **<mark style="color:red;">l'événement de Noël 2025</mark>**.
 
-### 🔸 <mark style="color:green;">Clé Lunaire 🎑</mark>
-La **<mark style="color:green;">Clé Lunaire</mark>** permet d'ouvrir la **[<mark style="color:green;">Caisse Lunaire 🎑</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire)**.  
-Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Lunaire</mark>**, disponibles dans la **<mark style="color:green;">boutique temporaire du`/nouvelan`</mark>** avec **<mark style="color:green;">l'événement de Nouvel an Lunaire</mark>**.
+###  🔸 <mark style="color:green;">Clé Lunaire 🎑</mark>
+La **<mark style="color:green;">Clé Lunaire</mark>** permet d'ouvrir la **[<mark style="color:green;">Caisse Lunaire 🎑:</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire)**.  
+Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Lunaire</mark>**, disponibles durant **<mark style="color:green;">l'événement du Nouvel an</mark>**
+### 🔸 <mark style="color:yellow;">Clé de Pâques🥚</mark>
+
+La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 2026 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**.
+
+Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de clé de Pâques</mark>**, disponibles dans la **<mark style="color:yellow;">boutique temporaire du `/paque`</mark>** avec **<mark style="color:yellow;">l'événement de Pâques</mark>**.
 
 **Et voilà, vous savez tout sur le marché noir d'Évolucraft, mais attention… ceci doit rester secret 🤫**

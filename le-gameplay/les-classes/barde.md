@@ -583,5 +583,20 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#nouvel-an-lunaire"><mark style="color:green;">Marché Noir 🧥</mark></a></p>
       <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire"><mark style="color:green;">Caisse Lunaire 🎑</mark></a></p>
     </td>
+    <tr>
+  <td><mark style="color:green;">Harpe en Chocolat</mark></td>
+  <td><mark style="color:green;">Pâques</mark></td>
+  <td>
+    <p><mark style="color:red;">🗡️ Force +53</mark></p>
+    <p><mark style="color:orange;">💀 Dégâts Critiques +15</mark></p>
+    <p><mark style="color:red;">❤️ Vie +55</mark></p>
+    <p><mark style="color:cyan;">🏃‍♂️ Vitesse +6</mark></p>
+  </td>
+  <td><mark style="color:green;">Onde de Choc 💥</mark> ► Inflige 10% des dégâts aux ennemis dans un rayon de 4 blocs</td>
+  <td>
+    <p>► <a href="#"><mark style="color:green;">Caisse Pâques 2026 🥚</mark></a></p>
+    <p>► <a href="#"><mark style="color:green;">Arme Aléatoire Pâques 2026</mark></a></p>
+  </td>
+</tr>
   </tr>  
 </table>
