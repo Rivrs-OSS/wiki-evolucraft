@@ -250,7 +250,7 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td><mark style="color:blue;">Carte Mystique Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +49</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>

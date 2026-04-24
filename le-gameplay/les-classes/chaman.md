@@ -534,7 +534,7 @@ Gagnez de l'absorption et invoquez un cercle magique qui tire de larges faisceau
     <td><mark style="color:blue;">Totem Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +49</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>

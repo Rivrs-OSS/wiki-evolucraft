@@ -257,7 +257,7 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
     <td><mark style="color:blue;">Bâton Summer</mark></td>
     <td><mark style="color:blue;">Summer</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +49</mark></p>
+     <p><mark style="color:red;">🗡️ Force +43</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +19</mark></p>
      <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
