@@ -76,6 +76,10 @@ Cependant, vous pouvez activer [l'option du message automatique](https://wiki.ev
 * Il est interdit de dévoiler dans le chat public les informations liées aux quêtes (position de NPC, réponse à une énigme, etc).
 * Tout contournement d'achat unique sur la boutique est interdit (ex: donner 500 gemmes à son ami pour qu'il achète un item unique en boutique et le récupérer).
 * Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
+  * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.
+    * Par exemple, il est interdit de vendre deux clés au prix lambdas, et une milieu une beaucoup plus chère.
+    * Il est interdit de faire monter ou baisser intentionnellement le prix d'un item dans le but de tromper les autres joueurs en faisant de l'achat/revente entre deux personnes.
+    * Et bien d'autres cas. Si vous avez un doute, faites un ticket !
 * Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagnée ou les récompenses liées à leur mort.
 * Les contrats ou accords entre joueurs sont à vos risques et périls. Cependant, si un item a commencé à être payé alors le marché devra être respecté et être totalement honoré.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
