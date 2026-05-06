@@ -105,7 +105,7 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td align="center"><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/EpeeDeTyro.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/EpeeDeTyro.png" alt=""></figure></td>
     <td>
       <p>▸ <mark style="color:purple;"><strong>Tranchant V</strong></mark></p>
       <p>▸ <mark style="color:purple;"><strong>Châtiment VI</strong></mark></p>
