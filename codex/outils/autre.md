@@ -92,9 +92,27 @@ Ces <mark style="color:green;">**outils spéciaux**</mark> ont un rôle légère
 
 ### 💜 ◦ <mark style="color:green;">Coeur du Démon</mark>
 
-🔹 Le <mark style="color:green;">coeur du démon</mark> s'obtient dans la [<mark style="color:yellow;">caisse Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang).
+🔹 Le <mark style="color:green;">coeur du démon</mark> s’obtient dans la [<mark style="color:yellow;">caisse Lune de Sang</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang).
 
 <table border="1" cellspacing="0" cellpadding="6">
   <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/CoeurDuDémon.png" alt=""></figure></td>
   <td>Ce <mark style="color:green;">cœur du démon</mark> vous permet, en le mangeant, de restaurer votre <mark style="color:green;">barre de faim</mark> et ainsi de bénéficier d’une <mark style="color:green;">source de nourriture illimitée</mark>.</td>
+</table>
+
+### ⚔️ ◦ <mark style="color:purple;">Épée de Tyro</mark>
+
+🔹 L’<mark style="color:purple;">Épée de Tyro</mark> s’obtient exclusivement dans le <mark style="color:purple;">**Pack Tyro**</mark> lors de l’événement <mark style="color:purple;">**Offres Limitées Anniversaire 🎂**</mark> ou à <mark style="color:green;">l’achat</mark> dans [<mark style="color:green;">l’hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><figure><img src="../../.gitbook/assets/Codex/Outils/Autre/EpeeDeTyro.png" alt=""></figure></td>
+    <td>
+      <p>▸ <mark style="color:purple;"><strong>Tranchant V</strong></mark></p>
+      <p>▸ <mark style="color:purple;"><strong>Châtiment VI</strong></mark></p>
+      <p>▸ <mark style="color:purple;"><strong>Fléau des arthropodes VI</strong></mark></p>
+      <p>▸ <mark style="color:purple;"><strong>Affilage V</strong></mark></p>
+      <p>▸ <mark style="color:purple;"><strong>Buton V</strong></mark></p>
+    </td>
+    <td><strong><mark style="color:purple;">Effet Dextérité</mark></strong> : Frappe 20% plus vite</td>
+  </tr>
 </table>

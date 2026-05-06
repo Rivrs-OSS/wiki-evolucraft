@@ -264,4 +264,20 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
    </td>
    <td>* Œuf de famillier (caisse lunaire)</td>
   </tr>
+  <tr>
+    <td><mark style="color:purple;"><strong>Duck (Anniversaire)</strong></mark></td>
+    <td>
+      <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Duck_Anniversaire.png" alt=""></figure></p>
+    </td>
+    <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+ 6.500</strong> 💲/h</mark></p>
+      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>🛡️ Défense</strong></mark> +5</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>Monture</strong></mark> (Terrestre)</p>
+      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🏃‍♂️ Vitesse</strong></mark> +10</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>💨 10% d'Esquive</strong></mark></p>
+    </td>
+    <td>
+      <p>* Pack Duck (Offres Limitées Anniversaire 🎂)</p>
+    </td>
+  </tr>
 </table>
