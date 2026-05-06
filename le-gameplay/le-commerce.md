@@ -35,10 +35,11 @@ Afin de mieux vous y retrouver, le /ah est regroupé en plusieurs catégories li
 * <mark style="color:green;">**Classes 🧙‍♂️**</mark> : Cartes sur les classes de personnages disponibles.
 * <mark style="color:green;">**Blocs 🧱**</mark> : Liste des blocs disponibles à l'achat pour la construction ou la décoration.
 * <mark style="color:green;">**Spawners 🐾**</mark> : Présente les spawners disponibles à l'achat pour générer des créatures.
+* <mark style="color:green;">**parchemins📜**</mark> : Regroupe les différents parchemins disponibles à l'achat.
 
 Les deux boutons en bas de l'interface permettent aux joueurs de gérer leurs ventes, puis de récupérer les objets qu'ils ont achetés.
 
-<figure><img src="../.gitbook/assets/Le_Commerce/Interface_Ah.png" alt=""><figcaption><p><strong>Menu <code>/ah</code></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le_Commerce/hotel des ventes.png" alt=""><figcaption><p><strong>Menu <code>/ah</code></strong></p></figcaption></figure>
 
 ### Commandes de l'hôtel des ventes
 
