@@ -8,6 +8,46 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 ## 🐣 Événement Temporaire
 
+### <mark style="color:purple;">🎂 Offres Limitées Anniversaire !</mark>
+
+Pour célébrer l'<mark style="color:purple;">**anniversaire d'Evolucraft**</mark>, deux packs exclusifs sont disponibles pour une durée limitée ! C'est l'occasion rêvée de mettre la main sur des <mark style="color:purple;">**équipements uniques**</mark>, des <mark style="color:purple;">**cosmétiques exclusifs**</mark> et bien d'autres <mark style="color:purple;">**récompenses anniversaire**</mark> introuvables ailleurs.
+
+#### 🎁 Pack Tyro — <mark style="color:purple;">4 000 💎</mark>
+
+Embarquez dans l'aventure avec l'arsenal complet de Tyro !
+
+| Contenu du Pack |
+| --------------- |
+| ⚔️ Épée de Tyro |
+| 🥼 Armure Tyro (set complet) |
+| 🎨 Cosmétique : Épée de Tyro + Cape de Tyro |
+| 🏷️ Tag exclusif **"Tyro"** |
+| 💰 3 000 000 $ |
+| 📜 Parchemin Impo × 3 |
+| 🍫 Clé en Chocolat × 3 |
+| 🍫 Booster Chocolat × 2 |
+| 📚 Booster de Savoir 50% (1h) |
+
+#### 🎁 Pack Duck — <mark style="color:yellow;">2 500 💎</mark>
+
+Adoptez le canard le plus célèbre du serveur et partez à l'aventure avec style !
+
+| Contenu du Pack |
+| --------------- |
+| 🦆 Familier Duck (Monture Terrestre) |
+| 🥼 Armure Tyro (set complet) |
+| 🎨 Cosmétique : Baluchon du Canard |
+| 🏷️ Tag exclusif **"Duck"** |
+| 💰 3 000 000 $ |
+| 📜 Parchemin Impo × 3 |
+| 🍫 Clé en Chocolat × 3 |
+| 🍫 Booster Chocolat × 2 |
+| 📚 Booster de Savoir 50% (1h) |
+
+{% hint style="warning" %}
+Ces offres sont **temporaires** et seront retirées à la fin de l'événement anniversaire 🎂.
+{% endhint %}
+
 ### <mark style="color:yellow;">💠 Chasse aux Œufs de Pâques ! 🥚</mark>
 
 Pour célébrer <mark style="color:yellow;">**Pâques**</mark>, un tout nouveau monde vous attend ! Accédez-y via la commande <mark style="color:yellow;">**`/paque`**</mark> ou <mark style="color:yellow;">**`/update`**</mark> et préparez-vous à une <mark style="color:yellow;">**chasse aux œufs effrénée**</mark> !
