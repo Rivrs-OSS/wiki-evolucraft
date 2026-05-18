@@ -37,7 +37,7 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**22 classes**<
 * [<mark style="color:yellow;">**Assassin 🗡️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/assassin) : Maîtres de l'ombre, spécialisés dans les attaques furtives et les éliminations rapides. _(DPS)_
 * [<mark style="color:yellow;">**Paladin 🛡️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/paladin) : Chevaliers sacrés combattant au nom de la justice, purifiant les forces du malin. _(Tanks)_
 * [<mark style="color:yellow;">**Élémentaliste 🌬️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/elementaliste) : Maîtres des éléments primordiaux, manipulant le feu, le vent, l'eau et la terre. Aussi versatile que puissant. _(DPS)_
-* [<mark style="color:yellow;">**Chevalier des glaces ❄️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-des-glaces) : Chevalier maniant le givre paralysant ses ennemis dans le froid et refroidissant leurs ardeur. _(DPS)_
+* [<mark style="color:yellow;">**Chevalier des glaces ❄️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-des-glaces) : Chevalier maniant le givre paralysant ses ennemis dans le froid et refroidissant leurs ardeur. _(Tanks)_
 * [<mark style="color:yellow;">**Barbare 🪓**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/barbare) : Barbare au courroux sauvage brisant ses ennemis d'un coup furieux sous sa rage déchaînée. _(Tanks)_
 
 ### 🟦 <mark style="color:blue;">Classes Épiques</mark>
