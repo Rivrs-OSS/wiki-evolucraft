@@ -52,13 +52,17 @@ Vous pouvez également acheter des items dans la boutique avec de la viande de p
 
 ### 🔸 2. Le monde de Pâques 🥚
 
-Accédez à ce monde via la commande <mark style="color:green;">**`/paque`**</mark> ou <mark style="color:green;">**`/update`**</mark> et préparez-vous à une <mark style="color:green;">**chasse aux œufs effrénée**</mark> !
+Pour accéder à ce monde, rendez-vous au <mark style="color:green;">**`/spawn`**</mark> et trouvez le <mark style="color:green;">**PNJ dédié**</mark> — à vous de le dénicher ! Préparez-vous ensuite à une <mark style="color:green;">**chasse aux œufs effrénée**</mark> !
 
 <figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Monde Pâques</mark></strong></p></figcaption></figure>
 
-#### 🗺️ Le Labyrinthe
+#### 🥚 La Pince
 
-Une fois dans ce monde spécial, rendez-vous au <mark style="color:green;">**centre du labyrinthe**</mark> pour récupérer votre <mark style="color:green;">**pince**</mark>, l’outil indispensable pour attraper les œufs !
+À votre arrivée dans le monde, une <mark style="color:green;">**pince**</mark> vous est automatiquement donnée — c’est l’outil indispensable pour attraper les œufs. Pour la retirer de votre inventaire, retournez simplement au spawn avec la commande <mark style="color:green;">**`/spawn`**</mark>.
+
+{% hint style="danger" %}
+⛔ Mettre la pince à l’**hôtel des ventes** est **formellement interdit** et peut entraîner des **sanctions**.
+{% endhint %}
 
 #### 🥚 La Chasse aux Œufs
 
