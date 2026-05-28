@@ -296,8 +296,8 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
 </tr>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Hache du barbare</mark></td>
-    <td><mark style="color:purple;">Pack Barbare</mark></td>
+    <td><mark style="color:red;">Hache du barbare</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +58</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +33</mark></p>

@@ -602,8 +602,8 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
 </tr>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Poing du moine</mark></td>
-    <td><mark style="color:purple;">Pack Moine</mark></td>
+    <td><mark style="color:red;">Poing du moine</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +58</mark></p>
      <p><mark style="color:red;">❤️ Vie +129</mark></p>

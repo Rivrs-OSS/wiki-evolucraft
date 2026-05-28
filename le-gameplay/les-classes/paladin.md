@@ -665,8 +665,8 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
 </tr>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Marteau du paladin</mark></td>
-    <td><mark style="color:purple;">Pack Paladin</mark></td>
+    <td><mark style="color:red;">Marteau du paladin</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +58</mark></p>
      <p><mark style="color:red;">❤️ Vie +129</mark></p>

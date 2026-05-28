@@ -660,8 +660,8 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
 </tr>
   </tr>
   <tr>
-    <td><mark style="color:purple;">Épée du guerrier</mark></td>
-    <td><mark style="color:purple;">Pack Guerrier</mark></td>
+    <td><mark style="color:red;">Épée du guerrier</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +58</mark></p>
      <p><mark style="color:red;">❤️ Vie +129</mark></p>

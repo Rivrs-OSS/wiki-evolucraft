@@ -90,12 +90,12 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**5 sauvegardes**<
 
 <figure><img src="../../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
-Il existe au total <mark style="color:green;">**107 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.\
+Il existe au total <mark style="color:green;">**108 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.\
 Ils sont classés par <mark style="color:green;">**rareté**</mark> :
 
 * [<mark style="color:green;">**22 compagnons Communs 🐸**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-communs) dont 6 shinys.  
 * [<mark style="color:yellow;">**22 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-rare) dont 5 shinys.  
-* [<mark style="color:blue;">**35 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-epique) dont 4 shinys.  
+* [<mark style="color:blue;">**36 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-epique) dont 4 shinys.  
 * [<mark style="color:purple;">**21 compagnons Légendaires 👾**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-legendaire) dont 2 shinys.  
 * [<mark style="color:red;">**8 compagnons Mythiques 🦞**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-mythique) dont 1 shiny.  
 
