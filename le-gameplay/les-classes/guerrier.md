@@ -658,5 +658,15 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
     <p>► <a href="#"><mark style="color:green;">Arme Aléatoire Pâques 2026</mark></a></p>
   </td>
 </tr>
-  </tr> 
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Épée du guerrier</mark></td>
+    <td><mark style="color:purple;">Pack Guerrier</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +58</mark></p>
+     <p><mark style="color:red;">❤️ Vie +129</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>▸ Pack Guerrier 💎 (4 000 gemmes)</td>
+  </tr>
 </table>

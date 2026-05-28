@@ -294,5 +294,15 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
     <p>► <a href="#"><mark style="color:green;">Arme Aléatoire Pâques 2026</mark></a></p>
   </td>
 </tr>
-  </tr> 
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Hache du barbare</mark></td>
+    <td><mark style="color:purple;">Pack Barbare</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +58</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +33</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>▸ Pack Barbare 💎 (4 000 gemmes)</td>
+  </tr>
 </table>

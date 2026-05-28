@@ -600,6 +600,16 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <p>► <a href="#"><mark style="color:green;">Arme Aléatoire Pâques 2026</mark></a></p>
   </td>
 </tr>
-  </tr> 
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Poing du moine</mark></td>
+    <td><mark style="color:purple;">Pack Moine</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +58</mark></p>
+     <p><mark style="color:red;">❤️ Vie +129</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>▸ Pack Moine 💎 (4 000 gemmes)</td>
+  </tr>
 </table>
 
