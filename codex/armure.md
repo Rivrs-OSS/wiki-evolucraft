@@ -424,3 +424,21 @@ Les <mark style="color:green;">pièces d'Armure Duck</mark> s'obtiennent exclusi
 | **Aperçue de l'armure 🖼️**                                                                                                     | **Statistiques globales 📊**                                                                                                                                                                                                                                              | **Effets✨**                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | <div><figure><img src="../.gitbook/assets/Codex/Armure/Duck/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:green;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+48</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+48</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
+
+### 🛡️◦ <mark style="color:purple;">Armure \[Nom à définir]</mark>
+
+#### 🔹 Son obtention🤔
+
+Les <mark style="color:green;">pièces d'Armure \[Nom à définir]</mark> s'obtiennent dans les <mark style="color:purple;">**Packs de Classe Tank**</mark> lors de l'événement temporaire.
+
+#### 🔹 Son Aperçu 🔍
+
+| **Casque** | **Plastron** | **Pantalon** | **Bottes** |
+| :----: | :----: | :----: | :----: |
+| _Image à venir 🖼️_ | _Image à venir 🖼️_ | _Image à venir 🖼️_ | _Image à venir 🖼️_ |
+| À définir 📝 | À définir 📝 | À définir 📝 | À définir 📝 |
+| À définir 📝 | À définir 📝 | À définir 📝 | À définir 📝 |
+
+| **Aperçue de l'armure 🖼️** | **Statistiques globales 📊** | **Effets✨** |
+| --- | --- | --- |
+| _Image à venir 🖼️_ | <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+12</strong></p><p>▸ <mark style="color:red;"><strong>🗡️ Force</strong></mark> <strong>+8</strong></p><p>▸ <mark style="color:green;"><strong>◎ Vitesse</strong></mark> <strong>+10</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
