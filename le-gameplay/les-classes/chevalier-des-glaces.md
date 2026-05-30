@@ -216,6 +216,10 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
 
 ### 🔸 <mark style="color:green;">**Armes des Événements**</mark>
 
+{% hint style="warning" %}
+Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de packs** et certaines **armes de récompenses de donjon** sont compatibles avec la [Forge 🔨](https://wiki.evolucraft.fr/le-gameplay/les-machines/forge).
+{% endhint %}
+
 <table>
 <tr>
     <th><strong>Nom de l'Arme 🏷️</strong></th>
@@ -340,5 +344,15 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
     <p>► <a href="#"><mark style="color:green;">Arme Aléatoire Pâques 2026</mark></a></p>
   </td>
 </tr>
-  </tr>   
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Lance du chevalier des glaces</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +58</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +33</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>▸ Pack Chevalier des Glaces 💎 (4 000 gemmes)</td>
+  </tr>
 </table>

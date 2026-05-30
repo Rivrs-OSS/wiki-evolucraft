@@ -419,6 +419,10 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
 
 ### 🔸 <mark style="color:green;">**Armes des Événements**</mark>
 
+{% hint style="warning" %}
+Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de packs** et certaines **armes de récompenses de donjon** sont compatibles avec la [Forge 🔨](https://wiki.evolucraft.fr/le-gameplay/les-machines/forge).
+{% endhint %}
+
 <table>
 <tr>
     <th><strong>Nom de l'Arme 🏷️</strong></th>
@@ -600,6 +604,16 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <p>► <a href="#"><mark style="color:green;">Arme Aléatoire Pâques 2026</mark></a></p>
   </td>
 </tr>
-  </tr> 
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Poing du moine</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +58</mark></p>
+     <p><mark style="color:red;">❤️ Vie +129</mark></p>
+    </td>
+    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td>▸ Pack Moine 💎 (4 000 gemmes)</td>
+  </tr>
 </table>
 

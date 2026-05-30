@@ -217,6 +217,10 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
 
 ### 🔸 <mark style="color:green;">**Armes des Événements**</mark>
 
+{% hint style="warning" %}
+Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de packs** et certaines **armes de récompenses de donjon** sont compatibles avec la [Forge 🔨](https://wiki.evolucraft.fr/le-gameplay/les-machines/forge).
+{% endhint %}
+
 <table>
 <tr>
     <th><strong>Nom de l'Arme 🏷️</strong></th>

@@ -8,67 +8,88 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 ## 🐣 Événement Temporaire
 
-### <mark style="color:purple;">🎂 Offres Limitées Anniversaire !</mark>
+### <mark style="color:purple;">🛡️ Packs de Classe Tank</mark>
 
-Pour célébrer l'<mark style="color:purple;">**anniversaire d'Evolucraft**</mark>, deux packs exclusifs sont disponibles pour une durée limitée ! C'est l'occasion rêvée de mettre la main sur des <mark style="color:purple;">**équipements uniques**</mark>, des <mark style="color:purple;">**cosmétiques exclusifs**</mark> et bien d'autres <mark style="color:purple;">**récompenses anniversaire**</mark> introuvables ailleurs.
+Suite à la récente <mark style="color:purple;">**mise à jour des classes tanks**</mark>, des packs exclusifs sont disponibles pour une durée limitée ! Chaque pack contient une <mark style="color:purple;">**arme exclusive**</mark>, un <mark style="color:purple;">**Compagnon Rhinocéros**</mark>, des <mark style="color:purple;">**cartes de classe**</mark> et bien d’autres récompenses !
 
-#### 🎁 Pack Tyro — <mark style="color:purple;">4 000 💎</mark>
-
-Embarquez dans l'aventure avec l'arsenal complet de Tyro !
+#### 🎁 Pack Guerrier — <mark style="color:purple;">2 500 💎</mark>
 
 | Contenu du Pack |
 | --------------- |
-| ⚔️ Épée de Tyro |
-| 🥼 Armure Tyro (set complet) |
-| 🎨 Cosmétique : Épée de Tyro + Cape de Tyro |
-| 🏷️ Tag exclusif **"Tyro"** |
-| 💰 3 000 000 $ |
-| 📜 Parchemin Impo × 3 |
-| 🍫 Clé en Chocolat × 3 |
-| 🍫 Booster Chocolat × 2 |
-| 📚 Booster de Savoir 50% (1h) |
+| ⚔️ Épée du guerrier |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:green;">**🃏 Carte guerrier**</mark> × 64 |
+| 📈 Boost de classe 25% (1h) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
 
-#### 🎁 Pack Duck — <mark style="color:yellow;">2 500 💎</mark>
-
-Adoptez le canard le plus célèbre du serveur et partez à l'aventure avec style !
+#### 🎁 Pack Paladin — <mark style="color:purple;">2 500 💎</mark>
 
 | Contenu du Pack |
 | --------------- |
-| 🦆 Familier Duck (Monture Terrestre) |
-| 🥼 Armure Tyro (set complet) |
-| 🎨 Cosmétique : Baluchon du Canard |
-| 🏷️ Tag exclusif **"Duck"** |
-| 💰 3 000 000 $ |
-| 📜 Parchemin Impo × 3 |
-| 🍫 Clé en Chocolat × 3 |
-| 🍫 Booster Chocolat × 2 |
-| 📚 Booster de Savoir 50% (1h) |
+| 🔨 Marteau du paladin |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:yellow;">**🃏 Carte guerrier**</mark> × 32 |
+| 📈 Boost de classe 25% (1h) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
+
+#### 🎁 Pack Chevalier des Glaces — <mark style="color:purple;">2 500 💎</mark>
+
+| Contenu du Pack |
+| --------------- |
+| ❄️ Lance du chevalier des glaces |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:yellow;">**🃏 Carte guerrier**</mark> × 32 |
+| 📈 Boost de classe 25% (1h) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
+
+#### 🎁 Pack Barbare — <mark style="color:purple;">2 500 💎</mark>
+
+| Contenu du Pack |
+| --------------- |
+| 🪓 Hache du barbare |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:yellow;">**🃏 Carte barbare**</mark> × 32 |
+| 📈 Boost de classe 25% (1h) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
+
+#### 🎁 Pack Moine — <mark style="color:purple;">2 500 💎</mark>
+
+| Contenu du Pack |
+| --------------- |
+| 👊 Poing du moine |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:blue;">**🃏 Carte du moine**</mark> × 16 |
+| 📈 Boost de classe 25% (1h) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
+
+#### 🎁 Bundle Pack — <mark style="color:purple;">8 500 💎</mark>
+
+| Contenu du Pack |
+| --------------- |
+| 🛡️ Armure Tank complète |
+| ⚔️ Épée du guerrier |
+| 🔨 Marteau du paladin |
+| ❄️ Lance du chevalier des glaces |
+| 🪓 Hache du barbare |
+| 👊 Poing du moine |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| 📈 Booster de classe 50% (1h) |
+| <mark style="color:red;">**🍓 Bonbon à la fraise**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 4 |
+| <mark style="color:red;">**🔮 Pierre de téléportation**</mark> × 2 |
 
 {% hint style="warning" %}
-Ces offres sont **temporaires** et seront retirées à la fin de l'événement anniversaire 🎂.
-{% endhint %}
-
-### <mark style="color:yellow;">💠 Chasse aux Œufs de Pâques ! 🥚</mark>
-
-Pour célébrer <mark style="color:yellow;">**Pâques**</mark>, un tout nouveau monde vous attend ! Accédez-y via la commande <mark style="color:yellow;">**`/paque`**</mark> ou <mark style="color:yellow;">**`/update`**</mark> et préparez-vous à une <mark style="color:yellow;">**chasse aux œufs effrénée**</mark> !
-
-#### 🗺️ Le Monde de Pâques
-
-Une fois dans ce monde spécial, rendez-vous au <mark style="color:yellow;">**centre du labyrinthe**</mark> pour récupérer votre <mark style="color:yellow;">**pince**</mark>, l’outil indispensable pour attraper les œufs !
-
-#### 🥚 La Chasse aux Œufs
-
-Les œufs ne se laisseront pas attraper facilement : ils <mark style="color:yellow;">**bougent et tentent de s’enfuir**</mark> ! Et attention, plus un œuf est <mark style="color:yellow;">**rare**</mark>, plus il sera <mark style="color:yellow;">**rapide**</mark>. Attrapez-en un maximum pour maximiser vos récompenses !
-
-#### 🍫 L’Incubateur
-
-De retour au <mark style="color:yellow;">**centre du labyrinthe**</mark>, utilisez l’<mark style="color:yellow;">**incubateur**</mark> pour convertir vos œufs en <mark style="color:yellow;">**chocolat**</mark>. Ce chocolat a deux utilités :
-
-* <mark style="color:yellow;">**Améliorer votre pince et l’incubateur**</mark> → Les améliorations sont accessibles directement depuis <mark style="color:yellow;">**l’interface de l’incubateur**</mark>
-* <mark style="color:yellow;">**Acheter des objets**</mark> → Dépensez votre chocolat dans la <mark style="color:yellow;">**boutique de l’événement**</mark> pour obtenir des récompenses exclusives !
-
-{% hint style="warning" %}
-Cet événement est **temporaire** et sera retiré à la fin de la période de Pâques 🐣.
+Ces offres sont **temporaires** et seront retirées le **7 juin à 23h59** 🛡️.
 {% endhint %}
 
 ## 🔄 Événements Récurrents

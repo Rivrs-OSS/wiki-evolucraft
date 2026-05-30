@@ -31,11 +31,15 @@ Le monde <mark style="color:green;">**Nether**</mark>, accessible à partir du <
 ### 🔸 L'END 🌌  
 Enfin, le monde <mark style="color:green;">**End**</mark>, accessible à partir du <mark style="color:green;">**rang Chevronné**</mark>, abrite les ressources les plus rares, ainsi que le terrible dragon dont les objets sont échangeables via la commande <mark style="color:green;">**`/dragon`**</mark> !
 
-## 💠 <mark style="color:green;">Le NEW-WORLD 🏝️</mark>
+## 💠 <mark style="color:green;">Les mondes ÉVÉNEMENTS 🎪</mark>
+
+Ces mondes sont accessibles en permanence et proposent des contenus exclusifs liés aux événements du serveur.
+
+### 🔸 1. Le NEW-WORLD 🏝️
 
 Pour entrer dans ce monde, il vous suffit de taper la commande <mark style="color:green;">**`/newworld`**</mark>, puis de cliquer sur **"New World"**.
 
-<figure><img src="../.gitbook/assets/Menu/Monde_NewWorld.png" alt=""><figcaption><p><strong>Aperçu de la commande </strong><mark style="color:green;"><strong><code>/neworld</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu/Monde_NewWorld.png" alt=""><figcaption><p><strong>Aperçu de la commande </strong><mark style="color:green;"><strong><code>/newworld</code></strong></mark></p></figcaption></figure>
 
 Dans ce monde <mark style="color:green;">**New World**</mark>, vous pouvez explorer, récolter et développer vos métiers avec :
 * de **nouvelles plantations** 🌱 *(à partir du level 50 fermier pour les tomates 🍅 et 100 pour le maïs 🌽)*
@@ -45,5 +49,30 @@ Dans ce monde <mark style="color:green;">**New World**</mark>, vous pouvez explo
 * un **nouveau bois** 🌴
 
 Vous pouvez également acheter des items dans la boutique avec de la viande de poisson 🐡, obtenue en tuant des mobs dans le monde New World !
+
+### 🔸 2. Le monde de Pâques 🥚
+
+Pour accéder à ce monde, rendez-vous au <mark style="color:green;">**`/spawn`**</mark> et trouvez le <mark style="color:green;">**PNJ dédié**</mark> — à vous de le dénicher ! Préparez-vous ensuite à une <mark style="color:green;">**chasse aux œufs effrénée**</mark> !
+
+<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Monde Pâques</mark></strong></p></figcaption></figure>
+
+#### 🥚 La Pince
+
+À votre arrivée dans le monde, une <mark style="color:green;">**pince**</mark> vous est automatiquement donnée — c’est l’outil indispensable pour attraper les œufs. Pour la retirer de votre inventaire, retournez simplement au spawn avec la commande <mark style="color:green;">**`/spawn`**</mark>.
+
+{% hint style="danger" %}
+⛔ Mettre la pince à l’**hôtel des ventes** est **formellement interdit** et peut entraîner des **sanctions**.
+{% endhint %}
+
+#### 🥚 La Chasse aux Œufs
+
+Les œufs ne se laisseront pas attraper facilement : ils <mark style="color:green;">**bougent et tentent de s’enfuir**</mark> ! Et attention, plus un œuf est <mark style="color:green;">**rare**</mark>, plus il sera <mark style="color:green;">**rapide**</mark>. Attrapez-en un maximum pour maximiser vos récompenses !
+
+#### 🍫 L’Incubateur
+
+De retour au <mark style="color:green;">**centre du labyrinthe**</mark>, utilisez l’<mark style="color:green;">**incubateur**</mark> pour convertir vos œufs en <mark style="color:green;">**chocolat**</mark>. Ce chocolat a deux utilités :
+
+* <mark style="color:green;">**Améliorer votre pince et l’incubateur**</mark> → Les améliorations sont accessibles directement depuis <mark style="color:green;">**l’interface de l’incubateur**</mark>
+* <mark style="color:green;">**Acheter des objets**</mark> → Dépensez votre chocolat dans la <mark style="color:green;">**boutique de l’événement**</mark> pour obtenir des récompenses exclusives !
 
 ### Chers aventuriers, il ne vous reste plus qu’à explorer 🤠
