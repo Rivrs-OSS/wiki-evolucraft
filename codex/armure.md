@@ -425,11 +425,11 @@ Les <mark style="color:green;">pièces d'Armure Duck</mark> s'obtiennent exclusi
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | <div><figure><img src="../.gitbook/assets/Codex/Armure/Duck/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:green;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+48</strong></p><p>▸ <mark style="color:red;"><strong>💕 Régénération</strong></mark> <strong>+48</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
 
-### 🛡️◦ <mark style="color:purple;">Armure \[Nom à définir]</mark>
+### 🛡️◦ <mark style="color:purple;">Armure Tank</mark>
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'Armure \[Nom à définir]</mark> s'obtiennent dans les <mark style="color:purple;">**Packs de Classe Tank**</mark> lors de l'événement temporaire.
+Les <mark style="color:green;">pièces d'Armure Tank</mark> s'obtiennent dans les <mark style="color:purple;">**Packs de Classe Tank**</mark> lors de l'événement temporaire.
 
 #### 🔹 Son Aperçu 🔍
 
