@@ -441,7 +441,7 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+5%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Fer</strong></mark> au /shop</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +20</p>
      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Résistance au feu</strong></mark></p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +60</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +10</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 10.000</strong></mark> 💲/h</p>
    </td>
    <td>* Pack Guerrier / Paladin / Chevalier des Glaces / Barbare / Moine 🛡️ (Événement temporaire)</td>
