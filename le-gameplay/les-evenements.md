@@ -12,68 +12,84 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 Suite à la récente <mark style="color:purple;">**mise à jour des classes tanks**</mark>, des packs exclusifs sont disponibles pour une durée limitée ! Chaque pack contient une <mark style="color:purple;">**arme exclusive**</mark>, un <mark style="color:purple;">**Compagnon Rhinocéros**</mark>, des <mark style="color:purple;">**cartes de classe**</mark> et bien d’autres récompenses !
 
-#### 🎁 Pack Guerrier — <mark style="color:purple;">4 000 💎</mark>
+#### 🎁 Pack Guerrier — <mark style="color:purple;">2 500 💎</mark>
 
 | Contenu du Pack |
 | --------------- |
 | ⚔️ Épée du guerrier |
-| 🦏 Compagnon Rhinocéros |
-| 🃏 Carte guerrier × 64 |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:green;">**🃏 Carte guerrier**</mark> × 64 |
 | 📈 Boost de classe 25% (1h) |
-| 🍬 Bonbon aux raisins × 4 |
-| 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
 
-#### 🎁 Pack Paladin — <mark style="color:purple;">4 000 💎</mark>
+#### 🎁 Pack Paladin — <mark style="color:purple;">2 500 💎</mark>
 
 | Contenu du Pack |
 | --------------- |
 | 🔨 Marteau du paladin |
-| 🦏 Compagnon Rhinocéros |
-| 🃏 Carte guerrier × 32 |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:yellow;">**🃏 Carte guerrier**</mark> × 32 |
 | 📈 Boost de classe 25% (1h) |
-| 🍬 Bonbon aux raisins × 4 |
-| 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
 
-#### 🎁 Pack Chevalier des Glaces — <mark style="color:purple;">4 000 💎</mark>
+#### 🎁 Pack Chevalier des Glaces — <mark style="color:purple;">2 500 💎</mark>
 
 | Contenu du Pack |
 | --------------- |
 | ❄️ Lance du chevalier des glaces |
-| 🦏 Compagnon Rhinocéros |
-| 🃏 Carte guerrier × 32 |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:yellow;">**🃏 Carte guerrier**</mark> × 32 |
 | 📈 Boost de classe 25% (1h) |
-| 🍬 Bonbon aux raisins × 4 |
-| 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
 
-#### 🎁 Pack Barbare — <mark style="color:purple;">4 000 💎</mark>
+#### 🎁 Pack Barbare — <mark style="color:purple;">2 500 💎</mark>
 
 | Contenu du Pack |
 | --------------- |
 | 🪓 Hache du barbare |
-| 🦏 Compagnon Rhinocéros |
-| 🃏 Carte barbare × 32 |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:yellow;">**🃏 Carte barbare**</mark> × 32 |
 | 📈 Boost de classe 25% (1h) |
-| 🍬 Bonbon aux raisins × 4 |
-| 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
 
-#### 🎁 Pack Moine — <mark style="color:purple;">4 000 💎</mark>
+#### 🎁 Pack Moine — <mark style="color:purple;">2 500 💎</mark>
 
 | Contenu du Pack |
 | --------------- |
 | 👊 Poing du moine |
-| 🦏 Compagnon Rhinocéros |
-| 🃏 Carte du moine × 16 |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| <mark style="color:blue;">**🃏 Carte du moine**</mark> × 16 |
 | 📈 Boost de classe 25% (1h) |
-| 🍬 Bonbon aux raisins × 4 |
-| 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
+| <mark style="color:purple;">**🍬 Bonbon aux raisins**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 2 |
+| <mark style="color:red;">**🔮 Pierre de téléportation aléatoire**</mark> (donne une 🔮 Pierre de donjon d’événement) |
+
+#### 🎁 Bundle Pack — <mark style="color:purple;">8 500 💎</mark>
+
+| Contenu du Pack |
+| --------------- |
+| 🛡️ Armure Tank complète |
+| ⚔️ Épée du guerrier |
+| 🔨 Marteau du paladin |
+| ❄️ Lance du chevalier des glaces |
+| 🪓 Hache du barbare |
+| 👊 Poing du moine |
+| 🦏 Compagnon <mark style="color:blue;">**Rhinocéros**</mark> |
+| 📈 Booster de classe 50% (1h) |
+| <mark style="color:red;">**🍓 Bonbon à la fraise**</mark> × 4 |
+| <mark style="color:red;">**📜 Parchemin impo**</mark> × 4 |
+| <mark style="color:red;">**🔮 Pierre de téléportation**</mark> × 2 |
 
 {% hint style="warning" %}
-Ces offres sont **temporaires** et seront retirées à la fin de l’événement 🛡️.
+Ces offres sont **temporaires** et seront retirées le **7 juin à 23h59** 🛡️.
 {% endhint %}
 
 ## 🔄 Événements Récurrents
