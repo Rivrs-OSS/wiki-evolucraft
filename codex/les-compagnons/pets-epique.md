@@ -436,7 +436,7 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Rhinocéros</strong></mark></td>
-   <td>Image à venir 🖼️</td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Rhinocéros.png" alt=""></figure></td>
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+5%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Fer</strong></mark> au /shop</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +20</p>

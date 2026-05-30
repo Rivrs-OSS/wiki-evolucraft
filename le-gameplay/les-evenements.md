@@ -22,7 +22,7 @@ Suite à la récente <mark style="color:purple;">**mise à jour des classes tank
 | 📈 Boost de classe 25% (1h) |
 | 🍬 Bonbon aux raisins × 4 |
 | 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation donjon mythique |
+| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
 
 #### 🎁 Pack Paladin — <mark style="color:purple;">4 000 💎</mark>
 
@@ -34,7 +34,7 @@ Suite à la récente <mark style="color:purple;">**mise à jour des classes tank
 | 📈 Boost de classe 25% (1h) |
 | 🍬 Bonbon aux raisins × 4 |
 | 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation donjon mythique |
+| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
 
 #### 🎁 Pack Chevalier des Glaces — <mark style="color:purple;">4 000 💎</mark>
 
@@ -46,7 +46,7 @@ Suite à la récente <mark style="color:purple;">**mise à jour des classes tank
 | 📈 Boost de classe 25% (1h) |
 | 🍬 Bonbon aux raisins × 4 |
 | 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation donjon mythique |
+| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
 
 #### 🎁 Pack Barbare — <mark style="color:purple;">4 000 💎</mark>
 
@@ -58,7 +58,7 @@ Suite à la récente <mark style="color:purple;">**mise à jour des classes tank
 | 📈 Boost de classe 25% (1h) |
 | 🍬 Bonbon aux raisins × 4 |
 | 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation donjon mythique |
+| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
 
 #### 🎁 Pack Moine — <mark style="color:purple;">4 000 💎</mark>
 
@@ -70,7 +70,7 @@ Suite à la récente <mark style="color:purple;">**mise à jour des classes tank
 | 📈 Boost de classe 25% (1h) |
 | 🍬 Bonbon aux raisins × 4 |
 | 📜 Parchemin impo × 2 |
-| 🪨 Pierre de téléportation donjon mythique |
+| 🪨 Pierre de téléportation aléatoire (donne une 🪨 Pierre de donjon d'événement) |
 
 {% hint style="warning" %}
 Ces offres sont **temporaires** et seront retirées à la fin de l’événement 🛡️.
