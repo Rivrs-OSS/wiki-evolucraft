@@ -117,6 +117,7 @@ Cette liste n'est pas exhaustive.
   * Items exclusifs désanchantés
   * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme ou Parchemins expirées aux moments de la vente, ect...)
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
+* Il est interdit d'utiliser des plumes de fly en monde ressource.
 
 {% hint style="warning" %}
 Si vous avez un doute sur l'utilisation de votre farm ou d'un item, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
@@ -127,6 +128,7 @@ Si vous avez un doute sur l'utilisation de votre farm ou d'un item, merci de cr�
   * Il est interdit de créer des villes dans le seul but de récupérer des coffres, de piller des structures, etc.
   * Il est recommandé de ne pas dégrader le paysage par des fermes sans aménagement urbain (ferme à mob en pierre, grands champs sans esthétisme, etc.). Cette règle s’applique aussi pour les bâtiments imposants en l’air, qui ne relèvent pas d’une construction de ville.
   * Toute ville peut **être unclaim si tous les joueurs de cette dernière ont au minimum 30 jours d'inactivité**.
+  * Il est interdit de faire du claimblocking, c'est à dire, faire des lignes de claim dans l'unique but de "réserver" une zone ou bloquer une autre ville.
 
 {% hint style="warning" %}
 Si ces règles ne sont pas respectées, nous vous contacterons et nous vous laisserons un délai pour que vous puissiez modifier ou retirer votre structure. Une fois ce délai expiré, la structure sera détruite.
