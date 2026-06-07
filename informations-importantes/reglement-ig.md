@@ -133,7 +133,7 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 
 ### <mark style="color:green;">Article D : Les Farms et machine à redstone</mark>
 
-* Toutes machines automatiques permettants de monter vos métiers automatiquement sont interdites
+* Toutes machines automatiques et semi-automatique permettants de monter vos métiers ou d'obtenir des fragments d'étoiles automatiquement sont interdites
 * Les machines à pêches facilitant la récolte de poisson par un block ou par un mod est interdit
 * Les machines volantes sont interdites.
 * Les machines ne doivent pas comporter de véhicule (Minecart ou bateau par exemple).
