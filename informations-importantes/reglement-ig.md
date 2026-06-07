@@ -36,14 +36,14 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
 * Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
 * Dévoiler un staff vanish dans le chat est interdit.
-* Vos messages de publicités pour les raisons ci-dessous doivent être réalisé par le **`/pub`**. Elle doit apparaitre qu'une seule fois dans le /pub :
+* Vos messages de publicités pour les raisons ci-dessous doivent être réalisés par le **`/pub`**. Elle doit apparaître qu'une seule fois dans le /pub :
   * Les annonces de vente d'items -> Catégorie Vente
   * Les annonces de rachats d'items -> Catégorie Achat
   * Les publicités de pwarps -> Catégorie Pwarp
   * Les recrutements dans les villes -> Catégorie Recrutement
   * Les recherches de services / annonce de service proposées -> Catégorie Service
   * Les annonces d'évènements -> Catégorie Évènement
-  * Les téléportation de donjons -> Catégorie Donjon (Nous tolérons les messages de publicité de téléportations de donjons auxuquelles ces deux conditions ne sont pas réunis : Avoir le level pour réaliser le donjon ainsi que faire le donjon)
+  * Les téléportations de donjons -> Catégorie Donjon (Nous tolérons les messages de publicité de téléportations de donjons auxquelles ces deux conditions ne sont pas réunis : Avoir le level pour réaliser le donjon ainsi que faire le donjon)
 
 {% hint style="info" %}
 Cependant, vous pouvez activer [l'option du message automatique](https://wiki.evolucraft.fr/foire-aux-questions/creation-pub#etape-bonus) dans le **`/pub`**. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
@@ -58,7 +58,7 @@ Cependant, vous pouvez activer [l'option du message automatique](https://wiki.ev
   * Les majuscules abusives (BONJOUR EVOLUCRAFT)
   * Spam (envoi répété de la même phrase, du même mot), Flood (succession de la même lettre ou du même caractère qui sont inutiles. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii)
   * La mendicité (demander des items, de l'argent, etc.).
-  * La publicité d'un serveur minecraft, d'une chaine de créateur de contenue ou autre est interdit
+  * La publicité d'un serveur Minecraft, d'une chaîne de créateur de contenu ou autre est interdit
   * L’envoi de liens dans le chat est interdit.
   * L’usurpation d’identité est sanctionnable.
   * La divulgation d’informations privées est strictement interdite et entraînera de lourdes sanctions.
@@ -78,7 +78,7 @@ Cependant, vous pouvez activer [l'option du message automatique](https://wiki.ev
 * Tout contournement d'achat unique sur la boutique est interdit (ex: donner 500 gemmes à son ami pour qu'il achète un item unique en boutique et le récupérer).
 * Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
   * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.
-    * Par exemple, il est interdit de vendre deux clés au prix lambdas, et une milieu une beaucoup plus chère.
+    * Par exemple, il est interdit de vendre deux clés au prix lambdas, et une, au milieu, beaucoup plus chère.
     * Il est interdit de faire monter ou baisser intentionnellement le prix d'un item dans le but de tromper les autres joueurs en faisant de l'achat/revente entre deux personnes.
     * Et bien d'autres cas. Si vous avez un doute, faites un ticket !
 * Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagnée ou les récompenses liées à leur mort.
@@ -96,19 +96,19 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 Cette liste n'est pas exhaustive.
 {% endhint %}
 
-* Grief/Détruire volontairement dans une ville est interdit que vous soyez membre de la ville ou simple visiteur (ne pas replanter des champs publics, envoyer des oeufs de poulets dans la ville,...). Cependant il est conseillé d'y avoir une zone remarquable de votre ville où votre règlement y est indiquer.
+* Grief/Détruire volontairement dans une ville est interdit que vous soyez membre de la ville ou simple visiteur (ne pas replanter des champs publics, envoyer des œufs de poulets dans la ville,...). Cependant il est conseillé d'y avoir une zone remarquable de votre ville où votre règlement y est indiquer.
 * Toute copie de farms/constructions présentes dans la ville est strictement interdite sans l’accord explicite du maire de celle-ci et ce même si vous prévoyez de quitter la ville.
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * La création de casino est interdite.
-* Un joueur dans plusieurs ville ne peut pas participer à comptabiliser des étoiles dans le classement ville avec plus d'une ville.
-* Certains items sont interdit à la vente si il remplissent au moins une de ces conditions, même issue dans des shulkers vendues :
-  * Vente de cosmétiques (issue d'un use bug)
-  * Items renommés (Nous tolérons les shulker renommées à condition que la descriptions correspond à son contenant)
+* Un joueur dans plusieurs villes ne peut pas participer à comptabiliser des étoiles dans le classement ville avec plus d'une ville.
+* Certains items sont interdit à la vente s'ils remplissent au moins une de ces conditions, même issus dans des shulkers vendues :
+  * Vente de cosmétiques (issue d'un usebug)
+  * Items renommés (Nous tolérons les boites de shulkers renommées à condition que la description correspond à son contenant)
   * Fausses clés
-  * Tête ressemblant à des block vanilla, de tête de joueurs
-  * Items exclusifs désanchantés
-  * Items obselètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme ou Parchemins expirées aux moments de la vente, ect...)
+  * Têtes ressemblant à des blocs vanilla, de tête de joueurs
+  * Items exclusifs désenchantés
+  * Items obsolètes (Fragment d'étoiles de métiers, Items non réparable n'ayant plus de durabilités, Pack d'arme ou Parchemins expirées aux moments de la vente, etc...)
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’utiliser ou exploiter un bug ou une machine pour augmenter votre métier et/ou pass.
 
 {% hint style="warning" %}
@@ -127,20 +127,20 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 
 ### <mark style="color:green;">Article C : Les donjons</mark>
 
-* Toute tentative de usebug, sortie de map ou autres lors des donjons est interdite.
+* Toute tentative d'usebug, sortie de map ou autres lors des donjons est interdite.
 * Il est interdit de rester AFK dans les donjons dans le seul but de récupérer les récompenses sans participer à tuer des mobs.
 * Quitter un donjon volontairement, sans raison valable, est sanctionnable.
 
 ### <mark style="color:green;">Article D : Les Farms et machine à redstone</mark>
 
-* Toutes machines automatiques et semi-automatique permettants de monter vos métiers ou d'obtenir des fragments d'étoiles automatiquement sont interdites
-* Les machines à pêches facilitant la récolte de poisson par un block ou par un mod est interdit
+* Toutes machines automatiques et semi-automatiques permettant de monter vos métiers ou d'obtenir des fragments d'étoiles automatiquement sont interdites
+* Les machines à pêche facilitant la récolte de poisson par un block ou par un mod sont interdites
 * Les machines volantes sont interdites.
 * Les machines ne doivent pas comporter de véhicule (Minecart ou bateau par exemple).
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
-* Monter les items évolutive de façon réglementaire, il est donc interdit de monter la pelle évolutive avec une ferme à neige, en utilisant la technique du poser/casser ou encore d'un usebug pour monter ces items évolutifs.
+* Monter les items évolutifs de manières classiques, il est donc interdit de monter la pelle évolutive avec une ferme à neige, en utilisant la technique du poser/casser ou encore d'un usebug pour monter ces items évolutifs.
 
 {% hint style="warning" %}
 Si votre système ne respecte pas les règles du serveur, celui-ci sera supprimé sans aucun remboursement possible.
@@ -179,7 +179,7 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 * Les doubles-comptes sont limités à 1 par utilisateur.
 * L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK pour faire charger des spawners.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, incluant le classement farmium et le classement de votes.
-* Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, pass…).
+* Il n’est pas possible de récupérer les différentes récompenses des événements grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, pass…).
 * Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 
 {% hint style="warning" %}
@@ -193,7 +193,7 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 * L'AFK de manière indéfinie est autorisé uniquement dans le /afk
 
 {% hint style="warning" %}
-Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.
+Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci est passibles de sanctions, même en étant physiquement présent devant l’écran.
 {% endhint %}
 
 #### \* <mark style="color:green;">Disband et transfert de lead de ville :</mark>
@@ -209,7 +209,7 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 #### \* <mark style="color:green;">Les Coffres Privatisés :</mark>
 
 * Lorsque vous trouvez un coffre privatisé par un joueur, vous ne pouvez pas en récupérer le contenu, peu importe son inactivité.
-* Lorsque vous souhaitez supprimer un coffre privatisé qui n'est pas le votre, nous vous invitons à [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532) en indiquant les coordonnées de ce dernier.
+* Lorsque vous souhaitez supprimer un coffre privatisé qui n'est pas le vôtre, nous vous invitons à [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532) en indiquant les coordonnées de ce dernier.
 * Il est interdit d’usebug afin de récupérer son contenu sans avoir été invité dans le coffre.
 
 ### <mark style="color:green;">Article H : Triche et usebugs</mark>
@@ -219,8 +219,8 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
 * Le poser-casser afin d'XP les jobs, farmium, monter ces items évolutifs ou pour tout autre usage est interdit, sauf pour réaliser les parchemins.
-  * Par exemple : il est interdit de poser une buche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
-  * A contrario : il est autorisé de poser des minerais et de les récupérer avec fortune (sans utiliser cela pour le pass et pour les jobs).
+  * Par exemple : il est interdit de poser une bûche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
+  * À contrario : il est autorisé de poser des minerais et de les récupérer avec fortune (sans utiliser cela pour le pass et pour les jobs).
 
 ### <mark style="color:green;">Article I : Les remboursements</mark>
 
