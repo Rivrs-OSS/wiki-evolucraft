@@ -7,7 +7,7 @@ description: Retrouvez ici les informations concernant la Fabrique de chocolat
 ## 💠 <mark style="color:green;"> Caractéristiques 📋</mark>
 
 👪 Nombre de joueurs accueillis : <mark style="color:green;">**1 à 4 joueurs**</mark>  
-📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 40**</mark>  
+📈 Niveau de classe minimum : <mark style="color:green;">**Classe niveau 35**</mark>  
 🕓 Durée du donjon : <mark style="color:green;">**20 minutes**</mark>  
 
 ## 💠 <mark style="color:green;"> Aperçu du portail 👁‍🗨</mark>

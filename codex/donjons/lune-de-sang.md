@@ -59,8 +59,8 @@ La répartition entre salles normales et mini boss est **totalement aléatoire**
   <tr>
     <td>🟢 <strong>Salle Normale</strong></td>
     <td>Variable (aléatoire)</td>
-    <td>24 mobs × 4 vagues</td>
-    <td><mark style="color:green;"><strong>7 200 XP</strong></mark></td>
+    <td>24 mobs × 3 vagues</td>
+    <td><mark style="color:green;"><strong>5 400 XP</strong></mark></td>
   </tr>
   <tr>
     <td>🟡 <strong>Salle Mini Boss</strong></td>
@@ -86,17 +86,17 @@ La répartition entre salles normales et mini boss est **totalement aléatoire**
   </tr>
   <tr style="background-color: #fff3e0;">
     <td>⬇️ <strong>MINIMUM</strong><br><small>(5 salles normales)</small></td>
-    <td>480 mobs<br><mark style="color:green;"><strong>36 000 XP</strong></mark></td>
+    <td>360 mobs<br><mark style="color:green;"><strong>27 000 XP</strong></mark></td>
     <td>0 mini boss<br><mark style="color:yellow;"><strong>0 XP</strong></mark></td>
     <td>1 boss<br><mark style="color:red;"><strong>15 000 XP</strong></mark></td>
-    <td><mark style="color:orange;"><strong>51 000 XP</strong></mark></td>
+    <td><mark style="color:orange;"><strong>42 000 XP</strong></mark></td>
   </tr>
   <tr style="background-color: #f3e5f5;">
     <td>📊 <strong>MOYENNE</strong><br><small>(4 normales + 1 mini boss)</small></td>
-    <td>399 mobs<br><mark style="color:green;"><strong>29 925 XP</strong></mark></td>
+    <td>303 mobs<br><mark style="color:green;"><strong>22 725 XP</strong></mark></td>
     <td>1 mini boss<br><mark style="color:yellow;"><strong>7 500 XP</strong></mark></td>
     <td>1 boss<br><mark style="color:red;"><strong>15 000 XP</strong></mark></td>
-    <td><mark style="color:purple;"><strong>~52 425 XP</strong></mark></td>
+    <td><mark style="color:purple;"><strong>~45 225 XP</strong></mark></td>
   </tr>
   <tr style="background-color: #e8f5e9;">
     <td>⬆️ <strong>MAXIMUM</strong><br><small>(5 salles mini boss)</small></td>
