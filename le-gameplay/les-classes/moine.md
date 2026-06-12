@@ -139,8 +139,8 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:red;">Gant du massacreur</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +30</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -207,8 +207,8 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:red;">Gant gelé</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">❤️ Vie +140</mark></p>
-     <p><mark style="color:blue;">🛡️ Défense +26</mark></p>
+     <p><mark style="color:red;">❤️ Vie +161</mark></p>
+     <p><mark style="color:blue;">🛡️ Défense +30</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -271,8 +271,8 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:red;">Gant emflammé</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +7</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

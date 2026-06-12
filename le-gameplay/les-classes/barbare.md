@@ -139,8 +139,8 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
     <td><mark style="color:red;">Hache du Barbare</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -201,8 +201,8 @@ Chaque coup devient plus puissant, plus large, et augmente la durée du saigneme
     <td><mark style="color:red;">Hache du Barbare Shiny</mark></td>
     <td><mark style="color:red;">Mythique ✨</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

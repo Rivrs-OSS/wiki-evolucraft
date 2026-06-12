@@ -135,9 +135,9 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td><mark style="color:red;">Poing de la tristesse</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
     </td>
-    <td><mark style="color:red;"><strong>Coup double 💥</strong></mark> ▸ <mark style="color:red;">5%</mark> de chance de <mark style="color:red;">doubler les dégât</mark></td>
+    <td><mark style="color:red;"><strong>Coup double 💥</strong></mark> ▸ <mark style="color:red;">6%</mark> de chance de <mark style="color:red;">doubler les dégât</mark></td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
@@ -198,8 +198,8 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td><mark style="color:red;">Poing de la sérénité</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +30</mark></td></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -262,8 +262,8 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td><mark style="color:red;">Poing de la colère</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +30</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

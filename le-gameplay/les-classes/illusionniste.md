@@ -144,8 +144,8 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td><mark style="color:red;">Carte divinatoire</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -206,8 +206,8 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
     <td><mark style="color:red;">Carte divinatoire Shiny</mark></td>
     <td><mark style="color:red;">Mythique ✨</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

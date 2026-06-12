@@ -139,8 +139,8 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td><mark style="color:red;">Lame du Komodo</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡️️ Force +60</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +69</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +30</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -207,8 +207,8 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td><mark style="color:red;">Lance Glaciale</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡️️ Force +60</mark></p>
-     <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +69</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +30</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -271,8 +271,8 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td><mark style="color:red;">Lance Eternelle</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡️️ Force +60</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +69</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +7</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

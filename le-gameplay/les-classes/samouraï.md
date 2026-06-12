@@ -135,8 +135,8 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
     <td><mark style="color:red;">Katana Sanguinaire</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -197,8 +197,8 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
     <td><mark style="color:red;">Katana Sanguinaire Shiny</mark></td>
     <td><mark style="color:red;">Mythique ✨</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

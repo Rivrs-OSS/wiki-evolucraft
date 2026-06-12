@@ -140,8 +140,8 @@ Toutes les 4 attaques, une explosion en forme de X se déclenche. Danse Ardente 
     <td><mark style="color:red;">Arc du Phénix</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +7</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -202,8 +202,8 @@ Toutes les 4 attaques, une explosion en forme de X se déclenche. Danse Ardente 
     <td><mark style="color:red;">Arc du Phénix Shiny</mark></td>
     <td><mark style="color:red;">Mythique ✨</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +7</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
