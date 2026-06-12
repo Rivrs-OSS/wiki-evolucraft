@@ -142,8 +142,8 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
     <td><mark style="color:red;">Lance de frigg</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡️️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
     <td>
@@ -204,8 +204,8 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
     <td><mark style="color:red;">Lance de frigg Shiny</mark></td>
     <td><mark style="color:red;">Mythique ✨</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡️️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
     <td>

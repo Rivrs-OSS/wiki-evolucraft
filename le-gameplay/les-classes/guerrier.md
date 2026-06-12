@@ -139,9 +139,9 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Tranche Givre</mark></td>
         <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
     </td>
-    <td><mark style="color:yellow;"><strong>Coup double 💥</strong></mark> ▸ <mark style="color:yellow;">5%</mark> de chance de <mark style="color:yellow;">doubler les dégât</mark></td>
+    <td><mark style="color:yellow;"><strong>Coup double 💥</strong></mark> ▸ <mark style="color:yellow;">6%</mark> de chance de <mark style="color:yellow;">doubler les dégât</mark></td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
@@ -202,8 +202,8 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Sabre des Sables</mark></td>
         <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +30</mark></td></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -266,8 +266,8 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Fendoir Orc</mark></td>
         <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +7</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -330,8 +330,8 @@ Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cib
         <td><mark style="color:red;">Lame du Styx</mark></td>
         <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +30</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

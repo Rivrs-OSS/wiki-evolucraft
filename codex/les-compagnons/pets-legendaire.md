@@ -151,7 +151,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
     <td>
       <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+ 6.500</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +35</p>
-      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>2,5% des dégâts</strong></mark> que vous causez sont <mark style="color:purple;"><strong>convertis en points de vie</strong></mark></p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>3,5% des dégâts</strong></mark> que vous causez sont <mark style="color:purple;"><strong>convertis en points de vie</strong></mark></p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 17.500</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>🏃‍♂️ Vitesse</strong></mark> +12</p>  
     </td>

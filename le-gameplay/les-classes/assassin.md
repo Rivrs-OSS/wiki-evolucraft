@@ -142,8 +142,8 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Croc de Fenrir</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +30</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -206,8 +206,8 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Dague Vipérienne</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:blue;">🤺 Dextérité +26</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:blue;">🤺 Dextérité +30</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -274,8 +274,8 @@ Téléportez-vous vers les différentes cibles et tranchez-les avec votre lame. 
     <td><mark style="color:red;">Dague Polaire</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:red;">🥊 Chance de Critique +6</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +7</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

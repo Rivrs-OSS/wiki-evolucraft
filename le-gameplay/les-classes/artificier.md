@@ -139,7 +139,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td><mark style="color:red;">Pistolet du blizzard</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
     </td>
     <td><mark style="color:yellow;"><strong>Coup double 💥</strong></mark> ▸ <mark style="color:yellow;">6%</mark> de chance de <mark style="color:yellow;">doubler les dégât</mark></td>
     <td>
@@ -202,8 +202,8 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td><mark style="color:red;">Pistolet racineux</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️️️ Force +60</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
+     <p><mark style="color:red;">🗡️️️ Force +69</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +30</mark></td></p>
     </td>
     <td><mark style="color:red;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:red;">25%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
@@ -267,8 +267,8 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td><mark style="color:red;">Pistolet du phénix</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +26</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +29</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

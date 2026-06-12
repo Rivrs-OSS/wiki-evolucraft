@@ -137,8 +137,8 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:red;">Faux de la mort</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -199,8 +199,8 @@ Tranchant d'âme sera transformé par une série de trois frappes. Le deuxième 
     <td><mark style="color:red;">Faux de la mort Shiny</mark></td>
     <td><mark style="color:red;">Mythique ✨</mark></td>  
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

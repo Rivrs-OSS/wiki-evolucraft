@@ -74,7 +74,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Mobs tuées</strong></mark></p>
    </td>
    <td>
-     <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
+     <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tappe 5% plus vite</p>
    </td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Mobs tuées</strong></mark></p>
    </td>
    <td>
-     <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tappe 5% plus vite</p>
+     <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tappe 15% plus vite</p>
    </td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p><mark style="color:yellow;"><strong>5 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tappe 20% plus vite</p>
+     <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tappe 25% plus vite</p>
    </td>
   </tr>
 </table>
@@ -363,7 +363,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les cultures cassées.</p>
-     <p>▸ <mark style="color:yellow;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone 1X1.</p>
+     <p>▸ <mark style="color:yellow;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone 3X3.</p>
    </td>
   </tr>
   <tr>
@@ -380,7 +380,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les cultures cassées.</p>
-     <p>▸ <mark style="color:yellow;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone 3X3.</p>
+     <p>▸ <mark style="color:yellow;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone 5X5.</p>
    </td>
   </tr>
 </table>

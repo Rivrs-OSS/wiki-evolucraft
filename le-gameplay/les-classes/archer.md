@@ -137,9 +137,9 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td><mark style="color:red;">Arc Sylvanique</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
     </td>
-    <td><mark style="color:red;"><strong>Coup double 💥</strong></mark> ▸ <mark style="color:red;">5%</mark> de chance de <mark style="color:red;">doubler les dégât</mark></td>
+    <td><mark style="color:red;"><strong>Coup double 💥</strong></mark> ▸ <mark style="color:red;">6%</mark> de chance de <mark style="color:red;">doubler les dégât</mark></td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
@@ -196,9 +196,9 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td><mark style="color:red;">Souffle du serpent</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
     </td>
-    <td><mark style="color:red;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:red;">25%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemi</td>
+    <td><mark style="color:red;"><strong>Effet Poison 🐍</strong></mark> ▸ <mark style="color:red;">29%</mark> de chance d'<mark style="color:red;">infliger l'effet poison</mark> sur l'ennemi</td>
     <td>
      <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
@@ -258,8 +258,8 @@ Chargez votre arc avec l'esprit du dragon et lancez une flèche perçante vers l
     <td><mark style="color:red;">Arc Traque-Cœur</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +29</mark></td></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

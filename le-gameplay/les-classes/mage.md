@@ -140,8 +140,8 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <td><mark style="color:red;">Sceptre d'Orc</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +25</mark></td></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:blue;">🏃‍♂️ Vitesse +30</mark></td></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -203,8 +203,8 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <td><mark style="color:red;">Bâton Magique</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:blue;">🛡️ Défense +26</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:blue;">🛡️ Défense +30</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -263,8 +263,8 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     <td><mark style="color:red;">Bâton Arcanique</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +60</mark></p>
-     <p><mark style="color:yellow;">🧪 Mana +210</mark></p>
+     <p><mark style="color:red;">🗡️ Force +69</mark></p>
+     <p><mark style="color:yellow;">🧪 Mana +241.5</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

@@ -143,8 +143,8 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td><mark style="color:red;">Épée des morts</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
     <td>
@@ -205,8 +205,8 @@ Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts
     <td><mark style="color:red;">Épée des morts Shiny</mark></td>
     <td><mark style="color:red;">Mythique ✨</mark></td>   
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>    
     <td>
