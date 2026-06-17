@@ -101,7 +101,7 @@ Cette liste n'est pas exhaustive.
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * La création de casino est interdite.
-* Un joueur dans plusieurs villes ne peut pas participer à comptabiliser des étoiles dans le classement ville avec plus d'une ville.
+* Changer sa touche d'action pour réaliser une action autre que celle configurée par défaut est interdit.
 * Certains items sont interdit à la vente s'ils remplissent au moins une de ces conditions, même issus dans des shulkers vendues :
   * Vente de cosmétiques (issue d'un usebug)
   * Items renommés (Nous tolérons les boites de shulkers renommées à condition que la description correspond à son contenant)
@@ -136,7 +136,7 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 * Toutes machines automatiques et semi-automatiques permettant de monter vos métiers ou d'obtenir des fragments d'étoiles automatiquement sont interdites
 * Les machines à pêche facilitant la récolte de poisson par un block ou par un mod sont interdites
 * Les machines volantes sont interdites.
-* Les machines ne doivent pas comporter de véhicule (Minecart ou bateau par exemple).
+* Les machines ne doivent pas comporter de véhicule pour déplacer le joueur (Minecart ou bateau par exemple).
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
@@ -177,9 +177,9 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 ### <mark style="color:green;">Article F : Les doubles comptes</mark>
 
 * Les doubles-comptes sont limités à 1 par utilisateur.
-* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK pour faire charger des spawners.
+* L’utilisation d’un double compte est dans **l’unique but** pour AFK afin de faire charger ses spawners ou de recommencer une partie.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, incluant le classement farmium et le classement de votes.
-* Il n’est pas possible de récupérer les différentes récompenses des événements grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, pass…).
+* Il n’est pas possible de récupérer les différentes récompenses grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, tout ce qui concerne les métiers, pass, argent, classement d'événements ou vote, du /boutique, /rewards,...).
 * Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 
 {% hint style="warning" %}
