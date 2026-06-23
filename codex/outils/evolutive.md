@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici la liste de tous les Outils Évolutif présents sur le
+  Retrouvez ici la liste de tous les Outils Évolutifs présents sur le
   serveur.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
  <!--Voici une version développée de ton texte, avec les mots importants en **vert** et en **gras** :-->
 
-Les <mark style="color:green;">**items évolutifs**</mark> sont des outils spéciaux dont la puissance augmente à mesure que vous les utilisez. Plus vous les maniez, plus ils gagnent en <mark style="color:green;">**niveau et en efficacité**</mark>, offrant ainsi de meilleures enchantements et/ou de nouveaux effets. Votre objectif final est d’atteindre le <mark style="color:green;">**niveau 5**</mark>, symbole de maîtrise et de puissance maximale, récompensant les joueurs les plus <mark style="color:green;">**persévérants**</mark>.
+Les <mark style="color:green;">**items évolutifs**</mark> sont des outils spéciaux dont la puissance augmente à mesure que vous les utilisez. Plus vous les maniez, plus ils gagnent en <mark style="color:green;">**niveau et en efficacité**</mark>, offrant ainsi de meilleurs enchantements et/ou de nouveaux effets. Votre objectif final est d’atteindre le <mark style="color:green;">**niveau 5**</mark>, symbole de maîtrise et de puissance maximale, récompensant les joueurs les plus <mark style="color:green;">**persévérants**</mark>.
 
 ## 🔹 <mark style="color:yellow;">Son obtention 🤔</mark>
 
@@ -21,7 +21,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
-    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
     <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
     <td align="center"><strong><ins>Effet</ins> ✨</strong></td> 
   </tr>
@@ -35,7 +35,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Fléau des arthropodes I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Mobs tuées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Mobs tués</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -49,10 +49,10 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Tranchant III</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Fléau des arthropodes II</strong></mark></p>
-     <p>▸ <mark style="color:yellow;"><strong>Affliage I</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Affilage I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Mobs tuées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Mobs tués</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -67,14 +67,14 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Tranchant IV</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Châtiment I</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Fléau des arthropodes III</strong></mark></p>
-     <p>▸ <mark style="color:yellow;"><strong>Affliage II</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Affilage II</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Butin III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Mobs tuées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Mobs tués</strong></mark></p>
    </td>
    <td>
-     <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tappe 5% plus vite</p>
+     <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tape 5% plus vite</p>
    </td>
   </tr>
   <tr>
@@ -86,14 +86,14 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Tranchant V</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Châtiment II</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Fléau des arthropodes IV</strong></mark></p>
-     <p>▸ <mark style="color:yellow;"><strong>Affliage III</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Affilage III</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Butin IV</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Mobs tuées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Mobs tués</strong></mark></p>
    </td>
    <td>
-     <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tappe 15% plus vite</p>
+     <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tape 15% plus vite</p>
    </td>
   </tr>
   <tr>
@@ -105,11 +105,11 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Tranchant VI</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Châtiment VI</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Fléau des arthropodes VI</strong></mark></p>
-     <p>▸ <mark style="color:yellow;"><strong>Affliage IV</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Affilage IV</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Butin V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>5 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>5 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Effet Dextérité</mark></strong> : Tappe 25% plus vite</p>
@@ -122,7 +122,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
-    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
     <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
     <td align="center"><strong><ins>Effet</ins> ✨</strong></td> 
   </tr>
@@ -212,7 +212,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
-    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
     <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
     <td align="center"><strong><ins>Effet</ins> ✨</strong></td> 
   </tr>
@@ -225,7 +225,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Bûches cassés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Bûches cassées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -241,7 +241,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune I</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Bûches cassés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Bûches cassées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -257,7 +257,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune II</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Bûches cassés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>100 000 Bûches cassées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -272,7 +272,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune III</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Bûches cassés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Bûches cassées</strong></mark></p>
    </td>
    <td>
      <p><strong><mark style="color:yellow;">Aucun Effet</mark> Supplémentaire ❌</strong></p>
@@ -288,7 +288,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>5 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>5 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Effet Bûcheron</strong></mark> : Coupe un arbre moyen en entier en cassant une bûche.</p>
@@ -301,7 +301,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
-    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
     <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
     <td align="center"><strong><ins>Effet</ins> ✨</strong></td> 
   </tr>
@@ -376,7 +376,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Fortune V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>12 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>12 000</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les cultures cassées.</p>
@@ -390,7 +390,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
-    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
     <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
     <td align="center"><strong><ins>Effet</ins> ✨</strong></td> 
   </tr>
@@ -470,7 +470,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
    </td>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>1 750</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>1 750</strong></mark> de <mark style="color:yellow;"><strong>Durabilité</strong></mark></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 25% de chance de doubler votre pêche.</p>
@@ -483,7 +483,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
-    <td align="center"><strong><ins>Enchentement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
     <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
     <td align="center"><strong><ins>Effet</ins> ✨</strong></td> 
   </tr>
@@ -509,7 +509,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité III</strong></mark></p>
-     <p>▸ <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Toucher de soie</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>25 000 Blocks cassés</strong></mark></p>
@@ -540,13 +540,13 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VI</strong></mark></p>
-     <p>▸ <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Toucher de soie</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>500 000 Blocks cassés</strong></mark></p>
    </td>
    <td>
-     <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les blocs cassées.</p>
+     <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les blocs cassés.</p>
      <p>▸ <mark style="color:yellow;"><strong>Effet Hammer</strong></mark> : Casse les blocs dans une zone de 3X3.</p>
    </td>
   </tr>
@@ -557,13 +557,13 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Efficacité VII</strong></mark></p>
-     <p>▸ <mark style="color:yellow;"><strong>Toucher de soi</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Toucher de soie</strong></mark></p>
    </td>
    <td align="center">
      <p><mark style="color:yellow;"><strong>4 500</strong></mark> de <mark style="color:yellow;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-     <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les blocs cassées.</p>
+     <p>▸ <mark style="color:yellow;"><strong>Effet Magnet</strong></mark> : Ramasse les blocs cassés.</p>
      <p>▸ <mark style="color:yellow;"><strong>Effet Hammer</strong></mark> : Casse les blocs dans une zone de 3X3.</p>
    </td>
   </tr>

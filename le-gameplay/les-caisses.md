@@ -431,7 +431,7 @@ La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la c
 | <mark style="color:yellow;">**Bottes du Lapin**</mark>                      | **5,55%**                   |
 | <mark style="color:yellow;">**Traqueur de Donjon**</mark>                   | **5,55%**                   |
 | <mark style="color:yellow;">**Seau Vide Infini**</mark>                     | **5,55%**                   |
-| <mark style="color:yellow;">**Oeufs de Fammilier Pâques**</mark>         | **5,56%**                   |
+| <mark style="color:yellow;">**Oeufs de Familier Pâques**</mark>         | **5,56%**                   |
 | <mark style="color:yellow;">**Pack de décoration**</mark>                   | **5,56%**                   |
 | <mark style="color:yellow;">**Peluche Aléatoire**</mark>                    | **5,56%**                   |
 | <mark style="color:yellow;">**Arme Aléatoire**</mark>                       | **5,56%**                   |
@@ -601,7 +601,7 @@ La <mark style="color:green;">**Clé de la Caisse lunaire**</mark> s'obtient gr�
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-La <mark style="color:green;">**Clé de la Caisse Paque**</mark> s'obtient en l'achetant via <mark style="color:green;">**le `/boutique`**</mark> au prix de <mark style="color:green;">**850 gemmes 💎**</mark> ou via la <mark style="color:green;">**Boutique Temporaire du `/paque`**</mark> contre <mark style="color:green;">**16 fragments de clé Paque**</mark>
+La <mark style="color:green;">**Clé de la Caisse de Pâques**</mark> s'obtient en l'achetant via <mark style="color:green;">**le `/boutique`**</mark> au prix de <mark style="color:green;">**850 gemmes 💎**</mark> ou via la <mark style="color:green;">**Boutique Temporaire du `/paque`**</mark> contre <mark style="color:green;">**16 fragments de clé Pâques**</mark>
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 <figure><img src="../.gitbook/assets/Les_Caisses/caisse_paques(2026).png" alt=""><figcaption></figcaption></figure>
@@ -622,7 +622,7 @@ La <mark style="color:green;">**Clé de la Caisse Paque**</mark> s'obtient en l'
 | <mark style="color:green;">**Pack de Décorations**</mark>      | **5,56%**                   |
 | <mark style="color:green;">**Armes de classe Aléatoire**</mark>      | **5,56%**                   |
 | <mark style="color:green;">**Oeuf de Familier**</mark>     | **5,56%**                   |
-| <mark style="color:green;">**Pelluche Aléatoire**</mark>              | **5,56%**                   |
+| <mark style="color:green;">**Peluche Aléatoire**</mark>              | **5,56%**                   |
 | <mark style="color:green;">**Plaque de Chocolat**</mark>                    | **5,56%**                   |
 | <mark style="color:green;">**Spawner Aléatoire**</mark>              | **5,56%**                   |
 | <mark style="color:green;">**Poudre de Chocolat**</mark>                 | **5,56%**                   |

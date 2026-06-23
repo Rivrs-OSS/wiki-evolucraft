@@ -24,7 +24,7 @@
   * [🍭 Gagner des sucres d'orge](faq/monnaie/gagner-sucre-dorge.md)
 * [📣 Créer une pub](faq/creation-pub.md)
 * [🏛️ Trouver un donjon](faq/trouver-un-donjon.md)
-* [⭐ Les fragment d'étoiles](faq/fragment-etoile.md)
+* [⭐ Les fragments d'étoiles](faq/fragment-etoile.md)
 * [🧍‍♂️ Le guide de l'ASE](faq/le-ase.md)
 
 ## 🎮 LE GAMEPLAY
@@ -119,7 +119,7 @@
   * [🥚 Outils de Pâques](codex/outils/paques2025.md)
   * [🐲 Outils Draconique édition 2025](codex/outils/draconique2025.md)
   * [🐉 Outils Saphira](codex/outils/saphira.md)
-  * [💫 Outils Sompteueux](codex/outils/sompteueux.md)
+  * [💫 Outils Somptueux](codex/outils/sompteueux.md)
   * [⚒️ Autres Outils](codex/outils/autre.md)
 * [📜 Les Parchemins d'Aventure](codex/parchemin/README.md)
   * [🧧 Les Parchemins Classiques](codex/parchemin/classique.md)
