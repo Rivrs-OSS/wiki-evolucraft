@@ -59,8 +59,9 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
     <th><mark style="color:green;"><strong>Carte Aléatoire Commune 📗</strong></mark></th>
     <th><mark style="color:yellow;"><strong>Carte Aléatoire Rare 📒</strong></mark></th>
     <th><mark style="color:blue;"><strong>Carte Aléatoire  Épique 📘</strong></mark></th>
-    <th><mark style="color:purple;"><strong>Carte Aléatoire Légendaire 📔</strong></mark></th>
+    <th><mark style="color:purple;"><strong>Carte Aléatoire Légendaire 🟪</strong></mark></th>
     <th><mark style="color:red;"><strong>Carte Aléatoire Mythique 📕</strong></mark></th>
+    <th><mark style="color:yellow;"><strong>Carte Aléatoire Jackpot 📔</strong></mark></th>
   </tr>
   <tr>
     <td>
@@ -82,6 +83,10 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
     <td>
       <p><strong><mark style="color:blue;">Épique</mark> (60%)</mark></strong></p>
       <p>Entre 2 et 4 cartes</p>
+    </td>
+    <td>
+      <p><strong><mark style="color:purple;">Légendaire</mark> (100%)</mark></strong></p>
+      <p>1 carte</strong></p>
     </td>
   </tr>
   <tr>
@@ -105,6 +110,7 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
       <p><strong><mark style="color:purple;">Légendaire</mark> (35%)</mark></strong></p>
       <p>Entre 2 et 4 cartes</p>
     </td>
+    <td>X</td>
   </tr>
   <tr>
     <td>
@@ -118,6 +124,7 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
       <p><strong><mark style="color:red;">Mythique</mark> (5%)</mark></strong></p>
       <p>1 carte</p>
     </td>
+    <td>X</td>
   </tr>
 </table>
 
