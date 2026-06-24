@@ -23,7 +23,7 @@ Il existe <mark style="color:green;">**2 types de lucky blocks**</mark> offrant 
     <td><mark style="color:yellow;"><strong>Lucky Block Gold</strong></mark></td>
   </tr>
   <tr>
-    <td></td><mark style="color:green;"><strong>Aperçue du Lucky Block 🎲</strong></mark></td>
+    <td><mark style="color:green;"><strong>Aperçue du Lucky Block 🎲</strong></mark></td>
     <td><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockCommun.png" alt=""><figcaption></figcaption></figure></td>
     <td><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockGold.png" alt=""><figcaption></figcaption></figure></td>
   </tr>
