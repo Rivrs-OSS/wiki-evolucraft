@@ -51,7 +51,7 @@ Passez votre curseur sur le bouton **<mark style="color:green;"><strong>"Aide"</
 <figure><img src="../.gitbook/assets/Les_Villes/Classement/InfoItems.png" alt=""><figcaption>Informations des actions de métiers donnant le fragment</figcaption></figure>
 
 {% hint style="warning" %}
-**⚠️ Attention ! Les <mark style="color:green;"><strong>items a récolté changent chaque 1er du mois</strong></mark>**.
+**⚠️ Attention ! Les <mark style="color:green;"><strong>items à récolter changent chaque 1er du mois</strong></mark>**.
 {% endhint %}
 
 ## 💠 <mark style="color:green;">Comment crafter l'étoile ? 🌟</mark>
@@ -73,4 +73,4 @@ Une fois l’**<mark style="color:green;"><strong>étoile craftée</strong></mar
 Pour plus d’informations sur le **<mark style="color:green;"><strong>classement des villes</strong></mark>**, consultez également cette page : **<mark style="color:green;"><strong>[🏆 Le Classement des Villes](https://wiki.evolucraft.fr/le-gameplay/les-villes/classement-ville#comment-voir-son-classement)</strong></mark>**
 {% endhint %}
 
-Vous savez désormais tout sur l’**<mark style="color:green;"><strong>utilité des fragments d'étoiles</strong></mark>** ! ⭐
+Vous savez désormais tout sur l’**<mark style="color:green;"><strong>utilisation des fragments d'étoiles</strong></mark>** ! ⭐
