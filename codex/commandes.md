@@ -133,19 +133,18 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 * <mark style="color:green;">**/profil**</mark> : Affiche le profil du joueur.
 * <mark style="color:green;">**/nick**</mark> : Change le pseudo du joueur.
 * <mark style="color:green;">**/feed**</mark> : Restaure la barre de faim.
-* <mark style="color:green;">**/health**</mark> : Restaure la barre de santé.
 * <mark style="color:green;">**/ptime**</mark> : Change l'heure locale du joueur.
 * <mark style="color:green;">**/pweather**</mark> : Change la météo locale du joueur.
 
 ### <mark style="color:green;">Mariage</mark>
 
-* <mark style="color:green;">**/marry request \[nom du joueur]**</mark> : Proposer une demande de mariage à un joueur.
+* <mark style="color:green;">**/marry request \[nom du joueur]**</mark> : Proposer une demande de mariage à un joueur *(uniquement à partir de guide)*
 * <mark style="color:green;">**/marry sethome \[nom]**</mark> : Définir la maison du couple.
 * <mark style="color:green;">**/marry home**</mark> : Se téléporter à la maison du couple.
 * <mark style="color:green;">**/marry divorce**</mark> : Divorcer de son partenaire.
 * <mark style="color:green;">**/marry accept**</mark> : Accepter une demande de mariage.
 * <mark style="color:green;">**/marry decline**</mark> : Refuser une demande de mariage.
-* <mark style="color:green;">**/marry msg \[message]**</mark> : Envoyer un message privé à son partenaire.
+* <mark style="color:green;">**/marry msg [message]**</mark> : Envoyer un message privé à son partenaire.
 * <mark style="color:green;">**/marry kiss**</mark> : Embrasser son partenaire.
 
 ### <mark style="color:green;">Coffre Privé</mark>
@@ -153,6 +152,7 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 * <mark style="color:green;">**/cadenas unclock**</mark> : Supprime le cadenas sur un coffre privé.
 * <mark style="color:green;">**/cadenas add [nom du joueur]**</mark> : Permet au joueur spécifié d'ouvrir le coffre privé.
 * <mark style="color:green;">**/cadenas open**</mark> : Permet de gérer la liste des joueurs qui peuvent ouvrir le coffre privé.
+* <mark style="color:green;">**/cadenas list**</mark> : Permet de regarder à qui appartient le coffre lock en regardant le coffre.
 
 {% hint style="warning" %}
 Toutes les commandes présentes sur le serveur ne sont pas énumérées ici, mais vous pouvez retrouver l'intégralité dans la section correspondante sur le wiki.
