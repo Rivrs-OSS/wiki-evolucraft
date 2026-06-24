@@ -17,18 +17,15 @@ Pour obtenir les <mark style="color:green;">**précieux sésames**</mark>, il n'
 Il existe <mark style="color:green;">**2 types de lucky blocks**</mark> offrant chacun des <mark style="color:green;">**récompenses différentes**</mark>.
 
 <table border="1" cellspacing="0" cellpadding="6">
-  <tr><mark style="color:green;"><strong>Type de Lucky Block 🎲</strong></mark> </tr>
   <tr>
-    <td>
-      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockCommun.png" alt=""><figcaption></figcaption></figure></p>
-      <p><mark style="color:green;"><strong>Lucky Block Commun</strong></mark></p>
-    </td>
+    <td></td><mark style="color:green;"><strong>Type de Lucky Block 🎲</strong></mark></td>
+    <td><mark style="color:green;"><strong>Lucky Block Commun</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>Lucky Block Gold</strong></mark></td>
   </tr>
   <tr>
-    <td>
-      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockGold.png" alt=""><figcaption></figcaption></figure></p>
-      <p><mark style="color:yellow;"><strong>Lucky Block Gold</strong></mark></p>
-    </td>
+    <td></td><mark style="color:green;"><strong>Aperçue du Lucky Block 🎲</strong></mark></td>
+    <td><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockCommun.png" alt=""><figcaption></figcaption></figure></td>
+    <td><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockGold.png" alt=""><figcaption></figcaption></figure></td>
   </tr>
 </table>
 
