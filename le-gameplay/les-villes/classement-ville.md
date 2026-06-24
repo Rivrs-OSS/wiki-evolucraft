@@ -68,6 +68,10 @@ Dessus, vous y retrouverez la <mark style="color:green;">**ville**</mark> et sa 
 
 Si vous voulez faire un petit concours dans votre ville, il existe la possibilité d'afficher les <mark style="color:green;">**joueurs de votre ville ayant déposé le plus de points**</mark> en cliquant sur <mark style="color:green;">**"Top Ville"**</mark> comme ci-dessous.
 
+{% hint style="warning" %}
+**🚨 IMPORTANT ‼ :** Les <mark style="color:green;">**étoiles**</mark> déjà comptabilisées sont valables pour le nom de la <mark style="color:green;">**ville**</mark> que vous avez sélectionné, c'est-à-dire que si vous changez entre temps le nom de la <mark style="color:green;">**ville**</mark>, les <mark style="color:green;">**étoiles**</mark> ne seront pas comptabilisées pour votre <mark style="color:green;">**ville**</mark>. Par conséquent, il est conseillé de ne pas changer le nom de votre <mark style="color:green;">**ville**</mark> avant la <mark style="color:green;">**fin du mois**</mark> pour bien récupérer votre <mark style="color:green;">**récompense**</mark> si vous êtes parmi les chanceux qui seront dans le <mark style="color:green;">**top 25**</mark> du <mark style="color:green;">**classement**</mark> !
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/Les_Villes/Classement/MaVille.png" alt=""><figcaption>Interface du classement des ville</figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les récompenses ?</mark> 🎁
