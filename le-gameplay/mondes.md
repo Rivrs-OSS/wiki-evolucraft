@@ -54,7 +54,7 @@ Vous pouvez également acheter des items dans la boutique avec de la viande de p
 
 Pour accéder à ce monde, rendez-vous au <mark style="color:green;">**`/spawn`**</mark> et trouvez le <mark style="color:green;">**PNJ dédié**</mark> — à vous de le dénicher ! Préparez-vous ensuite à une <mark style="color:green;">**chasse aux œufs effrénée**</mark> !
 
-<figure><img src="../.gitbook/assets/Evenement/MondeEvent.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Monde Pâques</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Evenement/MondePâques.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Monde Pâques</mark></strong></p></figcaption></figure>
 
 #### 🥚 La Pince
 

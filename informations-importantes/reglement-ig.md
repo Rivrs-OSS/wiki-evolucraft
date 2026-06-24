@@ -177,7 +177,7 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 ### <mark style="color:green;">Article F : Les doubles comptes</mark>
 
 * Les doubles-comptes sont limités à 1 par utilisateur.
-* L’utilisation d’un double compte est dans **l’unique but** d'AFK afin de faire charger ses spawners ou de recommencer une partie.
+* L’utilisation d’un double compte est dans **l’unique but** d'AFK afin de faire charger une zone (spawners, fermes, ect.) ou de recommencer une partie.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, incluant le classement farmium et le classement de votes.
 * Il n’est pas possible de récupérer les différentes récompenses grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, tout ce qui concerne les métiers, pass, argent, classement d'événements ou vote, du /boutique, /rewards...).
 * Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidive.

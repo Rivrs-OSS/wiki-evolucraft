@@ -57,7 +57,25 @@ ATTENTION ⚠️ : Vous ne pouvez pas mettre d'espace dans le nom de votre sous-
 **REMARQUE 🔍 : Le montant maximum pour une location peut aller jusqu'à 10 millions par jour.**.
 {% endhint %}
 
-**Une fois terminé, faites "Terminer" sur le panneau et votre panneau de location sera créé ! 🤗**
+Une fois terminé, faites "Terminer" sur le panneau et votre panneau de location sera créé !
+
+### <mark style="color:green;"><strong>Étape 5️⃣</strong></mark>
+
+Pensez, pour le rôle <mark style="color:green;"><strong>Visiteur</strong></mark> de la <mark style="color:green;"><strong>sous-zone</strong></mark>, à activer la permission de gestion <mark style="color:green;"><strong>Rôle Locataire</strong></mark> afin que les joueurs de votre ville puissent payer la location de la sous-zone.
+
+Pour cela, allez dans votre <mark style="color:green;"><strong>`/ville`</strong></mark>, puis dans <mark style="color:green;"><strong>sous-zone</strong></mark> et sélectionnez la sous-zone en question.
+
+<figure><img src="../../.gitbook/assets/Les_Villes/SousZone/InterfaceVilleSousZone.png" alt=""><figcaption></figcaption></figure>
+
+Ensuite, cliquez sur <mark style="color:green;"><strong>Rôles</strong></mark>, pour continuer sur <mark style="color:green;"><strong>Visiteurs</strong></mark> et enfin cliquez sur <mark style="color:green;"><strong>Permission de Gestion</strong></mark>, représentée par un <mark style="color:green;"><strong>plastron en diamant</strong></mark> :
+
+<figure><img src="../../.gitbook/assets/Les_Villes/Role/Gestion.png" alt=""><figcaption></figcaption></figure>
+
+Pour finir, cliquez sur le <mark style="color:green;"><strong>panneau en acajou</strong></mark> correspondant au <mark style="color:green;"><strong>Rôle Locataire</strong></mark> pour activer l'option d'achat de la location de cette sous-zone.
+
+<figure><img src="../../.gitbook/assets/Les_Villes/SousZone/RoleLocataire.png" alt=""><figcaption></figcaption></figure>
+
+Et voilà ! Votre location est maintenant prête !
 
 ## <mark style="color:green;">**💠 Autres commandes 🤨**</mark>
 
