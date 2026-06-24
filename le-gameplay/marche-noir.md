@@ -160,7 +160,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 <figure><img src="../.gitbook/assets/Marche-Noir/Amour/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir St-Valentin</mark></strong></figcaption></figure>
 
-### 🔸 <mark style="color:yellow;">Pâques 🥚</mark>
+### 🔸 <mark style="color:yellow;">Pâques 2025🥚</mark>
 
 Ces items sont achetables avec des **<mark style="color:yellow;">Tablettes de Chocolat</mark>**, obtenables dans les récompenses de **[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/codex/donjons/roi-lapin) 🐰** et **[<mark style="color:yellow;">Donjon Fabrique de Chocolat</mark>](https://wiki.evolucraft.fr/codex/donjons/fabrique-chocolat) 🍫** ou encore dans les récompenses de **<mark style="color:yellow;">Quête du Terrier du Roi Lapin</mark>**.
 
@@ -189,7 +189,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 | <mark style="color:yellow;">**Épée de Pâques**</mark> *(Arme Guerrier)*                   | **150 Tablettes de Chocolat** |
 | <mark style="color:yellow;">**Totem de Pâques**</mark> *(Arme Chaman)*                    | **150 Tablettes de Chocolat** |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/Paques/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Pâques</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Paques2025/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Pâques</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:blue;">Summer 2025 🏖️</mark>
 
@@ -326,7 +326,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 ### 🥚 <mark style="color:green;">Pâques 2026</mark>
 
-Ces items sont achetables avec des **<mark style="color:green;">Œufs en Chocolat</mark>**, qui sont obtenables dans la **<mark style="color:green;">boutique temporaire du `/paque`</mark>** via un échange d'Œufs en Chocolat obtenable dans le [<mark style="color:green;"><strong>Monde de Pâques</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#paques).
+Ces items sont achetables avec des **<mark style="color:green;">Œufs en Chocolat</mark>**, qui sont obtenables dans la **<mark style="color:green;">boutique dans le monde pâques**</mark> via un échange d'Œufs en Chocolat obtenable dans l'[<mark style="color:green;"><strong>Incubateur</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/mondes#lincubateur) également dans le monde pâque.
 
 {% hint style="info" %}
 Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>effet d'Onde de Choc 💥</strong></mark> infligeant <mark style="color:green;"><strong>10% des dégâts aux ennemis dans un rayon de 4 blocs</strong></mark>.
@@ -356,7 +356,9 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 | <mark style="color:green;">**Bâton en Chocolat**</mark> *(Arme Mage)*              | **22.500.000 🥚**    |
 | <mark style="color:green;">**Épée en Chocolat**</mark> *(Arme Guerrier)*            | **22.500.000 🥚**    |
 | <mark style="color:green;">**Totem en Chocolat**</mark> *(Arme Chaman)*             | **22.500.000 🥚**    |
-<figure><img src="../.gitbook/assets/Marche-noir/Armes Paque 26.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir de Paque 2026</mark></strong></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Marche-noir/Paques2026/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir de Paque 2026</mark></strong></figcaption></figure>
+
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
 ### 🔸 <mark style="color:blue;">Clé Givrée ❄️</mark>
