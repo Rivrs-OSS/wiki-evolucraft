@@ -16,6 +16,22 @@ Pour obtenir les <mark style="color:green;">**précieux sésames**</mark>, il n'
 
 Il existe <mark style="color:green;">**2 types de lucky blocks**</mark> offrant chacun des <mark style="color:green;">**récompenses différentes**</mark>.
 
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr><mark style="color:green;"><strong>Type de Lucky Block 🎲</strong></mark> </tr>
+  <tr>
+    <td>
+      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockCommun.png" alt=""><figcaption></figcaption></figure></p>
+      <p><mark style="color:green;"><strong>Lucky Block Commun</strong></mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><figure><img src="../.gitbook/assets/Evenement/St-Patrick2026/LuckyBlockGold.png" alt=""><figcaption></figcaption></figure></p>
+      <p><mark style="color:yellow;"><strong>Lucky Block Gold</strong></mark></p>
+    </td>
+  </tr>
+</table>
+
 Pour connaître en jeu ce qu’il est possible d’obtenir, il vous suffit de faire un <mark style="color:green;">**clic droit avec le lucky block en main**</mark> sans viser de bloc. Sinon, celui-ci se <mark style="color:green;">**posera au sol**</mark> et <mark style="color:green;">**s’ouvrira quelques secondes après**</mark> avec une récompense.
 
 Mais alors, quelles sont les <mark style="color:green;">**récompenses possibles**</mark> ?
