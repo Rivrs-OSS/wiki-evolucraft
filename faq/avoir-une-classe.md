@@ -52,7 +52,7 @@ Ces cartes sont <mark style="color:green;">achetables une seule fois par joueur<
 
 Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>, prenez-la dans votre main et faites un <mark style="color:green;">clic droit</mark> avec. Des cartes de la même classe seront alors révélées. Selon la <mark style="color:green;">rareté</mark> de la carte, elle peut offrir un nombre différent de cartes :
 
-<mark style="color:green;">**Nombre de cartes nécessaires pour les classes aléatoires**</mark>
+<mark style="color:green;">**Nombre de carte obtenable suivant la rareté obtenue**</mark>
 
 |                               Classe                               |          Nombre de cartes minimum         |          Nombre de cartes maximum          |
 | :----------------------------------------------------------------: | :---------------------------------------: | :----------------------------------------: |
@@ -61,6 +61,72 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
 |    <mark style="color:blue;">**Classe aléatoire épique**</mark>    |  <mark style="color:blue;">**x2**</mark>  |   <mark style="color:blue;">**x4**</mark>  |
 | <mark style="color:purple;">**Classe aléatoire légendaire**</mark> | <mark style="color:purple;">**x1**</mark> |  <mark style="color:purple;">**x1**</mark> |
 |    <mark style="color:red;">**Classe aléatoire mythique**</mark>   |   <mark style="color:red;">**x1**</mark>  |   <mark style="color:red;">**x1**</mark>   |
+
+<table>
+<tr>
+    <th><mark style="color:green;"><strong>Carte Aléatoire Commune 📗</strong></mark></th>
+    <th><mark style="color:yellow;"><strong>Carte Aléatoire Rare 📒</strong></mark></th>
+    <th><mark style="color:blue;"><strong>Carte Aléatoire  Épique 📘</strong></mark></th>
+    <th><mark style="color:purple;"><strong>Carte Aléatoire Légendaire 🟪</strong></mark></th>
+    <th><mark style="color:red;"><strong>Carte Aléatoire Mythique 📕</strong></mark></th>
+  </tr>
+  <tr>
+    <td>
+      <p><strong><mark style="color:green;">Commune</mark> (60%)</mark></strong></p>
+      <p>Entre 15 et 30 cartes</p>
+    </td>
+    <td>
+      <p><strong><mark style="color:yellow;">Rare</mark> (75%)</mark></strong></p>
+      <p>Entre 5 et 10 cartes</p>
+    </td>
+    <td>
+      <p><strong><mark style="color:blue;">Épique</mark> (90%)</mark></strong></p>
+      <p>Entre 2 et 4 cartes</p>
+    </td>
+    <td>
+      <p><strong><mark style="color:purple;">Légendaire</mark> (90%)</mark></strong></p>
+      <p>1 carte</strong></p>
+    </td>
+    <td>
+      <p><strong><mark style="color:blue;">Épique</mark> (60%)</mark></strong></p>
+      <p>Entre 2 et 4 cartes</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><strong><mark style="color:yellow;">Rare</mark> (35%)</mark></strong></p>
+      <p>Entre 15 et 30 cartes</p>
+    </td>
+    <td>
+      <p><strong><mark style="color:blue;">Épique</mark> (25%)</mark></strong></p>
+      <p>Entre 5 et 10 cartes</p>
+    </td>
+    <td>
+      <p><strong><mark style="color:purple;">Légendaire</mark> (10%)</mark></strong></p>
+      <p>Entre 2 et 4 cartes</p>
+    </td>
+    <td>
+      <p><strong><mark style="color:red;">Mythique</mark> (10%)</mark></strong></p>
+      <p>1 carte</p>
+    </td>
+    <td>
+      <p><strong><mark style="color:purple;">Légendaire</mark> (35%)</mark></strong></p>
+      <p>Entre 2 et 4 cartes</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><strong><mark style="color:blue;">Épique</mark> (5%)</mark></strong></p>
+      <p>Entre 15 et 30 cartes</p>
+    </td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>
+      <p><strong><mark style="color:red;">Mythique</mark> (5%)</mark></strong></p>
+      <p>1 carte</p>
+    </td>
+  </tr>
 
 #### <mark style="color:green;">🔹 Étape 3️⃣</mark>
 
