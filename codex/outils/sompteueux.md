@@ -3,7 +3,7 @@ description: >-
   Retrouvez ici toutes la liste de tout les Outils Sompteueux disponible durant le Pass Black Friday 2025 présents sur le serveur.
 ---
 
-# 💫 Outils Somptueux
+# 💫 Outils Sompteueux
 <!--- Oui il y a une faute de frappe dans la catégorie de l'item --->
 
 ## 🔹 <mark style="color:yellow;">Son obtention 🤔</mark>
