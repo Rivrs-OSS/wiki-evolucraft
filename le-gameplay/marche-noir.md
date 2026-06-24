@@ -401,7 +401,7 @@ La **<mark style="color:green;">Clé du Léprechaun</mark>** permet d'ouvrir la 
 Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Leprechaun</mark>**, disponibles durant **<mark style="color:green;">l'événement St-Patrick 2025</mark>**.
 
 ### 🔸 <mark style="color:yellow;">Clé de Pâques 2025 🥚</mark>
-La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques-2025)**.  
+La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 2025 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques-2025)**.  
 Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Pâques</mark>**, disponibles durant **<mark style="color:yellow;">l'événement Pâques 2025</mark>**.
 
 ### 🔸 <mark style="color:blue;">Clé Summer 🏖️</mark>
