@@ -334,30 +334,56 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 | **Items disponible**                                                                 | **Prix**              |
 | ------------------------------------------------------------------------------------ | --------------------- |
-| <mark style="color:green;">**Livre en Chocolat**</mark> *(Arme Invocateur)*         | **22.500.000 🥚**    |
-| <mark style="color:green;">**Arc en Chocolat**</mark> *(Arme Archer)*               | **22.500.000 🥚**    |
-| <mark style="color:green;">**Dague en Chocolat**</mark> *(Arme Assassin)*           | **22.500.000 🥚**    |
-| <mark style="color:green;">**Arc de l'enfer en Chocolat**</mark> *(Arme Chasseur de Phénix)* | **22.500.000 🥚** |
-| <mark style="color:green;">**Poing en Chocolat**</mark> *(Arme Moine)*              | **22.500.000 🥚**    |
-| <mark style="color:green;">**Gantelet en Chocolat**</mark> *(Arme Artiste Martial)* | **22.500.000 🥚**    |
-| <mark style="color:green;">**Pistolet en Chocolat**</mark> *(Arme Artificier)*      | **22.500.000 🥚**    |
-| <mark style="color:green;">**Marteau en Chocolat**</mark> *(Arme Paladin)*          | **22.500.000 🥚**    |
-| <mark style="color:green;">**Harpe en Chocolat**</mark> *(Arme Barde)*              | **22.500.000 🥚**    |
-| <mark style="color:green;">**Lance en Chocolat**</mark> *(Arme Chevalier de Glace)* | **22.500.000 🥚**   |
-| <mark style="color:green;">**Carte Mystique en Chocolat**</mark> *(Arme Illusionniste)* | **22.500.000 🥚** |
-| <mark style="color:green;">**Épée des Morts en Chocolat**</mark> *(Arme Chevalier de la Mort)* | **22.500.000 🥚** |
-| <mark style="color:green;">**Katana en Chocolat**</mark> *(Arme Samouraï)*          | **22.500.000 🥚**    |
-| <mark style="color:green;">**Orbe en Chocolat**</mark> *(Arme Élémentaliste)*       | **22.500.000 🥚**    |
-| <mark style="color:green;">**Sceptre en Chocolat**</mark> *(Arme Clerc)*            | **22.500.000 🥚**    |
-| <mark style="color:green;">**Faux en Chocolat**</mark> *(Arme Faucheur)*            | **22.500.000 🥚**    |
-| <mark style="color:green;">**Lance en Chocolat**</mark> *(Arme Guerrier Dragon)*    | **22.500.000 🥚**    |
-| <mark style="color:green;">**Bâton en Chocolat**</mark> *(Arme Archimage)*          | **22.500.000 🥚**    |
-| <mark style="color:green;">**Hache en Chocolat**</mark> *(Arme Barbare)*            | **22.500.000 🥚**    |
-| <mark style="color:green;">**Bâton en Chocolat**</mark> *(Arme Mage)*              | **22.500.000 🥚**    |
-| <mark style="color:green;">**Épée en Chocolat**</mark> *(Arme Guerrier)*            | **22.500.000 🥚**    |
-| <mark style="color:green;">**Totem en Chocolat**</mark> *(Arme Chaman)*             | **22.500.000 🥚**    |
+| <mark style="color:green;">**Livre en Chocolat**</mark> *(Arme Invocateur)*         | **16.875.000 🥚**    |
+| <mark style="color:green;">**Arc en Chocolat**</mark> *(Arme Archer)*               | **16.875.000 🥚**    |
+| <mark style="color:green;">**Dague en Chocolat**</mark> *(Arme Assassin)*           | **16.875.000 🥚**    |
+| <mark style="color:green;">**Arc de l'enfer en Chocolat**</mark> *(Arme Chasseur de Phénix)* | **16.875.000 🥚** |
+| <mark style="color:green;">**Poing en Chocolat**</mark> *(Arme Moine)*              | **16.875.000 🥚**    |
+| <mark style="color:green;">**Gantelet en Chocolat**</mark> *(Arme Artiste Martial)* | **16.875.000 🥚**    |
+| <mark style="color:green;">**Pistolet en Chocolat**</mark> *(Arme Artificier)*      | **16.875.000 🥚**    |
+| <mark style="color:green;">**Marteau en Chocolat**</mark> *(Arme Paladin)*          | **16.875.000 🥚**    |
+| <mark style="color:green;">**Harpe en Chocolat**</mark> *(Arme Barde)*              | **16.875.000 🥚**    |
+| <mark style="color:green;">**Lance en Chocolat**</mark> *(Arme Chevalier de Glace)* | **16.875.000 🥚**   |
+| <mark style="color:green;">**Carte Mystique en Chocolat**</mark> *(Arme Illusionniste)* | **16.875.000 🥚** |
+| <mark style="color:green;">**Épée des Morts en Chocolat**</mark> *(Arme Chevalier de la Mort)* | **16.875.000 🥚** |
+| <mark style="color:green;">**Katana en Chocolat**</mark> *(Arme Samouraï)*          | **16.875.000 🥚**    |
+| <mark style="color:green;">**Orbe en Chocolat**</mark> *(Arme Élémentaliste)*       | **16.875.000 🥚**    |
+| <mark style="color:green;">**Sceptre en Chocolat**</mark> *(Arme Clerc)*            | **16.875.000 🥚**    |
+| <mark style="color:green;">**Faux en Chocolat**</mark> *(Arme Faucheur)*            | **16.875.000 🥚**    |
+| <mark style="color:green;">**Lance en Chocolat**</mark> *(Arme Guerrier Dragon)*    | **16.875.000 🥚**    |
+| <mark style="color:green;">**Bâton en Chocolat**</mark> *(Arme Archimage)*          | **16.875.000 🥚**    |
+| <mark style="color:green;">**Hache en Chocolat**</mark> *(Arme Barbare)*            | **16.875.000 🥚**    |
+| <mark style="color:green;">**Bâton en Chocolat**</mark> *(Arme Mage)*              | **16.875.000 🥚**    |
+| <mark style="color:green;">**Épée en Chocolat**</mark> *(Arme Guerrier)*            | **16.875.000 🥚**    |
+| <mark style="color:green;">**Totem en Chocolat**</mark> *(Arme Chaman)*             | **16.875.000 🥚**    |
 
 <figure><img src="../.gitbook/assets/Marche-Noir/Paques2026/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Pâques 2026</mark></strong></figcaption></figure>
+
+Également, dans cette boutique, vous pouvez acheter d'autres items ou cosmétiques qui sont issue de la caisse :
+
+| **Items disponible**                                                          | **Prix**          |
+| ----------------------------------------------------------------------------- | ----------------- |
+| <mark style="color:green;">**Épée en Chocolat**</mark>                        | **16.875.000 🥚** |
+| <mark style="color:green;">**Pioche en Chocolat**</mark>                      | **16.875.000 🥚** |
+| <mark style="color:green;">**Pelle en Chocolat**</mark>                       | **16.875.000 🥚** |
+| <mark style="color:green;">**Hache de l'enfer en Chocolat**</mark>            | **16.875.000 🥚** |
+| <mark style="color:green;">**Houe en Chocolat**</mark>                        | **16.875.000 🥚** |
+| <mark style="color:green;">**Canne à pêche en Chocolat**</mark>               | **16.875.000 🥚** |
+| <mark style="color:green;">**Casque en Chocolat**</mark>                      | **19.687.500 🥚** |
+| <mark style="color:green;">**PLastron en Chocolat**</mark>                    | **19.687.500 🥚** |
+| <mark style="color:green;">**Pantalon en Chocolat**</mark>                    | **19.687.500 🥚** |
+| <mark style="color:green;">**Tag Glouton**</mark>                             | **28.125 🥚**     |
+| <mark style="color:green;">**Peluche Aléatoire**</mark>                       | **8.437.500 🥚**  |
+| <mark style="color:green;">**Pack de Décoration**</mark>                      | **8.437.500 🥚**  |
+| <mark style="color:green;">**Sac Lapin**</mark> *(Cosmétique)*                | **8.437.500 🥚**  |
+| <mark style="color:green;">**Ailes Lapin**</mark> *(Cosmétique)*              | **8.437.500 🥚**  |
+| <mark style="color:green;">**Tête de Lapin**</mark> *(Cosmétique)*            | **8.437.500 🥚**  |
+| <mark style="color:green;">**Tête de Poussin**</mark> *(Cosmétique)*          | **8.437.500 🥚**  |
+| <mark style="color:green;">**Sceptre carotte de lapin**</mark> *(Cosmétique)* | **8.437.500 🥚**  |
+| <mark style="color:green;">**Panier de Pâques**</mark> *(Cosmétique)*         | **8.437.500 🥚**  |
+| <mark style="color:green;">**Fragment de clé Pâques 2026**</mark>             | **1.125 🥚**      |
+
+<figure><img src="../.gitbook/assets/Marche-Noir/Paques2026/Cosmétiques.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir des cométiques de Pâques 2026</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
@@ -374,8 +400,8 @@ Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Cu
 La **<mark style="color:green;">Clé du Léprechaun</mark>** permet d'ouvrir la **[<mark style="color:green;">Caisse St-Patrick 🍀</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick)**.  
 Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Leprechaun</mark>**, disponibles durant **<mark style="color:green;">l'événement St-Patrick 2025</mark>**.
 
-### 🔸 <mark style="color:yellow;">Clé de Pâques 🥚</mark>
-La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**.  
+### 🔸 <mark style="color:yellow;">Clé de Pâques 2025 🥚</mark>
+La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques-2025)**.  
 Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Pâques</mark>**, disponibles durant **<mark style="color:yellow;">l'événement Pâques 2025</mark>**.
 
 ### 🔸 <mark style="color:blue;">Clé Summer 🏖️</mark>
@@ -397,10 +423,10 @@ Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pa
 ###  🔸 <mark style="color:green;">Clé Lunaire 🎑</mark>
 La **<mark style="color:green;">Clé Lunaire</mark>** permet d'ouvrir la **[<mark style="color:green;">Caisse Lunaire 🎑:</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire)**.  
 Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Lunaire</mark>**, disponibles durant **<mark style="color:green;">l'événement du Nouvel an</mark>**
-### 🔸 <mark style="color:yellow;">Clé de Pâques🥚</mark>
+### 🔸 <mark style="color:yellow;">Clé de Pâques 2026🥚</mark>
 
-La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 2026 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques)**.
+La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 2026 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques-2026)**.
 
-Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de clé de Pâques</mark>**, disponibles dans la **<mark style="color:yellow;">boutique temporaire du `/paque`</mark>** avec **<mark style="color:yellow;">l'événement de Pâques</mark>**.
+Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de clé de Pâques</mark>**, disponibles dans la **<mark style="color:yellow;">boutique du monde pâques</mark>** avec **<mark style="color:yellow;">l'événement de Pâques</mark>**.
 
 **Et voilà, vous savez tout sur le marché noir d'Évolucraft, mais attention… ceci doit rester secret 🤫**
