@@ -89,7 +89,7 @@ Pour <mark style="color:green;">**récupérer la récompense**</mark> du palier,
 Ensuite, cliquez sur le <mark style="color:green;">**cadenas**</mark> comme indiqué sur l’image, et vos <mark style="color:green;">**récompenses**</mark> seront ajoutées directement dans votre inventaire.  
 
 {% hint style="info" %}
-**REMARQUE 🔍 :** Si vous possédez le [<mark style="color:green;">**Premium 👑**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium), vous aurez accès à une <mark style="color:green;">**seconde récompense supplémentaire**</mark> dans le même palier !
+**REMARQUE 🔍 :** Si vous possédez le [<mark style="color:green;">**Premium 👑**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium), vous aurez accès à une <mark style="color:green;">**seconde récompense supplémentaire**</mark> dans le même palier ! Cependant, si vous déja récupérer vos paliers sans avoir le premium, vous ne pourrez récupérer les récompense exclusif au premium.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Pass/RéclamationPalier.png" alt=""><figcaption><p><strong>Aperçu de l'onglet </strong><mark style="color:green;"><strong><code>Récompenses du /pass</code></strong></mark></p></figcaption></figure>
