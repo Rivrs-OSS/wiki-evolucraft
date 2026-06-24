@@ -54,14 +54,6 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
 
 <mark style="color:green;">**Nombre de carte obtenable suivant la rareté obtenue**</mark>
 
-|                               Classe                               |          Nombre de cartes minimum         |          Nombre de cartes maximum          |
-| :----------------------------------------------------------------: | :---------------------------------------: | :----------------------------------------: |
-|   <mark style="color:green;">**Classe aléatoire commune**</mark>   | <mark style="color:green;">**x15**</mark> |  <mark style="color:green;">**x30**</mark> |
-|    <mark style="color:yellow;">**Classe aléatoire rare**</mark>    | <mark style="color:yellow;">**x5**</mark> | <mark style="color:yellow;">**x10**</mark> |
-|    <mark style="color:blue;">**Classe aléatoire épique**</mark>    |  <mark style="color:blue;">**x2**</mark>  |   <mark style="color:blue;">**x4**</mark>  |
-| <mark style="color:purple;">**Classe aléatoire légendaire**</mark> | <mark style="color:purple;">**x1**</mark> |  <mark style="color:purple;">**x1**</mark> |
-|    <mark style="color:red;">**Classe aléatoire mythique**</mark>   |   <mark style="color:red;">**x1**</mark>  |   <mark style="color:red;">**x1**</mark>   |
-
 <table>
 <tr>
     <th><mark style="color:green;"><strong>Carte Aléatoire Commune 📗</strong></mark></th>
@@ -127,6 +119,7 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
       <p>1 carte</p>
     </td>
   </tr>
+</table>
 
 #### <mark style="color:green;">🔹 Étape 3️⃣</mark>
 
