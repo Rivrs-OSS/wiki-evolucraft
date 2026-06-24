@@ -59,7 +59,7 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
     <th><mark style="color:green;"><strong>Carte Aléatoire Commune 📗</strong></mark></th>
     <th><mark style="color:yellow;"><strong>Carte Aléatoire Rare 📒</strong></mark></th>
     <th><mark style="color:blue;"><strong>Carte Aléatoire  Épique 📘</strong></mark></th>
-    <th><mark style="color:purple;"><strong>Carte Aléatoire Légendaire 🟪</strong></mark></th>
+    <th><mark style="color:purple;"><strong>Carte Aléatoire Légendaire 📔</strong></mark></th>
     <th><mark style="color:red;"><strong>Carte Aléatoire Mythique 📕</strong></mark></th>
   </tr>
   <tr>
