@@ -357,7 +357,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 | <mark style="color:green;">**Épée en Chocolat**</mark> *(Arme Guerrier)*            | **22.500.000 🥚**    |
 | <mark style="color:green;">**Totem en Chocolat**</mark> *(Arme Chaman)*             | **22.500.000 🥚**    |
 
-<figure><img src="../.gitbook/assets/Marche-noir/Paques2026/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir de Paque 2026</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Paques2025/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir Pâques 2026</mark></strong></figcaption></figure>
 
 ## 💠 <mark style="color:green;">Les clés 🗝️</mark>
 
