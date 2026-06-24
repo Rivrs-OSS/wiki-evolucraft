@@ -35,7 +35,7 @@ Afin de mieux vous y retrouver, le /ah est regroupé en plusieurs catégories li
 * <mark style="color:green;">**Classes 🧙‍♂️**</mark> : Cartes sur les classes de personnages disponibles.
 * <mark style="color:green;">**Blocs 🧱**</mark> : Liste des blocs disponibles à l'achat pour la construction ou la décoration.
 * <mark style="color:green;">**Spawners 🐾**</mark> : Présente les spawners disponibles à l'achat pour générer des créatures.
-* <mark style="color:green;">**parchemins📜**</mark> : Regroupe les différents parchemins disponibles à l'achat.
+* <mark style="color:green;">**Parchemins📜**</mark> : Regroupe les différents parchemins disponibles à l'achat.
 
 Les deux boutons en bas de l'interface permettent aux joueurs de gérer leurs ventes, puis de récupérer les objets qu'ils ont achetés.
 
@@ -60,31 +60,41 @@ Ces acheteurs sont spécialisés dans l'achat de différentes catégories de pro
 
 * Acheteur de <mark style="color:green;">**Minerais ⛏️**</mark> : Ressources minérales comme le fer, l'or, le diamant, etc.
 * Acheteur d'<mark style="color:green;">**Insectes 🐞**</mark> : Répertorie tous les insectes capturables dans le Parc d'Aurora.
-* Acheteur de <mark style="color:green;">**Blocs 🧱**</mark> : Différents types de blocs pour la construction et la décoration.
+* Acheteur de <mark style="color:green;">**Blocs 📦**</mark> : Différents types de blocs pour la construction et la décoration.
 * Vendeur d'<mark style="color:green;">**Objets utilitaires 🧰**</mark> : Composants Redstone pour créer des mécanismes. À noter que vous ne pouvez qu'en acheter !
 * Acheteur de <mark style="color:green;">**Cultures 🌾**</mark> : Articles liés à l'agriculture tels que les plantes et les produits agricoles.
 * Acheteur de <mark style="color:green;">**Loots de mobs 🧟‍♂️**</mark> : Objets obtenus en tuant des créatures.
+* Acheteur de <mark style="color:green;">**Bois 🪵**</mark> : Retrouvez tout les types de bois en passant par le chêne pale ou par l'acacia
+* Acheteur de <mark style="color:green;">**Blocks de cuivre 🧱**</mark> : Échanger avec 1 stack de blocks de cuivres pour avoir les autres blocks de differentes oxydation !
 
 ## <mark style="color:green;">💠 Coffre de vente automatique ♻️</mark>
 
-Les coffres de vente automatique vendent et octroient un boost de vente sur les objets du `/shop`. Pour mettre en marche votre coffre, posez-le au sol et attendez quelques secondes. Vous n'avez plus qu'à faire un clic droit sur le coffre pour ouvrir son interface. Ce boost varie en fonction du coffre : 
+Les coffres de vente vous permettent de vendre automatiquement les objets au <mark style="color:green;">`/shop`</mark> mais à un prix plus élevé ! Très pratique si vous utilisez une ferme juste au-dessus, afin de gagner de l'argent automatiquement.
+
+Sur le serveur, il existe <mark style="color:green;">2 coffres de vente</mark> :
 
 | Type de coffre de vente automatique                      | Multiplication du gain     |
 | -------------------------------------------------------- | -------------------------- |
-| <mark style="color:red;">**Coffre Rubis**</mark>         | **X 1.5**                  |
-| <mark style="color:green;">**Coffre Leprechaun**</mark>  | **X 2**                    |
+| <mark style="color:green;">**Coffre Rubis**</mark>        | **x 1.5**                  |
+| <mark style="color:green;">**Coffre Leprechaun**</mark>   | **x 2**                    |
 
+Mais comment faire fonctionner un coffre de vente automatique ?
 
+Pour cela, il faut effectuer un clic droit sur le coffre afin d'ouvrir l'interface comme ci-dessous :  
 <figure><img src="../.gitbook/assets/Le_Commerce/Coffre_Rubis.png" alt=""><figcaption><p><strong>Aperçu du coffre Rubis</strong></p></figcaption></figure>
 
-Les coffres de vente automatique possèdent 5 icônes :
+Dedans, vous retrouverez plusieurs boutons présentant des fonctionnalités différentes :
 
-* <mark style="color:green;">**Livre 📕 _(statistiques)_**</mark> : Il s'agit de diverses informations concernant votre coffre : propriétaire du coffre, type de coffre, multiplicateur de vente, argent gagné et nombre d’objets vendus.
-* <mark style="color:green;">**Lingot d’or 📀 _(vente automatique)_**</mark> : Permet d’activer ou de désactiver la vente automatique du coffre Rubis.
-* <mark style="color:green;">**Coffre 📫 _(inventaire)_**</mark> : Permet d’accéder à l’inventaire du coffre Rubis.
-* <mark style="color:green;">**Œil de l’Ender 📮 _(suppression des invendus)_**</mark> : Permet de supprimer automatiquement du coffre les items ne pouvant être vendus au `/shop`.
-* <mark style="color:green;">**Porte-armure 🤺 _(hologramme)_**</mark> : Permet d’afficher ou de cacher l’hologramme présent au-dessus du coffre.
-* <mark style="color:green;">**Seau de lave 🪔 _(chargement)_**</mark> : Permet d’activer gratuitement votre coffre de vente pour une durée d’une heure. Vous pouvez recharger le coffre avec une durée maximum de 24h en continu.
+* <mark style="color:green;">**Livre 📕 _(statistiques)_**</mark> : Informations concernant votre coffre : propriétaire, type de coffre, multiplicateur de vente, argent gagné et nombre d’objets vendus.
+* <mark style="color:green;">**Lingot d’or 📀 _(vente automatique)_**</mark> : Permet d’activer ou de désactiver la <mark style="color:green;">vente automatique</mark>.
+* <mark style="color:green;">**Coffre 📫 _(inventaire)_**</mark> : Permet d’accéder à l’inventaire du coffre.
+* <mark style="color:green;">**Œil de l’Ender 📮 _(suppression des invendus)_**</mark> : Supprime automatiquement du coffre les items ne pouvant pas être vendus au <mark style="color:green;">/shop</mark>.
+* <mark style="color:green;">**Porte-armure 🤺 _(hologramme)_**</mark> : Affiche ou cache l’hologramme présent au-dessus du coffre.
+* <mark style="color:green;">**Seau de lave 🪔 _(chargement)_**</mark> : Permet d’activer gratuitement votre coffre pour une durée maximale de <mark style="color:green;">24h</mark>. Vous pouvez recharger le coffre pour maintenir l'activation.
+
+Après avoir ouvert l'interface, cliquez sur le <mark style="color:green;">seau de lave</mark> pour ajouter du carburant (gratuitement) jusqu'à <mark style="color:green;">24h</mark>. Ensuite, cliquez sur le <mark style="color:green;">lingot d’or</mark> pour activer la <mark style="color:green;">vente automatique</mark> : les items déposés dans le coffre (visible en cliquant sur l'<mark style="color:green;">œil de l'Ender</mark>) seront vendus automatiquement, généralement toutes les <mark style="color:green;">5 secondes</mark>.
+
+Lorsque le temps de carburant est écoulé, cliquez à nouveau sur le <mark style="color:green;">seau de lave</mark> pour ajouter du temps supplémentaire. Et voilà, votre coffre de vente automatique est maintenant fonctionnel : il ne vous reste plus qu'à récolter de l'argent !
 
 ## <mark style="color:green;">**💠 Échanges entre Joueurs 🤝**</mark>
 
