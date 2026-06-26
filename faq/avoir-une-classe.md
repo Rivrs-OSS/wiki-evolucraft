@@ -108,7 +108,7 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
     </td>
     <td>
       <p><strong><mark style="color:purple;">Légendaire</mark> (35%)</mark></strong></p>
-      <p>Entre 2 et 4 cartes</p>
+      <p>1 et 2 cartes</p>
     </td>
     <td>X</td>
   </tr>
