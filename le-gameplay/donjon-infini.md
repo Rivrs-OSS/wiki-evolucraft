@@ -20,12 +20,18 @@ Pour celà, il vous suffira de réaliser la commande `/atlasbonks redeem` ! Vous
 
 Mais pas de panique si vous oubliez un jour ! Vous pouvez récupérer vos tickets des jours précédents avec la même commande jusqu'à 7 jours !
 
+{% hint style="warning" %}
+**⚠️ ATTENTION :** Pour récupérer votre tickets lorsque vous n'êtes pas connecté, il faudra avoir au minimum récupérer un ticket. Ce dernier effecturas une sauvegarde de l'heure auquel vous l'avez récupérer afin de pouvoir récupérer chaque jours à la même heure lorsque vous effecturez la commande.
+
+Par exemple, si vous récupérer votre premier ticket le premier jour à 16H, vous pourrez alors récupérer chaque jour le ticket à 16H.
+{% endhint %}
+
 #### 🔶 Les <mark style="color:green;">**La Caisse Aquatique**</mark> 🎁
 
 Lorsque que vous ouvrez la caisse Aquatique à l'aide d'une clé Aquatique, vous avez une probabibilité de tomber soit :
 
- 🔶 2 tickets pour le donjons infini (5.56%)
- 🔶 4 tickets pour le donjons infini (5.56%)
+🔶 2 tickets pour le donjons infini (5.56%)
+🔶 4 tickets pour le donjons infini (5.56%)
  
 Lorsque vous recevez vos tickets de donjon, ces derniers ne sont pas sous une formes d'un item mais d'une monnaie d'entrée. C'est ainsi qu'ils sont directements rajoutés à votre compte à l'obtention sans la possibilité de les donner à d'autres joueurs.
 
@@ -102,8 +108,14 @@ Fortune -> +4% Chance et +0.8% Gain d'XP, Gold et Silver
 Flots -> +1% Vitesse du jet et +8% Taille du Jet (+1 Jet à partir des manche EPIQUE)
 (Vous êtes limité de base à 1 par donjon, mais vous pouvez augmenter votre nombre de tome par donjon avec des silvers)
 
+Lorsque vous n'aimez pas les lots proposé quand avez monté de niveau d'expérience, vous allez la possibilité de :
+ 🔶 
+ <figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu d'un choix <mark style="color:green;">à votre monter de niveau</mark></figcaption></figure>
+ 🔶 Coffre de donjon qui apparaitra un peu partout dans la map ou à la mort d'un monstre
+ <figure><img src="../.gitbook/assets/DonjonInfini/Coffre.png" alt=""><figcaption>Aperçu d'un <mark style="color:green;">coffre en donjon infini</mark></figcaption></figure>
+
 {% hint style="warning" %}
-**⚠️ ATTENTION :** Mais attentions, les statistiques et les tomes que aurez ajouter seront perdue et ne sont pas gardé quand vous effecturez un autre donjon infini, c'est là que chaque partie est unique en plus des récompenses !
+**⚠️ ATTENTION :** Les statistiques et les tomes que aurez ajouter seront perdue et ne sont pas gardé quand vous effecturez un autre donjon infini, c'est là que chaque partie est unique en plus des récompenses !
 {% endhint %}
 
 ### 🔷 D'autres armes de donjon ? ⚔️
