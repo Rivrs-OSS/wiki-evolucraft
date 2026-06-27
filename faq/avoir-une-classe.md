@@ -82,7 +82,7 @@ Après avoir récupéré une <mark style="color:green;">carte aléatoire</mark>,
     </td>
     <td>
       <p><strong><mark style="color:blue;">Épique</mark> (60%)</mark></strong></p>
-      <p>Entre 2 et 4 cartes</p>
+      <p>Entre 4 et 8 cartes</p>
     </td>
     <td>
       <p><strong><mark style="color:purple;">Légendaire</mark> (100%)</mark></strong></p>
