@@ -4,82 +4,82 @@ description: Retrouvez ici toutes les informations concernant le donjon infini
 
 # ♾️ Le Donjon Infini
 
-Le <mark style="color:green;">**donjon infini**</mark> est un nouveau donjon aux particularitées bien différentes des donjon traditionelle. En effet, dans ce donjon pas d'hiostoire de classe, mais une histoire de jusqu'à où vous serrez capable pour y survivre jusqu'à votre dernier souffle afin de récolter des récompenses toutes aussi intéressente que vos donjon traditionelle !
+Le <mark style="color:green;">**donjon infini**</mark> est un nouveau donjon aux <mark style="color:green;">**particularités**</mark> bien différentes des <mark style="color:green;">**donjons traditionnels**</mark>. En effet, dans ce donjon, pas d'histoire de classe, mais une histoire de jusqu'à où vous serez capable de survivre jusqu'à votre dernier souffle afin de récolter des <mark style="color:green;">**récompenses**</mark> tout aussi intéressantes que vos donjons traditionnels !
 
 ## 💠 Comment entrer dans ce <mark style="color:green;">**donjon infini**</mark> ? 🔍
 
-Pour entrer dans ce donjon infini, pas d'histoire de portail à trouver dans le monde ressource. Non, pour y entrer, il faudra des tickets, mais comment les obtenirs ?
+Pour entrer dans ce donjon infini, pas d'histoire de portail à trouver dans le monde ressource. Non, pour y entrer, il faudra des <mark style="color:green;">**tickets**</mark>, mais comment les obtenir ?
 
 ### 🔷 Obtention des tickets 🎫
 
-#### 🔶 Les <mark style="color:green;">**Tickets gratuit**</mark> ⁉️
+#### 🔶 Les <mark style="color:green;">**Tickets gratuits**</mark> ⁉️
 
-Des tickets peuvent être récolter gratuitement et surtout très facilement !
+Des tickets peuvent être <mark style="color:green;">**récoltés**</mark> gratuitement et surtout très facilement !
 
-Pour celà, il vous suffira de réaliser la commande `/atlasbonks redeem` ! Vous en recevrez 3 par jours !
+Pour cela, il vous suffira de réaliser la commande `/atlasbonks redeem` ! Vous en recevrez 3 par jour !
 
 Mais pas de panique si vous oubliez un jour ! Vous pouvez récupérer vos tickets des jours précédents avec la même commande jusqu'à 7 jours !
 
 {% hint style="warning" %}
-**⚠️ ATTENTION :** Pour récupérer votre tickets lorsque vous n'êtes pas connecté, il faudra avoir au minimum récupérer un ticket. Ce dernier effecturas une sauvegarde de l'heure auquel vous l'avez récupérer afin de pouvoir récupérer chaque jours à la même heure lorsque vous effecturez la commande.
+**⚠️ ATTENTION :** Pour récupérer vos tickets lorsque vous n'êtes pas connecté, il faudra avoir au minimum récupéré un ticket. Ce dernier effectuera une <mark style="color:green;">**sauvegarde**</mark> de l'heure auquel vous l'avez récupéré afin de pouvoir récupérer chaque jour à la même heure lorsque vous effectuerez la commande.
 
-Par exemple, si vous récupérer votre premier ticket le premier jour à 16H, vous pourrez alors récupérer chaque jour le ticket à 16H.
+Par exemple, si vous récupérez votre premier ticket le premier jour à 16H, vous pourrez alors récupérer chaque jour le ticket à 16H.
 {% endhint %}
 
-#### 🔶 Les <mark style="color:green;">**La Caisse Aquatique**</mark> 🎁
+#### 🔶 Les <mark style="color:green;">**Caisse Aquatique**</mark> 🎁
 
-Lorsque que vous ouvrez la caisse Aquatique à l'aide d'une clé Aquatique, vous avez une probabibilité de tomber soit :
+Lorsque vous ouvrez la <mark style="color:green;">**Caisse Aquatique**</mark> à l'aide d'une clé Aquatique, vous avez une <mark style="color:green;">**probabilité**</mark> de tomber soit :
 
-* 🔶 2 tickets pour le donjons infini (5.56%)
-* 🔶 4 tickets pour le donjons infini (5.56%)
+* 🔶 2 tickets pour le donjon infini (5.56%)
+* 🔶 4 tickets pour le donjon infini (5.56%)
  
-Lorsque vous recevez vos tickets de donjon, ces derniers ne sont pas sous une formes d'un item mais d'une monnaie d'entrée. C'est ainsi qu'ils sont directements rajoutés à votre compte à l'obtention sans la possibilité de les donner à d'autres joueurs.
+Lorsque vous recevez vos tickets de donjon, ces derniers ne sont pas sous une <mark style="color:green;">**forme**</mark> d'un item mais d'une monnaie d'entrée. C'est ainsi qu'ils sont <mark style="color:green;">**directement**</mark> rajoutés à votre compte à l'<mark style="color:green;">**obtention**</mark> sans la possibilité de les donner à d'autres joueurs.
 
 {% hint style="info" %} REMARQUE 🔍 :
-Pour savoir combien de tickets que vous possédez actuellement, il vous suffit de réaliser la commande `/update` et de passer la souris sur le sablier.
-<figure><img src="../.gitbook/assets/DonjonInfini/TicketRestant.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de ticket en votre possession</mark></figcaption></figure>
+Pour savoir combien de <mark style="color:green;">**tickets**</mark> vous possédez actuellement, il vous suffit de réaliser la commande `/update` et de passer la souris sur le sablier.
+<figure><img src="../.gitbook/assets/DonjonInfini/TicketRestant.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de tickets en votre possession</mark></figcaption></figure>
 {% endhint %}
 
 ### 🔷 Ouverture du donjon infini 🏛️
 
-Pour entrée dans le donjon infini en ayant des tickets non utilisée, il vous suffira d'aller dans le `/update`, puis de faire un clique gauche sur le sablier.
+Pour entrer dans le donjon infini en ayant des <mark style="color:green;">**tickets non utilisés**</mark>, il vous suffira d'aller dans le `/update`, puis de faire un <mark style="color:green;">**clic gauche**</mark> sur le sablier.
 
-<figure><img src="../.gitbook/assets/DonjonInfini/CliqueSablier.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de ticket en votre possession</mark></figcaption></figure>
+<figure><img src="../.gitbook/assets/DonjonInfini/CliqueSablier.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de tickets en votre possession</mark></figcaption></figure>
 
-Une fois avoir cliquer, vous serez alors téléporter dans une salle bedrock. Et vous serez vidé temporairement de votre inventaire.
+Une fois avoir <mark style="color:green;">**cliqué**</mark>, vous serez alors <mark style="color:green;">**téléporté**</mark> dans une salle bedrock. Et vous serez vidé temporairement de votre inventaire.
 
 {% hint style="warning" %} ATTENTION ⚠️ :
-Nous vous déconseillons de bouger votre inventaire durant ce temps d'attente, car si vous déplacer votre inventaire au moment où le serveur videra votre inventaire, l'item sera perdu !
+Nous vous <mark style="color:green;">**déconseillons**</mark> de bouger votre inventaire durant ce temps d'attente, car si vous déplacez votre inventaire au moment où le serveur videra votre inventaire, l'item sera perdu !
 {% endhint %}
 
-## 💠 Comment se présente ce donjon infini qui est si différent des autres**</mark> ? 🕹️
+## 💠 Comment se présente ce donjon infini qui est si différent des autres ? 🕹️
 
-Votre objectif dans ce donjon infini est très simple, inspirer du célèbre jeu Mégabonk, c'est de rester en vie le plus longtemps possible dans une map remplie de monstre. Pour vous aider, vous disposerez de votre pistolet à eau. 
+Votre <mark style="color:green;">**objectif**</mark> dans ce donjon infini est très simple, inspiré du célèbre jeu Mégabonk, c'est de rester en vie le plus longtemps possible dans une map remplie de <mark style="color:green;">**monstres**</mark>. Pour vous aider, vous disposerez de votre <mark style="color:green;">**pistolet à eau**</mark>. 
 
-Plus vous rester longtemps dans le donjon en tuants les mobs, plus vous gagnerez des récompense de prestige.
+Plus vous <mark style="color:green;">**restez**</mark> longtemps dans le donjon en <mark style="color:green;">**tuant**</mark> les mobs, plus vous gagnerez des <mark style="color:green;">**récompenses**</mark> de prestige.
 
 <figure><img src="../.gitbook/assets/DonjonInfini/Video.png" alt=""><figcaption>Présentation de l'<mark style="color:green;">événement Summer Megabonk</mark></figcaption></figure>
 
 ### 🔷 Pas de stuff et pas de classe ? 😱
-Dès l'arrivée dans le donjon, vous aurez peut être remaqruer quelques chose, vous n'avez plus votre stuff habituel mais seulement un pistolet à eau, cela est normal ! Votre stuff sera rendu à la fin de votre donjon infini !
+Dès l'arrivée dans le donjon, vous aurez peut-être <mark style="color:green;">**remarqué**</mark> quelque chose, vous n'avez plus votre stuff habituel mais seulement un pistolet à eau, cela est normal ! Votre stuff sera rendu à la fin de votre donjon infini !
 
 ### 🔷 Comment rester en vie plus longtemps ? 
-Pour rester en vie, il faudra vous battre contre ces méchantes créatures... Mais ce n'est pas tout ! Vous pouvez également débloquer des améliorations de vos statistique ainsi que des tomes vous permettant d'améliorer vos statistiques mais également votre chance sur les récompenses !
+Pour rester en vie, il faudra vous battre contre ces méchantes créatures... Mais ce n'est pas tout ! Vous pouvez également débloquer des <mark style="color:green;">**améliorations**</mark> de vos <mark style="color:green;">**statistiques**</mark> ainsi que des <mark style="color:green;">**tomes**</mark> vous permettant d'améliorer vos statistiques mais également votre chance sur les récompenses !
 
 Pour cela, vous pourrez les récupérer dans deux endroits dans ce donjon :
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td>À votre monter de niveau de votre barre d'expérience (symboliser par la barre d'xp Minecraft)</td>
-    <td>Dans les coffres de donjon (qui apparaissent un peu partout sur la map ou à la mort d'un monstre)</td>
+    <td>À votre <mark style="color:green;"><strong>montée de niveau</strong></mark> de votre barre d'expérience (symbolisée par la barre d'xp Minecraft)</td>
+    <td>Dans les <mark style="color:green;"><strong>coffres de donjon</strong></mark> (qui apparaissent un peu partout sur la map ou à la mort d'un monstre)</td>
   </tr>
   <tr>
-    <td><figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu d'un choix <mark style="color:green;">à votre monter de niveau</mark></figcaption></figure></td>
+    <td><figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu d'un choix <mark style="color:green;">à votre montée de niveau</mark></figcaption></figure></td>
     <td><figure><img src="../.gitbook/assets/DonjonInfini/Coffre.png" alt=""><figcaption>Aperçu d'un <mark style="color:green;">coffre en donjon infini</mark></figcaption></figure></td>
   </tr>
 </table>
 
- Il pourra donc vous donner des amélioration des statistiques ou des tomes suivants :
+Il pourra donc vous donner des <mark style="color:green;">**améliorations**</mark> des statistiques ou des tomes suivants :
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -92,11 +92,11 @@ Pour cela, vous pourrez les récupérer dans deux endroits dans ce donjon :
     <td><mark style="color:red;">Augmenter vos Dégâts 🗡️</mark></td>
     <td>
      <p><mark style="color:red;"><strong>Puissance</strong></mark></p>
-     <p>+0.8% Dégâts
+     <p>+0.8% Dégâts</p>
     </td>
   </tr>
   <tr>
-    <td><mark style="color:red;">Régenération de votre vie plus rapide 💕</mark></td>
+    <td><mark style="color:red;">Régénération de votre vie plus rapide 💕</mark></td>
     <td><mark style="color:orange;">Augmenter vos Dégâts Critique ⚔️</mark></td>
     <td>
      <p><mark style="color:yellow;"><strong>Cadence</strong></mark></p>
@@ -113,7 +113,7 @@ Pour cela, vous pourrez les récupérer dans deux endroits dans ce donjon :
     </td>
   </tr>
   <tr>
-    <td><mark style="color:purple;">La Résistence (Armure) 🛡️</mark></td>
+    <td><mark style="color:purple;">La Résistance (Armure) 🛡️</mark></td>
     <td><mark style="color:yellow;">Cadence (Temps de recharge) ⌛</mark></td>
     <td>
      <p><mark style="color:orange;"><strong>Précision</strong></mark></p>
@@ -144,7 +144,7 @@ Pour cela, vous pourrez les récupérer dans deux endroits dans ce donjon :
     <td><mark style="color:blue;">Nombre de jets ✖️💦</mark></td>
     <td>
      <p><mark style="color:green;"><strong>Fortune</strong></mark></p>
-     <p>+4% Chance des Récompense</p>
+     <p>+4% Chance des Récompenses</p>
      <p>+0.8% XP/Gold/Silver</p>
     </td>
   </tr>
@@ -156,6 +156,7 @@ Pour cela, vous pourrez les récupérer dans deux endroits dans ce donjon :
      <p>+1% Vitesse du jet</p>
      <p>+8% Taille du jet</p>
      <p>+1 Jet dans les manches épiques</p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:green;">Chance de récompense ✨</mark></td>
@@ -163,26 +164,28 @@ Pour cela, vous pourrez les récupérer dans deux endroits dans ce donjon :
     <td></td>
   </tr>
 </table>
-(Vous êtes limité de base à 1 par donjon, mais vous pouvez augmenter votre nombre de tome par donjon avec des silvers)
 
-Lorsque vous n'aimez pas les lots proposé quand avez monté de niveau d'expérience, vous allez la possibilité de :
-* 🔶 Reroll : il est vous sert à retirer au sort les offres obtenue à votre level up si vous aimez pas leurs propositions. Il est représenter par un oeuil de l'ender
-* 🔶 Bannish : Il vous permet de bannir une statistique lors la monter de niveau sur les statistique proposées. Une fois banni, cette statistique ne pourra plus apparaitre à chaque monter de niveau jusqu'à la fin de votre partie.
-  <figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu du <mark style="color:green;">monter de niveau</mark></figcaption></figure>
+(Vous êtes limité de base à 1 par donjon, mais vous pouvez augmenter votre nombre de <mark style="color:green;">**tomes**</mark> par donjon avec des <mark style="color:green;">**silvers**</mark>)
+
+Lorsque vous n'aimez pas les lots proposés quand vous avez <mark style="color:green;">**monté de niveau**</mark> d'expérience, vous allez la possibilité de :
+* 🔶 <mark style="color:green;">**Reroll**</mark> : il vous sert à retirer au sort les offres obtenues à votre level up si vous n'aimez pas leurs propositions. Il est représenté par un <mark style="color:green;">**œil de l'Ender**</mark>
+* 🔶 <mark style="color:green;">**Banish**</mark> : Il vous permet de <mark style="color:green;">**bannir**</mark> une statistique lors de la montée de niveau sur les statistiques proposées. Une fois banni, cette statistique ne pourra plus apparaître à chaque montée de niveau jusqu'à la fin de votre partie.
+
+<figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">montée de niveau</mark></figcaption></figure>
  
 {% hint style="warning" %}
-**⚠️ ATTENTION :** Les statistiques et les tomes que aurez ajouter seront perdue et ne sont pas gardé quand vous effecturez un autre donjon infini, c'est là que chaque partie est unique en plus des récompenses !
+**⚠️ ATTENTION :** Les statistiques et les tomes que vous aurez <mark style="color:green;">**ajoutés**</mark> seront <mark style="color:green;">**perdus**</mark> et ne sont pas <mark style="color:green;">**gardés**</mark> quand vous effectuerez un autre donjon infini, c'est là que chaque partie est unique en plus des récompenses !
 {% endhint %}
 
 ### 🔷 D'autres armes de donjon ? 🔫
-Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'améliorer vos armes mais également de changer d'arme :
+Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<mark style="color:green;">**améliorer**</mark> vos armes mais également de <mark style="color:green;">**changer**</mark> d'arme :
 
 <table border="1" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
       <th><mark style="color:white;"><b>Nom du pistolet 🏷️</b></mark></th>
       <th><mark style="color:yellow;"><b>Nombre de dégâts ☠️</b></mark></th>
-      <th><mark style="color:blue;"><b>Nombre de tir par seconde 🥏</b></mark></th>
+      <th><mark style="color:blue;"><b>Nombre de tirs par seconde 🥏</b></mark></th>
       <th><mark style="color:purple;"><b>Portée du Tir 📏</b></mark></th>
       <th><mark style="color:red;"><b>Nombre de Jet 💦</b></mark></th>
     </tr>
@@ -205,7 +208,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'a
       <td><mark style="color:yellow;">12 Dégâts</mark></td>
       <td><mark style="color:yellow;">2 tirs /s</mark></td>
       <td><mark style="color:yellow;">14 blocks</mark></td>
-      <td><mark style="color:yellow;">2 jet</mark></td>
+      <td><mark style="color:yellow;">2 jets</mark></td>
     </tr>
     <tr>
       <td>
@@ -235,7 +238,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'a
       <td><mark style="color:blue;">15 Dégâts</mark></td>
       <td><mark style="color:blue;">1.4 tirs /s</mark></td>
       <td><mark style="color:blue;">8 blocks</mark></td>
-      <td><mark style="color:blue;">2 jet</mark></td>
+      <td><mark style="color:blue;">2 jets</mark></td>
     </tr>
     <tr>
       <td>
@@ -250,24 +253,22 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'a
 </table>
 
 {% hint style="warning" %}
-**⚠️ ATTENTION :** Si vous échanger d'arme pendant le donjon, elle prendra la place de votre arme de base, cependant l'arme que vous aviez de base amélioré gardera les amélioration effectué précédemment si vous la rechoisissez.
+**⚠️ ATTENTION :** Si vous <mark style="color:green;">**changez**</mark> d'arme pendant le donjon, elle prendra la place de votre arme de base, cependant l'arme que vous aviez de base <mark style="color:green;">**améliorée**</mark> gardera les <mark style="color:green;">**améliorations**</mark> effectuées précédemment si vous la rechoisissez.
 {% endhint %}
 
 ## 💠 Quelles sont les <mark style="color:green;">**récompenses disponibles**</mark> ? 🗿
 
-À la fin de votre donjon lorsque vous mourrez, vous pourrez récupérer des récompenses en plus de celle déjà récupérer dans les coffres dans le donjon. Mais que sont-elles ?
+À la fin de votre donjon lorsque vous mourrez, vous pourrez récupérer des <mark style="color:green;">**récompenses**</mark> en plus de celles déjà récupérées dans les coffres dans le donjon. Mais que sont-elles ?
 
 ### 🔷 Les silvers 🪙
 
-À la fin de votre donjon lorsque vous mourrez, vous pourrez récupérer des silvers, ils vous servent à améliorer vos statistique de vie, de dégâts mais également d'ajouter des Banish, des Reroll ou encore la possibilité d'avoir des Tomes supplémentaire dans votre inventaire en donjon.
+À la fin de votre donjon lorsque vous mourrez, vous pourrez récupérer des <mark style="color:green;">**silvers**</mark>, ils vous servent à améliorer vos <mark style="color:green;">**statistiques**</mark> de vie, de dégâts mais également d'ajouter des <mark style="color:green;">**Banish**</mark>, des <mark style="color:green;">**Reroll**</mark> ou encore la possibilité d'avoir des <mark style="color:green;">**Tomes supplémentaires**</mark> dans votre inventaire en donjon.
 
 <figure><img src="../.gitbook/assets/DonjonInfini/Boutique.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">Boutique Silver</mark></figcaption></figure>
 
 ### 🔷 Des récompenses en jeu 🪙
 
-Pour récupérer les récompenses de votre donjon effectué, il vous suffira de réaliser la commande `/atlasbonks claim`. Vos récompenses sont récupérables à n'importe quel moment, même après un deuxième donjon infini.
-
-Flemme pour l'instant
+Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre donjon effectué, il vous suffira de réaliser la commande `/atlasbonks claim`. Vos récompenses sont récupérables à n'importe quel moment, même après un deuxième donjon infini.
 
 <table border="1" cellpadding="10" cellspacing="0">
   <thead>
@@ -343,7 +344,7 @@ Flemme pour l'instant
       <td><mark style="color:green;">1 Cristal de donjon Commun</mark></td>
       <td><mark style="color:yellow;">1 Cristal de donjon Rare</mark></td>
       <td><mark style="color:blue;">5.000 XP Classe</mark></td>
-      <td><mark style="color:purple;">1 Pierre de téléportation Glaiciales</mark></td>
+      <td><mark style="color:purple;">1 Pierre de téléportation Glaciales</mark></td>
       <td><mark style="color:red;">1 Oeuf de familier Summer 2026</mark></td>
     </tr>
     <tr>
@@ -355,7 +356,7 @@ Flemme pour l'instant
        <p><mark style="color:orange;">2 Citrouilles Scintillantes</mark></p>
       </td>
       <td>
-       <p><mark style="color:orange;">1 Coeur de dragon</mark></p>
+       <p><mark style="color:orange;">1 Cœur de dragon</mark></p>
        <p><mark style="color:red;">1 Lune de sang</mark></p>
        <p><mark style="color:red;">1 Auréoles</mark></p>
       </td>
@@ -395,7 +396,7 @@ Flemme pour l'instant
        <p><mark style="color:blue;">1 familier Bolg</mark></p>
        <p><mark style="color:blue;">1 familier Lilith</mark></p>
        <p><mark style="color:blue;">1 familier Gorille des Cavernes</mark></p>
-       <p><mark style="color:purple;">1 familier Grorille du Laboratoire</mark></p>
+       <p><mark style="color:purple;">1 familier Gorille du Laboratoire</mark></p>
        <p><mark style="color:red;">1 familier Sunny</mark></p>
       </td>
     </tr>
@@ -430,8 +431,8 @@ Flemme pour l'instant
       <td><mark style="color:green;">Arme Commune</mark></td>
       <td><mark style="color:yellow;">Arme Commune</mark></td>
       <td><mark style="color:blue;">Arme Épique</mark></td>
-      <td><mark style="color:purple;">2 Bonbons aux Raisin</mark></td>
-      <td><mark style="color:red;">Plume de Phoenix</mark></td>
+      <td><mark style="color:purple;">2 Bonbons aux Raisins</mark></td>
+      <td><mark style="color:red;">Plume de Phénix</mark></td>
     </tr>
     <tr>
       <td>X</td>
@@ -450,7 +451,7 @@ Flemme pour l'instant
      <td>
        <p><mark style="color:yellow;">1 pièce</mark> de l'oeuvre <mark style="color:yellow;">Kabuto</mark></p>
        <p><mark style="color:yellow;">Pièce Socle du Kabuto</mark></p>
-       <p><mark style="color:yellow;">Pièce Épaulière Droit du Kabuto</mark></p>
+       <p><mark style="color:yellow;">Pièce Épaulière Droite du Kabuto</mark></p>
        <p><mark style="color:yellow;">Pièce Jambière Droite du Kabuto</mark></p>
       </td>
       <td>X</td>
@@ -484,8 +485,8 @@ Flemme pour l'instant
      <td>
        <p><mark style="color:blue;">1 pièce</mark> de l'oeuvre <mark style="color:blue;">Soldat D'argile</mark></p>
        <p><mark style="color:blue;">Pièce Socle du Soldat d'Argile</mark></p>
-       <p><mark style="color:blue;">Pièce Coté Droit du Soldat d'Argile</mark></p>
-       <p><mark style="color:blue;">Pièce Coté Gauche du Soldat d'Argile</mark></p>
+       <p><mark style="color:blue;">Pièce Côté Droit du Soldat d'Argile</mark></p>
+       <p><mark style="color:blue;">Pièce Côté Gauche du Soldat d'Argile</mark></p>
       </td>
       <td>X</td>
       <td>X</td>
@@ -518,4 +519,4 @@ Flemme pour l'instant
   </tbody>
 </table>
 
-**Voilà, vous connaissez tout sur les donjon <mark style="color:green;">Infini</mark> ♾️ ! Mais attention à n'en pas de perdre la tête 😵**
+**Voilà, vous connaissez tout sur les donjons <mark style="color:green;">**Infini**</mark> ♾️ ! Mais attention à ne pas perdre la tête 😵**
