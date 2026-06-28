@@ -192,7 +192,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
   </thead>
     <tr>
       <td>
-       <p><mark style="color:green;">Pistolet à eau</mark> (Arme de base)</p>
+       <p><mark style="color:green;">Pistolet à Eau</mark> (Arme de base)</p>
        <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
       </td>
       <td><mark style="color:green;">18 Dégâts</mark></td>
@@ -203,7 +203,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:yellow;">Double Buse</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/DoubleBuse.png" alt=""></figure></p>
       </td>
       <td><mark style="color:yellow;">12 Dégâts</mark></td>
       <td><mark style="color:yellow;">2 tirs /s</mark></td>
@@ -213,7 +213,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:yellow;">Mitraillette</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/Mitraillette.png" alt=""></figure></p>
       </td>
       <td><mark style="color:yellow;">7 Dégâts</mark></td>
       <td><mark style="color:yellow;">10 tirs /s</mark></td>
@@ -223,7 +223,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:blue;">Sniper</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/Sniper.png" alt=""></figure></p>
       </td>
       <td><mark style="color:blue;">75 Dégâts</mark></td>
       <td><mark style="color:blue;">1.2 tirs /s</mark></td>
@@ -233,7 +233,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:blue;">Fusil à Pompe</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/FusilAPompe.png" alt=""></figure></p>
       </td>
       <td><mark style="color:blue;">15 Dégâts</mark></td>
       <td><mark style="color:blue;">1.4 tirs /s</mark></td>
@@ -242,8 +242,8 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     </tr>
     <tr>
       <td>
-       <p><mark style="color:purple;">Canon lourd</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><mark style="color:purple;">Canon Lourd</mark></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/CanonLourd.png" alt=""></figure></p>
       </td>
       <td><mark style="color:purple;">140 Dégâts</mark></td>
       <td><mark style="color:purple;">0.8 tirs /s</mark></td>
