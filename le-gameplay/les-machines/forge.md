@@ -213,7 +213,7 @@ description: Retrouvez ici toutes les informations concernant la forge
     <td><strong>64 pierres</strong></td>
   </tr>
   <tr>
-    <td><strong>320 pastèques</strong></td>
+    <td><strong>320 blocks de pastèques</strong></td>
     <td><strong>64 ors bruts</strong></td>
     <td><strong>448 ficelles</strong></td>
     <td><mark style="color:yellow;"><strong>2 bars</strong></mark></td>
