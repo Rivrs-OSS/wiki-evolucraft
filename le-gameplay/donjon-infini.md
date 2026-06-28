@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant le donjon infini
 
 # ♾️ Le Donjon Infini
 
-Le '<mark style="color:green;">**donjon infini**</mark> est un nouveau donjon aux particularitées bien différentes des donjon traditionelle. En effet, dans ce donjon pas d'hiostoire de classe, mais une histoire de jusqu'à où vous serrez capable pour y survivre jusqu'à votre dernier souffle afin de récolter des récompenses toutes aussi intéressente que vos donjon traditionelle !
+Le <mark style="color:green;">**donjon infini**</mark> est un nouveau donjon aux particularitées bien différentes des donjon traditionelle. En effet, dans ce donjon pas d'hiostoire de classe, mais une histoire de jusqu'à où vous serrez capable pour y survivre jusqu'à votre dernier souffle afin de récolter des récompenses toutes aussi intéressente que vos donjon traditionelle !
 
 ## 💠 Comment entrer dans ce <mark style="color:green;">**donjon infini**</mark> ? 🔍
 
@@ -30,8 +30,8 @@ Par exemple, si vous récupérer votre premier ticket le premier jour à 16H, vo
 
 Lorsque que vous ouvrez la caisse Aquatique à l'aide d'une clé Aquatique, vous avez une probabibilité de tomber soit :
 
-🔶 2 tickets pour le donjons infini (5.56%)
-🔶 4 tickets pour le donjons infini (5.56%)
+* 🔶 2 tickets pour le donjons infini (5.56%)
+* 🔶 4 tickets pour le donjons infini (5.56%)
  
 Lorsque vous recevez vos tickets de donjon, ces derniers ne sont pas sous une formes d'un item mais d'une monnaie d'entrée. C'est ainsi qu'ils sont directements rajoutés à votre compte à l'obtention sans la possibilité de les donner à d'autres joueurs.
 
@@ -67,70 +67,190 @@ Dès l'arrivée dans le donjon, vous aurez peut être remaqruer quelques chose, 
 Pour rester en vie, il faudra vous battre contre ces méchantes créatures... Mais ce n'est pas tout ! Vous pouvez également débloquer des améliorations de vos statistique ainsi que des tomes vous permettant d'améliorer vos statistiques mais également votre chance sur les récompenses !
 
 Pour cela, vous pourrez les récupérer dans deux endroits dans ce donjon :
-(Tableau)
- 🔶 Au level-up de votre barre d'expérience (symboliser par la barre d'xp Minecraft)
- <figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu d'un choix <mark style="color:green;">à votre monter de niveau</mark></figcaption></figure>
- 🔶 Coffre de donjon qui apparaitra un peu partout dans la map ou à la mort d'un monstre
- <figure><img src="../.gitbook/assets/DonjonInfini/Coffre.png" alt=""><figcaption>Aperçu d'un <mark style="color:green;">coffre en donjon infini</mark></figcaption></figure>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td>À votre monter de niveau de votre barre d'expérience (symboliser par la barre d'xp Minecraft)</td>
+    <td>Dans les coffres de donjon (qui apparaissent un peu partout sur la map ou à la mort d'un monstre)</td>
+  </tr>
+  <tr>
+    <td><figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu d'un choix <mark style="color:green;">à votre monter de niveau</mark></figcaption></figure></td>
+    <td><figure><img src="../.gitbook/assets/DonjonInfini/Coffre.png" alt=""><figcaption>Aperçu d'un <mark style="color:green;">coffre en donjon infini</mark></figcaption></figure></td>
+  </tr>
+</table>
 
  Il pourra donc vous donner des amélioration des statistiques ou des tomes suivants :
-Statistique personnel :
 
-(Faire tableau)
-- Augmenter votre vie
-- Régenération de votre vie plus rapide
-- Augmentation de votre vitesse
-- La résistence (Armure)
-- Portée du ramassage d'xp
-- Gain d'xp
-- Gain d'or
-- Esquiver les attaques
-- Chance de récompense
-
-Statistique de l'arme
-- Dégâts
-- Dégâts Critique
-- Chance de Critique
-- Cadence (Abaisser le temps de recharge de votre pistolet)
-- Augmenter la taille du jet
-- Vitesse de votre jet
-- Nombre de jet
-- Nombre de rebond du jet
-
-Tome 
-Puissance -> +0.8% Damage à chaque level
-Cadence -> +0.6% Cadence à chaque level
-Vitalité -> +1% Vie Max et +0.3% Régenération de Vie
-Précision -> +8% Dégâts Critique et +0.4% Chance de critique
-Protection -> +0.4% Résistence +2% Esquive
-Agilité -> +0.5% Vitesse et +10% Portée du ramassage d'xp
-Fortune -> +4% Chance et +0.8% Gain d'XP, Gold et Silver
-Flots -> +1% Vitesse du jet et +8% Taille du Jet (+1 Jet à partir des manche EPIQUE)
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><mark style="color:white;"><strong>📊 Statistiques Personnelles</strong></mark></td>
+    <td><mark style="color:white;"><strong>🔫 Statistiques de l'Arme</strong></mark></td>
+    <td><mark style="color:white;"><strong>📖 Tomes (Bonus par niveau)</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Augmenter votre vie maximum 💓</mark></td>
+    <td><mark style="color:red;">Augmenter vos Dégâts 🗡️</mark></td>
+    <td>
+     <p><mark style="color:red;"><strong>Puissance</strong></mark></p>
+     <p>+0.8% Dégâts
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Régenération de votre vie plus rapide 💕</mark></td>
+    <td><mark style="color:orange;">Augmenter vos Dégâts Critique ⚔️</mark></td>
+    <td>
+     <p><mark style="color:yellow;"><strong>Cadence</strong></mark></p>
+     <p>+0.6% Cadence</p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Augmentation de votre vitesse de déplacement 🏃‍♂️</mark></td>
+    <td><mark style="color:green;">Chance de Critique 🎯</mark></td>
+    <td>
+     <p><mark style="color:red;"><strong>Vitalité</strong></mark></p>
+     <p>+1% Vie Maximum</p>
+     <p>+0.3% Régénération</p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">La Résistence (Armure) 🛡️</mark></td>
+    <td><mark style="color:yellow;">Cadence (Temps de recharge) ⌛</mark></td>
+    <td>
+     <p><mark style="color:orange;"><strong>Précision</strong></mark></p>
+     <p>+8% Dégâts Critique</p>
+     <p>+0.4% Chance de Critique</p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Portée du ramassage d'XP 🧲</mark></td>
+    <td><mark style="color:blue;">Augmenter la taille du jet 🌊</mark></td>
+    <td>
+     <p><mark style="color:purple;"><strong>Protection</strong></mark></p>
+     <p>+0.4% Résistance</p>
+     <p>+2% Esquive</p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Gain d'XP 📈</mark></td>
+    <td><mark style="color:blue;">Vitesse de votre jet 💨</mark></td>
+    <td>
+     <p><mark style="color:blue;"><strong>Agilité</strong></mark></p>
+     <p>+0.5% Vitesse</p>
+     <p>+10% Portée XP</p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;">Gain d'Or 🧈</mark></td>
+    <td><mark style="color:blue;">Nombre de jets ✖️💦</mark></td>
+    <td>
+     <p><mark style="color:green;"><strong>Fortune</strong></mark></p>
+     <p>+4% Chance des Récompense</p>
+     <p>+0.8% XP/Gold/Silver</p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Esquiver les attaques 🤺</mark></td>
+    <td><mark style="color:blue;">Nombre de rebonds du jet 🏀</mark></td>
+    <td>
+     <p><mark style="color:blue;"><strong>Flots</strong></mark></p>
+     <p>+1% Vitesse du jet</p>
+     <p>+8% Taille du jet</p>
+     <p>+1 Jet dans les manches épiques</p>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Chance de récompense ✨</mark></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 (Vous êtes limité de base à 1 par donjon, mais vous pouvez augmenter votre nombre de tome par donjon avec des silvers)
 
 Lorsque vous n'aimez pas les lots proposé quand avez monté de niveau d'expérience, vous allez la possibilité de :
- 🔶 
- <figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu d'un choix <mark style="color:green;">à votre monter de niveau</mark></figcaption></figure>
- 🔶 Coffre de donjon qui apparaitra un peu partout dans la map ou à la mort d'un monstre
- <figure><img src="../.gitbook/assets/DonjonInfini/Coffre.png" alt=""><figcaption>Aperçu d'un <mark style="color:green;">coffre en donjon infini</mark></figcaption></figure>
-
+* 🔶 Reroll : il est vous sert à retirer au sort les offres obtenue à votre level up si vous aimez pas leurs propositions. Il est représenter par un oeuil de l'ender
+* 🔶 Bannish : Il vous permet de bannir une statistique lors la monter de niveau sur les statistique proposées. Une fois banni, cette statistique ne pourra plus apparaitre à chaque monter de niveau jusqu'à la fin de votre partie.
+  <figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu du <mark style="color:green;">monter de niveau</mark></figcaption></figure>
+ 
 {% hint style="warning" %}
 **⚠️ ATTENTION :** Les statistiques et les tomes que aurez ajouter seront perdue et ne sont pas gardé quand vous effecturez un autre donjon infini, c'est là que chaque partie est unique en plus des récompenses !
 {% endhint %}
 
-### 🔷 D'autres armes de donjon ? ⚔️
-Vous avez également la possibilité, durant les donjons, de changer d'arme. Ces armes sont droppable uniquement dans les caisses dans le donjon :
+### 🔷 D'autres armes de donjon ? 🔫
+Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'améliorer vos armes mais également de changer d'arme :
 
-Faire tableau
-Pistolet à eau (base) -> 18/s -> 2 -> 16 blocks -> 1 jet (+1 jet au level 4)
-Double Buse -> 12 -> 2/s -> 14 blocks -> 2 (+1 jet au level 3)
-Mitraillette -> 7 -> 10/s -> 12 blocks -> 2 (+2 jet au level 4)
-Sniper -> 75 -> 1.2/s -> 28 blocks -> 1 (+1 jet au level 3)
-Fusil à pompe -> 15 -> 1.4/s -> 8 blocks -> 2 (+2 jet au level 4)
-Canon lourd -> 140 -> 0.8/s -> 14 blocks -> 1 (AOE 4 ??? +0.6/level)
+<table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th><mark style="color:white;"><b>Nom du pistolet 🏷️</b></mark></th>
+      <th><mark style="color:yellow;"><b>Nombre de dégâts ☠️</b></mark></th>
+      <th><mark style="color:blue;"><b>Nombre de tir par seconde 🥏</b></mark></th>
+      <th><mark style="color:purple;"><b>Portée du Tir 📏</b></mark></th>
+      <th><mark style="color:red;"><b>Nombre de Jet 💦</b></mark></th>
+    </tr>
+  </thead>
+    <tr>
+      <td>
+       <p><mark style="color:green;">Pistolet à eau</mark> (Arme de base)</p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+      </td>
+      <td><mark style="color:green;">18 Dégâts</mark></td>
+      <td><mark style="color:green;">2 tirs /s</mark></td>
+      <td><mark style="color:green;">16 blocks</mark></td>
+      <td><mark style="color:green;">1 jet</mark></td>
+    </tr>
+    <tr>
+      <td>
+       <p><mark style="color:yellow;">Double Buse</mark></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+      </td>
+      <td><mark style="color:yellow;">12 Dégâts</mark></td>
+      <td><mark style="color:yellow;">2 tirs /s</mark></td>
+      <td><mark style="color:yellow;">14 blocks</mark></td>
+      <td><mark style="color:yellow;">2 jet</mark></td>
+    </tr>
+    <tr>
+      <td>
+       <p><mark style="color:yellow;">Mitraillette</mark></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+      </td>
+      <td><mark style="color:yellow;">7 Dégâts</mark></td>
+      <td><mark style="color:yellow;">10 tirs /s</mark></td>
+      <td><mark style="color:yellow;">12 blocks</mark></td>
+      <td><mark style="color:yellow;">1 jet</mark></td>
+    </tr>
+    <tr>
+      <td>
+       <p><mark style="color:blue;">Sniper</mark></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+      </td>
+      <td><mark style="color:blue;">75 Dégâts</mark></td>
+      <td><mark style="color:blue;">1.2 tirs /s</mark></td>
+      <td><mark style="color:blue;">28 blocks</mark></td>
+      <td><mark style="color:blue;">1 jet</mark></td>
+    </tr>
+    <tr>
+      <td>
+       <p><mark style="color:blue;">Fusil à Pompe</mark></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+      </td>
+      <td><mark style="color:blue;">15 Dégâts</mark></td>
+      <td><mark style="color:blue;">1.4 tirs /s</mark></td>
+      <td><mark style="color:blue;">8 blocks</mark></td>
+      <td><mark style="color:blue;">2 jet</mark></td>
+    </tr>
+    <tr>
+      <td>
+       <p><mark style="color:purple;">Canon lourd</mark></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+      </td>
+      <td><mark style="color:purple;">140 Dégâts</mark></td>
+      <td><mark style="color:purple;">0.8 tirs /s</mark></td>
+      <td><mark style="color:purple;">14 blocks</mark></td>
+      <td><mark style="color:purple;">1 jet</mark></td>
+    </tr>
+</table>
 
 {% hint style="warning" %}
-**⚠️ ATTENTION :** Si vous échanger d'arme pendant le donjon, elle prendra la place de votre arme de base, cependant l'arme que vous aviez de base amélioré gardera/ne gardera pas les amélioration effectué précédemment.
+**⚠️ ATTENTION :** Si vous échanger d'arme pendant le donjon, elle prendra la place de votre arme de base, cependant l'arme que vous aviez de base amélioré gardera les amélioration effectué précédemment si vous la rechoisissez.
 {% endhint %}
 
 ## 💠 Quelles sont les <mark style="color:green;">**récompenses disponibles**</mark> ? 🗿
@@ -149,134 +269,253 @@ Pour récupérer les récompenses de votre donjon effectué, il vous suffira de 
 
 Flemme pour l'instant
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><mark style="color:white;"><strong>Nom de l'œuvre 🗿</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pièces trouvable via les fouilles 🦴</strong></mark></td>
-    <td><mark style="color:green;"><strong>Pièces trouvable via les donjons 🏛️</strong></mark></td>
-  </tr>
-  <tr>
-    <td><mark style="color:green;"><strong>Tableau de la Joconde</strong></mark></td>
-    <td><mark style="color:white;"><strong>Tableau de la Jeconde</strong></mark></td>
-    <td><mark style="color:white;"><strong>❌</strong></mark></td>
-  </tr>
-  <tr>
-    <td><mark style="color:green;"><strong>Machette Aztèque</strong></mark></td>
-    <td><mark style="color:white;"><strong>❌</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Socle de la Machette Aztèque</strong></mark></p>
-      <p><mark style="color:white;"><strong>Lame de la Machette Aztèque</strong></mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:green;"><strong>Toison d'Or</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Socle de la Toison d'Or</strong></mark></p>
-      <p><mark style="color:white;"><strong>Toison d'Or</strong></mark></p>
-    </td>
-    <td><mark style="color:white;"><strong>❌</strong></mark></td>
-  </tr>
-  <tr>
-    <td><mark style="color:yellow;"><strong>Kabuto</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Casque du Kabuto</strong></mark></p>
-      <p><mark style="color:white;"><strong>Plastron du Kabuto</strong></mark></p>
-      <p><mark style="color:white;"><strong>Épaulière Gauche du Kabuto</strong></mark></p>
-      <p><mark style="color:white;"><strong>Jambière Gauche du Kabuto</strong></mark></p>
-    </td>
-    <td>
-      <p><mark style="color:white;"><strong>Socle du Kabuto</strong></mark></p>
-      <p><mark style="color:white;"><strong>Épaulière Droit du Kabuto</strong></mark></p>
-      <p><mark style="color:white;"><strong>Jambière Droite du Kabuto</strong></mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:yellow;"><strong>Bouclier Viking</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Socle du Bouclier Viking</strong></mark></p>
-      <p><mark style="color:white;"><strong>Bouclier Viking</strong></mark></p>
-    </td>
-    <td><mark style="color:white;"><strong>❌</strong></mark></td>
-  </tr>
-  <tr>
-    <td><mark style="color:yellow;"><strong>Louve Capitoline</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Socle de la Louve Capitoline</strong></mark></p>
-      <p><mark style="color:white;"><strong>Bébé Gauche de la Louve Capitoline</strong></mark></p>
-    </td>
-    <td>
-      <p><mark style="color:white;"><strong>Bébé Droit de la Louve Capitoline</strong></mark></p>
-      <p><mark style="color:white;"><strong>Louve Capitoline</strong></mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:blue;"><strong>Pierre de Rosette</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Socle de la Pierre de Rosette</strong></mark></p>
-      <p><mark style="color:white;"><strong>Partie Droite de la Pierre de Rosette</strong></mark></p>
-    </td>
-    <td>
-      <p><mark style="color:white;"><strong>Partie Gauche de la Pierre de Rosette</strong></mark></p>
-      <p><mark style="color:white;"><strong>Partie Haute de la Pierre de Rosette</strong></mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:blue;"><strong>Soldat d'Argile</strong></mark></td>
-    <td><mark style="color:white;"><strong>❌</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Socle du Soldat d'Argile</strong></mark></p>
-      <p><mark style="color:white;"><strong>Coté Droit du Soldat d'Argile</strong></mark></p>
-      <p><mark style="color:white;"><strong>Coté Gauche du Soldat d'Argile</strong></mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:blue;"><strong>Vase de Soissons</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Base du Vase de Soissons</strong></mark></p>
-      <p><mark style="color:white;"><strong>Poignée Droite du Vase de Soissons</strong></mark></p>
-      <p><mark style="color:white;"><strong>Poignée Gauche du Vase de Soissons</strong></mark></p>
-    </td>
-    <td>
-      <p><mark style="color:white;"><strong>Base du Vase de Soissons</strong></mark></p>
-      <p><mark style="color:white;"><strong>Socle du Vase de Soissons</strong></mark></p>
-      <p><mark style="color:white;"><strong>Pot du Vase de Soissons</strong></mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:purple;"><strong>Atlas</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Tête d'Atlas</strong></mark></p>
-      <p><mark style="color:white;"><strong>Torse d'Atlas</strong></mark></p>
-      <p><mark style="color:white;"><strong>Bras Droit d'Atlas</strong></mark></p>
-      <p><mark style="color:white;"><strong>Jambe Droite d'Atlas</strong></mark></p>
-    </td>
-    <td>
-      <p><mark style="color:white;"><strong>Pierre du Haut d'Atlas</strong></mark></p>
-      <p><mark style="color:white;"><strong>Pierre du Bas d'Atlas</strong></mark></p>
-      <p><mark style="color:white;"><strong>Bras Gauche d'Atlas</strong></mark></p>
-      <p><mark style="color:white;"><strong>Jambe Gauche d'Atlas</strong></mark></p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:red;"><strong>T-Rex</strong></mark></td>
-    <td>
-      <p><mark style="color:white;"><strong>Crâne du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Main Droite du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Cage Thoracique du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Jambe Gauche du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Jambe Droite du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Queue du T-Rex</strong></mark></p>
-    </td>
-    <td>
-      <p><mark style="color:white;"><strong>Main Gauche du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Bras Gauche du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Bras Droit du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Colonne Vertébrale du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Pied Gauche du T-Rex</strong></mark></p>
-      <p><mark style="color:white;"><strong>Pied Droit du T-Rex</strong></mark></p>
-    </td>
-  </tr>
+<table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th><mark style="color:green;"><b>Commun 🟩</b></mark></th>
+      <th><mark style="color:yellow;"><b>Rare 🟨</b></mark></th>
+      <th><mark style="color:blue;"><b>Épique 🟦</b></mark></th>
+      <th><mark style="color:purple;"><b>Légendaire 🟪</b></mark></th>
+      <th><mark style="color:red;"><b>Mythique 🟥</b></mark></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+       <p><mark style="color:green;">Argent</mark></p>
+       <p>(Entre 10.000💲 à 25.000💲)</p>
+      </td>
+      <td>
+       <p><mark style="color:yellow;">Argent</mark></p>
+       <p>(Entre 35.000💲 à 100.000💲)</p>
+      </td>
+      <td>
+       <p><mark style="color:blue;">Argent</mark></p>
+       <p>(Entre 125.000💲 à 250.000💲)</p>
+      </td>
+      <td>
+       <p><mark style="color:purple;">Argent</mark></p>
+       <p>(Entre 300.000💲 à 750.000💲)</p>
+      </td>
+      <td>
+       <p><mark style="color:red;">Argent</mark></p>
+       <p>(1.500.000💲)</p>
+      </td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">1 ou 2 Cartes de classe Commune</mark></td>
+      <td><mark style="color:yellow;">1 ou 2 Cartes de classe Rare</mark></td>
+      <td><mark style="color:blue;">1 Carte de classe Épique</mark></td>
+      <td><mark style="color:purple;">1 Carte de classe Légendaire</mark></td>
+      <td><mark style="color:red;">1 Parchemin Impossible</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">1 Parchemin Facile</mark></td>
+      <td>
+       <p><mark style="color:yellow;">1 Parchemin Avancé</mark></p>
+       <p><mark style="color:blue;">1 Parchemin Abyssal</mark></p>
+       <p><mark style="color:orange;">1 Parchemin Halloween</mark></p>
+      </td>
+      <td>
+       <p><mark style="color:blue;">1 Parchemin Difficile</mark></p>
+       <p><mark style="color:yellow;">1 Parchemin Fabrique du Chocolat</mark></p>
+       <p><mark style="color:blue;">1 Parchemin Givré</mark></p>
+       <p><mark style="color:orange;">1 Parchemin Citrouille</mark></p>
+      </td>
+      <td><mark style="color:purple;">1 Parchemin Expert</mark></td>
+      <td><mark style="color:red;">1 Cristal de donjon Mythique</mark></td>
+    </tr>
+    <tr>
+      <td>
+       <p><mark style="color:green;">1 bonbon à la Pomme</mark></p>
+       <p><mark style="color:blue;">2 bonbons à la Myrtille</mark></p>
+      </td>
+      <td>
+       <p><mark style="color:yellow;">2 bonbons à l'orange</mark></p>
+       <p><mark style="color:blue;">3 bonbons à la myrtille</mark></p>
+       <p><mark style="color:purple;">2 bonbons aux raisins</mark></p>
+      </td>
+      <td><mark style="color:blue;">1 cristal de donjon Épique</mark></td>
+      <td><mark style="color:purple;">1 Parchemin Expert</mark></td>
+      <td><mark style="color:red;">1 Pierre de téléportation de donjon Mythique</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">1 Cristal de donjon Commun</mark></td>
+      <td><mark style="color:yellow;">1 Cristal de donjon Rare</mark></td>
+      <td><mark style="color:blue;">5.000 XP Classe</mark></td>
+      <td><mark style="color:purple;">1 Pierre de téléportation Glaiciales</mark></td>
+      <td><mark style="color:red;">1 Oeuf de familier Summer 2026</mark></td>
+    </tr>
+    <tr>
+      <td>
+       <p><mark style="color:blue;">2 Glaces</mark></p>
+       <p><mark style="color:blue;">2 Pinces de crabe</mark></p>
+       <p><mark style="color:blue;">2 Sucre d'orges</mark></p>
+       <p><mark style="color:yellow;">2 Tablettes de chocolat</mark></p>
+       <p><mark style="color:orange;">2 Citrouilles Scintillantes</mark></p>
+      </td>
+      <td>
+       <p><mark style="color:orange;">1 Coeur de dragon</mark></p>
+       <p><mark style="color:red;">1 Lune de sang</mark></p>
+       <p><mark style="color:red;">1 Auréoles</mark></p>
+      </td>
+      <td>
+       <p><mark style="color:blue;">1 Oeuf de familier Summer 2025</mark></p>
+       <p><mark style="color:orange;">1 Oeuf de familier Draconique</mark></p>
+      </td>
+      <td>
+       <p><mark style="color:blue;">1 Oeuf de familier Abyssal</mark></p>
+       <p><mark style="color:orange;">1 Oeuf de familier Halloween</mark></p>
+       <p><mark style="color:blue;">1 Oeuf de familier Givré</mark></p>
+       <p><mark style="color:red;">1 Oeuf de familier Saint-Valentin 2025</mark></p>
+       <p><mark style="color:yellow;">1 Oeuf de familier Pâques 2025</mark></p>
+       <p><mark style="color:red;">1 Oeuf de familier Lune de Sang</mark></p>
+      </td>
+      <td><mark style="color:blue;">1 clé Aquatique</mark></td>
+    </tr>
+   <tr>
+      <td><mark style="color:green;">1 plume de Fly (10 min)</mark></td>
+      <td>
+       <p><mark style="color:yellow;">1 plume de Fly (30 min)</mark></p>
+       <p><mark style="color:purple;">1 plume de Phénix</mark></p>
+      </td>
+      <td>
+       <p><mark style="color:yellow;">1 clé Pâques 2025</mark></p>
+       <p><mark style="color:blue;">1 clé Givrée</mark></p>
+       <p><mark style="color:red;">1 clé Cupidon</mark></p>
+      </td>
+      <td>
+       <p><mark style="color:red;">1 clé Lune de Sang</mark></p>
+       <p><mark style="color:yellow;">1 clé Aléatoire d'Événement</mark></p>
+      </td>
+      <td>
+       <p><mark style="color:blue;">1 familier Merlock</mark></p>
+       <p><mark style="color:blue;">1 familier Abubis</mark></p>
+       <p><mark style="color:blue;">1 familier Biggoron</mark></p>
+       <p><mark style="color:blue;">1 familier Bolg</mark></p>
+       <p><mark style="color:blue;">1 familier Lilith</mark></p>
+       <p><mark style="color:blue;">1 familier Gorille des Cavernes</mark></p>
+       <p><mark style="color:purple;">1 familier Grorille du Laboratoire</mark></p>
+       <p><mark style="color:red;">1 familier Sunny</mark></p>
+      </td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">250 XP classe</mark></td>
+      <td><mark style="color:yellow;">1.000 XP classe</mark></td>
+      <td><mark style="color:blue;">1 familier Sylphe</mark></td>
+      <td>
+       <p><mark style="color:blue;">1 familier Skog</mark></p>
+       <p><mark style="color:blue;">1 familier Yukio</mark></p>
+       <p><mark style="color:blue;">1 familier Pohaku</mark></p>
+       <p><mark style="color:blue;">1 familier Bufo Bufo</mark></p>
+      </td>
+      <td><mark style="color:red;">1 Item Évolutif Aléatoire</mark></td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+      <td><mark style="color:blue;">1 Arme de Récompense de Donjon Épique</mark></td>
+      <td>
+       <p><mark style="color:red;">1 pièce</mark> de l'oeuvre <mark style="color:red;">T-REX</mark></p>
+       <p><mark style="color:red;">Pièce Colonne Vertébrale du T-REX</mark></p>
+       <p><mark style="color:red;">Pièce Main Gauche du T-REX</mark></p>
+       <p><mark style="color:red;">Pièce Bras Gauche du T-REX</mark></p>
+       <p><mark style="color:red;">Pièce Pied Gauche du T-REX</mark></p>
+       <p><mark style="color:red;">Pièce Bras Droit du T-REX</mark></p>
+       <p><mark style="color:red;">Pièce Pied Droit du T-REX</mark></p>
+      </td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Arme Commune</mark></td>
+      <td><mark style="color:yellow;">Arme Commune</mark></td>
+      <td><mark style="color:blue;">Arme Épique</mark></td>
+      <td><mark style="color:purple;">2 Bonbons aux Raisin</mark></td>
+      <td><mark style="color:red;">Plume de Phoenix</mark></td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+      <td>
+       <p><mark style="color:green;">1 pièce</mark> de l'oeuvre <mark style="color:green;">Machette Aztèque</mark></p>
+       <p><mark style="color:green;">Pièce Socle de la Machette Aztèque</mark></p>
+       <p><mark style="color:green;">Pièce Lame de la Machette Aztèque</mark></p>
+      </td>
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+     <td>
+       <p><mark style="color:yellow;">1 pièce</mark> de l'oeuvre <mark style="color:yellow;">Kabuto</mark></p>
+       <p><mark style="color:yellow;">Pièce Socle du Kabuto</mark></p>
+       <p><mark style="color:yellow;">Pièce Épaulière Droit du Kabuto</mark></p>
+       <p><mark style="color:yellow;">Pièce Jambière Droite du Kabuto</mark></p>
+      </td>
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+     <td>
+       <p><mark style="color:yellow;">1 pièce</mark> de l'oeuvre <mark style="color:yellow;">Louve Capitoline</mark></p>
+       <p><mark style="color:yellow;">Pièce Bébé Droit de la Louve Capitoline</mark></p>
+       <p><mark style="color:yellow;">Pièce Louve de la Louve Capitoline</mark></p>
+      </td>
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+     <td>
+       <p><mark style="color:blue;">1 pièce</mark> de l'oeuvre <mark style="color:blue;">Pierre de Rosette</mark></p>
+       <p><mark style="color:blue;">Pièce Partie Gauche de la Pierre de Rosette</mark></p>
+       <p><mark style="color:blue;">Pièce Partie Haute de la Pierre de Rosette</mark></p>
+      </td>
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+     <td>
+       <p><mark style="color:blue;">1 pièce</mark> de l'oeuvre <mark style="color:blue;">Soldat D'argile</mark></p>
+       <p><mark style="color:blue;">Pièce Socle du Soldat d'Argile</mark></p>
+       <p><mark style="color:blue;">Pièce Coté Droit du Soldat d'Argile</mark></p>
+       <p><mark style="color:blue;">Pièce Coté Gauche du Soldat d'Argile</mark></p>
+      </td>
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+     <td>
+       <p><mark style="color:blue;">1 pièce</mark> de l'oeuvre <mark style="color:blue;">Vase de Soissons</mark></p>
+       <p><mark style="color:blue;">Pièce Base du Vase de Soissons</mark></p>
+       <p><mark style="color:blue;">Pièce Socle du Vase de Soissons</mark></p>
+       <p><mark style="color:blue;">Pièce Pot du Vase de Soissons</mark></p>
+      </td>
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+     <td>
+       <p><mark style="color:purple;">1 pièce</mark> de l'oeuvre <mark style="color:purple;">Atlas</mark></p>
+       <p><mark style="color:purple;">Pièce Pierre du Haut d'Atlas</mark></p>
+       <p><mark style="color:purple;">Pièce Pierre du Bas d'Atlas</mark></p>
+       <p><mark style="color:purple;">Pièce Bras Gauche d'Atlas</mark></p>
+       <p><mark style="color:purple;">Pièce Jambe Gauche d'Atlas</mark></p>
+      </td>
+      <td>X</td>
+      <td>X</td>
+     </tr>
+  </tbody>
 </table>
 
-**Voilà, vous connaissez tout sur l'<mark style="color:green;">Archéologie</mark> !  
-Bonne chasse, cher(e) <mark style="color:green;">Tyro Jones</mark> 🤠 !**
+**Voilà, vous connaissez tout sur les donjon <mark style="color:green;">Infini</mark> ♾️ ! Mais attention à n'en pas de perdre la tête 😵**
