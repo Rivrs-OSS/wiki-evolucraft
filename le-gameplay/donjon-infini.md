@@ -30,11 +30,7 @@ Par exemple, si vous récupérez votre premier ticket le premier jour à 16H, vo
 
 #### 🔶 Les <mark style="color:green;">**Caisses Aquatiques**</mark> 🎁
 
-Lorsque vous ouvrez la [<mark style="color:green;">**Caisse Aquatique**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aquatique) à l'aide d'une clé Aquatique, vous avez une <mark style="color:green;">**probabilité**</mark> de tomber soit sur :
-
-* 🔶 2 tickets pour le donjon infini (5.56%)
-ou
-* 🔶 4 tickets pour le donjon infini (5.56%)
+Lorsque vous ouvrez la [<mark style="color:green;">**Caisse Aquatique**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aquatique) à l'aide d'une clé Aquatique, vous avez une <mark style="color:green;">**probabilité**</mark> de tomber sur <mark style="color:green;">**4 tickets pour le donjon infini**</mark> (5.56%)
  
 Lorsque vous recevez vos tickets de donjon, ces derniers ne sont pas sous <mark style="color:green;">**forme**</mark> d'un item mais d'une monnaie d'entrée. C'est ainsi qu'ils sont <mark style="color:green;">**directement**</mark> rajoutés à votre compte à l'<mark style="color:green;">**obtention**</mark> sans la possibilité de les donner à d'autres joueurs.
 
