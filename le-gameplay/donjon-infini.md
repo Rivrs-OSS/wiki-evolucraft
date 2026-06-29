@@ -38,14 +38,14 @@ Lorsque vous recevez vos tickets de donjon, ces derniers ne sont pas sous <mark 
 
 {% hint style="info" %} REMARQUE 🔍 :
 Pour savoir combien de <mark style="color:green;">**tickets**</mark> vous possédez actuellement, il vous suffit de réaliser la commande `/update` et de passer la souris sur le sablier.
-<figure><img src="../.gitbook/assets/DonjonInfini/TicketRestant.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de tickets en votre possession</mark></figcaption></figure>
+<figure><img src="../.gitbook/assets/Donjon/Infini/TicketRestant.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de tickets en votre possession</mark></figcaption></figure>
 {% endhint %}
 
 ### 🔷 Ouverture du donjon infini 🏛️
 
 Pour entrer dans le donjon infini en ayant des <mark style="color:green;">**tickets non utilisés**</mark>, il vous suffira d'aller dans le `/update`, puis de faire un <mark style="color:green;">**clic gauche**</mark> sur le sablier.
 
-<figure><img src="../.gitbook/assets/DonjonInfini/CliqueSablier.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de tickets en votre possession</mark></figcaption></figure>
+<figure><img src="../.gitbook/assets/Donjon/Infini/CliqueSablier.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de tickets en votre possession</mark></figcaption></figure>
 
 Après avoir <mark style="color:green;">**cliqué**</mark>, vous serez alors <mark style="color:green;">**téléporté**</mark> dans une salle bedrock. Et vous serez vidé temporairement de votre inventaire.
 
@@ -59,7 +59,7 @@ Votre <mark style="color:green;">**objectif**</mark> dans ce donjon infini est t
 
 Plus vous <mark style="color:green;">**restez**</mark> longtemps dans le donjon en <mark style="color:green;">**tuant**</mark> les mobs, plus vous gagnerez des <mark style="color:green;">**récompenses**</mark> de prestige.
 
-<figure><img src="../.gitbook/assets/DonjonInfini/Video.png" alt=""><figcaption>Présentation de l'<mark style="color:green;">événement Summer Megabonk</mark></figcaption></figure>
+<figure><img src="../.gitbook/assets/Donjon/Infini/Video.png" alt=""><figcaption>Présentation de l'<mark style="color:green;">événement Summer Megabonk</mark></figcaption></figure>
 
 ### 🔷 Pas de stuff et pas de classe ? 😱
 Dès l'arrivée dans le donjon, vous aurez peut-être <mark style="color:green;">**remarqué**</mark> quelque chose, vous n'avez plus votre stuff habituel mais seulement un pistolet à eau, cela est normal ! Votre stuff sera rendu à la fin de votre donjon infini !
@@ -75,8 +75,8 @@ Pour cela, vous pourrez les récupérer dans deux endroits dans ce donjon :
     <td>Dans les <mark style="color:green;"><strong>coffres de donjon</strong></mark> (qui apparaissent un peu partout sur la map ou à la mort d'un monstre)</td>
   </tr>
   <tr>
-    <td><figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu d'un choix <mark style="color:green;">à votre montée de niveau</mark></figcaption></figure></td>
-    <td><figure><img src="../.gitbook/assets/DonjonInfini/Coffre.png" alt=""><figcaption>Aperçu d'un <mark style="color:green;">coffre en donjon infini</mark></figcaption></figure></td>
+    <td><figure><img src="../.gitbook/assets/Donjon/Infini/LevelUp.png" alt=""><figcaption>Aperçu d'un choix <mark style="color:green;">à votre montée de niveau</mark></figcaption></figure></td>
+    <td><figure><img src="../.gitbook/assets/Donjon/Infini/Coffre.png" alt=""><figcaption>Aperçu d'un <mark style="color:green;">coffre en donjon infini</mark></figcaption></figure></td>
   </tr>
 </table>
 
@@ -174,7 +174,7 @@ Il vous sert à retirer au sort les offres obtenues à votre level up si vous n'
 #### * 🔶 <mark style="color:green;">**Banish**</mark> : 
 Il vous permet de <mark style="color:green;">**bannir**</mark> une statistique lors de la montée de niveau sur les statistiques proposées. Une fois bannie, cette statistique ne pourra plus apparaître à chaque montée de niveau jusqu'à la fin de votre partie.
 
-<figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">montée de niveau</mark></figcaption></figure>
+<figure><img src="../.gitbook/assets/Donjon/Infini/LevelUp.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">montée de niveau</mark></figcaption></figure>
  
 {% hint style="warning" %}
 **⚠️ ATTENTION :** Les statistiques et les tomes que vous aurez <mark style="color:green;">**ajoutés**</mark> seront <mark style="color:green;">**perdus**</mark> et ne sont pas <mark style="color:green;">**gardés**</mark> quand vous effectuerez un autre donjon infini, c'est là que chaque partie est unique en plus des récompenses !
@@ -196,7 +196,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:green;">Pistolet à eau</mark> (Arme de base)</p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/Donjon/Infini/PistoletAEau.png" alt=""></figure></p>
       </td>
       <td><mark style="color:green;">18 Dégâts</mark></td>
       <td><mark style="color:green;">2 tirs /s</mark></td>
@@ -206,7 +206,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:yellow;">Double Buse</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/Donjon/Infini/DoubleBuse.png" alt=""></figure></p>
       </td>
       <td><mark style="color:yellow;">12 Dégâts</mark></td>
       <td><mark style="color:yellow;">2 tirs /s</mark></td>
@@ -216,7 +216,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:yellow;">Mitraillette</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/Donjon/Infini/Mitraillette.png" alt=""></figure></p>
       </td>
       <td><mark style="color:yellow;">7 Dégâts</mark></td>
       <td><mark style="color:yellow;">10 tirs /s</mark></td>
@@ -226,7 +226,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:blue;">Sniper</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/Donjon/Infini/Sniper.png" alt=""></figure></p>
       </td>
       <td><mark style="color:blue;">75 Dégâts</mark></td>
       <td><mark style="color:blue;">1.2 tirs /s</mark></td>
@@ -236,7 +236,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:blue;">Fusil à Pompe</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/Donjon/Infini/FusilAPompe.png" alt=""></figure></p>
       </td>
       <td><mark style="color:blue;">15 Dégâts</mark></td>
       <td><mark style="color:blue;">1.4 tirs /s</mark></td>
@@ -246,7 +246,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:purple;">Canon lourd</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/Donjon/Infini/CanonLourd.png" alt=""></figure></p>
       </td>
       <td><mark style="color:purple;">140 Dégâts</mark></td>
       <td><mark style="color:purple;">0.8 tirs /s</mark></td>
@@ -267,7 +267,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
 
 À la fin de votre donjon lorsque vous mourrez, vous pourrez récupérer des <mark style="color:green;">**silvers**</mark>, ils vous servent à améliorer vos <mark style="color:green;">**statistiques**</mark> de vie, de dégâts mais également d'ajouter des [<mark style="color:green;">**Banish**</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#banish), des [<mark style="color:green;">**Reroll**</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#reroll) ou encore la possibilité d'avoir des <mark style="color:green;">**Tomes supplémentaires**</mark> dans votre inventaire en donjon.
 
-<figure><img src="../.gitbook/assets/DonjonInfini/Boutique.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">Boutique Silver</mark></figcaption></figure>
+<figure><img src="../.gitbook/assets/Donjon/Infini/Boutique.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">Boutique Silver</mark></figcaption></figure>
 
 ### 🔷 Des récompenses en jeu 🪙
 
