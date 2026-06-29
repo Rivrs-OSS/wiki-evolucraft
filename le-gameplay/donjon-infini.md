@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant le donjon infini
 
 Le <mark style="color:green;">**donjon infini**</mark> est un nouveau donjon aux <mark style="color:green;">**particularités**</mark> bien différentes des <mark style="color:green;">**donjons traditionnels**</mark>. En effet, dans ce donjon, pas d'histoire de classe, mais une histoire de jusqu'où vous serez capable de survivre jusqu'à votre dernier souffle afin de récolter des <mark style="color:green;">**récompenses**</mark> tout aussi intéressantes que vos donjons traditionnels !
 
+<figure><img src="../.gitbook/assets/Les_Donjons/Infini/MapDonjonInfini.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">Map du donjon Infini</mark></figcaption></figure>
+
 ## 💠 Comment entrer dans ce <mark style="color:green;">**donjon infini**</mark> ? 🔍
 
 Pour entrer dans ce donjon infini, pas d'histoire de portail à trouver dans le monde ressource. Non, pour y entrer, il faudra des <mark style="color:green;">**tickets**</mark>, mais comment les obtenir ?
@@ -58,8 +60,6 @@ Nous vous <mark style="color:green;">**déconseillons**</mark> de bouger votre i
 Votre <mark style="color:green;">**objectif**</mark> dans ce donjon infini est très simple, inspiré du célèbre jeu Mégabonk, c'est de rester en vie le plus longtemps possible dans une map remplie de <mark style="color:green;">**monstres**</mark>. Pour vous aider, vous disposerez de votre <mark style="color:green;">**pistolet à eau**</mark>. 
 
 Plus vous <mark style="color:green;">**restez**</mark> longtemps dans le donjon en <mark style="color:green;">**tuant**</mark> les mobs, plus vous gagnerez des <mark style="color:green;">**récompenses**</mark> de prestige.
-
-<figure><img src="../.gitbook/assets/Les_Donjons/Infini/Video.png" alt=""><figcaption>Présentation de l'<mark style="color:green;">événement Summer Megabonk</mark></figcaption></figure>
 
 ### 🔷 Pas de stuff et pas de classe ? 😱
 Dès l'arrivée dans le donjon, vous aurez peut-être <mark style="color:green;">**remarqué**</mark> quelque chose, vous n'avez plus votre stuff habituel mais seulement un pistolet à eau, cela est normal ! Votre stuff sera rendu à la fin de votre donjon infini !
