@@ -40,7 +40,7 @@ Lorsque vous recevez vos tickets de donjon, ces derniers ne sont pas sous <mark 
 
 {% hint style="info" %} REMARQUE 🔍 :
 Pour savoir combien de <mark style="color:green;">**tickets**</mark> vous possédez actuellement, il vous suffit de réaliser la commande `/update` et de passer la souris sur le sablier.
-<figure><img src="../.gitbook/assets/Les_Donjons/Infini/TicketRestant.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de tickets en votre possession</mark></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Donjons/Infini/TicketsRestants.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de tickets en votre possession</mark></figcaption></figure>
 {% endhint %}
 
 ### 🔷 Ouverture du donjon infini 🏛️
