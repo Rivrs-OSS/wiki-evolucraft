@@ -63,7 +63,7 @@
   * [💥 Chasseur de Phénix](le-gameplay/les-classes/chasseur-de-phénix.md)
   * [☠️ Chevalier de la mort](le-gameplay/les-classes/chevalier-de-la-mort.md)
 * [🏛️ Les Donjons](le-gameplay/les-donjons.md)
-* [♾️ Le Donjons Infini](le-gameplay/donjon-infini.md)
+* [♾️ Le Donjon Infini](le-gameplay/donjon-infini.md)
 * [💵 Le Commerce](le-gameplay/le-commerce.md)
 * [🎲 Lucky Blocks](le-gameplay/lucky-block.md)    
 * [🔱 Le Pass](le-gameplay/pass.md)
