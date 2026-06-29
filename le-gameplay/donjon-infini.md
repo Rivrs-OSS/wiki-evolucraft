@@ -16,11 +16,11 @@ Pour entrer dans ce donjon infini, pas d'histoire de portail à trouver dans le 
 
 #### 🔶 Les <mark style="color:green;">**Tickets gratuits**</mark> ⁉️
 
-Des tickets peuvent être <mark style="color:green;">**récoltés**</mark> gratuitement et surtout très facilement !
+Des tickets peuvent être <mark style="color:green;">**récoltés gratuitement**</mark> et surtout <mark style="color:green;">**très facilement**</mark> !
 
-Pour cela, il vous suffira de réaliser la commande `/atlasbonks redeem` ! Vous en recevrez 3 par jour !
+Pour cela, il vous suffira de réaliser la commande <mark style="color:green;">**`/atlasbonks redeem`**</mark> ! Vous en recevrez <mark style="color:green;">**3 par jour**</mark> !
 
-Mais pas de panique si vous oubliez un jour ! Vous pouvez récupérer vos tickets des jours précédents avec la même commande jusqu'à 7 jours !
+Mais pas de panique si vous oubliez un jour ! Vous pouvez <mark style="color:green;">**récupérer**</mark> vos tickets des jours précédents avec la même commande <mark style="color:green;">**jusqu'à 7 jours**</mark> !
 
 {% hint style="warning" %}
 **⚠️ ATTENTION :** Pour récupérer vos tickets lorsque vous n'êtes pas connecté, il faudra avoir au minimum récupéré un ticket. Ce dernier effectuera une <mark style="color:green;">**sauvegarde**</mark> de l'heure à laquelle vous l'avez récupéré afin de pouvoir récupérer chaque jour à la même heure lorsque vous effectuerez la commande.
