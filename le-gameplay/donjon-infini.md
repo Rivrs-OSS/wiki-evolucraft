@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant le donjon infini
 
 # ♾️ Le Donjon Infini
 
-Le <mark style="color:green;">**donjon infini**</mark> est un nouveau donjon aux <mark style="color:green;">**particularités**</mark> bien différentes des <mark style="color:green;">**donjons traditionnels**</mark>. En effet, dans ce donjon, pas d'histoire de classe, mais une histoire de jusqu'à où vous serez capable de survivre jusqu'à votre dernier souffle afin de récolter des <mark style="color:green;">**récompenses**</mark> tout aussi intéressantes que vos donjons traditionnels !
+Le <mark style="color:green;">**donjon infini**</mark> est un nouveau donjon aux <mark style="color:green;">**particularités**</mark> bien différentes des <mark style="color:green;">**donjons traditionnels**</mark>. En effet, dans ce donjon, pas d'histoire de classe, mais une histoire de jusqu'où vous serez capable de survivre jusqu'à votre dernier souffle afin de récolter des <mark style="color:green;">**récompenses**</mark> tout aussi intéressantes que vos donjons traditionnels !
 
 ## 💠 Comment entrer dans ce <mark style="color:green;">**donjon infini**</mark> ? 🔍
 
@@ -21,19 +21,20 @@ Pour cela, il vous suffira de réaliser la commande `/atlasbonks redeem` ! Vous 
 Mais pas de panique si vous oubliez un jour ! Vous pouvez récupérer vos tickets des jours précédents avec la même commande jusqu'à 7 jours !
 
 {% hint style="warning" %}
-**⚠️ ATTENTION :** Pour récupérer vos tickets lorsque vous n'êtes pas connecté, il faudra avoir au minimum récupéré un ticket. Ce dernier effectuera une <mark style="color:green;">**sauvegarde**</mark> de l'heure auquel vous l'avez récupéré afin de pouvoir récupérer chaque jour à la même heure lorsque vous effectuerez la commande.
+**⚠️ ATTENTION :** Pour récupérer vos tickets lorsque vous n'êtes pas connecté, il faudra avoir au minimum récupéré un ticket. Ce dernier effectuera une <mark style="color:green;">**sauvegarde**</mark> de l'heure à laquelle vous l'avez récupéré afin de pouvoir récupérer chaque jour à la même heure lorsque vous effectuerez la commande.
 
 Par exemple, si vous récupérez votre premier ticket le premier jour à 16H, vous pourrez alors récupérer chaque jour le ticket à 16H.
 {% endhint %}
 
-#### 🔶 Les <mark style="color:green;">**Caisse Aquatique**</mark> 🎁
+#### 🔶 Les <mark style="color:green;">**Caisses Aquatiques**</mark> 🎁
 
-Lorsque vous ouvrez la <mark style="color:green;">**Caisse Aquatique**</mark> à l'aide d'une clé Aquatique, vous avez une <mark style="color:green;">**probabilité**</mark> de tomber soit :
+Lorsque vous ouvrez la [<mark style="color:green;">**Caisse Aquatique**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aquatique) à l'aide d'une clé Aquatique, vous avez une <mark style="color:green;">**probabilité**</mark> de tomber soit sur :
 
 * 🔶 2 tickets pour le donjon infini (5.56%)
+ou
 * 🔶 4 tickets pour le donjon infini (5.56%)
  
-Lorsque vous recevez vos tickets de donjon, ces derniers ne sont pas sous une <mark style="color:green;">**forme**</mark> d'un item mais d'une monnaie d'entrée. C'est ainsi qu'ils sont <mark style="color:green;">**directement**</mark> rajoutés à votre compte à l'<mark style="color:green;">**obtention**</mark> sans la possibilité de les donner à d'autres joueurs.
+Lorsque vous recevez vos tickets de donjon, ces derniers ne sont pas sous <mark style="color:green;">**forme**</mark> d'un item mais d'une monnaie d'entrée. C'est ainsi qu'ils sont <mark style="color:green;">**directement**</mark> rajoutés à votre compte à l'<mark style="color:green;">**obtention**</mark> sans la possibilité de les donner à d'autres joueurs.
 
 {% hint style="info" %} REMARQUE 🔍 :
 Pour savoir combien de <mark style="color:green;">**tickets**</mark> vous possédez actuellement, il vous suffit de réaliser la commande `/update` et de passer la souris sur le sablier.
@@ -46,7 +47,7 @@ Pour entrer dans le donjon infini en ayant des <mark style="color:green;">**tick
 
 <figure><img src="../.gitbook/assets/DonjonInfini/CliqueSablier.png" alt=""><figcaption>Aperçu du <mark style="color:green;">nombre de tickets en votre possession</mark></figcaption></figure>
 
-Une fois avoir <mark style="color:green;">**cliqué**</mark>, vous serez alors <mark style="color:green;">**téléporté**</mark> dans une salle bedrock. Et vous serez vidé temporairement de votre inventaire.
+Après avoir <mark style="color:green;">**cliqué**</mark>, vous serez alors <mark style="color:green;">**téléporté**</mark> dans une salle bedrock. Et vous serez vidé temporairement de votre inventaire.
 
 {% hint style="warning" %} ATTENTION ⚠️ :
 Nous vous <mark style="color:green;">**déconseillons**</mark> de bouger votre inventaire durant ce temps d'attente, car si vous déplacez votre inventaire au moment où le serveur videra votre inventaire, l'item sera perdu !
@@ -70,7 +71,7 @@ Pour cela, vous pourrez les récupérer dans deux endroits dans ce donjon :
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <td>À votre <mark style="color:green;"><strong>montée de niveau</strong></mark> de votre barre d'expérience (symbolisée par la barre d'xp Minecraft)</td>
+    <td>À la <mark style="color:green;"><strong>montée de niveau</strong></mark> de votre barre d'expérience (symbolisée par la barre d'xp Minecraft)</td>
     <td>Dans les <mark style="color:green;"><strong>coffres de donjon</strong></mark> (qui apparaissent un peu partout sur la map ou à la mort d'un monstre)</td>
   </tr>
   <tr>
@@ -97,7 +98,7 @@ Il pourra donc vous donner des <mark style="color:green;">**améliorations**</ma
   </tr>
   <tr>
     <td><mark style="color:red;">Régénération de votre vie plus rapide 💕</mark></td>
-    <td><mark style="color:orange;">Augmenter vos Dégâts Critique ⚔️</mark></td>
+    <td><mark style="color:orange;">Augmenter vos Dégâts Critiques ⚔️</mark></td>
     <td>
      <p><mark style="color:yellow;"><strong>Cadence</strong></mark></p>
      <p>+0.6% Cadence</p>
@@ -117,7 +118,7 @@ Il pourra donc vous donner des <mark style="color:green;">**améliorations**</ma
     <td><mark style="color:yellow;">Cadence (Temps de recharge) ⌛</mark></td>
     <td>
      <p><mark style="color:orange;"><strong>Précision</strong></mark></p>
-     <p>+8% Dégâts Critique</p>
+     <p>+8% Dégâts Critiques</p>
      <p>+0.4% Chance de Critique</p>
     </td>
   </tr>
@@ -168,8 +169,10 @@ Il pourra donc vous donner des <mark style="color:green;">**améliorations**</ma
 (Vous êtes limité de base à 1 par donjon, mais vous pouvez augmenter votre nombre de <mark style="color:green;">**tomes**</mark> par donjon avec des <mark style="color:green;">**silvers**</mark>)
 
 Lorsque vous n'aimez pas les lots proposés quand vous avez <mark style="color:green;">**monté de niveau**</mark> d'expérience, vous allez la possibilité de :
-* 🔶 <mark style="color:green;">**Reroll**</mark> : il vous sert à retirer au sort les offres obtenues à votre level up si vous n'aimez pas leurs propositions. Il est représenté par un <mark style="color:green;">**œil de l'Ender**</mark>
-* 🔶 <mark style="color:green;">**Banish**</mark> : Il vous permet de <mark style="color:green;">**bannir**</mark> une statistique lors de la montée de niveau sur les statistiques proposées. Une fois banni, cette statistique ne pourra plus apparaître à chaque montée de niveau jusqu'à la fin de votre partie.
+#### * 🔶 <mark style="color:green;">**Reroll**</mark> :
+Il vous sert à retirer au sort les offres obtenues à votre level up si vous n'aimez pas leurs propositions. Il est représenté par un <mark style="color:green;">**œil de l'Ender**</mark>
+#### * 🔶 <mark style="color:green;">**Banish**</mark> : 
+Il vous permet de <mark style="color:green;">**bannir**</mark> une statistique lors de la montée de niveau sur les statistiques proposées. Une fois bannie, cette statistique ne pourra plus apparaître à chaque montée de niveau jusqu'à la fin de votre partie.
 
 <figure><img src="../.gitbook/assets/DonjonInfini/LevelUp.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">montée de niveau</mark></figcaption></figure>
  
@@ -187,12 +190,12 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
       <th><mark style="color:yellow;"><b>Nombre de dégâts ☠️</b></mark></th>
       <th><mark style="color:blue;"><b>Nombre de tirs par seconde 🥏</b></mark></th>
       <th><mark style="color:purple;"><b>Portée du Tir 📏</b></mark></th>
-      <th><mark style="color:red;"><b>Nombre de Jet 💦</b></mark></th>
+      <th><mark style="color:red;"><b>Nombre de Jets 💦</b></mark></th>
     </tr>
   </thead>
     <tr>
       <td>
-       <p><mark style="color:green;">Pistolet à Eau</mark> (Arme de base)</p>
+       <p><mark style="color:green;">Pistolet à eau</mark> (Arme de base)</p>
        <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
       </td>
       <td><mark style="color:green;">18 Dégâts</mark></td>
@@ -203,7 +206,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:yellow;">Double Buse</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/DoubleBuse.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
       </td>
       <td><mark style="color:yellow;">12 Dégâts</mark></td>
       <td><mark style="color:yellow;">2 tirs /s</mark></td>
@@ -213,7 +216,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:yellow;">Mitraillette</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/Mitraillette.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
       </td>
       <td><mark style="color:yellow;">7 Dégâts</mark></td>
       <td><mark style="color:yellow;">10 tirs /s</mark></td>
@@ -223,7 +226,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:blue;">Sniper</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/Sniper.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
       </td>
       <td><mark style="color:blue;">75 Dégâts</mark></td>
       <td><mark style="color:blue;">1.2 tirs /s</mark></td>
@@ -233,7 +236,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     <tr>
       <td>
        <p><mark style="color:blue;">Fusil à Pompe</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/FusilAPompe.png" alt=""></figure></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
       </td>
       <td><mark style="color:blue;">15 Dégâts</mark></td>
       <td><mark style="color:blue;">1.4 tirs /s</mark></td>
@@ -242,8 +245,8 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
     </tr>
     <tr>
       <td>
-       <p><mark style="color:purple;">Canon Lourd</mark></p>
-       <p><figure><img src="../.gitbook/assets/DonjonInfini/CanonLourd.png" alt=""></figure></p>
+       <p><mark style="color:purple;">Canon lourd</mark></p>
+       <p><figure><img src="../.gitbook/assets/DonjonInfini/PistoletAEau.png" alt=""></figure></p>
       </td>
       <td><mark style="color:purple;">140 Dégâts</mark></td>
       <td><mark style="color:purple;">0.8 tirs /s</mark></td>
@@ -262,7 +265,7 @@ Vous avez également la possibilité, en ouvrant des caisses dans le donjon, d'<
 
 ### 🔷 Les silvers 🪙
 
-À la fin de votre donjon lorsque vous mourrez, vous pourrez récupérer des <mark style="color:green;">**silvers**</mark>, ils vous servent à améliorer vos <mark style="color:green;">**statistiques**</mark> de vie, de dégâts mais également d'ajouter des <mark style="color:green;">**Banish**</mark>, des <mark style="color:green;">**Reroll**</mark> ou encore la possibilité d'avoir des <mark style="color:green;">**Tomes supplémentaires**</mark> dans votre inventaire en donjon.
+À la fin de votre donjon lorsque vous mourrez, vous pourrez récupérer des <mark style="color:green;">**silvers**</mark>, ils vous servent à améliorer vos <mark style="color:green;">**statistiques**</mark> de vie, de dégâts mais également d'ajouter des [<mark style="color:green;">**Banish**</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#banish), des [<mark style="color:green;">**Reroll**</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#reroll) ou encore la possibilité d'avoir des <mark style="color:green;">**Tomes supplémentaires**</mark> dans votre inventaire en donjon.
 
 <figure><img src="../.gitbook/assets/DonjonInfini/Boutique.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">Boutique Silver</mark></figcaption></figure>
 
@@ -284,19 +287,19 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
     <tr>
       <td>
        <p><mark style="color:green;">Argent</mark></p>
-       <p>(Entre 10.000💲 à 25.000💲)</p>
+       <p>(Entre 10.000💲 et 25.000💲)</p>
       </td>
       <td>
        <p><mark style="color:yellow;">Argent</mark></p>
-       <p>(Entre 35.000💲 à 100.000💲)</p>
+       <p>(Entre 35.000💲 et 100.000💲)</p>
       </td>
       <td>
        <p><mark style="color:blue;">Argent</mark></p>
-       <p>(Entre 125.000💲 à 250.000💲)</p>
+       <p>(Entre 125.000💲 et 250.000💲)</p>
       </td>
       <td>
        <p><mark style="color:purple;">Argent</mark></p>
-       <p>(Entre 300.000💲 à 750.000💲)</p>
+       <p>(Entre 300.000💲 et 750.000💲)</p>
       </td>
       <td>
        <p><mark style="color:red;">Argent</mark></p>
@@ -344,21 +347,21 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
       <td><mark style="color:green;">1 Cristal de donjon Commun</mark></td>
       <td><mark style="color:yellow;">1 Cristal de donjon Rare</mark></td>
       <td><mark style="color:blue;">5.000 XP Classe</mark></td>
-      <td><mark style="color:purple;">1 Pierre de téléportation Glaciales</mark></td>
+      <td><mark style="color:purple;">1 Pierre de téléportation Glaciale</mark></td>
       <td><mark style="color:red;">1 Oeuf de familier Summer 2026</mark></td>
     </tr>
     <tr>
       <td>
-       <p><mark style="color:blue;">2 Glaces</mark></p>
-       <p><mark style="color:blue;">2 Pinces de crabe</mark></p>
-       <p><mark style="color:blue;">2 Sucre d'orges</mark></p>
-       <p><mark style="color:yellow;">2 Tablettes de chocolat</mark></p>
-       <p><mark style="color:orange;">2 Citrouilles Scintillantes</mark></p>
+       <p><a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#summer-2025"><mark style="color:blue;">2 Glaces</mark></a></p>
+       <p><a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#abyssal"><mark style="color:blue;">2 Pinces de crabe</mark></a></p>
+       <p><a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#givre"><mark style="color:blue;">2 Sucre d'orges</mark></a></p>
+       <p><a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#paques-2025"><mark style="color:yellow;">2 Tablettes de chocolat</mark></p>
+       <p><a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween"><mark style="color:orange;">2 Citrouilles Scintillantes</mark></p>
       </td>
       <td>
-       <p><mark style="color:orange;">1 Cœur de dragon</mark></p>
-       <p><mark style="color:red;">1 Lune de sang</mark></p>
-       <p><mark style="color:red;">1 Auréoles</mark></p>
+       <p><a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#draconique"><mark style="color:orange;">1 Cœur de dragon</mark></a></p>
+       <p><a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#halloween-2025"><mark style="color:red;">1 Lune de sang</mark></a></p>
+       <p><a href="https://wiki.evolucraft.fr/le-gameplay/marche-noir#st-valentin"><mark style="color:red;">1 Auréoles</mark></a></p>
       </td>
       <td>
        <p><mark style="color:blue;">1 Oeuf de familier Summer 2025</mark></p>
@@ -410,14 +413,14 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
        <p><mark style="color:blue;">1 familier Pohaku</mark></p>
        <p><mark style="color:blue;">1 familier Bufo Bufo</mark></p>
       </td>
-      <td><mark style="color:red;">1 Item Évolutif Aléatoire</mark></td>
+      <td><a href="https://wiki.evolucraft.fr/le-codex/outils/evolutive"><mark style="color:red;">1 Item Évolutif Aléatoire</mark></a></td>
     </tr>
     <tr>
       <td>X</td>
       <td>X</td>
       <td><mark style="color:blue;">1 Arme de Récompense de Donjon Épique</mark></td>
       <td>
-       <p><mark style="color:red;">1 pièce</mark> de l'oeuvre <mark style="color:red;">T-REX</mark></p>
+       <p><mark style="color:red;">1 pièce</mark> de l'œuvre <mark style="color:red;">T-REX</mark></p>
        <p><mark style="color:red;">Pièce Colonne Vertébrale du T-REX</mark></p>
        <p><mark style="color:red;">Pièce Main Gauche du T-REX</mark></p>
        <p><mark style="color:red;">Pièce Bras Gauche du T-REX</mark></p>
@@ -426,13 +429,6 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
        <p><mark style="color:red;">Pièce Pied Droit du T-REX</mark></p>
       </td>
       <td>X</td>
-    </tr>
-    <tr>
-      <td><mark style="color:green;">Arme Commune</mark></td>
-      <td><mark style="color:yellow;">Arme Commune</mark></td>
-      <td><mark style="color:blue;">Arme Épique</mark></td>
-      <td><mark style="color:purple;">2 Bonbons aux Raisins</mark></td>
-      <td><mark style="color:red;">Plume de Phénix</mark></td>
     </tr>
     <tr>
       <td>X</td>
@@ -449,7 +445,7 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
       <td>X</td>
       <td>X</td>
      <td>
-       <p><mark style="color:yellow;">1 pièce</mark> de l'oeuvre <mark style="color:yellow;">Kabuto</mark></p>
+       <p><mark style="color:yellow;">1 pièce</mark> de l'œuvre <mark style="color:yellow;">Kabuto</mark></p>
        <p><mark style="color:yellow;">Pièce Socle du Kabuto</mark></p>
        <p><mark style="color:yellow;">Pièce Épaulière Droite du Kabuto</mark></p>
        <p><mark style="color:yellow;">Pièce Jambière Droite du Kabuto</mark></p>
@@ -472,7 +468,7 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
       <td>X</td>
       <td>X</td>
      <td>
-       <p><mark style="color:blue;">1 pièce</mark> de l'oeuvre <mark style="color:blue;">Pierre de Rosette</mark></p>
+       <p><mark style="color:blue;">1 pièce</mark> de l'œuvre <mark style="color:blue;">Pierre de Rosette</mark></p>
        <p><mark style="color:blue;">Pièce Partie Gauche de la Pierre de Rosette</mark></p>
        <p><mark style="color:blue;">Pièce Partie Haute de la Pierre de Rosette</mark></p>
       </td>
@@ -483,7 +479,7 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
       <td>X</td>
       <td>X</td>
      <td>
-       <p><mark style="color:blue;">1 pièce</mark> de l'oeuvre <mark style="color:blue;">Soldat D'argile</mark></p>
+       <p><mark style="color:blue;">1 pièce</mark> de l'œuvre <mark style="color:blue;">Soldat D'argile</mark></p>
        <p><mark style="color:blue;">Pièce Socle du Soldat d'Argile</mark></p>
        <p><mark style="color:blue;">Pièce Côté Droit du Soldat d'Argile</mark></p>
        <p><mark style="color:blue;">Pièce Côté Gauche du Soldat d'Argile</mark></p>
@@ -495,7 +491,7 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
       <td>X</td>
       <td>X</td>
      <td>
-       <p><mark style="color:blue;">1 pièce</mark> de l'oeuvre <mark style="color:blue;">Vase de Soissons</mark></p>
+       <p><mark style="color:blue;">1 pièce</mark> de l'œuvre <mark style="color:blue;">Vase de Soissons</mark></p>
        <p><mark style="color:blue;">Pièce Base du Vase de Soissons</mark></p>
        <p><mark style="color:blue;">Pièce Socle du Vase de Soissons</mark></p>
        <p><mark style="color:blue;">Pièce Pot du Vase de Soissons</mark></p>
@@ -507,7 +503,7 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
       <td>X</td>
       <td>X</td>
      <td>
-       <p><mark style="color:purple;">1 pièce</mark> de l'oeuvre <mark style="color:purple;">Atlas</mark></p>
+       <p><mark style="color:purple;">1 pièce</mark> de l'œuvre <mark style="color:purple;">Atlas</mark></p>
        <p><mark style="color:purple;">Pièce Pierre du Haut d'Atlas</mark></p>
        <p><mark style="color:purple;">Pièce Pierre du Bas d'Atlas</mark></p>
        <p><mark style="color:purple;">Pièce Bras Gauche d'Atlas</mark></p>
@@ -519,4 +515,4 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
   </tbody>
 </table>
 
-**Voilà, vous connaissez tout sur les donjons <mark style="color:green;">**Infini**</mark> ♾️ ! Mais attention à ne pas perdre la tête 😵**
+**Voilà, vous connaissez tout sur les donjons <mark style="color:green;">**Infinis**</mark> ♾️ ! Mais attention à ne pas perdre la tête 😵**
