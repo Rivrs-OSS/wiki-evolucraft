@@ -169,9 +169,9 @@ Il pourra donc vous donner des <mark style="color:green;">**améliorations**</ma
 (Vous êtes limité de base à 1 par donjon, mais vous pouvez augmenter votre nombre de <mark style="color:green;">**tomes**</mark> par donjon avec des <mark style="color:green;">**silvers**</mark>)
 
 Lorsque vous n'aimez pas les lots proposés quand vous avez <mark style="color:green;">**monté de niveau**</mark> d'expérience, vous allez la possibilité de :
-#### * 🔶 <mark style="color:green;">**Reroll**</mark> :
+#### 🔶 <mark style="color:green;">**Reroll**</mark> :
 Il vous sert à retirer au sort les offres obtenues à votre level up si vous n'aimez pas leurs propositions. Il est représenté par un <mark style="color:green;">**œil de l'Ender**</mark>
-#### * 🔶 <mark style="color:green;">**Banish**</mark> : 
+#### 🔶 <mark style="color:green;">**Banish**</mark> : 
 Il vous permet de <mark style="color:green;">**bannir**</mark> une statistique lors de la montée de niveau sur les statistiques proposées. Une fois bannie, cette statistique ne pourra plus apparaître à chaque montée de niveau jusqu'à la fin de votre partie.
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Infini/LevelUp.png" alt=""><figcaption>Aperçu de la <mark style="color:green;">montée de niveau</mark></figcaption></figure>
