@@ -71,7 +71,7 @@ Voici le tableau indiquant le <mark style="color:green;">**nombre d’XP requis 
     <td><mark style="color:green;"><strong>32 xp</strong></mark></td>
     <td><mark style="color:yellow;"><strong>34 xp</strong></mark></td>
     <td><mark style="color:blue;"><strong>36 xp</strong></mark></td>
-    <td><mark style="color:pruple;"><strong>38 xp</strong></mark></td>
+    <td><mark style="color:purple;"><strong>38 xp</strong></mark></td>
     <td><mark style="color:red;"><strong>40 xp</strong></mark></td>
   </tr>
   <tr>
