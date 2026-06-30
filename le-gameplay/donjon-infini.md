@@ -490,7 +490,6 @@ Pour récupérer les <mark style="color:green;">**récompenses**</mark> de votre
        <p><mark style="color:blue;">1 pièce</mark> de l'œuvre <mark style="color:blue;">Vase de Soissons</mark></p>
        <p><mark style="color:blue;">Pièce Base du Vase de Soissons</mark></p>
        <p><mark style="color:blue;">Pièce Socle du Vase de Soissons</mark></p>
-       <p><mark style="color:blue;">Pièce Pot du Vase de Soissons</mark></p>
       </td>
       <td>X</td>
       <td>X</td>
