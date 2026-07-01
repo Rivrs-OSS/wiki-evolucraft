@@ -130,6 +130,8 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 * Toute tentative d'usebug, sortie de map ou autres lors des donjons est interdite.
 * Il est interdit de rester AFK dans les donjons dans le seul but de récupérer les récompenses sans participer à tuer des mobs.
 * Quitter un donjon volontairement, sans raison valable, est sanctionnable.
+* Rester dans une safe zone pour tuer des mobs plus facilement et sans être tué est interdit peu importe le donjon.
+* Les donjons qui n'ont pas pu être terminés en raison d'un redémarrage du serveur (comme le redémarrage à 5H du matin) ne sont pas remboursables.
 
 ### <mark style="color:green;">Article D : Les Farms et machine à redstone</mark>
 

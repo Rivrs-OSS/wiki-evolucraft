@@ -128,28 +128,152 @@ Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres<
 
 ## <mark style="color:green;">💠 Quelques exemples de récompenses... 🧰</mark>
 
-|            <mark style="color:green;">**Commun 🟩**</mark>            |                <mark style="color:yellow;">**Rare 🟨**</mark>                |                 <mark style="color:blue;">**Épique 🟦**</mark>                 |              <mark style="color:purple;">**Légendaire 🟪**</mark>             | <mark style="color:red;">**Mythique 🟥**</mark>                      |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | -------------------------------------------------------------------- |
-|  <mark style="color:green;">Carte Aléatoire de Classe Commune</mark>  |   <mark style="color:yellow;">2 Cartes Aléatoires de Classe Commune</mark>   |         <mark style="color:blue;">Carte Aléatoire de Classe Rare</mark>        |       <mark style="color:purple;">Carte Aléatoire de Classe Rare</mark>       | <mark style="color:red;">Carte Aléatoire de Classe Épique</mark>     |
-|           <mark style="color:green;">Parchemin Facile</mark>          |              <mark style="color:yellow;">Parchemin Avancé</mark>             |              <mark style="color:blue;">Parchemin Difficile</mark>              |      <mark style="color:purple;">Carte Aléatoire de Classe Épique</mark>      | <mark style="color:red;">Carte Aléatoire de Classe Légendaire</mark> |
-|              <mark style="color:green;">10 000 💲</mark>              |                 <mark style="color:yellow;">20 000 💲</mark>                 |                   <mark style="color:blue;">50 000 💲</mark>                   |             <mark style="color:purple;">Parchemin Difficile</mark>            | <mark style="color:red;">Parchemin Expert</mark>                     |
-|              <mark style="color:green;">15 000 💲</mark>              |                 <mark style="color:yellow;">50 000 💲</mark>                 |                   <mark style="color:blue;">100 000 💲</mark>                  |              <mark style="color:purple;">Parchemin Expert</mark>              | <mark style="color:red;">Parchemin Impossible</mark>                 |
-|              <mark style="color:green;">25 000 💲</mark>              |                 <mark style="color:yellow;">100 000 💲</mark>                |                   <mark style="color:blue;">250 000 💲</mark>                  |                 <mark style="color:purple;">150 000 💲</mark>                 | <mark style="color:red;">300 000 💲</mark>                           |
-|       <mark style="color:green;">Cristal de Donjon Commun</mark>      |           <mark style="color:yellow;">Cristal de Donjon Rare</mark>          |            <mark style="color:blue;">Cristal de Donjon Épique</mark>           |                 <mark style="color:purple;">300 000 💲</mark>                 | <mark style="color:red;">750.000 💲</mark>                           |
-|          <mark style="color:green;">Bonbon à la Pomme</mark>          |            <mark style="color:yellow;">2 Bonbons à l’Orange</mark>           |            <mark style="color:blue;">2 Bonbons à la Myrtille</mark>            |                 <mark style="color:purple;">750 000 💲</mark>                 | <mark style="color:red;">1 000 000 💲</mark>                         |
-|         <mark style="color:green;">Plume de Fly (10min)</mark>        |            <mark style="color:yellow;">Plume de Fly (30min)</mark>           |                <mark style="color:blue;">Plume de Phoenix</mark>               |        <mark style="color:purple;">Cristal de donjon Légendaire</mark>        | <mark style="color:red;">Cristal de donjon Mythique</mark>           |
-|           <mark style="color:green;">Plume de Phoenix</mark>          |              <mark style="color:yellow;">Plume de Phoenix</mark>             |                   <mark style="color:blue;">Arme Rare</mark>                   |           <mark style="color:purple;">2 Bonbons à la Myrtille</mark>          | <mark style="color:red;">2 Bonbons aux raisin</mark>                 |
-|             <mark style="color:green;">Arme Commune</mark>            |                <mark style="color:yellow;">Arme Commune</mark>               |                  <mark style="color:blue;">Arme Épique</mark>                  |            <mark style="color:purple;">2 Bonbons aux Raisin</mark>            | <mark style="color:red;">Plume de Phoenix</mark>                     |
-| <mark style="color:green;">Lame de la Machette Aztèque (Musée)</mark> |                 <mark style="color:yellow;">Armes Rare</mark>                |        <mark style="color:blue;">Pet de Donjon (Boss Uniquement)</mark>        |              <mark style="color:purple;">Plume de Phoenix</mark>              | <mark style="color:red;">Items Évolutif Aléatoire</mark>             |
-|     <mark style="color:green;">Socle de la Machette Aztèque</mark>    |      <mark style="color:yellow;">Pet de Donjon (Boss Uniquement)</mark>      | <mark style="color:blue;">Partie Gauche de la Pierre de Rosette (Musée)</mark> |           <mark style="color:purple;">Item Évolutif Aléatoire</mark>          | <mark style="color:red;">Pet de Donjon (Boss Uniquement)</mark>      |
-|                                   X                                   |          <mark style="color:yellow;">Socle du Kabuto (Musée)</mark>          |  <mark style="color:blue;">Partie Haute de la Pierre de Rosette (Musée)</mark> |       <mark style="color:purple;">Pet de Donjon (Boss Uniquement)</mark>      | <mark style="color:red;">Clé Aléatoire d'événement</mark>            |
-|                                   X                                   |     <mark style="color:yellow;">Jambière Droite du Kabuto (Musée)</mark>     |        <mark style="color:blue;">Socle du Soldat D'Argile (Musée)</mark>       |          <mark style="color:purple;">Clé Aléatoire d'événement</mark>         | <mark style="color:red;">Pied Droit du T-Rex (Musée)</mark>          |
-|                                   X                                   |     <mark style="color:yellow;">Épaulière Droit du Kabuto (Musée)</mark>     |     <mark style="color:blue;">Côté Droit du Soldat D'Argile (Musée)</mark>     | <mark style="color:purple;">Pierre de Téléportation de Donjon Mythique</mark> | <mark style="color:red;">Pied Gauche du T-Rex (Musée)</mark>         |
-|                                   X                                   | <mark style="color:yellow;">Bébé Droit de la Louve Capitoline (Musée)</mark> |     <mark style="color:blue;">Côté Gauche du Soldat D'Argile (Musée)</mark>    |        <mark style="color:purple;">Jambe Gauche d'Atlas (Musée)</mark>        | <mark style="color:red;">Colonne Vertébrake du T-Rex (Musée)</mark>  |
-|                                   X                                   |          <mark style="color:yellow;">Louve Capitoline (Musée)</mark>         |         <mark style="color:blue;">Pot du Vase de Soisons (Musée)</mark>        |         <mark style="color:purple;">Bras Gauche d'Atlas (Musée)</mark>        | <mark style="color:red;">Bras Droit du T-Rex (Musée)</mark>          |
-|                                   X                                   |                                       X                                      |        <mark style="color:blue;">Socle du Vase de Soisons (Musée)</mark>       |        <mark style="color:purple;">Pierre du Bas d'Atlas (Musée)</mark>       | <mark style="color:red;">Bras Gauche du T-Rex (Musée)</mark>         |
-|                                   X                                   |                                       X                                      |                                        X                                       |       <mark style="color:purple;">Pierre du Haut d'Atlas (Musée)</mark>       | <mark style="color:red;">Main Gauche du T-Rex (Musée)</mark>         |
-
+<table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th><mark style="color:green;"><b>Commun 🟩</b></mark></th>
+      <th><mark style="color:yellow;"><b>Rare 🟨</b></mark></th>
+      <th><mark style="color:blue;"><b>Épique 🟦</b></mark></th>
+      <th><mark style="color:purple;"><b>Légendaire 🟪</b></mark></th>
+      <th><mark style="color:red;"><b>Mythique 🟥</b></mark></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><mark style="color:green;">Carte Aléatoire de Classe Commune</mark></td>
+      <td><mark style="color:yellow;">2 Cartes Aléatoires de Classe Commune</mark></td>
+      <td><mark style="color:blue;">Carte Aléatoire de Classe Rare</mark></td>
+      <td><mark style="color:purple;">Carte Aléatoire de Classe Rare</mark></td>
+      <td><mark style="color:red;">Carte Aléatoire de Classe Épique</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Parchemin Facile</mark></td>
+      <td><mark style="color:yellow;">Parchemin Avancé</mark></td>
+      <td><mark style="color:blue;">Parchemin Difficile</mark></td>
+      <td><mark style="color:purple;">Carte Aléatoire de Classe Épique</mark></td>
+      <td><mark style="color:red;">Carte Aléatoire de Classe Légendaire</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">10 000 💲</mark></td>
+      <td><mark style="color:yellow;">20 000 💲</mark></td>
+      <td><mark style="color:blue;">50 000 💲</mark></td>
+      <td><mark style="color:purple;">Parchemin Difficile</mark></td>
+      <td><mark style="color:red;">Parchemin Expert</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">15 000 💲</mark></td>
+      <td><mark style="color:yellow;">50 000 💲</mark></td>
+      <td><mark style="color:blue;">100 000 💲</mark></td>
+      <td><mark style="color:purple;">Parchemin Expert</mark></td>
+      <td><mark style="color:red;">Parchemin Impossible</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">25 000 💲</mark></td>
+      <td><mark style="color:yellow;">100 000 💲</mark></td>
+      <td><mark style="color:blue;">250 000 💲</mark></td>
+      <td><mark style="color:purple;">150 000 💲</mark></td>
+      <td><mark style="color:red;">300 000 💲</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Cristal de Donjon Commun</mark></td>
+      <td><mark style="color:yellow;">Cristal de Donjon Rare</mark></td>
+      <td><mark style="color:blue;">Cristal de Donjon Épique</mark></td>
+      <td><mark style="color:purple;">300 000 💲</mark></td>
+      <td><mark style="color:red;">750 000 💲</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Bonbon à la Pomme</mark></td>
+      <td><mark style="color:yellow;">2 Bonbons à l'Orange</mark></td>
+      <td><mark style="color:blue;">2 Bonbons à la Myrtille</mark></td>
+      <td><mark style="color:purple;">750 000 💲</mark></td>
+      <td><mark style="color:red;">1 000 000 💲</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Plume de Fly (10min)</mark></td>
+      <td><mark style="color:yellow;">Plume de Fly (30min)</mark></td>
+      <td><mark style="color:blue;">Plume de Phoenix</mark></td>
+      <td><mark style="color:purple;">Cristal de donjon Légendaire</mark></td>
+      <td><mark style="color:red;">Cristal de donjon Mythique</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Plume de Phoenix</mark></td>
+      <td><mark style="color:yellow;">Plume de Phoenix</mark></td>
+      <td><mark style="color:blue;">Arme Rare</mark></td>
+      <td><mark style="color:purple;">2 Bonbons à la Myrtille</mark></td>
+      <td><mark style="color:red;">2 Bonbons aux raisin</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Arme Commune</mark></td>
+      <td><mark style="color:yellow;">Arme Commune</mark></td>
+      <td><mark style="color:blue;">Arme Épique</mark></td>
+      <td><mark style="color:purple;">2 Bonbons aux Raisin</mark></td>
+      <td><mark style="color:red;">Plume de Phoenix</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Lame de la Machette Aztèque (Musée)</mark></td>
+      <td><mark style="color:yellow;">Armes Rare</mark></td>
+      <td><mark style="color:blue;">Pet de Donjon (Boss Uniquement)</mark></td>
+      <td><mark style="color:purple;">Plume de Phoenix</mark></td>
+      <td><mark style="color:red;">Items Évolutif Aléatoire</mark></td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Socle de la Machette Aztèque</mark></td>
+      <td><mark style="color:yellow;">Pet de Donjon (Boss Uniquement)</mark></td>
+      <td><mark style="color:blue;">Partie Gauche de la Pierre de Rosette (Musée)</mark></td>
+      <td><mark style="color:purple;">Item Évolutif Aléatoire</mark></td>
+      <td><mark style="color:red;">Pet de Donjon (Boss Uniquement)</mark></td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td><mark style="color:yellow;">Socle du Kabuto (Musée)</mark></td>
+      <td><mark style="color:blue;">Partie Haute de la Pierre de Rosette (Musée)</mark></td>
+      <td><mark style="color:purple;">Pet de Donjon (Boss Uniquement)</mark></td>
+      <td><mark style="color:red;">Clé Aléatoire d'événement</mark></td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td><mark style="color:yellow;">Jambière Droite du Kabuto (Musée)</mark></td>
+      <td><mark style="color:blue;">Socle du Soldat D'Argile (Musée)</mark></td>
+      <td><mark style="color:purple;">Clé Aléatoire d'événement</mark></td>
+      <td><mark style="color:red;">Pied Droit du T-Rex (Musée)</mark></td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td><mark style="color:yellow;">Épaulière Droit du Kabuto (Musée)</mark></td>
+      <td><mark style="color:blue;">Côté Droit du Soldat D'Argile (Musée)</mark></td>
+      <td><mark style="color:purple;">Pierre de Téléportation de Donjon Mythique</mark></td>
+      <td><mark style="color:red;">Pied Gauche du T-Rex (Musée)</mark></td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td><mark style="color:yellow;">Bébé Droit de la Louve Capitoline (Musée)</mark></td>
+      <td><mark style="color:blue;">Côté Gauche du Soldat D'Argile (Musée)</mark></td>
+      <td><mark style="color:purple;">Jambe Gauche d'Atlas (Musée)</mark></td>
+      <td><mark style="color:red;">Colonne Vertébrake du T-Rex (Musée)</mark></td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td><mark style="color:yellow;">Louve Capitoline (Musée)</mark></td>
+      <td><mark style="color:blue;">Pot du Vase de Soisons (Musée)</mark></td>
+      <td><mark style="color:purple;">Bras Gauche d'Atlas (Musée)</mark></td>
+      <td><mark style="color:red;">Bras Droit du T-Rex (Musée)</mark></td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+      <td><mark style="color:blue;">Socle du Vase de Soisons (Musée)</mark></td>
+      <td><mark style="color:purple;">Pierre du Bas d'Atlas (Musée)</mark></td>
+      <td><mark style="color:red;">Bras Gauche du T-Rex (Musée)</mark></td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+      <td>X</td>
+      <td><mark style="color:purple;">Pierre du Haut d'Atlas (Musée)</mark></td>
+      <td><mark style="color:red;">Main Gauche du T-Rex (Musée)</mark></td>
+    </tr>
+  </tbody>
+</table>
 {% hint style="info" %}
 Tous les monstres peuvent lâcher un coffre contenant un cristal de donjon, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
 {% endhint %}
