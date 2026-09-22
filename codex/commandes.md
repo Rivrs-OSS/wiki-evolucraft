@@ -55,7 +55,6 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 * <mark style="color:green;">**/tpa \[nom du joueur]**</mark> : Envoie une requête de téléportation à un autre joueur.
 * <mark style="color:green;">**/tpahere \[nom du joueur]**</mark> : Envoie une requête de téléportation sur soi à un autre joueur.
 * <mark style="color:green;">**/rtp**</mark> : Téléporte le joueur aléatoirement dans un endroit de la map.
-* <mark style="color:green;">**/tp**</mark> : Téléporte vers un autre joueur ou une destination.
 * <mark style="color:green;">**/afk**</mark> : Téléporte le joueur dans la zone afk du serveur.
 
 ### <mark style="color:green;">Donjons</mark>
