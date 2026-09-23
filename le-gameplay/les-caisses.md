@@ -179,7 +179,7 @@ Pour savoir **<mark style="color:green;"><strong>comment obtenir des jetons</str
 | <mark style="color:yellow;">**Armes de classe Aléatoire**</mark> _(20% de chance d'avoir la version Shiny)_          | **11,1%**                   |
 | <mark style="color:yellow;">**Carte de classe Légendaire**</mark>                                   | **11,1%**                   |
 | <mark style="color:yellow;">**Oeuf de Familier Légendaire**</mark> _(20% de chance d'avoir la version Shiny)_ | **11,1%**                   |
-| <mark style="color:yellow;">**Spawner Aléatoire**</mark> _(Gadien / Golem)_                                           | **11,1%**                   |
+| <mark style="color:yellow;">**Spawner Aléatoire**</mark> _(Guardien / Golem)_                                           | **11,1%**                   |
 | <mark style="color:yellow;">**Booster Aléatoire de 100% pendant 1H**</mark>                         | **11,2%**                   |
 
 ## 💠 <mark style="color:green;">Les caisses événementielles ⛄</mark>
@@ -248,7 +248,7 @@ La clé de la Caisse Abyssale s'obtient grâce à <mark style="color:green;">la 
 | <mark style="color:blue;">**Cosmétique Aléatoire**</mark>                   | **5,55%**                   |
 | <mark style="color:blue;">**Pack de Décorations Aléatoire**</mark>          | **5,55%**                   |
 | <mark style="color:blue;">**1.500.000**</mark>**💰**                        | **5,55%**                   |
-| <mark style="color:blue;">**Spawner Aléatoire**</mark> _(Gardien / Dauphin / Tortue)_                     | **5,55%**                   |
+| <mark style="color:blue;">**Spawner Aléatoire**</mark> _(Guardien / Dauphin / Tortue)_                     | **5,55%**                   |
 | <mark style="color:blue;">**Booster Aléatoire de 100% pendant 1H**</mark>   | **5,55%**                   |
 | <mark style="color:blue;">**Parchemin d'Aventure Impossible**</mark>        | **5,55%**                   |
 | <mark style="color:blue;">**4 Bonbons au Raisin**</mark>                    | **5,55%**                   |
@@ -376,7 +376,7 @@ La clé de la Caisse Saint Valentin s'obtient grâce à <mark style="color:green
 | <mark style="color:red;">**Booster Aléatoire**</mark>                                      | **5,55%**                   |
 | <mark style="color:red;">**Carte de l'Archimage**</mark>                                   | **5,55%**                   |
 | <mark style="color:red;">**3.000.000💰**</mark>                                            | **5,55%**                   |
-| <mark style="color:red;">**Spawner Aléatoire**</mark> _(Gardien / Enderman / Zombie momifié)_                                     | **5,55%**                   |
+| <mark style="color:red;">**Spawner Aléatoire**</mark> _(Guardien / Enderman / Zombie momifié)_                                     | **5,55%**                   |
 | <mark style="color:red;">**3 Parchemins de l'Amour**</mark>                                | **5,55%**                   |
 | <mark style="color:red;">**4 Bonbons au Raisin**</mark>                                    | **5,55%**                   |
 | <mark style="color:red;">**Pierre de Téléportation Aléatoire**</mark> _(Amour ou Cupidon)_ | **5,55%**                   |
@@ -468,7 +468,7 @@ La clé de la Caisse Summer s'obtient grâce à <mark style="color:green;">la cl
 | <mark style="color:blue;">**Arme Aléatoire**</mark>                       | **5,55%**                   |
 | <mark style="color:blue;">**Booster Aléatoire de 100% pendant 1H**</mark> | **5,55%**                   |
 | <mark style="color:blue;">**4.500.000💰**</mark>                          | **5,55%**                   |
-| <mark style="color:blue;">**Spawners Aléatoires**</mark> _(Poulpe / Gardien)_                | **5,55%**                   |
+| <mark style="color:blue;">**Spawners Aléatoires**</mark> _(Poulpe / Guardien)_                | **5,55%**                   |
 | <mark style="color:blue;">**40 Cartes de l'illusionniste**</mark>         | **5,55%**                   |
 | <mark style="color:blue;">**Carte du chavalier de la mort**</mark>        | **5,55%**                   |
 | <mark style="color:blue;">**Parchemin Abyssal**</mark>                    | **5,55%**                   |
@@ -567,7 +567,7 @@ La <mark style="color:green;">**Clé de la Caisse Pain d'Épice**</mark> s'obtie
 | <mark style="color:red;">**4 Bonbons au Raisin**</mark>                     | **5,56%**                   |
 | <mark style="color:red;">**2 Clés Pain d'épice**</mark>                     | **5,56%**                   |
 
-### 🔸 <mark style="color:red;">Caisse Lunaire 🎑</mark>
+### 🔸 <mark style="color:green;">Caisse Lunaire 🎑</mark>
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 

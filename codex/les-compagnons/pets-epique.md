@@ -95,7 +95,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>💀 Dégâts Critiques</strong></mark> +3</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 3.000</strong></mark> 💲/h</p>     
    </td>
-   <td>* Loot de boss 🐉(Donjons Biome Désert)</td>
+    <td>
+      <p>* Boss du Donjon Rare/Épique Biome Désert 🏜️</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Biggoron</strong></mark></td>
@@ -107,7 +110,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +8</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+5%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Diamants</strong></mark> au /shop</p>     
    </td>
-   <td>* Loot de boss 🐉(Donjons Biome Messa)</td>
+    <td>
+      <p>* Boss du Donjon Rare/Épique Biome Messa 🌵</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Bolg</strong></mark></td>
@@ -119,7 +125,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +5</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 5.500</strong></mark> 💲/h</p>  
    </td>
-   <td>* Loot de boss 🐉(Donjons Biome Savane)</td>
+    <td>
+      <p>* Boss du Donjon Rare/Épique Biome Savane 🦏</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Bufo Bufo</strong></mark></td>
@@ -131,7 +140,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie</strong></mark> +27</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 5.500</strong></mark> 💲/h</p> 
    </td>
-   <td>* Loot de boss 🐉(Donjons Biome Marais)</td>
+    <td>
+      <p>* Boss du Donjon Rare/Épique Biome Marais 🐸</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Lilith</strong></mark></td>
@@ -143,7 +155,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +8</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 7.000</strong></mark> 💲/h</p>   
    </td>
-   <td>* Loot de boss 🐉(Donjons Biome Nether)</td>
+    <td>
+      <p>* Boss du Donjon Rare/Épique Biome Nether 🔥</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Pohaku</strong></mark></td>
@@ -155,7 +170,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +9</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>   
    </td>
-   <td>* Loot de boss 🐉(Donjons Biome Jungle)</td>
+    <td>
+      <p>* Boss du Donjon Rare/Épique Biome Jungle 🦜</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Skog</strong></mark></td>
@@ -167,7 +185,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>💕 Régénération</strong></mark> +5</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 3.500</strong></mark> 💲/h</p>   
    </td>
-   <td>* Loot de boss 🐉(Donjons Biome Forêt)</td>
+    <td>
+      <p>* Boss du Donjon Rare/Épique Biome Forêt 🌳</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Yukio</strong></mark></td>
@@ -179,7 +200,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +70</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+10%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Glace</strong></mark> au /shop</p>   
    </td>
-   <td>* Loot de boss 🐉(Donjons Biome Neige)</td>
+    <td>
+      <p>* Boss du Donjon Rare/Épique Biome Neige ❄️</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Merlock</strong></mark></td>
@@ -190,7 +214,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Respiration Aquatique</strong></mark></p><p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>💀 Dégâts Critiques</strong></mark> +11</p>
    </td>
-   <td>* Loot de boss 🐉(Donjons Abyssaux)</td>
+    <td>
+      <p>* Boss du Donjon Abyssal 🌊</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Ice Queen</strong></mark></td>
@@ -202,7 +229,9 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +12</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 5.000</strong></mark> 💲/h</p>  
    </td>
-   <td>* Loot de boss 🐉(Donjons Givrés)</td>
+    <td>
+      <p>* Boss du Donjon Givrée Commun ❄️ et Givrée Épique 🌟</p>
+    </td>
   </tr>
    <tr>
    <td><mark style="color:blue;"><strong>Gorille des cavernes</strong></mark></td>
@@ -216,7 +245,11 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+10</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.500</strong></mark>💲/h</p>
    </td>
-   <td>* Loot de boss + coffre de récompense🐉(donjons cavernes)</td>
+    <td>
+      <p>* Boss du Donjon Caverne Glaciale ⛰️</p>
+      <p>* Récompense du Donjon Caverne Glaciale ⛰️</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Drogon</strong></mark></td>
@@ -301,6 +334,60 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Pêcheur 🎣</strong></mark></p>   
    </td>
    <td>* Œuf de famillier (Caisse Lune de Sang 🩸)</td>
+  </tr>
+   <tr>
+   <td><mark style="color:blue;"><strong>Cheval de Feu</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Cheval de Feu.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +5</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>Résistance au feu</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Terrestre)</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong> Saut Amélioré 🦘</strong></mark> (Permanent) </p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
+   </td>
+   <td>* Œuf de famillier (Caisse Lunaire 🎑)</td>
+  </tr>
+  <tr>
+   <td><mark style="color:blue;"><strong>Lapin Mignon</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Lapin-Mignon.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Pattes de lapin</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 6.500</strong></mark> 💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +4</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +7</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7,5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Fermier 🌾</strong></mark></p>
+   </td>
+   <td>* Œuf de famillier (Caisse Pâques 2026 🐰)</td>
+  </tr>
+   <tr>
+   <td><mark style="color:blue;"><strong>Sylphe</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/sylphe.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark>+1</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +3</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +5</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +9</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +12</p>  
+   </td>
+   <td>
+     <p>* Œuf de famillier (Caisse Aquatique 🌊)</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+   </td>
+  </tr>
+  <tr>
+   <td><mark style="color:blue;"><strong>Zephyrn</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Zephyrn.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Aérienne) / <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +8</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 8.000</strong></mark> 💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +75</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+7,5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Métiers</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> +1</p>
+   </td>
+   <td>
+     <p>* Œuf de famillier (Caisse Élémentaire ☄️)</p>
+     <p>* Récompenses de Donjon Avatar 🌌</p>
+   </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Arhi</strong></mark></td>
@@ -398,30 +485,6 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
    </td>
    <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
   </tr>
-   <tr>
-   <td><mark style="color:blue;"><strong>Cheval de Feu</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Cheval de Feu.png" alt=""></figure></td>
-   <td>
-     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +5</p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>Résistance au feu</strong></mark></p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Terrestre)</p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong> Saut Amélioré 🦘</strong></mark> (Permanent) </p>
-     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
-   </td>
-   <td>* Œuf de famillier (caisse lunaire)</td>
-  </tr>
-  <tr>
-   <td><mark style="color:blue;"><strong>Lapin Mignon</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Lapin-Mignon.png" alt=""></figure></td>
-   <td>
-     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Pattes de lapin</strong></mark></p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 6.500</strong></mark> 💲/h</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +4</p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +7</p>
-     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7,5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Fermier 🌾</strong></mark></p>
-   </td>
-   <td>* Œuf de famillier (Caisse Pâques 2026 🥚)</td>
-  </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Rhinocéros</strong></mark></td>
    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Rhinocéros.png" alt=""></figure></td>
@@ -432,30 +495,6 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +10</p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 10.000</strong></mark> 💲/h</p>
    </td>
-   <td>* Pack Guerrier / Paladin / Chevalier des Glaces / Barbare / Moine 🛡️ (Événement temporaire)</td>
+   <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
    </tr>
-   <tr>
-   <td><mark style="color:blue;"><strong>Sylphe</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/sylphe.png" alt=""></figure></td>
-   <td>
-     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark>+1</p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +3</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +5</p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +9</p>
-     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +12</p>  
-   </td>
-   <td>* Œuf de famillier (Caisse summer 2026🏖️)</td>
-  </tr>
-  <tr>
-   <td><mark style="color:blue;"><strong>Zephyrn</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Zephyrn.png" alt=""></figure></td>
-   <td>
-     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Aérienne) / <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +8</p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 8.000</strong></mark> 💲/h</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +75</p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+7,5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Métiers</strong></mark></p>
-     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> +1</p>
-   </td>
-   <td>* Œuf de famillier (Caisse Élémentaire ☄️)</td>
-  </tr>
 </table>

@@ -50,7 +50,7 @@ Pour plus d'informations concernant les crafts de chaque statue [<mark style="co
 La forge est récupérable à partir du <mark style="color:green;">**niveau 115 forgemage 📖**</mark> avec la commande <mark style="color:green;">**`/jobs claim`**</mark>.
 {% endhint %}
 
-La forge est une machine puissante qui vous permettra de crafter des gemmes de métier ou encore d'améliorer les armes de classe.
+La forge est une machine puissante qui vous permettra de crafter des gemmes de métier ou encore d'améliorer les armes de classe des récompenses de donjon ou des armes issue des packs de classe.
 
 * <mark style="color:green;">**Création de Gemmes de Métier**</mark> 🎇 : Ces **gemmes sont disponibles en quatre raretés** différentes : <mark style="color:green;">commun</mark>, <mark style="color:yellow;">rare</mark>, <mark style="color:blue;">épique</mark>, <mark style="color:purple;">légendaire</mark> et <mark style="color:red;">mythique</mark> et vous serviront notamment à **l'amélioration dans le craft de vos armes de classe**.
 * <mark style="color:green;">**Amélioration des Armes de Classe**</mark> ⚔️ : Utilisez la forge pour **améliorer les armes spécifiques à chaque classe** à l'aide de **cristaux de métier et d'autres ressources mystères** afin de renforcer vos capacités de combat et de défense pour mieux affronter les défis qui vous attendent dans le monde d'Evolucraft.

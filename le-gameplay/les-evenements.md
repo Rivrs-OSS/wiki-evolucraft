@@ -48,7 +48,6 @@ Pour participer aux enchères, vous devez avoir au minimum <mark style="color:gr
 * <mark style="color:green;">**Pêche commune**</mark> → <mark style="color:green;">Tous les poissons de rareté</mark> <mark style="color:green;"></mark><mark style="color:green;">**Commune**</mark> donnent 1 point.
 * <mark style="color:yellow;">**Pêche rare**</mark> → <mark style="color:yellow;">Tous les poissons de rareté</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Rare**</mark> donnent 1 point.
 * <mark style="color:blue;">**Pêche épique**</mark> → <mark style="color:blue;">Tous les poissons de rareté</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Épique**</mark> donnent 1 point.
-* <mark style="color:purple;">**Pêche légendaire**</mark> → <mark style="color:purple;">Tous les poissons de rareté</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Légendaire**</mark> donnent 1 point.
 
 {% hint style="warning" %}
 Cet événement ne comptabilise pas vos poissons si vous pêchez dans le monde New World.

@@ -65,7 +65,7 @@
   * [☄️ Avatar](le-gameplay/les-classes/avatar.md)
 * [🏛️ Les Donjons](le-gameplay/les-donjons.md)
 * [♾️ Le Donjon Infini](le-gameplay/donjon-infini.md)
-* [☄️ Le Donjon Avatar](le-gameplay/donjon-avatar.md)
+* [🌌 Le Donjon Avatar](le-gameplay/donjon-avatar.md)
 * [💵 Le Commerce](le-gameplay/le-commerce.md)
 * [🎲 Lucky Blocks](le-gameplay/lucky-block.md)    
 * [🔱 Le Pass](le-gameplay/pass.md)
