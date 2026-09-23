@@ -74,7 +74,6 @@ Cependant, vous pouvez activer [l'option du message automatique](https://wiki.ev
 ### <mark style="color:green;">Article A : Interactions entre joueurs</mark>
 
 * Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
-* Il est interdit de divulguer dans le chat public ou via une téléportation entre joueurs les informations concernant les PNJ du spawn (Marché Noir ou Téléporteur au Monde Pâques).
 * Tout contournement d'achat unique sur la boutique est interdit (ex: donner 500 gemmes à son ami pour qu'il achète un item unique en boutique et le récupérer).
 * Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
   * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.
