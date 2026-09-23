@@ -452,7 +452,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p>▸ <mark style="color:yellow;"><strong>Appât V</strong></mark></p>
    </td>
    <td align="center">
-     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 000 Poissons pêchés</strong></mark></p>
+     <p><mark style="color:yellow;"><strong>Objectif</strong></mark> de <mark style="color:yellow;"><strong>5 500 Poissons pêchés</strong></mark></p>
    </td>
    <td>
      <p>▸ <mark style="color:yellow;"><strong>Effet Pêche</strong></mark> : Vous avez 15% de chance de doubler votre pêche.</p>
