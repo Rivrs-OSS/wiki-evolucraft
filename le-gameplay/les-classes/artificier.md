@@ -121,7 +121,7 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
      <td>
      <p>▸ <mark style="color:blue;">Donjon Épique (Biome Neige)</mark></p>
      <p>▸ <mark style="color:blue;">Donjon Laboratoire</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
      </td>
   </tr>
   <tr>
@@ -243,7 +243,6 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
      <p><mark style="color:red;">🗡️ Force +18</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +9</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -318,7 +317,6 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
      <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -381,7 +379,6 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
     <td>
      <p><mark style="color:red;">🗡️ Force +25</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +12</mark></p>
-     <p><mark style="color:blue;">🏃‍♂️ Vitesse +2</mark></td></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>

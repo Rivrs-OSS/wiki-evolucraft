@@ -188,7 +188,7 @@ Vous invoquez vos ailes de dragon et chargez vers l'avant, attirant tous les enn
     <td>
      <p>▸ <mark style="color:blue;">Donjon Épique (Biome Neige)</mark></p>
      <p>▸ <mark style="color:blue;">Donjon Laboratoire</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
  </td>
   </tr>
   <tr>

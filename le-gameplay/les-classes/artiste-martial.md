@@ -143,7 +143,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;">Poing de la sérenité</mark></td>
+    <td><mark style="color:green;">Poing de la sérénité</mark></td>
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡️️ Force +5</mark></p>
@@ -324,7 +324,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td><mark style="color:purple;">Poing de la persévérance</mark></td>
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +15</mark></p>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
@@ -386,7 +386,7 @@ Effectuez plusieurs frappes rapides et enfin frappez votre cible avec un coup fi
     <td><mark style="color:purple;">Poing de la persévérance Shiny</mark></td>
     <td><mark style="color:purple;">Légendaire ✨</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +15</mark></p>
+     <p><mark style="color:red;">🗡️ Force +45</mark></p>
      <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
