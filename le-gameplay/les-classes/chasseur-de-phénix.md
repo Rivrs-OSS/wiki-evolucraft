@@ -133,7 +133,7 @@ Toutes les 4 attaques, une explosion en forme de X se déclenche. Danse Ardente 
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaire"><mark style="color:green;">Forge 🔨</mark></a></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
   </tr>
   <tr>
@@ -195,7 +195,7 @@ Toutes les 4 attaques, une explosion en forme de X se déclenche. Danse Ardente 
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaire"><mark style="color:green;">Forge 🔨</mark></a></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
   </tr>
   <tr>

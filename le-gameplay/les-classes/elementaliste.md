@@ -124,7 +124,7 @@ Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts e
      <td>
      <p>▸ <mark style="color:blue;">Donjon Épique (Biome Neige)</mark></p>
      <p>▸ <mark style="color:blue;">Donjon Laboratoire</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
      </td>
   </tr>
   <tr>

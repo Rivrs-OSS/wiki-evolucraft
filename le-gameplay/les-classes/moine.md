@@ -188,7 +188,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
      <td>
      <p>▸ <mark style="color:blue;">Donjon Épique (Biome Neige)</mark></p>
      <p>▸ <mark style="color:blue;">Donjon Laboratoire</mark></p>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-rares"><mark style="color:green;">Forge 🔨</mark></a></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-epiques"><mark style="color:green;">Forge 🔨</mark></a></p>
      </td>
   </tr>
   <tr>
@@ -296,7 +296,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:green;">Commun</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +7</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
+     <p><mark style="color:red;">❤️ Vie +14</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -308,7 +308,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +15</mark></p>
-     <p><mark style="color:orange;">❤️ Vie +35</mark></p>
+     <p><mark style="color:red;">❤️ Vie +35</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -321,7 +321,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +25</mark></p>
-     <p><mark style="color:orange;">❤️ Vie +56</mark></p>
+     <p><mark style="color:red;">❤️ Vie +56</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -334,7 +334,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:purple;">Légendaire</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
+     <p><mark style="color:red;">❤️ Vie +100</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -345,8 +345,8 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:red;">Gant de l'Art Absolu</mark></td>
     <td><mark style="color:red;">Mythique</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -358,7 +358,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:green;">Commun ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +7</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +4</mark></p>
+     <p><mark style="color:red;">❤️ Vie +14</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -370,7 +370,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:yellow;">Rare ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +15</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
+     <p><mark style="color:red;">❤️ Vie +35</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -383,7 +383,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:blue;">Épique ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +25</mark></p>
-     <p><mark style="color:orange;">❤️ Vie +56</mark></p>
+     <p><mark style="color:red;">❤️ Vie +56</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -396,7 +396,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:purple;">Légendaire ✨</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +45</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +22</mark></p>
+     <p><mark style="color:red;">❤️ Vie +100</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -407,8 +407,8 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:red;">Gant de l'Art Absolu Shiny</mark></td>
     <td><mark style="color:red;">Mythique ✨</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +80</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +39</mark></p>
+     <p><mark style="color:red;">🗡️ Force +92</mark></p>
+     <p><mark style="color:orange;">💀 Dégât Critique +45</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
@@ -660,4 +660,3 @@ Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de
     <td>▸ <mark style="color:orange;">Arme de Classe Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire"><mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark></a>)</td>
   </tr>
 </table>
-

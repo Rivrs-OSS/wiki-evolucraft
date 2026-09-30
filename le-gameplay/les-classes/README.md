@@ -184,11 +184,11 @@ Passez votre curseur sur la <mark style="color:green;">compétence</mark> ou le 
 | Compétence                                   | Cartes requises                        | Prix                                           | Niveau de classe                |
 | -------------------------------------------- | -------------------------------------- | ---------------------------------------------- | ------------------------------- |
 | <mark style="color:red;">**Passif**</mark>  | <mark style="color:red;">**1**</mark>  | <mark style="color:red;">**400 000 💰**</mark> | <mark style="color:red;">**Niveau 5**</mark>   |
-| <mark style="color:red;">**1**</mark>       | <mark style="color:red;">**1**</mark>  | <mark style="color:red;">**1 200 000**</mark>  | <mark style="color:red;">**Niveau 10**</mark>  |
-| <mark style="color:red;">**2**</mark>       | <mark style="color:red;">**2**</mark>  | <mark style="color:red;">**3 600 000**</mark>  | <mark style="color:red;">**Niveau 15**</mark>  |
-| <mark style="color:red;">**3**</mark>       | <mark style="color:red;">**4**</mark>  | <mark style="color:red;">**10 800 000**</mark> | <mark style="color:red;">**Niveau 20**</mark>  |
-| <mark style="color:red;">**4**</mark>       | <mark style="color:red;">**8**</mark>  | <mark style="color:red;">**32 400 000**</mark> | <mark style="color:red;">**Niveau 30**</mark>  |
-| <mark style="color:red;">**5**</mark>       | <mark style="color:red;">**16**</mark> | <mark style="color:red;">**97 200 000**</mark> | <mark style="color:red;">**Niveau 40**</mark>  |
+| <mark style="color:red;">**1**</mark>       | <mark style="color:red;">**1**</mark>  | <mark style="color:red;">**1 200 000 💰**</mark>  | <mark style="color:red;">**Niveau 10**</mark>  |
+| <mark style="color:red;">**2**</mark>       | <mark style="color:red;">**1**</mark>  | <mark style="color:red;">**3 600 000 💰**</mark>  | <mark style="color:red;">**Niveau 15**</mark>  |
+| <mark style="color:red;">**3**</mark>       | <mark style="color:red;">**3**</mark>  | <mark style="color:red;">**10 800 000 💰**</mark> | <mark style="color:red;">**Niveau 20**</mark>  |
+| <mark style="color:red;">**4**</mark>       | <mark style="color:red;">**6**</mark>  | <mark style="color:red;">**32 400 000 💰**</mark> | <mark style="color:red;">**Niveau 30**</mark>  |
+| <mark style="color:red;">**5**</mark>       | <mark style="color:red;">**14**</mark> | <mark style="color:red;">**97 200 000 💰**</mark> | <mark style="color:red;">**Niveau 40**</mark>  |
 
 ### <mark style="color:blue;">🔸 Installer des compétences/passifs 🔧</mark>
 

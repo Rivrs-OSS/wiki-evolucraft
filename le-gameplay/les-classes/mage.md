@@ -257,7 +257,7 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
-     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-mythiques"><mark style="color:green;">Forge 🔨</mark></a></p>
+     <p>▸ <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/forge#armes-legendaires"><mark style="color:green;">Forge 🔨</mark></a></p>
     </td>
      <tr>
     <td><mark style="color:red;">Bâton Arcanique</mark></td>

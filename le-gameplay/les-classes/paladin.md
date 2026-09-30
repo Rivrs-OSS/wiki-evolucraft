@@ -309,7 +309,6 @@ Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invo
     <td><mark style="color:blue;">Épique</mark></td>
     <td>
      <p><mark style="color:red;">❤️ Vie +40</mark></p>
-     <p><mark style="color:yellow;">🧪 Mana +25</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +9</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
@@ -723,4 +722,3 @@ Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de
     <td>▸ <mark style="color:orange;">Arme de Classe Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire"><mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark></a>)</td>
   </tr>
 </table>
-
