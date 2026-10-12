@@ -16,7 +16,7 @@ Mais quels sont les items disponibles...
 
 ### 🔸 <mark style="color:orange;">Draconique 🐉</mark>
 
-Ces items sont achetables avec des <mark style="color:orange;">**Cœurs de Dragon**</mark>, obtenables dans les récompenses du **[<mark style="color:orange;">Donjon Draconique</mark>](https://wiki.evolucraft.fr/codex/donjons/draconique) 🐉** ou dans **[<mark style="color:purple;">les Donjon Infini</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#des-recompenses-en-jeu) ♾️**.
+Ces items sont achetables avec des <mark style="color:orange;">**Cœurs de Dragon**</mark>, obtenables dans les récompenses du **[<mark style="color:orange;">Donjon Draconique</mark>](https://wiki.evolucraft.fr/codex/donjons/draconique) 🐉**
 
 | **Items disponibles**                                                                | **Prix**                  |
 | ------------------------------------------------------------------------------------ | ------------------------- |
@@ -44,7 +44,7 @@ Ces items sont achetables avec des <mark style="color:orange;">**Cœurs de Drago
 
 ### 🔸 <mark style="color:blue;">Abyssal 🌊</mark>
 
-Ces items sont échangeables contre des <mark style="color:blue;">**Pinces de Crabe**</mark>, que vous pouvez obtenir les récompenses du **[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/codex/donjons/abyssal) 🌊**, dans les **<mark style="color:blue;">Quête Abyssale</mark>** ou encore dans **[<mark style="color:purple;">les Donjon Infini</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#des-recompenses-en-jeu) ♾️**.
+Ces items sont échangeables contre des <mark style="color:blue;">**Pinces de Crabe**</mark>, que vous pouvez obtenir les récompenses du **[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/codex/donjons/abyssal) 🌊**, dans les **<mark style="color:blue;">Quête Abyssale</mark>**.
 
 {% hint style="info" %}
 Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Abyssalles</strong></mark>.
@@ -75,7 +75,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 ### 🔸 <mark style="color:orange;">Halloween 🎃</mark>
 
-Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Scintillantes</mark>**, obtenables dans les récompenses du **[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/codex/donjons/halloween) 🧛**, dans les **<mark style="color:orange;">Quête Halloween</mark>** ou encore dans **[<mark style="color:purple;">les Donjon Infini</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#des-recompenses-en-jeu) ♾️**.
+Ces items sont achetables avec des **<mark style="color:orange;">Citrouilles Scintillantes</mark>**, obtenables dans les récompenses du **[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/codex/donjons/halloween) 🧛**, dans les **<mark style="color:orange;">Quête Halloween</mark>**.
 
 {% hint style="info" %}
 Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Halloween</strong></mark>.
@@ -105,7 +105,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 ### 🔸 <mark style="color:blue;">Givré ❄️</mark>
 
-Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</mark>**, obtenables dans les récompenses des **[<mark style="color:blue;">Donjon Givré Commun</mark>](https://wiki.evolucraft.fr/codex/donjons/givre15) ❄️** et **[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/codex/donjons/givre40) 🌟** des **<mark style="color:blue;">Quête Givrée</mark>** ou dans **[<mark style="color:purple;">les Donjon Infini</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#des-recompenses-en-jeu) ♾️**.
+Ces items sont achetables avec des **<mark style="color:blue;">Sucres d'Orges</mark>**, obtenables dans les récompenses des **[<mark style="color:blue;">Donjon Givré Commun</mark>](https://wiki.evolucraft.fr/codex/donjons/givre15) ❄️** et **[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/codex/donjons/givre40) 🌟** ou encore dans des **<mark style="color:blue;">Quête Givrée</mark>**.
 
 {% hint style="info" %}
 Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Givrés Commun et Épique</strong></mark>.
@@ -132,7 +132,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 ### 🔸 <mark style="color:red;">St-Valentin 💕</mark>
 
-Ces items sont achetables avec des **<mark style="color:red;">Auréoles</mark>**, obtenables dans les récompenses des **[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/codex/donjons/amour) ❤️** et **[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/codex/donjons/cupidon) 🏹**, dans les **<mark style="color:red;">Quête de l'Amour</mark>** ou dans **[<mark style="color:purple;">les Donjon Infini</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#des-recompenses-en-jeu) ♾️**.
+Ces items sont achetables avec des **<mark style="color:red;">Auréoles</mark>**, obtenables dans les récompenses des **[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/codex/donjons/amour) ❤️** et **[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/codex/donjons/cupidon) 🏹** ou dans les **<mark style="color:red;">Quête de l'Amour</mark>**.
 
 {% hint style="info" %}
 Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Amour & les Donjons Cupidons</strong></mark>.
@@ -162,7 +162,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 ### 🔸 <mark style="color:yellow;">Pâques 2025🥚</mark>
 
-Ces items sont achetables avec des **<mark style="color:yellow;">Tablettes de Chocolat</mark>**, obtenables dans les récompenses de **[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/codex/donjons/roi-lapin) 🐰** et **[<mark style="color:yellow;">Donjon Fabrique de Chocolat</mark>](https://wiki.evolucraft.fr/codex/donjons/fabrique-chocolat) 🍫**, dans les récompenses de **<mark style="color:yellow;">Quêtes du Terrier du Roi Lapin et Fabtique de Chocolat</mark>** ou dans **[<mark style="color:purple;">les Donjon Infini</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#des-recompenses-en-jeu) ♾️**.
+Ces items sont achetables avec des **<mark style="color:yellow;">Tablettes de Chocolat</mark>**, obtenables dans les récompenses de **[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/codex/donjons/roi-lapin) 🐰** et **[<mark style="color:yellow;">Donjon Fabrique de Chocolat</mark>](https://wiki.evolucraft.fr/codex/donjons/fabrique-chocolat) 🍫** ou dans les récompenses de **<mark style="color:yellow;">Quêtes du Terrier du Roi Lapin et Fabtique de Chocolat</mark>**
 
 {% hint style="info" %}
 Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>bonus de 5 % de dégâts supplémentaires</strong></mark> dans les <mark style="color:green;"><strong>donjons Terriers du Lapin & les Donjons Fabrique du Chocolat</strong></mark>.
@@ -193,7 +193,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 ### 🔸 <mark style="color:blue;">Summer 2025 🏖️</mark>
 
-Ces items étaient achetables avec des **<mark style="color:blue;">Glaces</mark>**, que vous pouvez obtenir en récompense du **[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/codex/donjons/abyssal) 🌊** ou dans **[<mark style="color:purple;">les Donjon Infini</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#des-recompenses-en-jeu) ♾️**.
+Ces items étaient achetables avec des **<mark style="color:blue;">Glaces</mark>**, que vous pouvez obtenir en récompense du **[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/codex/donjons/abyssal) 🌊**.
 
 | **Items disponible**                                                                      | **Prix**       |
 | ----------------------------------------------------------------------------------------- | -------------- |
@@ -222,7 +222,7 @@ Ces items étaient achetables avec des **<mark style="color:blue;">Glaces</mark>
 
 ### 🔸 <mark style="color:red;">Halloween 2025 🩸</mark>
 
-Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/codex/donjons/citrouille) 🎃** et **[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/codex/donjons/lune-de-sang) 🩸** dans les **<mark style="color:red;">Parchemins Citrouilles</mark>** et les **<mark style="color:red;">Parchemins Lunes de Sang</mark>** ou dans **[<mark style="color:purple;">les Donjon Infini</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini#des-recompenses-en-jeu) ♾️**.
+Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mark>**, obtenables dans les récompenses de **[<mark style="color:red;">Donjon Citrouille</mark>](https://wiki.evolucraft.fr/codex/donjons/citrouille) 🎃** et **[<mark style="color:red;">Donjon Lune de Sang</mark>](https://wiki.evolucraft.fr/codex/donjons/lune-de-sang) 🩸** ou dans les **<mark style="color:red;">Parchemins Citrouilles</mark>** et les **<mark style="color:red;">Parchemins Lunes de Sang</mark>**.
 
 | **Items disponible**                                                                                  | **Prix**              |
 | ----------------------------------------------------------------------------------------------------- | --------------------- |
@@ -253,7 +253,7 @@ Ces items sont achetables avec des **<mark style="color:red;">Lunes de Sang</mar
 
 ### 🔸 <mark style="color:red;">Noël 2025 🍪</mark>
 
-Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, qui sont obtenables dans le **<mark style="color:red;">Marché noir</mark>** via un échange de **<mark style="color:red;">Sucrerie</mark>** obtenable dans les <mark style="color:green;"><strong>donjons Caverne & les donjons Laboratoire</strong></mark>..
+Ces items sont achetables avec des **<mark style="color:red;">pain d'épice</mark>**, qui sont obtenables dans le **<mark style="color:red;">Marché noir</mark>** via un échange de **<mark style="color:red;">Sucrerie</mark>** obtenable dans les <mark style="color:green;"><strong>donjons Caverne & les donjons Laboratoire</strong></mark>.
 
 <img src="../.gitbook/assets/Marche-Noir/PainD'épice/Trade.png" alt="" style="text-align: left;">
 
@@ -291,7 +291,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 ### 🔸 <mark style="color:green;">Nouvel An Lunaire 🎑</mark>
 
-Ces items sont achetables avec des **<mark style="color:green;">Pierre de Jade</mark>**, qui sont obtenables dans la **<mark style="color:green;">boutique temporaire du `/nouvelan`</mark>** via un échange de **<mark style="color:green;">Fragments de pierre de Jade</mark>** obtenable dans le [<mark style="color:green;"><strong>**Monde Lunaire**</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/les-evenements#nouvel-an-lunaire).
+Ces items sont achetables avec des **<mark style="color:green;">Pierre de Jade</mark>**, qui ne sont aujourd'hui plus obtenables dans le serveur
 
 {% hint style="info" %}
 Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <mark style="color:green;"><strong>effet d'Aura de Feu 🔥</strong></mark> pendant <mark style="color:green;"><strong>4 secondes, sur les mobs touchés</strong></mark>.
@@ -322,7 +322,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 | <mark style="color:green;">**Épée de Jade**</mark> *(Arme Guerrier)*                             | **150 Pierres de Jade** |
 | <mark style="color:green;">**Totem de Jade**</mark> *(Arme Chaman)*                              | **150 Pierres de Jade** |
 
-<figure><img src="../.gitbook/assets/Marche-Noir/Lunaire/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du Nouvel An Lunaire</mark></strong></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marche-Noir/Lunaire/Armes.png" alt=""><figcaption><strong>Menu du <mark style="color:green;">marché noir du Nouvel An Lunaire</mark></strong></figcaption></figure>
 
 ### 🔸 <mark style="color:yellow;">Pâques 2026 🐰</mark>
 
@@ -390,42 +390,42 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 ### 🔸 <mark style="color:blue;">Clé Givrée ❄️</mark>
 
 La **<mark style="color:blue;">Clé Givrée</mark>** permet d'ouvrir la **[<mark style="color:blue;">Caisse Givrée ❄️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**.  
-Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Givrée</mark>**, disponibles uniquement durant **<mark style="color:blue;">l'événement Noël 2024</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Givrée</mark>**, disponibles uniquement durant **<mark style="color:blue;">l'événement Noël 2024</mark>** ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 ### 🔸 <mark style="color:red;">Clé de Cupidon 💕</mark>
 La **<mark style="color:red;">Clé de Cupidon</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse St-Valentin 💕</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin)**.  
-Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Cupidon</mark>**, disponibles durant **<mark style="color:red;">l'événement St-Valentin 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Cupidon</mark>**, disponibles durant **<mark style="color:red;">l'événement St-Valentin 2025</mark>** ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 ### 🔸 <mark style="color:green;">Clé du Léprechaun 🍀</mark>
 La **<mark style="color:green;">Clé du Léprechaun</mark>** permet d'ouvrir la **[<mark style="color:green;">Caisse St-Patrick 🍀</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick)**.  
-Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Leprechaun</mark>**, disponibles durant **<mark style="color:green;">l'événement St-Patrick 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Leprechaun</mark>**, disponibles durant **<mark style="color:green;">l'événement St-Patrick 2025</mark>** ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 ### 🔸 <mark style="color:yellow;">Clé de Pâques 2025 🥚</mark>
 La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 2025 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques-2025)**.  
-Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Pâques</mark>**, disponibles durant **<mark style="color:yellow;">l'événement Pâques 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Pâques</mark>**, disponibles durant **<mark style="color:yellow;">l'événement Pâques 2025</mark>** ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 ### 🔸 <mark style="color:blue;">Clé Summer 🏖️</mark>
 La **<mark style="color:blue;">Clé Summer</mark>** permet d'ouvrir la **[<mark style="color:blue;">Caisse Summer 🏖️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer)**.  
-Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Summer</mark>**, disponibles durant **<mark style="color:blue;">l'événement Summer 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Summer</mark>**, disponibles durant **<mark style="color:blue;">l'événement Summer 2025</mark>** ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 ### 🔸 <mark style="color:yellow;">Clé Antique 🦴</mark>
 La **<mark style="color:yellow;">Clé Antique</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Antique 🦴</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique)**.  
-Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Antique</mark>**, qui sont obtenables en **<mark style="color:yellow;">terminant des statues</mark>** dans le Musée du spawn ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Antique</mark>**, qui sont obtenables en **<mark style="color:yellow;">terminant des statues</mark>** dans le Musée du spawn ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 ### 🔸 <mark style="color:red;">Clé Lune de Sang 🩸</mark>
 La **<mark style="color:red;">Clé Lune de sang</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Lune de Sang 🧛‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**.  
-Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de Lune de Sang</mark>**, disponibles durant **<mark style="color:red;">l'événement d'Halloween 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de Lune de Sang</mark>**, disponibles durant **<mark style="color:red;">l'événement d'Halloween 2025</mark>** ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 ### 🔸 <mark style="color:red;">Clé Pain d'épices 🍪</mark>
 La **<mark style="color:red;">Clé Pain d'épice</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Pain d'épices 🍪</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**.  
-Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pain d'épices</mark>**, disponibles durant **<mark style="color:red;">l'événement de Noël 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pain d'épices</mark>**, disponibles durant **<mark style="color:red;">l'événement de Noël 2025</mark>** ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 ###  🔸 <mark style="color:green;">Clé Lunaire 🎑</mark>
 La **<mark style="color:green;">Clé Lunaire</mark>** permet d'ouvrir la **[<mark style="color:green;">Caisse Lunaire 🎑:</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire)**.  
-Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Lunaire</mark>**, disponibles durant **<mark style="color:green;">l'événement du Nouvel an</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Lunaire</mark>**, disponibles durant **<mark style="color:green;">l'événement du Nouvel an</mark>** ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 ### 🔸 <mark style="color:yellow;">Clé de Pâques 2026 🐰</mark>
 La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 2026 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques-2026)**.
-Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de clé de Pâques</mark>**, disponibles dans la **<mark style="color:yellow;">boutique du monde pâques</mark>** avec **<mark style="color:yellow;">l'événement de Pâques</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
+Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de clé de Pâques</mark>**, disponibles dans la **<mark style="color:yellow;">boutique du monde pâques</mark>** avec **<mark style="color:yellow;">l'événement de Pâques</mark>** ou via les **<mark style="color:green;">fragments de clés aléatoire</mark>**.
 
 **Et voilà, vous savez tout sur le marché noir d'Évolucraft, mais attention… ceci doit rester secret 🤫**
