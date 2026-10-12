@@ -7,7 +7,7 @@ description: >-
 
 # ‼️ Règlement IG
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
 
@@ -118,7 +118,7 @@ Si vous avez un doute sur l'utilisation de votre farm ou d'un item, merci de cr�
   * Il est interdit de créer des villes dans le seul but de récupérer des coffres, de piller des structures, etc.
   * Il est recommandé de ne pas dégrader le paysage par des fermes sans aménagement urbain (ferme à mob en pierre, grands champs sans esthétisme, etc.). Cette règle s’applique aussi pour les bâtiments imposants en l’air, qui ne relèvent pas d’une construction de ville.
   
-{% hint style="warning" %}
+{% hint style="danger" %}
 Si ces règles ne sont pas respectées, nous vous contacterons et nous vous laisserons un délai pour que vous puissiez modifier ou retirer votre structure. Une fois ce délai expiré, la structure sera détruite.
 {% endhint %}
 
@@ -132,11 +132,6 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 * Rester dans une safe zone pour tuer des mobs plus facilement et/ou sans être tué est interdit peu importe le donjon.
 * Les donjons qui n'ont pas pu être terminés en raison d'un redémarrage du serveur (comme le redémarrage à 5H du matin) ne sont pas remboursables.
 
-{% hint style="warning" %}
-Suite aux bugs récents concernant les récompenses dans les donjons infinis, les demandes de remboursement pour des récompenses non reçues peuvent être remboursables seulement par des preuves vidéo ET des logs de chat.
-À défaut de preuves, le remboursement sera refusé.
-{% endhint %}
-
 ### <mark style="color:green;">Article D : Les Farms et machine à redstone</mark>
 
 * Toutes machines automatiques et semi-automatiques permettant de monter vos métiers ou d'obtenir des fragments d'étoiles automatiquement sont interdites
@@ -148,7 +143,7 @@ Suite aux bugs récents concernant les récompenses dans les donjons infinis, le
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
 * Monter les items évolutifs de manière classique, il est donc interdit de monter la pelle évolutive avec une ferme à neige, en utilisant la technique du poser/casser ou encore d'un usebug pour monter ces items évolutifs.
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Si votre système ne respecte pas les règles du serveur, celui-ci sera supprimé sans aucun remboursement possible.
 {% endhint %}
 
@@ -162,7 +157,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
   * ReplayMod, Flashback (Uniquement pour Record).
   * Badlion / Lunar / Feather / Modrinth
     * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
-  * Schematica / Litematica (Sans activer l'option printer ou easyplace).
+  * Schematica / Litematica (Sans activer l'option printer ou easyplace/autoplace).
   * Toggle Sneak / Sprint.
   * Pack de texture avec le contour des minerais
 
@@ -170,7 +165,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 
 * **Tous les mods donnant un avantage sur les autres joueurs :**
   * X-Ray / FreeCam / Pack Anti-Brouillard Lave/Eau
-  * Schematica Printer & Easy Place & copy/paste
+  * Schematica Printer, Easy Place/AutoPlace & copy/paste
     * Ainsi que tout mod qui permet de poser ou planter plus rapidement
   * FlyMod
   * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
@@ -189,8 +184,8 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 * Il n’est pas possible de récupérer les différentes récompenses grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, tout ce qui concerne les métiers, pass, argent, classement d'événements ou vote, du /boutique, /rewards...).
 * Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidive.
 
-{% hint style="warning" %}
-Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Evolucraft en ticket.
+{% hint style="danger" %}
+Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Evolucraft en ticket pour éviter un manque d'information lors d'une sanction.
 {% endhint %}
 
 ### <mark style="color:green;">Article G : L'AFK & Inactivité</mark>
@@ -199,7 +194,7 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 * Il est interdit d’automatiser des actions afin de contourner l’anti-AFK automatique du serveur : (macros, mods, etc.), sous peine de sanctions.
 * L'AFK de manière indéfinie est autorisé uniquement dans le /afk
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci est passible de sanctions, même en étant physiquement présent devant l’écran.
 {% endhint %}
 

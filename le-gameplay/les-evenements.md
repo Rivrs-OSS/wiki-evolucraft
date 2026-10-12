@@ -6,11 +6,23 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 **Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement. Voici donc la liste des événements présents actuellement sur le serveur.**
 
-## 🐣 Événement Temporaire
+## 👻 Événement Temporaire
 
-Prochainement la màj Summer
+Prochainement la mise à jour Halloween ! 🎃
 
 ## 🔄 Événements Récurrents
+
+### <mark style="color:green;">💠 Piñata 🎊</mark>
+
+**⏰ Tout les 3 heures entre 9h et 21h tous les jours** _(3H AM GMT-4 à 3H PM GMT-4🍁)_
+
+La <mark style="color:green;">**Piñata**</mark> est une activité qui consiste à <mark style="color:green;">**frapper une piñata dans le monde de Pâques**</mark> pendant une durée de <mark style="color:green;">**5 minutes après apparition**</mark>. Celle-ci apparaît aux <mark style="color:green;">**horaires annoncés**</mark>, et votre objectif est de la frapper autant de fois que possible afin de récolter des <mark style="color:green;">**œufs en chocolat**</mark> 🥚. La quantité de récompenses obtenues peut également augmenter en fonction des <mark style="color:green;">**améliorations réalisées dans votre incubateur**</mark> !
+
+{% hint style="warning" %}
+⚠️ **Attention :** Chaque coup porté à la <mark style="color:green;">**piñata**</mark> ne rapporte pas systématiquement des <mark style="color:green;">**œufs en chocolat**</mark>. Un <mark style="color:green;">**cooldown**</mark> est appliqué entre chaque coup afin de limiter les abus liés aux CPS (clique par seconde). Cette restriction s'applique <mark style="color:green;">**quel que soit l'item tenu en main**</mark> pour frapper la piñata.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Evenement/Pinata.png" alt=""><figcaption><strong>Aperçu de la <mark style="color:green;">Piñata</mark></strong></figcaption></figure>
 
 ### <mark style="color:green;">💠 Farm Boost 💱</mark>
 
