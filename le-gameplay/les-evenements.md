@@ -22,6 +22,8 @@ La <mark style="color:green;">**Piñata**</mark> est une activité qui consiste 
 ⚠️ **Attention :** Chaque coup porté à la <mark style="color:green;">**piñata**</mark> ne rapporte pas systématiquement des <mark style="color:green;">**œufs en chocolat**</mark>. Un <mark style="color:green;">**cooldown**</mark> est appliqué entre chaque coup afin de limiter les abus liés aux CPS (clique par seconde). Cette restriction s'applique <mark style="color:green;">**quel que soit l'item tenu en main**</mark> pour frapper la piñata.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/Evenement/Pinata.png" alt=""><figcaption><strong>Aperçu de la <mark style="color:green;">Piñata</mark></strong></figcaption></figure>
+
 ### <mark style="color:green;">💠 Farm Boost 💱</mark>
 
 **⏰ Tous les jours à 18h15** _(12H15 AM GMT-4🍁)_
