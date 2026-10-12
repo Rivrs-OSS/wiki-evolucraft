@@ -165,6 +165,8 @@ Le <mark style="color:red;">Parchemin Impossible</mark> s'obtient de plusieurs f
   * **[Abyssale 🌊](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-abyssal)**
   * **[Trésors 🏴‍☠️](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aux-tresors)**
   * **[St-Patrick 🍀](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick)** *(avec 2 parchemins)*
+  * **[Aquatique 🌊](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aquatique)** *(avec 3 parchemins)*
+  * **[Élémentaire 🔥❄️🪨](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire)** *(avec 3 parchemins)*
 * **Les offres du /boutique 🛒** *(300 gemmes 💎)*
 * **Lucky Block Gold ✴️**
 
