@@ -123,6 +123,7 @@
   * [🐲 Outils Draconique édition 2025](codex/outils/draconique2025.md)
   * [🐉 Outils Saphira](codex/outils/saphira.md)
   * [💫 Outils Sompteueux](codex/outils/sompteueux.md)
+  * [⚰️ Outils du Fossoyeur](codex/outils/fossoyeur.md)
   * [⚒️ Autres Outils](codex/outils/autre.md)
 * [📜 Les Parchemins d'Aventure](codex/parchemin/README.md)
   * [🧧 Les Parchemins Classiques](codex/parchemin/classique.md)

@@ -52,6 +52,7 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 * 🐲 [<mark style="color:red;"><strong>Outils Draconique édition 2025</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/draconique2025)
 * 🐉 [<mark style="color:blue;"><strong>Outils Saphira</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/saphira)
 * 💫 [<mark style="color:blue;"><strong>Outils Sompteueux</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/sompteueux)
+* ⚰️ [<mark style="color:purple;"><strong>Outils du Fossoyeur</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/fossoyeur)
 * ⚒️ [<mark style="color:green;"><strong>Autres Outils</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/autre)
 
 ## 💠 <mark style="color:green;">Des avantages supplémentaire ?</mark> 😵
@@ -104,6 +105,5 @@ La <mark style="color:green;">**Poussière d'Étoile**</mark> vous procurera des
 {% hint style="warning" %}
 ⚠️ Attention ! L'action d'application est irréversible. C'est-à-dire qu'une fois appliqué, vous ne pouvez plus modifier son effet ni le retirer !
 {% endhint %}
-
 
 
