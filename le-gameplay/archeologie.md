@@ -163,6 +163,20 @@ Vous pouvez compléter les statues suivantes (consultez votre avancée via le `/
     </td>
   </tr>
   <tr>
+    <td><mark style="color:blue;"><strong>Faucheuse</strong></mark></td>
+    <td><mark style="color:white;"><strong>❌</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle de la Faucheuse</strong></mark></p>
+      <p><mark style="color:white;"><strong>Robe de la Faucheuse</strong></mark></p>
+      <p><mark style="color:white;"><strong>Capuche de la Faucheuse</strong></mark></p>
+      <p><mark style="color:white;"><strong>Crâne de la Faucheuse</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Droit de la Faucheuse</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Gauche de la Faucheuse</strong></mark></p>
+      <p><mark style="color:white;"><strong>Manche de Faux de la Faucheuse</strong></mark></p>
+      <p><mark style="color:white;"><strong>Lame de Faux de la Faucheuse</strong></mark></p>
+    </td>
+  </tr>
+  <tr>
     <td><mark style="color:purple;"><strong>Atlas</strong></mark></td>
     <td>
       <p><mark style="color:white;"><strong>Tête d'Atlas</strong></mark></p>
@@ -175,6 +189,22 @@ Vous pouvez compléter les statues suivantes (consultez votre avancée via le `/
       <p><mark style="color:white;"><strong>Pierre du Bas d'Atlas</strong></mark></p>
       <p><mark style="color:white;"><strong>Bras Gauche d'Atlas</strong></mark></p>
       <p><mark style="color:white;"><strong>Jambe Gauche d'Atlas</strong></mark></p>
+    </td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;"><strong>Médecin de la Peste</strong></mark></td>
+    <td><mark style="color:white;"><strong>❌</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle du Médecin de la Peste</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bottes du Médecin de la Peste</strong></mark></p>
+      <p><mark style="color:white;"><strong>Manteau du Médecin de la Peste</strong></mark></p>
+      <p><mark style="color:white;"><strong>Ceinture du Médecin de la Peste</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Droit du Médecin de la Peste</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Gauche du Médecin de la Peste</strong></mark></p>
+      <p><mark style="color:white;"><strong>Chapeau du Médecin de la Peste</strong></mark></p>
+      <p><mark style="color:white;"><strong>Masque du Médecin de la Peste</strong></mark></p>
+      <p><mark style="color:white;"><strong>Canne du Médecin de la Peste</strong></mark></p>
+      <p><mark style="color:white;"><strong>Lanterne du Médecin de la Peste</strong></mark></p>
     </td>
   </tr>
   <tr>
@@ -196,7 +226,31 @@ Vous pouvez compléter les statues suivantes (consultez votre avancée via le `/
       <p><mark style="color:white;"><strong>Pied Droit du T-Rex</strong></mark></p>
     </td>
   </tr>
+  <tr>
+    <td><mark style="color:red;"><strong>Wyvern</strong></mark></td>
+    <td><mark style="color:white;"><strong>❌</strong></mark></td>
+    <td>
+      <p><mark style="color:white;"><strong>Socle de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Crâne de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Mâchoire de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Cou de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Cage Thoracique de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Colonne Vertébrale de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bassin de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Queue de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Aile Droite de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Aile Gauche de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Droit de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Bras Gauche de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Jambe Droite de Wyvern</strong></mark></p>
+      <p><mark style="color:white;"><strong>Jambe Gauche de Wyvern</strong></mark></p>
+    </td>
+  </tr>
 </table>
+
+{% hint style="info" %}
+La répartition des pièces de la Faucheuse, du Médecin de la Peste et de Wyvern entre les fouilles et les donjons n'est pas encore définitive. Elles sont provisoirement toutes indiquées comme récompenses de donjons.
+{% endhint %}
 
 **Voilà, vous connaissez tout sur l'<mark style="color:green;">Archéologie</mark> !  
 Bonne chasse, cher(e) <mark style="color:green;">Tyro Jones</mark> 🤠 !**
