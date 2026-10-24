@@ -703,30 +703,26 @@ Les informations concernant l'obtention de la <mark style="color:purple;">**Clé
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-{% hint style="info" %}
-**L'aperçu de la caisse et les images de ses récompenses seront ajoutés prochainement.**
-{% endhint %}
-
-| **Récompense** | **Détails** | **Pourcentage d'obtention** |
-| -------------- | ----------- | --------------------------- |
-| <mark style="color:purple;">**Casque Maudit**</mark> | **+22 Vie**, **+15 Force**, **+7% de chance de coup critique** et **+7% de dégâts critiques** | **5,55%** |
-| <mark style="color:purple;">**Plastron Maudit**</mark> | **+22 Vie**, **+15 Force**, **+7% de chance de coup critique** et **+7% de dégâts critiques** | **5,55%** |
-| <mark style="color:purple;">**Jambières Maudites**</mark> | **+22 Vie**, **+15 Force**, **+7% de chance de coup critique** et **+7% de dégâts critiques** | **5,55%** |
-| <mark style="color:purple;">**Bottes Maudites**</mark> | **+22 Vie**, **+15 Force**, **+7% de chance de coup critique** et **+7% de dégâts critiques** | **5,55%** |
-| <mark style="color:purple;">**Arme de Classe Maudite Aléatoire**</mark> | Lame Maudite du Titan, Arc Maudit du Chasseur, Sceptre Maudit de l'Ombre, Faux Maudite du Spectre ou Épée Maudite du Revenant | **5,55%** |
-| <mark style="color:purple;">**Marteau Maudit**</mark> | **Fortune IV** et **Efficacité VII** | **5,55%** |
-| <mark style="color:purple;">**Hache Maudite**</mark> | **Efficacité X** | **5,55%** |
-| <mark style="color:purple;">**Pelle Maudite**</mark> | **Efficacité X** | **5,55%** |
-| <mark style="color:purple;">**Canne à Pêche Maudite**</mark> | **Chance de la mer V** et **Appât V** | **5,56%** |
-| <mark style="color:purple;">**Houe Maudite**</mark> | **Fortune IV** et **Efficacité VII** | **5,56%** |
-| <mark style="color:purple;">**Œuf de Familier Maudit**</mark> | Œil Maudit (**Rare**, 40%), Vouivre Maudite (**Épique**, 35%) ou Diablotin Maudit (**Légendaire**, 25%) | **5,56%** |
-| <mark style="color:purple;">**Cosmétique Aléatoire**</mark> | — | **5,56%** |
-| <mark style="color:purple;">**Carte de Classe Aléatoire**</mark> | **4 à 8 Épiques** (60%), **1 à 2 Légendaires** (35%) ou **1 Mythique** (5%) | **5,56%** |
-| <mark style="color:purple;">**4 Tickets de Donjon Maudit**</mark> | — | **5,56%** |
-| <mark style="color:purple;">**3 Parchemins Maudits**</mark> | Récompense à récupérer dans le **`/update`** | **5,56%** |
-| <mark style="color:purple;">**12.000.000💰**</mark> | — | **5,56%** |
-| <mark style="color:purple;">**Adamantium Maudit**</mark> | — | **5,56%** |
-| <mark style="color:purple;">**2 Clés Maudites**</mark> | — | **5,56%** |
+| **Récompense** | **Pourcentage d'obtention** |
+| -------------- | --------------------------- |
+| <mark style="color:purple;">**Casque Maudit**</mark> | **5,55%** |
+| <mark style="color:purple;">**Plastron Maudit**</mark> | **5,55%** |
+| <mark style="color:purple;">**Jambières Maudites**</mark> | **5,55%** |
+| <mark style="color:purple;">**Bottes Maudites**</mark> | **5,55%** |
+| <mark style="color:purple;">**Arme de Classe Maudite Aléatoire**</mark> _(Lame Maudite du Titan, Arc Maudit du Chasseur, Sceptre Maudit de l'Ombre, Faux Maudite du Spectre, Épée Maudite du Revenant)_ | **5,55%** |
+| <mark style="color:purple;">**Marteau Maudit**</mark> | **5,55%** |
+| <mark style="color:purple;">**Hache Maudite**</mark> | **5,55%** |
+| <mark style="color:purple;">**Pelle Maudite**</mark> | **5,55%** |
+| <mark style="color:purple;">**Canne à Pêche Maudite**</mark> | **5,56%** |
+| <mark style="color:purple;">**Houe Maudite**</mark> | **5,56%** |
+| <mark style="color:purple;">**Œuf de Familier Maudit**</mark> _(Œil Maudit 40%, Vouivre Maudite 35%, Diablotin Maudit 25%)_ | **5,56%** |
+| <mark style="color:purple;">**Cosmétique Aléatoire**</mark> | **5,56%** |
+| <mark style="color:purple;">**Carte de Classe Aléatoire**</mark> _(Épique 60%, Légendaire 35%, Mythique 5%)_ | **5,56%** |
+| <mark style="color:purple;">**4 Tickets de Donjon Maudit**</mark> | **5,56%** |
+| <mark style="color:purple;">**3 Parchemins Maudits**</mark> | **5,56%** |
+| <mark style="color:purple;">**12.000.000💰**</mark> | **5,56%** |
+| <mark style="color:purple;">**Adamantium Maudit**</mark> | **5,56%** |
+| <mark style="color:purple;">**2 Clés Maudites**</mark> | **5,56%** |
 
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
