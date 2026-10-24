@@ -389,14 +389,69 @@ Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de
     <td>▸ <mark style="color:orange;">Arme de Classe Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire"><mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark></a>)</td>
   </tr>
   <tr>
-    <td><mark style="color:orange;">Épée Élémentale du Guerrier</mark></td>
-    <td><mark style="color:orange;">Élémentaire</mark></td>
+   <td><mark style="color:orange;">Épée Élémentale du Guerrier</mark></td>
+   <td><mark style="color:orange;">Élémentaire</mark></td>
+   <td>
+    <p><mark style="color:red;">🗡️ Force +56</mark></p>
+    <p><mark style="color:red;">❤️ Vie +75</mark></p>
+    <p><mark style="color:orange;">💀 Dégâts Critiques +19</mark></p>
+   </td>
+   <td><mark style="color:orange;">Bonus Dégâts 💢</mark> ▸ <mark style="color:orange;">+5% de dégâts</mark> dans les donjons <mark style="color:orange;">élémentaux (Avatar)</mark></td>
+   <td>▸ <mark style="color:orange;">Arme de Classe Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire"><mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark></a>)</td>
+ </tr>
+  <tr>
+    <td><mark style="color:purple;">Lame Maudite du Titan</mark></td>
+    <td><mark style="color:purple;">Maudite</mark></td>
     <td>
-     <p><mark style="color:red;">🗡️ Force +56</mark></p>
-     <p><mark style="color:red;">❤️ Vie +75</mark></p>
-     <p><mark style="color:orange;">💀 Dégâts Critiques +19</mark></p>
+     <p><mark style="color:red;">🗡️ Force +62</mark></p>
+     <p><mark style="color:red;">❤️ Vie +150</mark></p>
+     <p><mark style="color:blue;">🛡️ Défense +12</mark></p>
     </td>
-    <td><mark style="color:orange;">Bonus Dégâts 💢</mark> ▸ <mark style="color:orange;">+5% de dégâts</mark> dans les donjons <mark style="color:orange;">élémentaux (Avatar)</mark></td>
-    <td>▸ <mark style="color:orange;">Arme de Classe Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire"><mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark></a>)</td>
+    <td><strong><mark style="color:purple;">Aucun Effet</mark> Supplémentaire ❌</strong></td>
+    <td>▸ <mark style="color:purple;">Arme de Classe Maudite Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-maudite"><mark style="color:purple;">Caisse Maudite 👁️</mark></a>)</td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Arc Maudit du Chasseur</mark></td>
+    <td><mark style="color:purple;">Maudite</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +62</mark></p>
+     <p><mark style="color:orange;">💀 Dégâts Critiques +22</mark></p>
+     <p><mark style="color:cyan;">🏃‍♂️ Vitesse +12</mark></p>
+    </td>
+    <td><strong><mark style="color:purple;">Aucun Effet</mark> Supplémentaire ❌</strong></td>
+    <td>▸ <mark style="color:purple;">Arme de Classe Maudite Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-maudite"><mark style="color:purple;">Caisse Maudite 👁️</mark></a>)</td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Sceptre Maudit de l'Ombre</mark></td>
+    <td><mark style="color:purple;">Maudite</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +62</mark></p>
+     <p><mark style="color:yellow;">🧪 Mana +95</mark></p>
+     <p><mark style="color:blue;">✨ Régénération de Mana +2</mark></p>
+    </td>
+    <td><strong><mark style="color:purple;">Aucun Effet</mark> Supplémentaire ❌</strong></td>
+    <td>▸ <mark style="color:purple;">Arme de Classe Maudite Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-maudite"><mark style="color:purple;">Caisse Maudite 👁️</mark></a>)</td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Faux Maudite du Spectre</mark></td>
+    <td><mark style="color:purple;">Maudite</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +66</mark></p>
+     <p><mark style="color:orange;">💀 Dégâts Critiques +36</mark></p>
+     <p><mark style="color:red;">🥊 Chance de Critique +18</mark></p>
+    </td>
+    <td><strong><mark style="color:purple;">Aucun Effet</mark> Supplémentaire ❌</strong></td>
+    <td>▸ <mark style="color:purple;">Arme de Classe Maudite Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-maudite"><mark style="color:purple;">Caisse Maudite 👁️</mark></a>)</td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Épée Maudite du Revenant</mark></td>
+    <td><mark style="color:purple;">Maudite</mark></td>
+    <td>
+     <p><mark style="color:red;">🗡️ Force +62</mark></p>
+     <p><mark style="color:red;">❤️ Vie +85</mark></p>
+     <p><mark style="color:orange;">💀 Dégâts Critiques +22</mark></p>
+    </td>
+    <td><strong><mark style="color:purple;">Aucun Effet</mark> Supplémentaire ❌</strong></td>
+    <td>▸ <mark style="color:purple;">Arme de Classe Maudite Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-maudite"><mark style="color:purple;">Caisse Maudite 👁️</mark></a>)</td>
   </tr>
 </table>
