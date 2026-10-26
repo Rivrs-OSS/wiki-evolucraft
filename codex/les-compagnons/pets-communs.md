@@ -191,7 +191,7 @@ description: Retrouvez ici toute la liste des compagnons communs dans le serveur
      <p><mark style="color:green;"><strong>Niv. 15</strong></mark> → <mark style="color:green;"><strong>+ 2.500</strong></mark> 💲/h</p>
      <p><mark style="color:green;"><strong>Niv. 20</strong></mark> → <mark style="color:green;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:green;"><strong>Fermier 🌾</strong></mark></p>  
     </td>
-    <td>* Œuf de famillier (Caisse Pâques 🥚)</td>
+    <td>* Œuf de famillier (Caisse Pâques 2025 🥚)</td>
   </tr>
   <tr>
     <td><mark style="color:green;"><strong>Petite-Feuille</strong></mark></td>

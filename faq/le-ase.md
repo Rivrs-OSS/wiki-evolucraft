@@ -97,10 +97,6 @@ Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnalis
 
 * **<mark style="color:green;">Potion d'invisibilité</mark>** : rend le <mark style="color:green;">**porte-armure invisible**</mark>, mais uniquement sa structure de base. Les éléments ajoutés dessus (armures, objets, etc.) **restent visibles**.
 * **<mark style="color:green;">Poisson-globe</mark> (**_**pufferfish**_**)** : change la <mark style="color:green;">**taille de l’armor stand**</mark>. Vous pourrez changer la taille de votre choix parmis 10 préset de taille déjà finis via les block de béton rouge, mais vous pouvez l'ajuster la taille avec les concrete verte ou orange.
-{% hint style="warning" %}
-**Important 🚨** :\
-Vous ne pouvez pas actuellement changer la taille d'un porte armure, il sera de retour prochainement.
-{% endhint %}
 * **<mark style="color:green;">Dalle de pierre lisse</mark> (**_**smooth stone slab**_**)** : permet de <mark style="color:green;">**retirer la plateforme en pierre**</mark> sous l’armor stand, ne laissant visible que la **partie en bois**.
 * **<mark style="color:green;">Bloc de sable</mark> (**_**sand block**_**)** : ajoute un <mark style="color:green;">**effet de gravité**</mark> à l’armor stand. S’il est suspendu dans les airs, il tombera au sol dès que la gravité sera activée.
 * **<mark style="color:green;">Bloc invisible</mark> 🚫** : permet de <mark style="color:green;">**désactiver l’interaction avec l’armure**</mark> sur le porte-armure. Les objets restent visibles, mais **ne peuvent plus être récupérés**.

@@ -10,7 +10,14 @@ Le <mark style="color:orange;">**donjon Avatar**</mark> est le donjon événemen
 
 ### 🔷 Obtention des tickets 🎫
 
-Chaque jour, vous recevez <mark style="color:orange;">**1 Ticket Donjon Avatar**</mark> _(contrairement à 3 pour le [<mark style="color:green;">**Donjon Infini**</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini))_. Vous pouvez également en obtenir via la [<mark style="color:orange;">**Caisse Élémentaire**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire) _(4 Tickets Donjon Élémental)_.
+* Via la commande <mark style="color:green;">`/atlasbonks redeem`</mark>
+Chaque jour, vous recevez <mark style="color:orange;">**1 Ticket Donjon Avatar**</mark> _(contrairement à 3 pour le [<mark style="color:green;">**Donjon Infini**</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-infini))_.
+
+* Via la <mark style="color:orange;">**Caisse Élémentaire**</mark>
+Vous pouvez également en obtenir via la [<mark style="color:orange;">**Caisse Élémentaire**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire) _(4 Tickets Donjon Élémental)_.
+
+* Via les récompenses du commande <mark style="color:green;">`/pass`</mark>
+Également, c'est possible d'en avoir via <mark style="color:green;">les récompenses du pass</mark>, que vous soyez en <mark style="color:green;">récompense normal ou premium</mark> ! Si vous réussissez à le finir, vous pourrez obtenir jusqu'à <mark style="color:green;">12 tickets de Donjon Élémental</mark> (23 avec le premium) 
 
 ### 🔷 Ouverture du menu 🏛️
 

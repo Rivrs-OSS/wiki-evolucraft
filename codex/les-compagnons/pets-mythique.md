@@ -130,20 +130,6 @@ description: Retrouvez ici toute la liste des compagnons mythiques dans le serve
     <td>
       <p>* Œuf de famillier (Caisse Saint Valentin 💕)</p>
   </tr>
-  <tr>
-    <td align="center"><mark style="color:red;"><strong>Roi Leprechaun</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/Roi Leprechaun.png" alt=""></figure></td>
-    <td>
-      <p><mark style="color:red;"><strong>Niv. 1</strong></mark> → <mark style="color:red;"><strong>+ 13.500</strong></mark> 💲/h</p>
-      <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>🗡️ Force</strong></mark> +20</p>
-      <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <<mark style="color:red;"><strong>+15%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
-      <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> +2,5</p>
-      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+20%</strong></mark> sur la vente d'<mark style="color:red;"><strong>or</strong></mark> au /shop</p>
-    </td>
-    <td>
-      <p> * lucky block gold (Evènement Saint-Patrick​🍀​)</p>
-    </td>
-  </tr>
    <tr>
     <td align="center"><mark style="color:red;"><strong>Sunny</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/sunny.png" alt=""></figure></td>
@@ -155,7 +141,22 @@ description: Retrouvez ici toute la liste des compagnons mythiques dans le serve
       <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+15%</strong></mark> d'exp pour les <mark style="color:red;"><strong> Classes</strong></mark></p>
     </td>
     <td>
-      <p> * Œuf de famillier (Caisse summer 2026🏖️)</p>
+      <p> * Œuf de familier (Caisse Aquatique 🌊)</p>
+      <p> * Récompenses de Donjon Infini ♾️</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><mark style="color:red;"><strong>Roi Leprechaun</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/Roi Leprechaun.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:red;"><strong>Niv. 1</strong></mark> → <mark style="color:red;"><strong>+ 13.500</strong></mark> 💲/h</p>
+      <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>🗡️ Force</strong></mark> +20</p>
+      <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <<mark style="color:red;"><strong>+15%</strong></mark> d'argent sur <mark style="color:red;"><strong>TOUT les métiers</strong></mark></p>
+      <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>🥊 Chance de Critique</strong></mark> +2,5</p>
+      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+20%</strong></mark> sur la vente d'<mark style="color:red;"><strong>or</strong></mark> au /shop</p>
+    </td>
+    <td>
+      <p> * Lucky Block Gold (Evènement Saint-Patrick​🍀​)</p>
     </td>
   </tr>
 </table>

@@ -49,7 +49,9 @@ Et voilà ! Votre coffre de vente est créé 🤩 !
 * <mark style="color:green;">**`/qs sell`**</mark>**&#x20;: Permet de transformer un coffre d'achat en un coffre de vente.**
 * <mark style="color:green;">**`/qs item`**</mark>**&#x20;: Permet de changer l'item en vente.**
 * <mark style="color:green;">**`/qs staff add [pseudo]`**</mark>**&#x20;: Permet d'ajouter un membre.**
-* <mark style="color:green;">**`/qs toggledisplay`**</mark>**&#x20;: Permet d'afficher ou de masquer l'item au-dessus du coffre.**
+* <mark style="color:green;">**`/qs toggledisplay`**</mark>&#x20;: **Permet d'afficher ou de masquer l'item au-dessus du coffre.**
+* <mark style="color:green;">**`/finditem hide`**</mark>&#x20;: *(en visant un coffre de shop)* **Permet de cacher dans le /finditem, le coffre visé afin qu'il n'apparait plus lors des recherches de shops.**
+* <mark style="color:green;">**`/finditem reveal`**</mark>&#x20;: *(en visant un coffre de shop)* **Permet de révéler dans le /finditem, le coffre visé afin qu'il apparait de nouveau lors des recherches de shops.**
 
 ## <mark style="color:green;">**🏪 Le Finditem**</mark>
 
