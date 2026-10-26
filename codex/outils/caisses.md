@@ -728,6 +728,102 @@ Les <mark style="color:cyan;">outils de l'Été</mark> s'obtiennent dans la [<ma
   </tr>
 </table>
 
+## 👁️◦ <mark style="color:purple;">Outils Maudits</mark>
+
+### 🔹 <ins>Son obtention</ins>🤔
+
+Les <mark style="color:purple;">outils Maudits</mark> s'obtiennent dans la [<mark style="color:purple;">Caisse Maudite</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-maudite) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+
+### 🔹 <ins>Son aperçu</ins>🔍
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
+    <td align="center"><strong><ins>Enchantement</ins> 📖</strong></td>
+    <td align="center"><strong><ins>Durabilité</ins> 📏</strong></td>
+    <td align="center"><strong><ins>Effet</ins> ✨</strong></td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>Marteau Maudit</strong></mark></p>
+     <p><em>Image à venir</em></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Fortune IV</strong></mark></p>
+     <p>▸ <mark style="color:purple;"><strong>Efficacité VII</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>5 000</strong></mark> de <mark style="color:purple;"><strong>Durabilité</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Effet Hammer</strong></mark> : Casse les blocs dans une zone de 3x3.</p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>Hache Maudite</strong></mark></p>
+     <p><em>Image à venir</em></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Efficacité X</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>5 000</strong></mark> de <mark style="color:purple;"><strong>Durabilité</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Effet Bûcheron</strong></mark> : Abat un arbre jusqu'à 10 blocs de haut.</p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>Pelle Maudite</strong></mark></p>
+     <p><em>Image à venir</em></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Efficacité X</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>6 000</strong></mark> de <mark style="color:purple;"><strong>Durabilité</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Effet Magnet</strong></mark> : Ramasse les blocs cassés.</p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>Canne à Pêche Maudite</strong></mark></p>
+     <p><em>Image à venir</em></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Chance de la Mer V</strong></mark></p>
+     <p>▸ <mark style="color:purple;"><strong>Appât V</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>1 500</strong></mark> de <mark style="color:purple;"><strong>Durabilité</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Effet Pêche</strong></mark> : Vous avez 100% de chance de doubler votre pêche.</p>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>Houe Maudite</strong></mark></p>
+     <p><em>Image à venir</em></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Fortune IV</strong></mark></p>
+     <p>▸ <mark style="color:purple;"><strong>Efficacité VII</strong></mark></p>
+   </td>
+   <td align="center">
+     <p><mark style="color:purple;"><strong>10 000</strong></mark> de <mark style="color:purple;"><strong>Durabilité</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:purple;"><strong>Effet Magnet</strong></mark> : Ramasse les cultures cassées.</p>
+     <p>▸ <mark style="color:purple;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 3x3.</p>
+   </td>
+  </tr>
+</table>
+
 ## 🤫 Et d'autres nouveaux outils sont à prévoir...
 
 Et voilà, vous connaissez désormais tout les outils du serveur ! À vous de les équiper pour vos meilleurs farms ! 😎
