@@ -707,7 +707,7 @@ Les informations concernant l'obtention de la <mark style="color:purple;">**Clé
 | -------------- | --------------------------- |
 | <mark style="color:purple;">**Casque Maudit**</mark> | **5,55%** |
 | <mark style="color:purple;">**Plastron Maudit**</mark> | **5,55%** |
-| <mark style="color:purple;">**Jambières Maudites**</mark> | **5,55%** |
+| <mark style="color:purple;">**Pantalon Maudit**</mark> | **5,55%** |
 | <mark style="color:purple;">**Bottes Maudites**</mark> | **5,55%** |
 | <mark style="color:purple;">**Arme de Classe Maudite Aléatoire**</mark> _(Lame Maudite du Titan, Arc Maudit du Chasseur, Sceptre Maudit de l'Ombre, Faux Maudite du Spectre, Épée Maudite du Revenant)_ | **5,55%** |
 | <mark style="color:purple;">**Marteau Maudit**</mark> | **5,55%** |

@@ -80,6 +80,10 @@ Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous p
    <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/Adamantium_Paques.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Plaque de chocolat</mark></strong></p></figcaption></figure></td>
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-de-paques-2026"><mark style="color:yellow;">Caisse Pâques 2026 🥚</mark></a></td>
   </tr>
+  <tr>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumMaudit.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:purple;">Adamantium Maudit</mark></strong></p></figcaption></figure></td>
+   <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-maudite"><mark style="color:purple;">Caisse Maudite 👁️</mark></a></td>
+  </tr>
 </table>
 
 L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark style="color:green;">**outil**</mark> sur lequel il est appliqué la propriété d’être <mark style="color:green;">**incassable**</mark>. Vous n’aurez plus jamais à vous préoccuper de la <mark style="color:green;">**durabilité**</mark> de votre équipement.
@@ -105,5 +109,4 @@ La <mark style="color:green;">**Poussière d'Étoile**</mark> vous procurera des
 {% hint style="warning" %}
 ⚠️ Attention ! L'action d'application est irréversible. C'est-à-dire qu'une fois appliqué, vous ne pouvez plus modifier son effet ni le retirer !
 {% endhint %}
-
 
