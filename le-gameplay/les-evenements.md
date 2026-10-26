@@ -4,11 +4,15 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 # 🎪 Les Événements
 
-**Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement. Voici donc la liste des événements présents actuellement sur le serveur.**
+Retrouvez ici l'**événement temporaire** actuellement disponible ainsi que les **événements récurrents** lancés automatiquement sur le serveur.
 
-## 🐣 Événement Temporaire
+## 👁️ Événement Temporaire
 
-Prochainement la màj Summer
+### L'Événement Maudit
+
+Récupérez des **Écus Maudits** grâce aux fouilles archéologiques, au Chaudron magique et au Donjon Maudit, puis dépensez-les dans la boutique de l'événement.
+
+[**Découvrir l'Événement Maudit →**](evenement-maudit.md)
 
 ## 🔄 Événements Récurrents
 
