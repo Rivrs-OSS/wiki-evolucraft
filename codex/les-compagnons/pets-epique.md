@@ -458,4 +458,16 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
    </td>
    <td>* Œuf de famillier (Caisse Élémentaire ☄️)</td>
   </tr>
+   <tr>
+   <td><mark style="color:blue;"><strong>Vouivre Maudite</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Vouivre.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Aérienne)</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> +20</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>+ 10.000</strong></mark> 💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +10</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+5%</strong></mark> d'EXP sur <mark style="color:blue;"><strong>TOUS les métiers</strong></mark></p>
+    </td>
+    <td>* Œuf de famillier (Caisse Maudite 👹)</td>
+  </tr>
 </table>

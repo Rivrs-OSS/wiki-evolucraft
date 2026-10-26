@@ -296,4 +296,15 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p>* Œuf de famillier (Caisse Élémentaire ☄️)</p>
     </td>
   </tr>
+  <tr>
+   <td><mark style="color:purple;"><strong>Diablotin Maudit</strong></mark></td>
+   <td><figure><img src=".gitbook/assets/Les_Compagnons/Items/Legendaire/DiablotinMaudit.png" alt=""></figure></td>
+   <td>
+        <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark>+20
+    <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>🗡️ Force</strong></mark> +15</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> →<mark style="color:purple;"><strong>+ 24.000</strong></mark> 💲/h</p>
+     <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark> +4</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> d'argent sur <mark style="color:purple;"><strong>TOUS les métiers</strong></mark></p>
+   <td>* Œuf de famillier (Caisse Maudite 👹)</td>
+  </tr>
 </table>
