@@ -311,6 +311,6 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark> +4</p>
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> d'argent sur <mark style="color:purple;"><strong>TOUS les métiers</strong></mark></p>
    </td>
-   <td>* Œuf de famillier (Caisse maudite 👹)</td>
+   <td>* Œuf de famillier (Caisse maudite 👁️)</td>
   </tr>
 </table>

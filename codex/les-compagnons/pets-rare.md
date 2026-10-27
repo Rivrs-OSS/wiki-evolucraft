@@ -266,7 +266,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
   </tr>
   <tr>
     <td><mark style="color:yellow;"><strong>Oeil Maudit</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/pyryx.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/OeilMaudit.png" alt=""></figure></td>
     <td>
       <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+15%</strong></mark> sur la vente <mark style="color:yellow;"><strong>Citrouille</strong></mark> au /shop</p>
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>  7.000</strong></mark> 💲/h</p>
@@ -274,6 +274,6 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark>  → <mark style="color:yellow;"><strong>🗡️ Force</strong></mark> +6</p>
       <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Chasseur 🗡️</strong></mark></p>
     </td>
-    <td>* Œuf de famillier (Caisse maudite 👹)</td>
+    <td>* Œuf de famillier (Caisse maudite 👁️)</td>
   </tr>
 </table>

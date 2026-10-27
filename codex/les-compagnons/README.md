@@ -90,14 +90,14 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**5 sauvegardes**<
 
 <figure><img src="../../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
-Il existe au total <mark style="color:green;">**100 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.\
+Il existe au total <mark style="color:green;">**121 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.\
 Ils sont classés par <mark style="color:green;">**rareté**</mark> :
 
-* [<mark style="color:green;">**22 compagnons Communs 🐸**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-communs) dont 6 shinys.  
-* [<mark style="color:yellow;">**23 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-rare) dont 5 shinys.  
-* [<mark style="color:blue;">**39 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-epique) dont 4 shinys.  
-* [<mark style="color:purple;">**24 compagnons Légendaires 👾**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-legendaire) dont 2 shinys.  
-* [<mark style="color:red;">**10 compagnons Mythiques 🦞**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-mythique) dont 1 shiny.  
+* [<mark style="color:green;">**22 compagnons Communs 🐸**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-communs) dont 6 shinys.
+* [<mark style="color:yellow;">**24 compagnons Rares 🐤**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-rare) dont 5 shinys.
+* [<mark style="color:blue;">**40 compagnons Épiques 🐟**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-epique) dont 4 shinys.
+* [<mark style="color:purple;">**25 compagnons Légendaires 👾**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-legendaire) dont 2 shinys.
+* [<mark style="color:red;">**10 compagnons Mythiques 🦞**</mark>](https://wiki.evolucraft.fr/codex/les-compagnons/pets-mythique) dont 1 shiny.
 
 {% hint style="info" %}
 Maintenant que vous savez tout sur les <mark style="color:green;">**compagnons**</mark>, tentez d’en obtenir le plus possible et exploitez-les au maximum dans vos aventures sur Evolucraft !
