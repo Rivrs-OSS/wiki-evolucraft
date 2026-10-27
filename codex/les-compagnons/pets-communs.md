@@ -122,7 +122,7 @@ description: Retrouvez ici toute la liste des compagnons communs dans le serveur
     </td>
   </tr>
   <tr>
-    <td><mark style="color:green;"><strong>Potato</strong></mark></td>
+    <td><mark style="color:green;"><strong>Potate</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Commun/Potato.png" alt=""></figure></td>
     <td>
      <p><mark style="color:green;"><strong>Niv. 1</strong></mark> → <mark style="color:green;"><strong>+10%</strong></mark> sur la vente de <mark style="color:green;"><strong>Betterave</strong></mark> chez Jimmy</p>

@@ -130,21 +130,6 @@ description: Retrouvez ici toute la liste des compagnons mythiques dans le serve
     <td>
       <p>* Œuf de famillier (Caisse Saint Valentin 💕)</p>
   </tr>
-   <tr>
-    <td align="center"><mark style="color:red;"><strong>Sunny</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/sunny.png" alt=""></figure></td>
-    <td>
-      <p><mark style="color:red;"><strong>Niv. 1</strong></mark> → <mark style="color:red;"><strong>+ 15.237</strong></mark> 💲/h</p>
-      <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>🏃‍♂️ Vitesse</strong></mark> +20/<mark style="color:red;"><strong>🤺 Dextérité</strong></mark>+15</p>
-      <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>+ 19.763</strong></mark> 💲/h</p>
-      <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>🛡️ Défense</strong></mark> +15/<mark style="color:red;"><strong>🗡️ Force</strong></mark>+15</p>
-      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+15%</strong></mark> d'exp pour les <mark style="color:red;"><strong> Classes</strong></mark></p>
-    </td>
-    <td>
-      <p> * Œuf de familier (Caisse Aquatique 🌊)</p>
-      <p> * Récompenses de Donjon Infini ♾️</p>
-    </td>
-  </tr>
   <tr>
     <td align="center"><mark style="color:red;"><strong>Roi Leprechaun</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/Roi Leprechaun.png" alt=""></figure></td>
@@ -157,6 +142,21 @@ description: Retrouvez ici toute la liste des compagnons mythiques dans le serve
     </td>
     <td>
       <p> * Lucky Block Gold (Evènement Saint-Patrick​🍀​)</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><mark style="color:red;"><strong>Sunny</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Mythique/sunny.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:red;"><strong>Niv. 1</strong></mark> → <mark style="color:red;"><strong>+ 15.237</strong></mark> 💲/h</p>
+      <p><mark style="color:red;"><strong>Niv. 5</strong></mark> → <mark style="color:red;"><strong>🏃‍♂️ Vitesse</strong></mark> +20/<mark style="color:red;"><strong>🤺 Dextérité</strong></mark>+15</p>
+      <p><mark style="color:red;"><strong>Niv. 10</strong></mark> → <mark style="color:red;"><strong>+ 19.763</strong></mark> 💲/h</p>
+      <p><mark style="color:red;"><strong>Niv. 15</strong></mark> → <mark style="color:red;"><strong>🛡️ Défense</strong></mark> +15/<mark style="color:red;"><strong>🗡️ Force</strong></mark>+15</p>
+      <p><mark style="color:red;"><strong>Niv. 20</strong></mark> → <mark style="color:red;"><strong>+15%</strong></mark> d'exp pour les <mark style="color:red;"><strong> Classes</strong></mark></p>
+    </td>
+    <td>
+      <p> * Œuf de familier (Caisse Aquatique 🌊)</p>
+      <p> * Récompenses de Donjon Infini ♾️</p>
     </td>
   </tr>
 </table>

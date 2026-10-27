@@ -32,6 +32,21 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
     </td>
   </tr>
   <tr>
+    <td><mark style="color:yellow;"><strong>Goat</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Goat.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+ 3.000</strong></mark> 💲/h</p>
+      <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>🛡️ Défense</strong></mark> +4</p>
+      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Terrestre)</p>
+      <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 3.000</strong></mark> 💲/h</p>
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Mineur ⛏️</strong></mark></p>
+    </td>
+    <td>
+      <p>* Œuf de familier (Caisse Émeraude ✳️)</p>
+      <p>* Œuf de familier (Caisse Rubis 🔻)</p>
+    </td>
+  </tr>
+  <tr>
     <td><mark style="color:yellow;"><strong>Hedwig</strong></mark></td>
     <td>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Hedwig.png" alt=""></figure></p>
@@ -77,7 +92,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Terrestre)</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Chasseur 🗡️</strong></mark></p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>🤺 Dextérité</strong></mark> +2</p>     
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>🤺 Dextérité</strong></mark> +2</p>
     </td>
     <td>
       <p>* Œuf de familier (Caisse Émeraude ✳️)</p>
@@ -95,22 +110,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>🧪 Mana</strong></mark> +20</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Aérienne)</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Pêcheur 🎣</strong></mark></p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+ 4.000</strong></mark> 💲/h</p>      
-    </td>
-    <td>
-      <p>* Œuf de familier (Caisse Émeraude ✳️)</p>
-      <p>* Œuf de familier (Caisse Rubis 🔻)</p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:yellow;"><strong>Goat</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Goat.png" alt=""></figure></td>
-    <td>
-      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+ 3.000</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>🛡️ Défense</strong></mark> +4</p>
-      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Terrestre)</p>
-      <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 3.000</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Mineur ⛏️</strong></mark></p>    
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+ 4.000</strong></mark> 💲/h</p>
     </td>
     <td>
       <p>* Œuf de familier (Caisse Émeraude ✳️)</p>
@@ -125,7 +125,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 3.000</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Aérienne)</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>🏃‍♂️ Vitesse</strong></mark> +5</p>    
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>🏃‍♂️ Vitesse</strong></mark> +5</p>
     </td>
     <td>* Œuf de famillier (Caisse Draconique 🐉)</td>
   </tr>
@@ -137,7 +137,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>🗡️ Force</strong></mark> +4</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>+15%</strong></mark> sur la vente d'<mark style="color:yellow;"><strong>Algues</strong></mark> au /shop</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 4.000</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Pêcheur 🎣</strong></mark></p>     
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Pêcheur 🎣</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Abyssal 🌊)</td>
   </tr>
@@ -149,7 +149,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 4.000</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>🏃‍♂️ Vitesse</strong></mark> +4</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>🛡️ Défense</strong></mark> +5</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Fermier 🌾</strong></mark></p>      
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Fermier 🌾</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse aux Trésors 🏴‍☠️)</td>
   </tr>
@@ -161,9 +161,21 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>🏃‍♂️ Vitesse</strong></mark> +2</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → Réduction des <mark style="color:yellow;"><strong>Dégats de Chute</strong></mark> de moitié</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 3.500</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Mineur ⛏️</strong></mark></p>     
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Mineur ⛏️</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Givrée ❄️)</td>
+  </tr>
+  <tr>
+    <td><mark style="color:yellow;"><strong>Nanook</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Nanook.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+40%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Morues</strong></mark> au /shop</p>
+      <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 5.000</strong></mark> 💲/h</p>
+      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>🗡️ Force</strong></mark> +4</p>
+      <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>🏃‍♂️ Vitesse</strong></mark> +2</p>
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>Célérité 1</strong></mark></p>
+    </td>
+    <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
   </tr>
   <tr>
     <td><mark style="color:yellow;"><strong>Serpent Cristallin</strong></mark></td>
@@ -173,7 +185,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>❤️ Vie</strong></mark> +6</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Monture</strong></mark> (Aérienne)</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 4.500</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>ForgeMage 📖</strong></mark></p>    
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+2,5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>ForgeMage 📖</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Saint Valentin 💕)</td>
   </tr>
@@ -185,7 +197,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 3.500</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Célérité 1</strong></mark></p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 4.500</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Fermier 🌾</strong></mark></p>    
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Fermier 🌾</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Saint Patrick 🍀)</td>
   </tr>
@@ -197,7 +209,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>✨ Régénération de Mana</strong></mark> +1</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>+ 3.500</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>❤️ Vie</strong></mark> +35</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>ForgeMage 📖</strong></mark></p>  
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>ForgeMage 📖</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Pâques 🥚)</td>
   </tr>
@@ -209,10 +221,10 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 2.500</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>❤️ Vie</strong></mark> +27</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 3.500</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Pêcheur 🎣</strong></mark></p>  
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Pêcheur 🎣</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Antique 🗿)</td>
-  </tr>  
+  </tr>
   <tr>
     <td><mark style="color:yellow;"><strong>Mère Noël</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/MereNoel.png" alt=""></figure></td>
@@ -221,7 +233,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 2.250</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>Célérité 1</strong></mark></p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+ 3.000</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Bûcheron 🪚</strong></mark></p>  
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>Bûcheron 🪚</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Pain d'épices 🍪)</td>
   </tr>
@@ -238,18 +250,6 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
     <td>* Œuf de famillier (Caisse Pâques 2026 🐰)</td>
   </tr>
   <tr>
-    <td><mark style="color:yellow;"><strong>Nanook</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Nanook.png" alt=""></figure></td>
-    <td>
-      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>+40%</strong></mark> sur la vente de <mark style="color:yellow;"><strong>Morues</strong></mark> au /shop</p>
-      <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 5.000</strong></mark> 💲/h</p>
-      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>🗡️ Force</strong></mark> +4</p>
-      <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>🏃‍♂️ Vitesse</strong></mark> +2</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>Célérité 1</strong></mark></p>
-    </td>
-    <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
-  </tr>
-  <tr>
     <td><mark style="color:yellow;"><strong>Pyryx</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/Pyryx.png" alt=""></figure></td>
     <td>
@@ -264,7 +264,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
      <p>* Récompenses de Donjon Avatar 🌌</p>
    </td>
   </tr>
-   <tr>
+  <tr>
     <td><mark style="color:yellow;"><strong>Oeil Maudit</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/pyryx.png" alt=""></figure></td>
     <td>
