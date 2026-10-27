@@ -57,11 +57,9 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**23 classes**<
 * [<mark style="color:purple;">**Samouraï 🥷**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/samourai) : Guerrier d'honneur et de discipline maître de la lame et du silence, le samouraï fauche ses ennemis avec grâce et précision. _(DPS)_
 * [<mark style="color:purple;">**Chasseur de Phénix 💥**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chasseur-de-phenix) : Maîtes des flammes éternelles, le Chasseur de Phénix puise sa force dans la renaissance et le feu sacré. _(DPS)_
 
-### 🟥 <mark style="color:red;">Classe Mythique</mark>
+### 🟥 <mark style="color:red;">Classes Mythiques</mark>
 * [<mark style="color:red;">**Chevalier de la mort ☠️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-de-la-mort) : Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur. _(Tanks)_
-
-### 🟠 <mark style="color:orange;">Classe Élémentaire</mark>
-* [<mark style="color:orange;">**Avatar ☄️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/avatar) : Maîtrise le feu, la glace et la terre, changeant d'élément à la volée pour adapter son combo à chaque situation. _(DPS)_
+* [<mark style="color:red;">**Avatar ☄️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/avatar) : Maîtrise le feu, la glace et la terre, changeant d'élément à la volée pour adapter son combo à chaque situation. _(DPS)_
 
 ## <mark style="color:green;">💠 Que signifient les avantages statistiques ? 👨‍🔬</mark>
 

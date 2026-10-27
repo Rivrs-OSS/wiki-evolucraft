@@ -330,7 +330,7 @@ Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de
   </tr> 
   <tr>
     <td><mark style="color:orange;">Lame Élémentale du Titan</mark></td>
-    <td><mark style="color:orange;">Élémentaire</mark></td>
+    <td><mark style="color:orange;">Elementals</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +56</mark></p>
      <p><mark style="color:red;">❤️ Vie +135</mark></p>
@@ -341,7 +341,7 @@ Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de
   </tr>
   <tr>
     <td><mark style="color:orange;">Faux Élémentale de l'Ombre</mark></td>
-    <td><mark style="color:orange;">Élémentaire</mark></td>
+    <td><mark style="color:orange;">Elementals</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +60</mark></p>
      <p><mark style="color:orange;">💀 Dégâts Critiques +31</mark></p>
@@ -352,7 +352,7 @@ Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de
   </tr>
   <tr>
     <td><mark style="color:orange;">Sceptre Élémental de l'Avatar</mark></td>
-    <td><mark style="color:orange;">Élémentaire</mark></td>
+    <td><mark style="color:orange;">Elementals</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +56</mark></p>
      <p><mark style="color:yellow;">🧪 Mana +80</mark></p>
@@ -363,7 +363,7 @@ Les armes d'événement **ne peuvent pas être forgées**. Seules les **armes de
   </tr>
   <tr>
    <td><mark style="color:orange;">Épée Élémentale du Guerrier</mark></td>
-   <td><mark style="color:orange;">Élémentaire</mark></td>
+   <td><mark style="color:orange;">Elementals</mark></td>
    <td>
     <p><mark style="color:red;">🗡️ Force +56</mark></p>
     <p><mark style="color:red;">❤️ Vie +75</mark></p>

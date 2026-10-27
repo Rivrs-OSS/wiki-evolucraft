@@ -97,6 +97,10 @@ _Image à venir_
 
 #### Malédictions
 
+{% hint style="warning" %}
+Les **malédictions** peuvent être activées **uniquement lorsque vous entrez seul** dans le Donjon Maudit. Elles ne sont pas disponibles lorsque vous jouez en groupe.
+{% endhint %}
+
 Lorsque vous entrez seul dans le donjon, vous pouvez choisir des **malédictions**. Elles augmentent la difficulté du donjon, mais améliorent également la rareté des récompenses.
 
 _Image à venir_
