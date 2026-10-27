@@ -233,24 +233,6 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
       <p>* Boss du Donjon Givrée Commun ❄️ et Givrée Épique 🌟</p>
     </td>
   </tr>
-   <tr>
-   <td><mark style="color:blue;"><strong>Gorille des cavernes</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Gorille-des-cavernes.png"alt="" style="width: 500px;"></figure></td>
-   <td>
-     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+2.500</strong></mark>💲/h</p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+10 /
-     <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+5</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <strong><mark style="color:blue;">+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Mineur⛏️<strong></mark></p>  
-    <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+15 /
-     <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+10</p>
-     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.500</strong></mark>💲/h</p>
-   </td>
-    <td>
-      <p>* Boss du Donjon Caverne Glaciale ⛰️</p>
-      <p>* Récompense du Donjon Caverne Glaciale ⛰️</p>
-     <p>* Récompenses de Donjon Infini ♾️</p>
-    </td>
-  </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Drogon</strong></mark></td>
    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Drogon.png" alt=""></figure></td>
@@ -334,60 +316,6 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Pêcheur 🎣</strong></mark></p>   
    </td>
    <td>* Œuf de famillier (Caisse Lune de Sang 🩸)</td>
-  </tr>
-   <tr>
-   <td><mark style="color:blue;"><strong>Cheval de Feu</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Cheval de Feu.png" alt=""></figure></td>
-   <td>
-     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +5</p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>Résistance au feu</strong></mark></p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Terrestre)</p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong> Saut Amélioré 🦘</strong></mark> (Permanent) </p>
-     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
-   </td>
-   <td>* Œuf de famillier (Caisse Lunaire 🎑)</td>
-  </tr>
-  <tr>
-   <td><mark style="color:blue;"><strong>Lapin Mignon</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Lapin-Mignon.png" alt=""></figure></td>
-   <td>
-     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Pattes de lapin</strong></mark></p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 6.500</strong></mark> 💲/h</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +4</p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +7</p>
-     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7,5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Fermier 🌾</strong></mark></p>
-   </td>
-   <td>* Œuf de famillier (Caisse Pâques 2026 🐰)</td>
-  </tr>
-   <tr>
-   <td><mark style="color:blue;"><strong>Sylphe</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/sylphe.png" alt=""></figure></td>
-   <td>
-     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark>+1</p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +3</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +5</p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +9</p>
-     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +12</p>  
-   </td>
-   <td>
-     <p>* Œuf de famillier (Caisse Aquatique 🌊)</p>
-     <p>* Récompenses de Donjon Infini ♾️</p>
-   </td>
-  </tr>
-  <tr>
-   <td><mark style="color:blue;"><strong>Zephyrn</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Zephyrn.png" alt=""></figure></td>
-   <td>
-     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Aérienne) / <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +8</p>
-     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 8.000</strong></mark> 💲/h</p>
-     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🧪 Mana</strong></mark> +75</p>
-     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+7,5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Métiers</strong></mark></p>
-     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> +1</p>
-   </td>
-   <td>
-     <p>* Œuf de famillier (Caisse Élémentaire ☄️)</p>
-     <p>* Récompenses de Donjon Avatar 🌌</p>
-   </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Arhi</strong></mark></td>
@@ -484,6 +412,48 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🥊 Chance de Critique</strong></mark> +1.5</p>  
    </td>
    <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
+  </tr>
+  <tr>
+   <td><mark style="color:blue;"><strong>Gorille des cavernes</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Gorille-des-cavernes.png" alt="" style="width: 500px;"></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+2.500</strong></mark>💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+10 /
+     <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+5</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <strong><mark style="color:blue;">+7.5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Mineur⛏️<strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>❤️ Vie </strong></mark>+15 /
+     <mark style="color:blue;"><strong>🛡️ Défense </strong></mark>+10</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7.500</strong></mark>💲/h</p>
+   </td>
+   <td>
+     <p>* Boss du Donjon Caverne Glaciale ⛰️</p>
+     <p>* Récompense du Donjon Caverne Glaciale ⛰️</p>
+     <p>* Récompenses de Donjon Infini ♾️</p>
+   </td>
+  </tr>
+  <tr>
+   <td><mark style="color:blue;"><strong>Cheval de Feu</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Cheval de Feu.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +5</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>Résistance au feu</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Terrestre)</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong> Saut Amélioré 🦘</strong></mark> (Permanent) </p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 4.000</strong></mark> 💲/h</p>
+   </td>
+   <td>* Œuf de famillier (Caisse Lunaire 🎑)</td>
+  </tr>
+  <tr>
+   <td><mark style="color:blue;"><strong>Lapin Mignon</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Lapin-Mignon.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>+15%</strong></mark> sur la vente de <mark style="color:blue;"><strong>Pattes de lapin</strong></mark></p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 6.500</strong></mark> 💲/h</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +4</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🗡️ Force</strong></mark> +7</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+7,5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Fermier 🌾</strong></mark></p>
+   </td>
+   <td>* Œuf de famillier (Caisse Pâques 2026 🐰)</td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Rhinocéros</strong></mark></td>
