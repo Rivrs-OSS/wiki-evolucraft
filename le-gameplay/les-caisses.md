@@ -687,6 +687,35 @@ La <mark style="color:green;">**Clé de la Caisse Élémentaire**</mark> s'obtie
 | <mark style="color:orange;">**4 Bonbons au Raisin**</mark>                    | **5,55%**                   |
 | <mark style="color:orange;">**Pierre de Téléportation**</mark>                | **5,55%**                   |
 
+### 🔸 <mark style="color:purple;">Caisse Maudite 👁️</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Les informations concernant l'obtention de la <mark style="color:purple;">**Clé de la Caisse Maudite**</mark> seront ajoutées prochainement.
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+| **Récompense** | **Pourcentage d'obtention** |
+| -------------- | --------------------------- |
+| <mark style="color:purple;">**Casque Maudit**</mark> | **5,55%** |
+| <mark style="color:purple;">**Plastron Maudit**</mark> | **5,55%** |
+| <mark style="color:purple;">**Pantalon Maudit**</mark> | **5,55%** |
+| <mark style="color:purple;">**Bottes Maudites**</mark> | **5,55%** |
+| <mark style="color:purple;">**Arme de Classe Maudite Aléatoire**</mark> _(Lame Maudite du Titan, Arc Maudit du Chasseur, Sceptre Maudit de l'Ombre, Faux Maudite du Spectre, Épée Maudite du Revenant)_ | **5,55%** |
+| <mark style="color:purple;">**Marteau Maudit**</mark> | **5,55%** |
+| <mark style="color:purple;">**Hache Maudite**</mark> | **5,55%** |
+| <mark style="color:purple;">**Pelle Maudite**</mark> | **5,55%** |
+| <mark style="color:purple;">**Canne à Pêche Maudite**</mark> | **5,56%** |
+| <mark style="color:purple;">**Houe Maudite**</mark> | **5,56%** |
+| <mark style="color:purple;">**Œuf de Familier Maudit**</mark> _(Œil Maudit 40%, Vouivre Maudite 35%, Diablotin Maudit 25%)_ | **5,56%** |
+| <mark style="color:purple;">**Cosmétique Aléatoire**</mark> | **5,56%** |
+| <mark style="color:purple;">**Carte de Classe Aléatoire**</mark> _(Épique 60%, Légendaire 35%, Mythique 5%)_ | **5,56%** |
+| <mark style="color:purple;">**4 Tickets de Donjon Maudit**</mark> | **5,56%** |
+| <mark style="color:purple;">**3 Parchemins Maudits**</mark> | **5,56%** |
+| <mark style="color:purple;">**12.000.000💰**</mark> | **5,56%** |
+| <mark style="color:purple;">**Adamantium Maudit**</mark> | **5,56%** |
+| <mark style="color:purple;">**2 Clés Maudites**</mark> | **5,56%** |
+
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
 **Et voilà, vous connaissez désormais toutes les&#x20;**<mark style="color:green;">**caisses**</mark>**&#x20;du serveur ! À vous de jouer avec les dernières ! 😎** _Nous rappelons que jouer à la loterie comporte des risques d’addiction, faites-y attention ! 🤗_

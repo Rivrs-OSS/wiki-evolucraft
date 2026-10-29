@@ -14,6 +14,18 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
     <td><mark style="color:purple;"><strong>Obtentions 🔍</strong></mark></td>
   </tr>
   <tr>
+    <td><mark style="color:purple;"><strong>Bruce</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Bruce.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> sur la vente des <mark style="color:purple;"><strong>Poissons Crus</strong></mark> au /shop</p>
+      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 1.500</strong></mark> 💲/h</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'argent sur le <mark style="color:purple;"><strong>Pêcheur 🎣</strong></mark></p>
+      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 3.500</strong></mark> 💲/h</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>🗡️ Force</strong></mark> +3</p>
+    </td>
+    <td>* Palier level 175 Pêcheur 🎣</td>
+  </tr>
+  <tr>
     <td><mark style="color:purple;"><strong>Doggo</strong></mark></td>
     <td>
       <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Doggo.png" alt=""></figure></p>
@@ -50,18 +62,6 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
     </td>
   </tr>
   <tr>
-    <td><mark style="color:purple;"><strong>Bruce</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Bruce.png" alt=""></figure></td>
-    <td>
-      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> sur la vente des <mark style="color:purple;"><strong>Poissons Crus</strong></mark> au /shop</p>
-      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 1.500</strong></mark> 💲/h</p>
-      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'argent sur le <mark style="color:purple;"><strong>Pêcheur 🎣</strong></mark></p>
-      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 3.500</strong></mark> 💲/h</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>🗡️ Force</strong></mark> +3</p> 
-    </td>
-    <td>* Palier level 175 Pêcheur 🎣</td>
-  </tr>
-  <tr>
     <td><mark style="color:purple;"><strong>Navet</strong></mark></td>
     <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Navet.png" alt=""></figure></td>
     <td>
@@ -81,7 +81,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 500</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'argent sur le <mark style="color:purple;"><strong>ForgeMage 📖</strong></mark></p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🛡️ Défense</strong></mark> +1</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 3.000</strong></mark> 💲/h</p> 
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 3.000</strong></mark> 💲/h</p>
     </td>
     <td>* Palier level 175 ForgeMage 📖</td>
   </tr>
@@ -105,7 +105,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>Célérité 2</strong></mark></p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'argent sur le <mark style="color:purple;"><strong>Mineur ⛏️</strong></mark></p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 5.000</strong></mark> 💲/h</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>Vision Nocturne</strong></mark></p> 
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>Vision Nocturne</strong></mark></p>
     </td>
     <td>* Palier level 175 Mineur ⛏️</td>
   </tr>
@@ -117,7 +117,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +6</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'argent sur le <mark style="color:purple;"><strong>Bûcheron 🪚</strong></mark></p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 1.000</strong></mark> 💲/h</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 2.500</strong></mark> 💲/h</p> 
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 2.500</strong></mark> 💲/h</p>
     </td>
     <td>* Palier level 175 Bûcheron 🪚</td>
   </tr>
@@ -141,7 +141,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 5.000</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark> +4</p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+5% de dégats</strong></mark> sur les <mark style="color:purple;"><strong>monstres des Donjons Abyssaux</strong></mark></p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 7.500</strong></mark> 💲/h</p>  
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 7.500</strong></mark> 💲/h</p>
     </td>
     <td>* Œuf de famillier (Caisse Abyssale 🌊)</td>
   </tr>
@@ -153,7 +153,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +35</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>3,5% des dégâts</strong></mark> que vous causez sont <mark style="color:purple;"><strong>convertis en points de vie</strong></mark></p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 17.500</strong></mark> 💲/h</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>🏃‍♂️ Vitesse</strong></mark> +12</p>  
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>🏃‍♂️ Vitesse</strong></mark> +12</p>
     </td>
     <td>* Œuf de famillier (Caisse Halloween 🎃)</td>
   </tr>
@@ -165,7 +165,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 7.500</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>✨ Régénération de Mana</strong></mark> +1</p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🏃‍♂️ Vitesse</strong></mark> +14</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>Bûcheron 🪚</strong></mark></p> 
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>Bûcheron 🪚</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Saint Valentin 💕)</td>
   </tr>
@@ -177,7 +177,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 10.500</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>🛡️ Défense</strong></mark> +17</p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 11.000</strong></mark> 💲/h</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>Fermier 🌾</strong></mark></p> 
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>Fermier 🌾</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Pâques 🥚)</td>
   </tr>
@@ -189,7 +189,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>🗡️ Force</strong></mark> +20</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+ 12.500</strong></mark> 💲/h</p>
       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>Mineur ⛏️</strong></mark></p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+25% de chance</strong></mark> de <mark style="color:purple;"><strong>doubler ses dégats</strong></mark></p> 
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+25% de chance</strong></mark> de <mark style="color:purple;"><strong>doubler ses dégats</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Antique 🗿)</td>
   </tr>
@@ -204,6 +204,22 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>Chasseur 🗡️</strong></mark></p>
     </td>
     <td>* Œuf de famillier (Caisse Pain d'épice 🍪)</td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;"><strong>Gorille du Laboratoire</strong></mark></td>
+  <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Gorille-du-laboratoire.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+ 5.000</strong></mark> 💲/h</p>
+       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +10/<mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark>+10</p>
+       <p><mark style="color:purple;"><strong>Niveau 10</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>ForgeMage 📖</strong></mark></p>
+       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +20/<mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark>+20</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 10.000</strong></mark> 💲/h</p>
+    </td>
+    <td>
+      <p>* Boss du Donjon Laboratoire Glaciale ⚗️</p>
+      <p>* Récompense du Donjon Laboratoire Glaciale ⚗️</p>
+      <p>* Récompenses de Donjon Infini ♾️</p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;"><strong>Crapaud Charmant</strong></mark></td>
@@ -237,11 +253,11 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +50</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+15%</strong></mark> d'EXP <mark style="color:purple;"><strong>Fermier 🌾</strong></mark></p>
      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>Stockage</strong></mark> double coffre</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 10.500</strong></mark> 💲/h</p> 
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 10.500</strong></mark> 💲/h</p>
    </td>
    <td>* Œuf de famillier (Caisse Lunaire 🎑)</td>
   </tr>
-<tr>
+  <tr>
    <td><mark style="color:purple;"><strong>Bébé Dragon Oriental</strong></mark></td>
    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Bébé Dragon Oriental.png" alt=""></figure></td>
    <td>
@@ -249,9 +265,25 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
     <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>✨ Régénération de Mana</strong></mark> +3</mark> et <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +3</p>
       <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong> Aucun dégâts de chute </strong></mark></p>
      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> sur la vente de <mark style="color:purple;"><strong>Loots</strong></mark> au /shop</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 7.500</strong></mark> 💲/h</p> 
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 7.500</strong></mark> 💲/h</p>
    </td>
    <td>* Œuf de famillier (Caisse Lunaire 🎑)</td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;"><strong>Duck (Anniversaire)</strong></mark></td>
+    <td>
+      <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Duck_Anniversaire.png" alt=""></figure></p>
+    </td>
+    <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+ 6.500</strong> 💲/h</mark></p>
+      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>🛡️ Défense</strong></mark> +5</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>Monture</strong></mark> (Terrestre)</p>
+      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🏃‍♂️ Vitesse</strong></mark> +10</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>💨 10% d'Esquive</strong></mark></p>
+    </td>
+    <td>
+      <p>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</p>
+    </td>
   </tr>
   <tr>
     <td><mark style="color:purple;"><strong>Aquarok</strong></mark></td>
@@ -270,35 +302,15 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
     </td>
   </tr>
   <tr>
-    <td><mark style="color:purple;"><strong>Gorille du Laboratoire</strong></mark></td>
-  <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Gorille-du-laboratoire.png" alt=""></figure></td>
-    <td>
-      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+ 5.000</strong></mark> 💲/h</p>
-       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +10/<mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark>+10</p>
-       <p><mark style="color:purple;"><strong>Niveau 10</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'EXP <mark style="color:purple;"><strong>ForgeMage 📖</strong></mark></p>
-       <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +20/<mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark>+20</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 10.000</strong></mark> 💲/h</p>
-    </td>
-    <td>
-      <p>* Boss du Donjon Laboratoire Glaciale ⚗️</p>
-      <p>* Récompense du Donjon Laboratoire Glaciale ⚗️</p>
-      <p>* Récompenses de Donjon Infini ♾️</p>
-    </td>
-  </tr>
-  <tr>
-    <td><mark style="color:purple;"><strong>Duck (Anniversaire)</strong></mark></td>
-    <td>
-      <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Duck_Anniversaire.png" alt=""></figure></p>
-    </td>
-    <td>
-      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>+ 6.500</strong> 💲/h</mark></p>
-      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>🛡️ Défense</strong></mark> +5</p>
-      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>Monture</strong></mark> (Terrestre)</p>
-      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🏃‍♂️ Vitesse</strong></mark> +10</p>
-      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>💨 10% d'Esquive</strong></mark></p>
-    </td>
-    <td>
-      <p>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)
-    </td>
+   <td><mark style="color:purple;"><strong>Diablotin Maudit</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/DiablotinMaudit.png" alt=""></figure></td>
+   <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +20</p>
+    <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>🗡️ Force</strong></mark> +15</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> →<mark style="color:purple;"><strong>+ 24.000</strong></mark> 💲/h</p>
+     <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark> +4</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> d'argent sur <mark style="color:purple;"><strong>TOUS les métiers</strong></mark></p>
+   </td>
+   <td>* Œuf de famillier (Caisse maudite 👁️)</td>
   </tr>
 </table>
