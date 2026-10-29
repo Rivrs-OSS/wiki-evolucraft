@@ -76,7 +76,7 @@ Chaque [**fouille archéologique**](archeologie.md) rapporte **15 Écus Maudits*
 
 ### 🧪 Chaudron magique
 
-_Image à venir_
+<figure><img src="../.gitbook/assets/Evenement/Maudit/Chaudron.png" alt="Menu du Chaudron magique"><figcaption><strong>Menu du Chaudron magique</strong></figcaption></figure>
 
 Le **Chaudron magique** permet de créer des potions en choisissant :
 
@@ -103,7 +103,7 @@ Les **malédictions** peuvent être activées **uniquement lorsque vous entrez s
 
 Lorsque vous entrez seul dans le donjon, vous pouvez choisir des **malédictions**. Elles augmentent la difficulté du donjon, mais améliorent également la rareté des récompenses.
 
-_Image à venir_
+<figure><img src="../.gitbook/assets/Evenement/Maudit/Maledictions.png" alt="Menu de sélection des malédictions"><figcaption><strong>Sélection des malédictions</strong></figcaption></figure>
 
 Votre sélection détermine un **score de malédiction** et permet d'atteindre trois paliers :
 

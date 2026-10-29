@@ -495,7 +495,7 @@ Les <mark style="color:green;">pièces d'Armure Maudite</mark> s'obtiennent dans
 
 | **Aperçu de l'armure 🖼️** | **Statistiques globales 📊** | **Effets✨** |
 | --- | --- | --- |
-| _Image à venir_ | <p>▸ <mark style="color:purple;"><strong>❤️ Vie</strong></mark> <strong>+88</strong></p><p>▸ <mark style="color:purple;"><strong>🗡️ Force</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark> <strong>+28</strong></p><p>▸ <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+28</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Maudite/Complet.png" alt="Armure Maudite complète"><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:purple;"><strong>❤️ Vie</strong></mark> <strong>+88</strong></p><p>▸ <mark style="color:purple;"><strong>🗡️ Force</strong></mark> <strong>+60</strong></p><p>▸ <mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark> <strong>+28</strong></p><p>▸ <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+28</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
 
 ### ⚰️◦ <mark style="color:purple;">Armure du Fossoyeur</mark>
 
@@ -513,4 +513,4 @@ Les <mark style="color:green;">pièces d'Armure du Fossoyeur</mark> s'obtiennent
 
 | **Aperçu de l'armure 🖼️** | **Statistiques globales 📊** | **Effets✨** |
 | --- | --- | --- |
-| _Image à venir_ | <p>▸ <mark style="color:purple;"><strong>❤️ Vie</strong></mark> <strong>+48</strong></p><p>▸ <mark style="color:purple;"><strong>🗡️ Force</strong></mark> <strong>+32</strong></p><p>▸ <mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark> <strong>+16</strong></p><p>▸ <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+16</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Fossoyeur/Complet.png" alt="Armure du Fossoyeur complète"><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:purple;"><strong>❤️ Vie</strong></mark> <strong>+48</strong></p><p>▸ <mark style="color:purple;"><strong>🗡️ Force</strong></mark> <strong>+32</strong></p><p>▸ <mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark> <strong>+16</strong></p><p>▸ <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+16</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |

@@ -746,7 +746,7 @@ Les <mark style="color:purple;">outils Maudits</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Marteau Maudit</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Maudit/Marteau.png" alt="Marteau Maudit"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Fortune IV</strong></mark></p>
@@ -762,7 +762,7 @@ Les <mark style="color:purple;">outils Maudits</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Hache Maudite</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Maudit/Hache.png" alt="Hache Maudite"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Efficacité X</strong></mark></p>
@@ -777,7 +777,7 @@ Les <mark style="color:purple;">outils Maudits</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Pelle Maudite</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Maudit/Pelle.png" alt="Pelle Maudite"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Efficacité X</strong></mark></p>
@@ -792,7 +792,7 @@ Les <mark style="color:purple;">outils Maudits</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Canne à Pêche Maudite</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Maudit/CanneAPeche.png" alt="Canne à Pêche Maudite"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Chance de la Mer V</strong></mark></p>
@@ -808,7 +808,7 @@ Les <mark style="color:purple;">outils Maudits</mark> s'obtiennent dans la [<mar
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Houe Maudite</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Caisse/Maudit/Houe.png" alt="Houe Maudite"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Fortune IV</strong></mark></p>

@@ -20,7 +20,7 @@ Les <mark style="color:purple;">**outils du Fossoyeur**</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Pioche du Fossoyeur</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Fossoyeur/Pioche.png" alt="Pioche du Fossoyeur"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Efficacité VII</strong></mark></p>
@@ -34,7 +34,7 @@ Les <mark style="color:purple;">**outils du Fossoyeur**</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Hache du Fossoyeur</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Fossoyeur/Hache.png" alt="Hache du Fossoyeur"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Efficacité VII</strong></mark></p>
@@ -49,7 +49,7 @@ Les <mark style="color:purple;">**outils du Fossoyeur**</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Pelle du Fossoyeur</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Fossoyeur/Pelle.png" alt="Pelle du Fossoyeur"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Efficacité VII</strong></mark></p>
@@ -65,7 +65,7 @@ Les <mark style="color:purple;">**outils du Fossoyeur**</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Houe du Fossoyeur</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Fossoyeur/Houe.png" alt="Houe du Fossoyeur"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Efficacité VII</strong></mark></p>
@@ -79,7 +79,7 @@ Les <mark style="color:purple;">**outils du Fossoyeur**</mark> s'obtiennent dans
   <tr>
    <td align="center">
      <p><mark style="color:purple;"><strong>Canne à Pêche du Fossoyeur</strong></mark></p>
-     <p><em>Image à venir</em></p>
+     <p><figure><img src="../../.gitbook/assets/Codex/Outils/Fossoyeur/CanneAPeche.png" alt="Canne à Pêche du Fossoyeur"></figure></p>
    </td>
    <td>
      <p>▸ <mark style="color:purple;"><strong>Chance de la Mer V</strong></mark></p>
