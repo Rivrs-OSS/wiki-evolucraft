@@ -18,7 +18,7 @@ Retrouvez ici toutes les informations concernant les commandes disponibles sur l
 
 <details>
 
-<summary>Commandes générales</summary>
+<summary>🏠 Commandes générales</summary>
 
 * `/menu` : Ouvre le menu général.
 * `/tags` : Permet d’ouvrir le menu des tags disponibles et d’équiper le vôtre.
@@ -35,7 +35,7 @@ Retrouvez ici toutes les informations concernant les commandes disponibles sur l
 
 <details>
 
-<summary>Villes</summary>
+<summary>🏙️ Villes</summary>
 
 * `/pays` : Permet d’ouvrir le menu des différents pays disponibles pour la création de votre ville.
 * `/v create  [nom de la ville]` : Permet de créer votre ville.
@@ -50,7 +50,7 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 
 <details>
 
-<summary>Mondes et téléportation</summary>
+<summary>🌍 Mondes et téléportation</summary>
 
 * `/monde` : Permet d’ouvrir le menu des différents mondes du serveur.
 * `/codex` : Fournit un accès aux différents points de téléportation disponibles dans le spawn.
@@ -71,7 +71,7 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 
 <details>
 
-<summary>Donjons</summary>
+<summary>🏛️ Donjons</summary>
 
 * `/party create` : Créer un groupe pour un donjon.
 * `/party invite [joueur]` : Inviter un joueur dans le groupe.
@@ -89,7 +89,7 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 
 <details>
 
-<summary>Commerce et économie</summary>
+<summary>💰 Commerce et économie</summary>
 
 * `/shop` : Téléporte vers les différents marchands du spawn.
 * `/encherejoin` : Permet de rejoindre les enchères.
@@ -112,7 +112,7 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 
 <details>
 
-<summary>Activités et progression</summary>
+<summary>📈 Activités et progression</summary>
 
 * `/class` : Gère la classe du joueur.
 * `/pass` : Affiche le menu Pass du serveur.
@@ -136,7 +136,7 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 
 <details>
 
-<summary>Artisanat et services</summary>
+<summary>🛠️ Artisanat et services</summary>
 
 * `/fly` : Active ou désactive le vol.
 * `/forgeron` : Permet de réparer un ou plusieurs items spécifiques.
@@ -158,7 +158,7 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 
 <details>
 
-<summary>Social et personnalisation</summary>
+<summary>🎭 Social et personnalisation</summary>
 
 * `/profil` : Affiche le profil du joueur.
 * `/nick` : Change le pseudo du joueur.
@@ -170,7 +170,7 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 
 <details>
 
-<summary>Mariage</summary>
+<summary>💍 Mariage</summary>
 
 * `/marry request [nom du joueur]` : Proposer une demande de mariage à un joueur *(uniquement à partir de guide)*
 * `/marry sethome [nom]` : Définir la maison du couple.
@@ -185,7 +185,7 @@ Le reste des commandes liées aux Villes est disponible dans la section [Les vil
 
 <details>
 
-<summary>Coffres privés</summary>
+<summary>🔒 Coffres privés</summary>
 
 * `/cadenas lock` : Crée un coffre privé.
 * `/cadenas unclock` : Supprime le cadenas sur un coffre privé.
