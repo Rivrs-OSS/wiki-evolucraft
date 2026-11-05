@@ -91,7 +91,7 @@ Retrouvez ici toutes les informations concernant les commandes disponibles sur l
 * `/copper_exchange` : Permet d'échanger les différentes variantes de blocs de cuivre.
 * `/dragon` : Permet d'échanger des objets obtenus soit dans les donjons, soit dans l'End.
 * `/enchere` : Permet de vous téléporter à la zone des enchères.
-* `/encherejoin` : Permet de rejoindre l'évènement des enchères.
+* `/encherejoin` : Permet de rejoindre l'événement des enchères.
 * `/enchereclaim` : Permet de récupérer vos récompenses des enchères.
 
 </details>
