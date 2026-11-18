@@ -152,7 +152,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 #### <mark style="color:green;">Sont autorisés</mark> :
 
 * **Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :**
-  * Sodium, Optifine
+  * Sodium, Optifine, PackForge, ResourcePackCached
   * Minimap
   * ReplayMod, Flashback (Uniquement pour Record).
   * Badlion / Lunar / Feather / Modrinth
@@ -160,8 +160,6 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
   * Schematica / Litematica (Sans activer l'option printer ou easyplace/autoplace).
   * Toggle Sneak / Sprint.
   * Pack de texture avec le contour des minerais
-  * PackForge
-  * ResourcePackCached
 
 #### <mark style="color:red;">Sont interdits</mark> :
 
