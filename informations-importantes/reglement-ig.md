@@ -160,6 +160,8 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
   * Schematica / Litematica (Sans activer l'option printer ou easyplace/autoplace).
   * Toggle Sneak / Sprint.
   * Pack de texture avec le contour des minerais
+  * PackForge
+  * ResourcePackCached
 
 #### <mark style="color:red;">Sont interdits</mark> :
 
