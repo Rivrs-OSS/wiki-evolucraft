@@ -152,7 +152,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 #### <mark style="color:green;">Sont autorisés</mark> :
 
 * **Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :**
-  * Sodium, Optifine
+  * Sodium, Optifine, PackForge, ResourcePackCached
   * Minimap
   * ReplayMod, Flashback (Uniquement pour Record).
   * Badlion / Lunar / Feather / Modrinth
