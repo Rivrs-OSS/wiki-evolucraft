@@ -724,15 +724,17 @@ Les **Clés Black Friday** peuvent être achetées depuis le menu de l'[**Évén
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/Caisse.png" alt="Récompenses de la Caisse Black Friday"></figure>
+
 {% hint style="info" %}
-Les trois premières offres changent **tous les jours**. Le familier, la clé d'événement, ainsi que l'arme ou le cosmétique proposés peuvent donc varier quotidiennement.
+Les trois premières offres changent **tous les jours**. L'offre légendaire contient toujours une **ancienne clé**, tandis que les lots proposés dans les offres épique et mythique sont plus variés.
 {% endhint %}
 
 | **Récompense** | **Pourcentage d'obtention** |
 | -------------- | --------------------------- |
-| <mark style="color:red;">**Œuf de Familier**</mark> _(offre mythique quotidienne)_ | **1,72%** |
-| <mark style="color:purple;">**Clé d'Événement**</mark> _(offre légendaire quotidienne)_ | **6%** |
-| <mark style="color:blue;">**Arme ou Cosmétique Aléatoire**</mark> _(offre épique quotidienne)_ | **7,07%** |
+| <mark style="color:red;">**Offre Mythique du Jour**</mark> _(lot variable)_ | **1,72%** |
+| <mark style="color:purple;">**Ancienne Clé du Jour**</mark> | **6%** |
+| <mark style="color:blue;">**Offre Épique du Jour**</mark> _(lot variable)_ | **7,07%** |
 | **Clé Aléatoire** | **3,44%** |
 | **Carte de Classe Aléatoire Légendaire** | **4%** |
 | **Cosmétique Aléatoire Black Friday** | **4%** |
@@ -748,6 +750,15 @@ Les trois premières offres changent **tous les jours**. Le familier, la clé d'
 | **3 Bonbons à la Fraise** | **6,74%** |
 | **5 Bonbons au Raisin** | **6,74%** |
 | **Pack de Décorations Aléatoire** | **6,74%** |
+
+#### 🔹 <mark style="color:blue;">Le système de pity 🎯</mark>
+
+Si vous n'obtenez aucun lot **légendaire** ou **mythique** pendant un certain nombre d'ouvertures, une récompense de la rareté concernée finit par vous être garantie.
+
+| **Rareté** | **Compteur** | **Prochaine chance** |
+| ---------- | :----------: | :------------------: |
+| <mark style="color:purple;">**Légendaire**</mark> | **0/10** | **14%** |
+| <mark style="color:red;">**Mythique**</mark> | **0/30** | **5,16%** |
 
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 

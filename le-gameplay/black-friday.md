@@ -12,72 +12,48 @@ Le menu de l'événement permet de récupérer des récompenses quotidiennes, de
 
 Une **récompense gratuite** peut être récupérée chaque jour pendant l'événement.
 
-### Accéder à la page
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/MenuRecompenses.png" alt="Accès aux récompenses quotidiennes depuis le menu Black Friday"><figcaption>Accès aux récompenses quotidiennes depuis le menu Black Friday</figcaption></figure>
 
-_Image à venir : accès aux récompenses quotidiennes depuis le menu Black Friday._
-
-### La page des récompenses quotidiennes
-
-_Image à venir : page des récompenses quotidiennes._
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/RecompensesQuotidiennes.png" alt="Page des récompenses quotidiennes du Black Friday"><figcaption>Page des récompenses quotidiennes</figcaption></figure>
 
 ## 💳 Pass individuel
 
 Le **pass individuel** progresse en fonction du montant dépensé en euros (€) sur la boutique. Chaque palier atteint permet de débloquer une nouvelle récompense.
 
-### Accéder à la page
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/MenuPassIndividuel.png" alt="Accès au pass individuel depuis le menu Black Friday"><figcaption>Accès au pass individuel depuis le menu Black Friday</figcaption></figure>
 
-_Image à venir : accès au pass individuel depuis le menu Black Friday._
-
-### La page du pass individuel
-
-_Image à venir : page du pass individuel._
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/PassIndividuel.png" alt="Page du pass individuel du Black Friday"><figcaption>Page du pass individuel</figcaption></figure>
 
 ## 🌍 Paliers communautaires
 
 Chaque **Caisse Black Friday** ouverte par la communauté fait progresser un compteur commun. De nouvelles récompenses sont débloquées pour tous lorsque les différents paliers sont atteints.
 
-### Accéder à la page
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/MenuPaliersCommunautaires.png" alt="Accès aux paliers communautaires depuis le menu Black Friday"><figcaption>Accès aux paliers communautaires depuis le menu Black Friday</figcaption></figure>
 
-_Image à venir : accès aux paliers communautaires depuis le menu Black Friday._
-
-### La page des paliers communautaires
-
-_Image à venir : page des paliers communautaires._
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/PaliersCommunautaires.png" alt="Page des paliers communautaires du Black Friday"><figcaption>Page des paliers communautaires</figcaption></figure>
 
 ## 🔑 Convertisseur de clé
 
 Le convertisseur permet de transformer **16 Fragments de Clé Black Friday** en **1 Clé Black Friday**.
 
-### Accéder à la page
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/MenuConvertisseur.png" alt="Accès au convertisseur depuis le menu Black Friday"><figcaption>Accès au convertisseur depuis le menu Black Friday</figcaption></figure>
 
-_Image à venir : accès au convertisseur depuis le menu Black Friday._
-
-### La page du convertisseur
-
-_Image à venir : page du convertisseur de clé._
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/Convertisseur.png" alt="Page du convertisseur de clé Black Friday"><figcaption>Page du convertisseur de clé</figcaption></figure>
 
 ## 🛒 Pack Black Friday
 
 Un **pack spécial Black Friday** sera disponible à partir du **27 novembre**.
 
-### Accéder à la page
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/MenuPack.png" alt="Accès au pack depuis le menu Black Friday"><figcaption>Accès au pack depuis le menu Black Friday</figcaption></figure>
 
-_Image à venir : accès au pack depuis le menu Black Friday._
-
-### La page du pack
-
-_Image à venir : page du pack Black Friday._
+<figure><figcaption>Page du pack Black Friday — Image à venir</figcaption></figure>
 
 ## 🎁 Caisse Black Friday
 
 Cette partie du menu permet d'acheter des **Clés Black Friday** afin d'ouvrir la [**Caisse Black Friday**](les-caisses.md#caisse-black-friday).
 
-Trois de ses récompenses changent chaque jour : l'**Œuf de Familier**, la **Clé d'Événement** et l'**Arme ou le Cosmétique aléatoire** proposés.
+Trois de ses récompenses changent chaque jour. L'offre **légendaire** contient toujours une **ancienne clé**, tandis que les lots des offres **épique** et **mythique** sont plus variés.
 
-### Accéder à la page
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/MenuCaisse.png" alt="Accès à la Caisse Black Friday depuis le menu"><figcaption>Accès à la Caisse Black Friday depuis le menu</figcaption></figure>
 
-_Image à venir : accès à la Caisse Black Friday depuis le menu._
-
-### La page de la caisse
-
-_Image à venir : page d'achat des Clés Black Friday._
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/Caisse.png" alt="Page d'achat des Clés Black Friday"><figcaption>Page d'achat des Clés Black Friday</figcaption></figure>
