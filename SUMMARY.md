@@ -74,6 +74,7 @@
   * [🔨 Forge](le-gameplay/les-machines/forge.md)
 * [🦴 L'Archéologie](le-gameplay/archeologie.md)
 * [🎪 Les Événements](le-gameplay/les-evenements.md)
+  * [🛒 L'Événement Black Friday](le-gameplay/black-friday.md)
   * [👁️ L'Événement Maudit](le-gameplay/evenement-maudit.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [🎖️ Les Grades](le-gameplay/les-grades.md)

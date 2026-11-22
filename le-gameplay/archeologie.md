@@ -102,7 +102,6 @@ Vous pouvez compléter les statues suivantes (consultez votre avancée via le `/
     <td>
       <p><mark style="color:white;"><strong>Casque du Kabuto</strong></mark></p>
       <p><mark style="color:white;"><strong>Plastron du Kabuto</strong></mark></p>
-      <p><mark style="color:white;"><strong>Épaulière Gauche du Kabuto</strong></mark></p>
       <p><mark style="color:white;"><strong>Jambière Gauche du Kabuto</strong></mark></p>
     </td>
     <td>

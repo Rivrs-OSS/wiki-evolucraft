@@ -4,9 +4,15 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 # 🎪 Les Événements
 
-Retrouvez ici l'**événement temporaire** actuellement disponible ainsi que les **événements récurrents** lancés automatiquement sur le serveur.
+Retrouvez ici les **événements temporaires** actuellement disponibles ainsi que les **événements récurrents** lancés automatiquement sur le serveur.
 
-## 👁️ Événement Temporaire
+## 👁️ Événements Temporaires
+
+### L'Événement Black Friday
+
+Récupérez une **récompense gratuite quotidienne**, progressez dans les **paliers individuels et communautaires**, convertissez vos fragments en clés et découvrez les offres spéciales de l'événement.
+
+[**Découvrir l'Événement Black Friday →**](black-friday.md)
 
 ### L'Événement Maudit
 

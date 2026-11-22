@@ -716,6 +716,50 @@ Les informations concernant l'obtention de la <mark style="color:purple;">**Clé
 | <mark style="color:purple;">**Adamantium Maudit**</mark> | **5,56%** |
 | <mark style="color:purple;">**2 Clés Maudites**</mark> | **5,56%** |
 
+### 🔸 <mark style="color:yellow;">Caisse Black Friday 🛒</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+Les **Clés Black Friday** peuvent être achetées depuis le menu de l'[**Événement Black Friday**](black-friday.md), accessible grâce au PNJ présent au spawn ou à la commande **`/blackweek`**. Il est également possible de convertir **16 Fragments de Clé Black Friday** en **1 Clé Black Friday**.
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+
+<figure><img src="../.gitbook/assets/Evenement/BlackFriday/Caisse.png" alt="Récompenses de la Caisse Black Friday"></figure>
+
+{% hint style="info" %}
+Les trois premières offres changent **tous les jours**. L'offre légendaire contient toujours une **ancienne clé**, tandis que les lots proposés dans les offres épique et mythique sont plus variés.
+{% endhint %}
+
+| **Récompense** | **Pourcentage d'obtention** |
+| -------------- | --------------------------- |
+| <mark style="color:red;">**Offre Mythique du Jour**</mark> _(lot variable)_ | **1,72%** |
+| <mark style="color:purple;">**Ancienne Clé du Jour**</mark> | **6%** |
+| <mark style="color:blue;">**Offre Épique du Jour**</mark> _(lot variable)_ | **7,07%** |
+| **Clé Aléatoire** | **3,44%** |
+| **Carte de Classe Aléatoire Légendaire** | **4%** |
+| **Cosmétique Aléatoire Black Friday** | **4%** |
+| **7.500.000💰** | **5,56%** |
+| **8 Jetons** _(à utiliser dans la Caisse Jackpot)_ | **5,56%** |
+| **Spawner Aléatoire Black Friday** | **5,56%** |
+| **Booster Aléatoire Black Friday** | **5,56%** |
+| **2 Parchemins d'Aventure Impossible** | **5,56%** |
+| **Pierre de Téléportation Black Friday** | **5,56%** |
+| **5.000.000💰** | **6,74%** |
+| **5 Jetons** _(à utiliser dans la Caisse Jackpot)_ | **6,74%** |
+| **3 Parchemins d'Aventure Expert** | **6,74%** |
+| **3 Bonbons à la Fraise** | **6,74%** |
+| **5 Bonbons au Raisin** | **6,74%** |
+| **Pack de Décorations Aléatoire** | **6,74%** |
+
+#### 🔹 <mark style="color:blue;">Le système de pity 🎯</mark>
+
+Si vous n'obtenez aucun lot **légendaire** ou **mythique** pendant un certain nombre d'ouvertures, une récompense de la rareté concernée finit par vous être garantie.
+
+| **Rareté** | **Compteur** | **Prochaine chance** |
+| ---------- | :----------: | :------------------: |
+| <mark style="color:purple;">**Légendaire**</mark> | **0/10** | **14%** |
+| <mark style="color:red;">**Mythique**</mark> | **0/30** | **5,16%** |
+
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
 **Et voilà, vous connaissez désormais toutes les&#x20;**<mark style="color:green;">**caisses**</mark>**&#x20;du serveur ! À vous de jouer avec les dernières ! 😎** _Nous rappelons que jouer à la loterie comporte des risques d’addiction, faites-y attention ! 🤗_
