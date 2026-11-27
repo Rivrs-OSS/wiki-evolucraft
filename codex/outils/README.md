@@ -53,6 +53,7 @@ Afin d’avoir une lecture plus agréable, nous avons répertorié les <mark sty
 * 🐉 [<mark style="color:blue;"><strong>Outils Saphira</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/saphira)
 * 💫 [<mark style="color:blue;"><strong>Outils Sompteueux</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/sompteueux)
 * ⚰️ [<mark style="color:purple;"><strong>Outils du Fossoyeur</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/fossoyeur)
+* 🛒 [<mark style="color:orange;"><strong>Outils Black Friday</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/blackfriday)
 * ⚒️ [<mark style="color:green;"><strong>Autres Outils</strong></mark>](https://wiki.evolucraft.fr/le-codex/outils/autre)
 
 ## 💠 <mark style="color:green;">Des avantages supplémentaire ?</mark> 😵

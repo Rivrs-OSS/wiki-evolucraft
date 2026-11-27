@@ -34,11 +34,22 @@ Chaque **Caisse Black Friday** ouverte par la communauté fait progresser un com
 
 ## 🛒 Pack Black Friday
 
-Un **pack spécial Black Friday** sera disponible à partir du **27 novembre**.
+Un **pack spécial Black Friday** est disponible depuis le **27 novembre à minuit** et jusqu'au **30 novembre**, au prix de **2 490 gemmes** 💎.
+
+Il contient :
+
+* **5 Clés Black Friday**
+* **1 compagnon [Panthère Noire](../codex/les-compagnons/pets-legendaire.md)** (légendaire)
+* **1 [Marteau Black Friday](../codex/outils/blackfriday.md)**
+* **1 tag « Unique »**
+* **2 Spawners aléatoires Black Friday**
+* **1 Booster aléatoire Black Friday**
+* **5 Bonbons à la fraise**
+* **2 Parchemins Impossibles**
+* **1 pack de fournitures automnales exclusif**
+* **1 set de cosmétiques Catrina & Mariachi** (4 cosmétiques)
 
 <figure><img src="../.gitbook/assets/Evenement/BlackFriday/MenuPack.png" alt="Accès au pack depuis le menu Black Friday"><figcaption>Accès au pack depuis le menu Black Friday</figcaption></figure>
-
-<figure><figcaption>Page du pack Black Friday — Image à venir</figcaption></figure>
 
 ## 🎁 Caisse Black Friday
 
