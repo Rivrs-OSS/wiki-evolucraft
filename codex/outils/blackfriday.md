@@ -26,5 +26,11 @@ Le <mark style="color:orange;">**Marteau Black Friday**</mark> s'obtient dans le
      <p>▸ <mark style="color:orange;"><strong>Fortune V</strong></mark></p>
      <p>▸ <mark style="color:orange;"><strong>Efficacité VII</strong></mark></p>
    </td>
+   <td align="center">
+     <p><mark style="color:orange;"><strong>6 000</strong></mark> de <mark style="color:orange;"><strong>Durabilité</strong></mark></p>
+   </td>
+   <td>
+     <p>▸ <mark style="color:orange;"><strong>Effet Hammer</strong></mark> : Casse les blocs dans une zone de 3X3.</p>
+   </td>
   </tr>
 </table>
