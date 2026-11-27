@@ -6,7 +6,7 @@ description: Retrouvez toutes les informations concernant l'événement Black Fr
 
 L'événement **Black Friday** est accessible depuis le **PNJ présent au spawn** ou avec la commande **`/blackweek`**.
 
-Le menu de l'événement permet de récupérer des récompenses quotidiennes, de progresser dans un pass individuel et dans des paliers communautaires, de convertir des fragments de clé et d'accéder aux offres Black Friday.
+Le menu de l'événement permet de récupérer des récompenses quotidiennes, de progresser dans un pass individuel et dans des paliers communautaires, et d'accéder aux offres Black Friday.
 
 ## 🎁 Récompenses quotidiennes gratuites
 
@@ -32,21 +32,24 @@ Chaque **Caisse Black Friday** ouverte par la communauté fait progresser un com
 
 <figure><img src="../.gitbook/assets/Evenement/BlackFriday/PaliersCommunautaires.png" alt="Page des paliers communautaires du Black Friday"><figcaption>Page des paliers communautaires</figcaption></figure>
 
-## 🔑 Convertisseur de clé
-
-Le convertisseur permet de transformer **16 Fragments de Clé Black Friday** en **1 Clé Black Friday**.
-
-<figure><img src="../.gitbook/assets/Evenement/BlackFriday/MenuConvertisseur.png" alt="Accès au convertisseur depuis le menu Black Friday"><figcaption>Accès au convertisseur depuis le menu Black Friday</figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Evenement/BlackFriday/Convertisseur.png" alt="Page du convertisseur de clé Black Friday"><figcaption>Page du convertisseur de clé</figcaption></figure>
-
 ## 🛒 Pack Black Friday
 
-Un **pack spécial Black Friday** sera disponible à partir du **27 novembre**.
+Un **pack spécial Black Friday** est disponible depuis le **27 novembre à minuit** et jusqu'au **30 novembre**, au prix de **2 490 gemmes** 💎.
+
+Il contient :
+
+* **5 Clés Black Friday**
+* **1 compagnon [Panthère Noire](../codex/les-compagnons/pets-legendaire.md)** (légendaire)
+* **1 [Marteau Black Friday](../codex/outils/blackfriday.md)**
+* **1 tag « Unique »**
+* **2 Spawners aléatoires Black Friday**
+* **1 Booster aléatoire Black Friday**
+* **5 Bonbons à la fraise**
+* **2 Parchemins Impossibles**
+* **1 pack de fournitures automnales exclusif**
+* **1 set de cosmétiques Catrina & Mariachi** (4 cosmétiques)
 
 <figure><img src="../.gitbook/assets/Evenement/BlackFriday/MenuPack.png" alt="Accès au pack depuis le menu Black Friday"><figcaption>Accès au pack depuis le menu Black Friday</figcaption></figure>
-
-<figure><figcaption>Page du pack Black Friday — Image à venir</figcaption></figure>
 
 ## 🎁 Caisse Black Friday
 

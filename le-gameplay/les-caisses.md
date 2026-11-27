@@ -720,7 +720,7 @@ Les informations concernant l'obtention de la <mark style="color:purple;">**Clé
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
-Les **Clés Black Friday** peuvent être achetées depuis le menu de l'[**Événement Black Friday**](black-friday.md), accessible grâce au PNJ présent au spawn ou à la commande **`/blackweek`**. Il est également possible de convertir **16 Fragments de Clé Black Friday** en **1 Clé Black Friday**.
+Les **Clés Black Friday** peuvent être achetées depuis le menu de l'[**Événement Black Friday**](black-friday.md), accessible grâce au PNJ présent au spawn ou à la commande **`/blackweek`**.
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 

@@ -313,4 +313,16 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
    </td>
    <td>* Œuf de famillier (Caisse maudite 👁️)</td>
   </tr>
+  <tr>
+   <td><mark style="color:purple;"><strong>Panthère Noire</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/PanthereNoire.png" alt=""></figure></td>
+   <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>Vision Nocturne</strong></mark> / <mark style="color:purple;"><strong>🏃‍♂️ Vitesse</strong></mark> +12</p>
+      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>💨 10% d'Esquive</strong></mark></p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+ 15.000</strong></mark> 💲/h</p>
+      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>💀 Dégâts Critiques</strong></mark> +20 / <mark style="color:purple;"><strong>🥊 Chance de Critique</strong></mark> +6</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+5%</strong></mark> d'argent sur <mark style="color:purple;"><strong>TOUS les métiers</strong></mark></p>
+   </td>
+   <td>* Pack Black Friday 🛒</td>
+  </tr>
 </table>

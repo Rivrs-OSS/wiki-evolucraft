@@ -10,7 +10,7 @@ Retrouvez ici les **événements temporaires** actuellement disponibles ainsi qu
 
 ### L'Événement Black Friday
 
-Récupérez une **récompense gratuite quotidienne**, progressez dans les **paliers individuels et communautaires**, convertissez vos fragments en clés et découvrez les offres spéciales de l'événement.
+Récupérez une **récompense gratuite quotidienne**, progressez dans les **paliers individuels et communautaires** et découvrez les offres spéciales de l'événement.
 
 [**Découvrir l'Événement Black Friday →**](black-friday.md)
 

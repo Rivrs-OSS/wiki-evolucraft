@@ -124,6 +124,7 @@
   * [🐉 Outils Saphira](codex/outils/saphira.md)
   * [💫 Outils Sompteueux](codex/outils/sompteueux.md)
   * [⚰️ Outils du Fossoyeur](codex/outils/fossoyeur.md)
+  * [🛒 Outils Black Friday](codex/outils/blackfriday.md)
   * [⚒️ Autres Outils](codex/outils/autre.md)
 * [📜 Les Parchemins d'Aventure](codex/parchemin/README.md)
   * [🧧 Les Parchemins Classiques](codex/parchemin/classique.md)
